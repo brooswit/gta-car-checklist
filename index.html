@@ -161,6 +161,8 @@
   .feat-drift { background: #3a3a1a; color: #cc6; border: 1px solid #5a5a2a; }
   .feat-jammer { background: #1a2a3a; color: #6ac; border: 1px solid #2a4a5a; }
   .feat-weapon { background: #3a1a1a; color: #c66; border: 1px solid #5a2a2a; }
+  .feat-bennys { background: #2a2a1a; color: #c90; border: 1px solid #4a4a2a; }
+  .feat-imani { background: #2a1a3a; color: #a6c; border: 1px solid #4a2a5a; }
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
@@ -182,303 +184,6 @@
 <main id="main"><div class="loading">Loading vehicles...</div></main>
 
 <script>
-// --- Store data (vehicle name -> store names) ---
-const STORES = {
-  "Legendary Motorsport": [
-    "10F", "190z", "300R", "811", "8F Drafter", "9F", "9F Cabrio", "Adder", "Aleutian",
-    "Alpha", "Astrale", "Astron", "Astron Custom", "Autarch", "Baller LE",
-    "Baller LE (Armored)", "Baller LE LWB", "Baller LE LWB (Armored)", "Baller ST",
-    "Baller ST-D", "Banshee", "Banshee GTS", "Bestia GTS", "BR8", "Brawler", "Broadway",
-    "Buffalo EVX", "Bullet", "Carbon RS", "Carbonizzare", "Casco", "Champion", "Cheetah",
-    "Cheetah Classic", "Chino", "Cinquemila", "Clique", "Cognoscenti",
-    "Cognoscenti (Armored)", "Cognoscenti 55", "Cognoscenti 55 (Armored)",
-    "Cognoscenti Cabrio", "Comet", "Comet S2", "Comet S2 Cabrio", "Comet Safari",
-    "Comet SR", "Coquette", "Coquette BlackFin", "Coquette Classic", "Coquette D1",
-    "Coquette D10", "Coquette D5", "Corsita", "Cyclone", "Cyclone II", "Cypher", "Deity",
-    "Deveste Eight", "Deviant", "DR1", "Elegy RH8", "Emerus", "Emperor", "Entity MT",
-    "Entity XF", "Entity XXR", "Envisage", "ETR1", "Euros", "Euros X32", "Exemplar",
-    "Feltzer", "Flash GT", "FMJ", "FMJ MK V", "Freecrawler", "Furia", "Furore GT",
-    "GB200", "GP1", "Growler", "GT500", "GT750", "Hakuchou Custom", "Hotknife",
-    "Huntley S", "Hustler", "Ignus", "Imorgon", "Infernus", "Infernus Classic",
-    "Itali Classic", "Itali GTO", "Itali RSX", "JB 700", "Jester", "Jester Classic",
-    "Jester RR", "Jubilee", "Khamelion", "Komoda", "Krieger", "La Coureuse", "Lectro",
-    "LM87", "Locust", "LSCM Jester RR", "Luiva", "Lynx", "Mamba", "Massacro", "Monroe",
-    "Neo", "Neon", "Nightshade", "Niobe", "Novak", "Omnis e-GT", "Osiris", "Panthere",
-    "Paragon R", "Paragon S", "Pariah", "Penetrator", "Pipistrello", "Powersurge", "PR4",
-    "R88", "Raiden", "Rampant Rocket", "Rapid GT", "Rapid GT Classic", "Raptor", "RE-7B",
-    "Reaper", "Rebla GTS", "Reever", "Revolter", "Roosevelt", "Roosevelt Valor", "Ruston",
-    "S80RR", "Savestra", "SC1", "Schafter LWB", "Schafter LWB (Armored)", "Schafter V12",
-    "Schafter V12 (Armored)", "Schlagen GT", "Seven-70", "Shinobi", "Shotaro", "SM722",
-    "Stafford", "Stinger", "Stinger GT", "Stinger TT", "Stirling GT", "Stryder",
-    "Super Diamond", "Surano", "Swinger", "T20", "Tailgater S", "Taipan", "Tempesta",
-    "Tezeract", "Thrax", "Thrust", "Tigon", "Torero", "Torero XO", "Toros",
-    "Turismo Classic", "Turismo Omaggio", "Turismo R", "Tyrant", "Tyrus", "V-STR",
-    "Vacca", "Vagner", "Vectre", "Verlierer", "Vindicator", "Virgo", "Virtue", "Viseris",
-    "Visione", "Voltic", "Windsor", "Windsor Drop", "X-treme", "X80 Proto", "XA-21",
-    "XLS", "XLS (Armored)", "Z-Type", "Zeno", "Zentorno", "Zorrusso", "ZR-350"
-  ],
-  "Southern SA Super Autos": [
-    "9F", "Akuma", "Arbiter GT", "Asbo", "Asea", "Asterope", "Asterope GZ", "Avarus",
-    "Bagger", "Baller", "Baller (second generation)", "Banshee", "Bati 800",
-    "Bati Custom", "Beater Dukes", "BeeJay XL", "Bifta", "Bison", "Blade", "Blazer",
-    "Blista Compact", "Blista Kanjo", "Bobcat XL", "Bodhi", "Boor", "Brigham",
-    "Brioso 300", "Brioso R/A", "Buffalo", "Buffalo S", "Buffalo STX",
-    "Burger Shot Stallion", "Calico GTF", "Caracara 4x4", "Castigator", "Cavalcade",
-    "Cavalcade (second generation)", "Cavalcade XL", "Chavos V6", "Cheburek", "Chimera",
-    "Cliffhanger", "Clique Wagon", "Club", "Comet", "Contender", "Daemon (custom)",
-    "Defiler", "Desert Raid", "Dilettante", "Dominator", "Dominator ASP", "Dominator FX",
-    "Dominator GT", "Dominator GTT", "Dominator GTX", "Dorado", "Double T", "Draugur",
-    "Drift Tampa", "Drift Yosemite", "Dukes", "Dune", "Dune Buggy", "Dynasty", "Ellie",
-    "Emperor", "Enduro", "Esskey", "Eudora", "Everon", "Exemplar", "F620", "Fagaloa",
-    "Faggio", "Faggio Mod", "Faggio Sport", "Felon", "Felon GT", "Feltzer",
-    "Festival Bus", "FQ 2", "FR36", "Franken Stange", "Fugitive", "Fusilade", "Futo",
-    "Futo GTX", "Gang Burrito", "Gargoyle", "Gauntlet", "Gauntlet Classic",
-    "Gauntlet Hellfire", "Glendale", "Granger", "Granger 3600LX", "Gresley", "Guardian",
-    "Habanero", "Hakuchou", "Hellion", "Hermes", "Hexer", "Hot Rod Blazer",
-    "Hotring Everon", "Hotring Hellfire", "Hotring Sabre", "I-Wagen", "Impaler",
-    "Impaler LX", "Impaler SZ", "Infernus", "Ingot", "Innovation", "Intruder", "Issi",
-    "Issi Classic", "Issi Rally", "Issi Sport", "Jackal", "Jester (Racecar)",
-    "Journey II", "Kalahari", "Kamacho", "Kanjo SJ", "Keitora", "Kuruma (Armored)",
-    "Kuruma", "Landstalker", "Landstalker XL", "Lurcher", "Manchez",
-    "Massacro (Racecar)", "Michelli GT", "Minivan", "MonstroCiti", "Nebula Turbo",
-    "Nemesis", "Nightblade", "Omnis", "Oracle", "Oracle XS", "Outlaw", "Panto",
-    "Paradise", "Patriot", "Patriot Mil-Spec", "Patriot Stretch", "PCJ 600", "Penumbra",
-    "Penumbra FF", "Peyote Gasser", "Picador", "Pigalle", "Pisswasser Dominator",
-    "Pizza Boy", "Postlude", "Prairie", "Premier", "Previon", "Primo", "Radius",
-    "Rancher XL", "Rat Bike", "Rat-Loader", "Rat-Truck", "Ratel", "RC Bandito", "Rebel",
-    "Redwood Gauntlet", "Regina", "Remus", "Retinue", "Retinue Mk II", "Rhapsody",
-    "Riata", "Rocoto", "Romero's Hearse", "RT3000", "Ruffian", "Ruiner", "Ruiner ZZ-8",
-    "Rumpo Custom", "Rusty Rebel", "S95", "Sadler", "Sanchez (livery)", "Sanctus",
-    "Sandking SWB", "Sandking XL", "Schwartzer", "Seminole", "Seminole Frontier",
-    "Sentinel", "Sentinel Classic", "Sentinel XS", "Sentinel XS4", "Serrano",
-    "Slamtruck", "Slamvan", "Sovereign", "Stallion", "Stanier", "Stratum",
-    "Street Blazer", "Streiter", "Stretch", "Sugoi", "Sultan Classic",
-    "Sultan RS Classic", "Super Diamond", "Surano", "Surfer", "Surfer Custom", "Surge",
-    "Tahoma Coupe", "Tailgater", "Tampa", "Terminus", "Tornado Rat Rod", "Trophy Truck",
-    "Tropos Rallye", "Tulip", "Tulip M-100", "Vader", "Vagrant", "Vamos",
-    "Veto Classic", "Veto Modern", "Vigero", "Vigero ZX", "Vigero ZX Convertible",
-    "Vivanite", "Vorschlaghammer", "Vortex", "Walton L35", "Walton L35 Stock",
-    "Warrener", "Warrener HKR", "Washington", "Weevil", "Wolfsbane", "Yosemite",
-    "Yosemite 1500", "Youga", "Youga Classic", "Zion", "Zion Cabrio", "Zion Classic",
-    "Zombie Bobber"
-  ],
-  "Warstock Cache & Carry": [
-    "Airport Bus", "Akula", "Annihilator Stealth", "Anti-Aircraft Trailer", "APC",
-    "Ardent", "Armored Boxville", "Avenger", "B-11 Strikeforce", "Barracks OL", "Barrage",
-    "Benson (Cluckin' Bell)", "Blazer Aqua", "Blazer Lifeguard", "Boxville (LSDS)",
-    "Boxville (Post OP)", "Boxville (utility)", "Brickade", "Brickade 6x6",
-    "Buffalo Cruiser", "Buffalo STX Pursuit", "Bugstars Burrito", "Bus",
-    "Buzzard Attack Chopper", "Caracara", "Caracara Pursuit", "Cargobob",
-    "Cargobob (Jetsam)", "Chernobog", "Coquette D10 Pursuit", "Crusader", "Dashound",
-    "Deluxo", "Dominator FX Interceptor", "Dorado Cruiser", "Dubsta 6x6",
-    "Duke O'Death", "Dump", "Dune FAV", "F-160 Raiju", "Fire Truck",
-    "Gauntlet Interceptor", "Greenwood Cruiser", "Half-track", "Hunter",
-    "Impaler LX Cruiser", "Impaler SZ Cruiser", "Insurgent", "Insurgent Pick-Up",
-    "Invade and Persuade Tank", "JB 700W", "Journey", "Kosatka", "Kurtz 31 Patrol Boat",
-    "LF-22 Starling", "Lifeguard", "Manchez Scout", "Marshall", "Menacer",
-    "Mesa (off-road)", "Mobile Operations Center", "Mogul", "Mule", "Mule (heist)",
-    "Mule Custom", "Nightshark", "Oppressor", "Oppressor Mk II", "Outreach Faction",
-    "P-45 Nokota", "P-996 LAZER", "Phantom Wedge", "Police Predator", "Police Riot",
-    "Pounder Custom", "Prison Bus", "Pyro", "Ramp Buggy", "RCV", "Rental Shuttle Bus",
-    "Rhino", "RM-10 Bombushka", "RO-86 Alkonost", "Rocket Voltic", "Rogue",
-    "Ruiner 2000", "Savage", "Securicar", "Speedo Custom", "Squaddie",
-    "Stanier LE Cruiser", "Streamer216", "Stromberg", "Taco Van", "Taxi", "Technical",
-    "Technical Aqua", "Terminus Patrol", "Terrorbyte", "The Liberator", "Thruster",
-    "TM-02 Khanjali", "Toreador", "Tula", "Turreted Limo", "Unmarked Cruiser",
-    "V-65 Molotok", "Valkyrie", "Verus", "Vetir", "Vigilante", "Volatol", "Wastelander",
-    "Weaponized Conada", "Weaponized Dinghy", "Weaponized Ignus", "Winky", "Zhaba"
-  ],
-  "Elitas Travel": [
-    "Alpha-Z1", "Annihilator", "Besra", "Blimp", "Conada", "Cuban 800", "Dodo",
-    "Duster", "Frogger", "Havok", "Howard NX-25", "Luxor", "Luxor Deluxe", "Mallard",
-    "Mammatus", "Miljet", "Nimbus", "Sea Sparrow", "Seabreeze", "Shamal", "SuperVolito",
-    "SuperVolito Carbon", "Swift", "Swift Deluxe", "Titan", "Ultralight", "Velum",
-    "Velum 5-Seater", "Vestra", "Volatus"
-  ],
-  "DockTease": [
-    "Cuban Jetmax", "Dinghy (heist)", "Galaxy Super Yacht", "Kraken", "Longfin",
-    "Marquis", "Seashark", "Squalo", "Suntrap", "Toro", "Tropic", "Tug"
-  ],
-  "Arena War": [
-    "Apocalypse Bruiser", "Apocalypse Brutus", "Apocalypse Cerberus",
-    "Apocalypse Deathbike", "Apocalypse Dominator", "Apocalypse Impaler",
-    "Apocalypse Imperator", "Apocalypse Issi", "Apocalypse Sasquatch",
-    "Apocalypse Scarab", "Apocalypse Slamvan", "Apocalypse ZR380",
-    "Future Shock Bruiser", "Future Shock Brutus", "Future Shock Cerberus",
-    "Future Shock Deathbike", "Future Shock Dominator", "Future Shock Impaler",
-    "Future Shock Imperator", "Future Shock Issi", "Future Shock Sasquatch",
-    "Future Shock Scarab", "Future Shock Slamvan", "Future Shock ZR380",
-    "Nightmare Bruiser", "Nightmare Brutus", "Nightmare Cerberus", "Nightmare Deathbike",
-    "Nightmare Dominator", "Nightmare Impaler", "Nightmare Imperator", "Nightmare Issi",
-    "Nightmare Sasquatch", "Nightmare Scarab", "Nightmare Slamvan", "Nightmare ZR380"
-  ],
-  "Pedal and Metal": [
-    "BMX", "Cruiser", "Endurex Race Bike", "Scorcher", "Tri-Cycles Race Bike",
-    "Whippet Race Bike"
-  ],
-  "Premium Deluxe Motorsport": [
-    "10F", "190z", "300R", "811", "9F", "9F Cabrio", "Akuma", "Aleutian", "Alpha",
-    "Ardent", "Astron", "Avarus", "Bagger", "Baller", "Baller LE",
-    "Baller LE (Armored)", "Baller ST", "Banshee", "Bati Custom", "Beater Dukes",
-    "Bifta", "Blade", "Blista Kanjo", "Bodhi", "Boor", "BR8", "Brawler", "Brioso 300",
-    "Broadway", "Buffalo EVX", "Buffalo S", "Buffalo STX", "Bullet", "Calico GTF",
-    "Caracara 4x4", "Carbonizzare", "Champion", "Chavos V6", "Cheburek", "Cheetah",
-    "Chimera", "Cinquemila", "Cliffhanger", "Clique", "Clique Wagon", "Cognoscenti",
-    "Cognoscenti (Armored)", "Cognoscenti 55", "Cognoscenti 55 (Armored)",
-    "Cognoscenti Cabrio", "Comet", "Comet S2", "Comet Safari", "Contender", "Coquette",
-    "Coquette BlackFin", "Coquette D10", "Cyclone", "Cypher", "Daemon", "Defiler",
-    "Deviant", "Dominator ASP", "Dominator GT", "Dominator GTT", "Dominator GTX",
-    "Dorado", "Double T", "DR1", "Draugur", "Drift Tampa", "Dubsta", "Dubsta 6x6",
-    "Dynasty", "Elegy RH8", "Emerus", "Emperor", "Enduro", "Entity MT", "Entity XF",
-    "Esskey", "ETR1", "Eudora", "Euros", "Everon", "Exemplar", "F620", "Faction",
-    "Fagaloa", "Faggio Mod", "Faggio Sport", "Felon", "Felon GT", "Feltzer", "Flash GT",
-    "FMJ", "Franken Stange", "Furia", "Furore GT", "Futo", "Futo GTX", "Gang Burrito",
-    "Gauntlet Classic", "Gauntlet Hellfire", "GB200", "Glendale", "GP1",
-    "Granger 3600LX", "Greenwood", "Growler", "GT500", "Guardian", "Hakuchou", "Hellion",
-    "Hermes", "Hexer", "Hot Rod Blazer", "Hotring Everon", "Hotring Hellfire",
-    "Hotring Sabre", "Hustler", "I-Wagen", "Ignus", "Imorgon", "Impaler", "Impaler LX",
-    "Infernus", "Innovation", "Insurgent", "Issi Classic", "Issi Rally", "Issi Sport",
-    "Itali GTB", "JB 700", "Jester", "Jester (Racecar)", "Jester Classic", "Jester RR",
-    "Journey II", "Jugular", "Kalahari", "Kamacho", "Kanjo SJ", "Komoda", "Krieger",
-    "Kuruma (Armored)", "Kuruma", "La Coureuse", "Landstalker XL", "Lifeguard", "Locust",
-    "Lurcher", "Mamba", "Manchez Scout", "Massacro", "Michelli GT", "Monroe", "Moonbeam",
-    "Nebula Turbo", "Neo", "Nero", "Nightshade", "Nightshark", "Novak", "Omnis",
-    "Omnis e-GT", "Oppressor", "Outlaw", "Panthere", "Paragon R", "Paragon S", "Pariah",
-    "Patriot Mil-Spec", "Penetrator", "Penumbra FF", "Peyote Gasser", "Phoenix",
-    "Picador", "Pigalle", "Powersurge", "PR4", "Premier", "Previon", "R88", "Raiden",
-    "Rapid GT", "Rapid GT (cabrio)", "Rapid GT Classic", "Raptor", "Rat Bike", "Ratel",
-    "RE-7B", "Reaper", "Rebla GTS", "Reever", "Remus", "Retinue", "Retinue Mk II",
-    "Revolter", "Riata", "Romero's Hearse", "Roosevelt", "Roosevelt Valor", "RT3000",
-    "Ruiner", "Ruiner ZZ-8", "Ruston", "Sanchez", "Sanctus", "Savestra", "SC1",
-    "Schafter LWB", "Schafter V12", "Schlagen GT", "Schwartzer", "Scramjet",
-    "Seminole Frontier", "Sentinel Classic", "Sentinel XS", "Seven-70", "Shinobi",
-    "Shotaro", "Sovereign", "Specter", "Speedo", "Squaddie", "Stafford", "Stinger",
-    "Stinger GT", "Stinger TT", "Stirling GT", "Streiter", "Stromberg", "Sugoi",
-    "Sultan Classic", "Sultan RS Classic", "Super Diamond", "Surano", "Surfer Custom",
-    "Swinger", "T20", "Tahoma Coupe", "Tampa", "Tempesta", "Tezeract", "Thrust", "Tigon",
-    "Toreador", "Torero", "Torero XO", "Tornado", "Tornado Rat Rod", "Toros", "Tulip",
-    "Tulip M-100", "Tyrus", "Vacca", "Vagrant", "Vamos", "Verlierer", "Verus",
-    "Veto Classic", "Veto Modern", "Vigero ZX", "Vigero ZX Convertible", "Virgo Classic",
-    "Virtue", "Viseris", "Visione", "Vivanite", "Voltic", "Walton L35", "Warrener",
-    "Warrener HKR", "Washington", "Weevil", "Windsor", "Wolfsbane", "XA-21", "XLS",
-    "XLS (Armored)", "Yosemite", "Youga Classic", "Z-Type", "Zeno", "Zentorno", "Zion",
-    "Zion Cabrio", "Zion Classic", "Zombie", "Zombie Bobber", "Zorrusso"
-  ],
-  "Benny's Original Motor Works": [
-    "10F", "10F Widebody", "Banshee", "Banshee 900R", "Brioso 300", "Brioso 300 Widebody",
-    "Buccaneer", "Buccaneer Custom", "Chino", "Chino Custom", "Comet", "Comet Retro Custom",
-    "Diabolus", "Diabolus Custom", "Elegy RH8", "Elegy Retro Custom", "Faction",
-    "Faction Custom 1", "Faction Custom Donk", "FCR 1000", "FCR 1000 Custom",
-    "Gauntlet Classic", "Gauntlet Classic Custom", "Glendale", "Glendale Custom",
-    "Itali GTB", "Itali GTB Custom", "Manana", "Manana Custom", "Minivan", "Minivan Custom",
-    "Moonbeam", "Moonbeam Custom", "Nero", "Nero Custom", "Peyote", "Peyote Custom",
-    "Primo", "Primo Custom", "Sabre GT", "Sabre Turbo Custom", "Sentinel Classic",
-    "Sentinel Classic Widebody", "Slamvan", "Slamvan Custom", "Specter", "Specter Custom",
-    "Sultan", "Sultan RS", "Tornado", "Tornado Custom", "Virgo Classic",
-    "Virgo Classic Custom", "Voodoo", "Voodoo Custom", "Weevil", "Weevil Custom",
-    "Yosemite", "Yosemite Rancher", "Youga Classic", "Youga Classic 4x4"
-  ]
-};
-
-// Build reverse lookup: vehicle name -> store names
-const STORE_DATA = {};
-for (const [store, vehicles] of Object.entries(STORES)) {
-  for (const vehicle of vehicles) {
-    if (!STORE_DATA[vehicle]) STORE_DATA[vehicle] = [];
-    STORE_DATA[vehicle].push(store);
-  }
-}
-
-// --- Feature data ---
-const FEATURE_DATA = {};
-function addFeature(names, feature) {
-  for (const name of names) {
-    if (!FEATURE_DATA[name]) FEATURE_DATA[name] = {};
-    FEATURE_DATA[name][feature] = true;
-  }
-}
-
-addFeature([
-  "Banshee GTS", "Stinger TT", "Tampa GT", "Niobe", "Vigero ZX",
-  "Vigero ZX Convertible", "Hakuchou Drag", "S95", "Stirling GT", "FMJ MK V",
-  "Banshee", "Turismo Classic", "Entity MT", "Deveste Eight", "Astrale",
-  "Weaponized Ignus", "Buffalo EVX", "La Coureuse", "Arbiter GT", "Cyclone II",
-  "Firebolt ASP", "Issi Rally", "Sentinel XS", "Woodlander", "Astron Custom",
-  "MonstroCiti", "Brioso R/A", "Euros X32", "Vivanite"
-], "hsw");
-
-addFeature([
-  "Chavos V6", "Cheburek", "Cypher", "Dominator FX", "Dominator GT", "Drift Tampa",
-  "Drift Walton L35", "Drift Yosemite", "Euros", "FR36", "Futo", "Futo GTX",
-  "Gauntlet Hellfire", "Hardy", "Jester Classic", "Jester RR", "Keitora",
-  "Nebula Turbo", "Remus", "RT3000", "Sentinel Classic Widebody", "Sentinel XS",
-  "Vorschlaghammer", "ZR-350"
-], "drift");
-
-addFeature([
-  "9F", "9F Cabrio", "10F", "10F Widebody", "300R", "811", "Akuma", "Aleutian",
-  "Alpha-Z1", "Ardent", "Astrale", "Avenger", "Bagger", "Baller LE (Armored)",
-  "Baller LE LWB", "Baller LE LWB (Armored)", "Baller ST-D", "Banshee GTS",
-  "Bati 801", "Bati 801RR", "Besra", "BF400", "Blade", "Blazer", "Bodhi", "Brawler",
-  "Broadway", "Buffalo EVX", "Buffalo S", "Buffalo Cruiser", "Buffalo STX",
-  "Buffalo STX Pursuit", "Bullet", "Calico GTF", "Caracara 4x4", "Caracara Pursuit",
-  "Cargobob", "Cargobob (Jetsam)", "Cavalcade XL", "Champion", "Chavos V6", "Cheburek",
-  "Cheetah", "Cognoscenti", "Cognoscenti (Armored)", "Cognoscenti 55",
-  "Cognoscenti 55 (Armored)", "Comet", "Comet S2", "Comet S2 Cabrio", "Comet SR",
-  "Conada", "Contender", "Coquette D10 Pursuit", "Coquette D5", "Cyclone", "Deity",
-  "Deveste Eight", "Deviant", "DH-7 Iron Mule", "Dodo", "Dominator", "Dominator ASP",
-  "Dominator FX Interceptor", "Dominator GTT", "Dorado Cruiser", "Double T",
-  "Drift Walton L35", "Dubsta 6x6", "Duke O'Death", "Elegy RH8", "Entity MT",
-  "Envisage", "ETR1", "Eudora", "Euros", "Everon RS", "Firebolt ASP", "FMJ", "FMJ MK V",
-  "Futo", "Futo GTX", "Gauntlet", "Gauntlet Hellfire", "Gauntlet Interceptor", "GP1",
-  "Granger 3600LX", "Greenwood", "Greenwood Cruiser", "GT750", "Hakuchou",
-  "Hakuchou Drag", "Hardy", "Hellion", "Hermes", "Hexer", "Howard NX-25", "Ignus",
-  "Imorgon", "Impaler LX", "Impaler LX Cruiser", "Impaler SZ Cruiser", "Infernus",
-  "Issi", "Issi Sport", "Itali Classic", "JB 700W", "Jester RR", "Jubilee", "Jugular",
-  "Komoda", "Krieger", "Kuruma", "La Coureuse", "Locust", "LSCM Cheetah Classic",
-  "LSCM Jester RR", "Luiva", "Luxor", "Luxor Deluxe", "Manchez", "Manchez Scout",
-  "Massacro", "Massacro (Racecar)", "Maverick", "Mesa (Merryweather)", "MonstroCiti",
-  "Neo", "Niobe", "Omnis e-GT", "Outreach Faction", "Paragon R", "Paragon S", "Patriot",
-  "Patriot Mil-Spec", "Peyote Gasser", "Pipistrello", "Pizza Boy", "Police Bike",
-  "Raiden", "Rapid GT X", "Raptor", "RE-7B", "Reever", "Remus", "Revolter",
-  "Rumpo Custom", "S80RR", "Sanchez", "Sanchez (livery)", "Savestra", "SC1",
-  "Schafter LWB", "Schafter LWB (Armored)", "Schafter V12", "Schafter V12 (Armored)",
-  "Sentinel", "Sentinel GTS", "Sentinel XS4", "Shinobi", "Shotaro",
-  "Stanier", "Stinger GT", "Stinger TT", "Stirling GT", "SuperVolito",
-  "SuperVolito Carbon", "Swift Deluxe", "Swinger", "Tampa GT", "Terminus",
-  "Terminus Patrol", "Terrorbyte", "Tigon", "Torero", "Torero XO", "Turismo Omaggio",
-  "Tyrus", "Unmarked Cruiser", "Uranus LozSpeed", "V-STR", "Vacca", "Vigero ZX",
-  "Virtue", "Viseris", "Volatus", "Vortex", "Weaponized Ignus", "Weevil Custom",
-  "Woodlander", "X-treme", "XA-21", "XLS", "XLS (Armored)", "Z-Type", "Zentorno",
-  "Zion Classic", "Zombie Chopper", "Zorrusso"
-], "missile_jammer");
-
-addFeature([
-  "Akula", "Annihilator", "Annihilator Stealth", "Anti-Aircraft Trailer", "APC",
-  "Ardent", "Armored Boxville", "Avenger", "B-11 Strikeforce", "Barrage", "Blazer Aqua",
-  "Bruiser", "Brutus", "Buffalo STX", "Buzzard Attack Chopper", "Caracara", "Cerberus",
-  "Champion", "Chernobog", "Comet Safari", "Deathbike", "Deity", "Deluxo", "Dominator",
-  "Dune FAV", "Duster 300-H", "F-160 Raiju", "Hunter", "Fire Truck", "Granger 3600LX",
-  "Half-track", "Havok", "Hydra", "Impaler", "Imperator", "Insurgent Pick-Up",
-  "Insurgent Pick-Up Custom", "Invade and Persuade Tank", "Issi", "JB 700W", "Jubilee",
-  "Kosatka", "Kurtz 31 Patrol Boat", "LF-22 Starling", "Menacer",
-  "Mobile Operations Center", "Mogul", "Mule Custom", "Nightshark", "Oppressor",
-  "Oppressor Mk II", "P-45 Nokota", "P-996 LAZER", "Paragon R", "Patriot Mil-Spec",
-  "Pounder Custom", "Pyro", "RC Bandito", "RCV", "Revolter", "Rhino",
-  "RM-10 Bombushka", "RO-86 Alkonost", "Rogue", "Ruiner 2000", "Sasquatch", "Savage",
-  "Savestra", "Scarab", "Scramjet", "Sea Sparrow", "Seabreeze", "Slamvan", "Sparrow",
-  "Speedo Custom", "Streamer216", "Stromberg", "Technical", "Technical Aqua",
-  "Technical Custom", "Terrorbyte", "Thruster", "Titan 250 D", "TM-02 Khanjali",
-  "Toreador", "Tula", "Turreted Limo", "Ultralight", "V-65 Molotok", "Valkyrie",
-  "Vigilante", "Viseris", "Volatol", "Weaponized Conada", "Weaponized Dinghy",
-  "Weaponized Ignus", "Weaponized Tampa", "ZR380"
-], "weaponized");
-
-// --- Display name overrides ---
-const DISPLAY_NAME_OVERRIDES = {
-  "Feltzer Classic": "Stirling GT"
-};
-
 // --- App state ---
 let vehicles = [];
 let owned = new Set(JSON.parse(localStorage.getItem('gtaOwnedCars') || '[]'));
@@ -549,12 +254,14 @@ function render() {
           '</div>' +
           (function(f) {
             var badges = [];
-            if (f.hsw) badges.push('<span class="feat-badge feat-hsw">HSW</span>');
-            if (f.drift) badges.push('<span class="feat-badge feat-drift">Drift</span>');
-            if (f.missile_jammer) badges.push('<span class="feat-badge feat-jammer">Jammer</span>');
-            if (f.weaponized) badges.push('<span class="feat-badge feat-weapon">Weaponized</span>');
+            if (f.includes('HSW Performance Upgrade')) badges.push('<span class="feat-badge feat-hsw">HSW</span>');
+            if (f.includes('Drift Tuning')) badges.push('<span class="feat-badge feat-drift">Drift</span>');
+            if (f.includes('Missile Lock-On Jammer')) badges.push('<span class="feat-badge feat-jammer">Jammer</span>');
+            if (f.includes('Weaponized Vehicle')) badges.push('<span class="feat-badge feat-weapon">Weaponized</span>');
+            if (f.includes('Custom Vehicle')) badges.push('<span class="feat-badge feat-bennys">Benny\'s</span>');
+            if (f.includes('Imani Tech')) badges.push('<span class="feat-badge feat-imani">Imani</span>');
             return badges.length ? '<div class="car-features">' + badges.join('') + '</div>' : '';
-          })(v.features || {}) +
+          })(v.features || []) +
           '</div>';
       }).join('') +
       '</div></div>';
@@ -585,43 +292,70 @@ document.getElementById('storeFilter').addEventListener('change', render);
   });
 });
 
-// Fetch vehicle data directly from DurtyFree GitHub
+// Fetch DurtyFree data at runtime, then patch with local vehicles.json
 const DURTYFREE_URL = 'https://raw.githubusercontent.com/DurtyFree/gta-v-data-dumps/master/vehicles.json';
 const excludedClasses = new Set(['RAIL']);
 
-fetch(DURTYFREE_URL)
-  .then(r => r.json())
-  .then(data => {
-    vehicles = data
-      .filter(v => v.DisplayName?.English && !excludedClasses.has(v.Class))
-      .map(v => {
-        const override = DISPLAY_NAME_OVERRIDES[v.DisplayName.English];
-        if (override) v = { ...v, DisplayName: { ...v.DisplayName, English: override } };
-        return {
-          ...v,
-          stores: STORE_DATA[v.DisplayName.English] || [],
-          features: FEATURE_DATA[v.DisplayName.English] || {}
-        };
-      })
-      .sort((a, b) => {
-        const classCompare = a.Class.localeCompare(b.Class);
-        if (classCompare !== 0) return classCompare;
-        return (a.DisplayName.English || '').localeCompare(b.DisplayName.English || '');
-      });
+Promise.all([
+  fetch(DURTYFREE_URL).then(r => r.json()),
+  fetch('/vehicles.json').then(r => r.json())
+]).then(([dfData, patchData]) => {
+  // Build patch lookup by normalized name
+  const patchByName = {};
+  for (const p of patchData) {
+    patchByName[p.name.toLowerCase()] = p;
+  }
 
-    const classes = [...new Set(vehicles.map(v => v.Class))].sort();
-    const sel = document.getElementById('classFilter');
-    classes.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o); });
-    const allStores = [...new Set(vehicles.flatMap(v => v.stores || []))].sort();
-    const storeSel = document.getElementById('storeFilter');
-    allStores.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; storeSel.appendChild(o); });
-    document.getElementById('showAll').classList.add('active');
-    render();
-  })
-  .catch(err => {
-    document.getElementById('main').innerHTML = '<div class="empty-state">Failed to load vehicle data. Please try again later.</div>';
-    console.error('Failed to fetch vehicles:', err);
+  const seen = new Set();
+
+  // Process DurtyFree vehicles, patching with local data
+  vehicles = dfData
+    .filter(v => v.DisplayName?.English && !excludedClasses.has(v.Class))
+    .map(v => {
+      const name = v.DisplayName.English;
+      const patch = patchByName[name.toLowerCase()];
+      seen.add(name.toLowerCase());
+      return {
+        ...v,
+        stores: patch?.stores || [],
+        features: patch?.features || []
+      };
+    });
+
+  // Add patch-only vehicles (ones DurtyFree doesn't have)
+  for (const p of patchData) {
+    if (seen.has(p.name.toLowerCase())) continue;
+    if (!p.stores.length && !p.features.length) continue;
+    vehicles.push({
+      Name: p.internalName,
+      DisplayName: { English: p.name },
+      ManufacturerDisplayName: p.manufacturer ? { English: p.manufacturer } : null,
+      Hash: p.hash,
+      Class: p.vehicleClass,
+      stores: p.stores,
+      features: p.features,
+      image: p.image
+    });
+  }
+
+  vehicles.sort((a, b) => {
+    const classCompare = a.Class.localeCompare(b.Class);
+    if (classCompare !== 0) return classCompare;
+    return (a.DisplayName.English || '').localeCompare(b.DisplayName.English || '');
   });
+
+  const classes = [...new Set(vehicles.map(v => v.Class))].sort();
+  const sel = document.getElementById('classFilter');
+  classes.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o); });
+  const allStores = [...new Set(vehicles.flatMap(v => v.stores || []))].sort();
+  const storeSel = document.getElementById('storeFilter');
+  allStores.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; storeSel.appendChild(o); });
+  document.getElementById('showAll').classList.add('active');
+  render();
+}).catch(err => {
+  document.getElementById('main').innerHTML = '<div class="empty-state">Failed to load vehicle data. Please try again later.</div>';
+  console.error('Failed to fetch vehicles:', err);
+});
 </script>
 </body>
 </html>

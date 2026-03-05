@@ -1,0 +1,7 @@
+{
+  "name": "gta-car-checklist",
+  "scripts": {
+    "sync": "bun run sync.ts",
+    "start": "bun run --hot server.ts"
+  }
+}
