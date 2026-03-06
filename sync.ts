@@ -126,6 +126,23 @@ async function sync() {
     "Imani Tech",
   ]);
 
+  // Vehicles that function as mobile operations / businesses
+  const SERVICE_VEHICLES = new Set([
+    "kosatka submarine hq",
+    "terrorbyte",
+    "avenger",
+    "mobile operations center trailer",
+    "mobile operations center",
+    "brickade 6x6 acid lab",
+    "hauler custom",
+    "phantom custom",
+    "sparrow",
+    "manchez scout c delivery bike",
+    "speedo custom",
+    "mule custom",
+    "pounder custom",
+  ].map(normalize));
+
   // Stores that mean "not purchasable"
   const NON_STORE = new Set([
     "Cannot be acquired",
@@ -151,6 +168,7 @@ async function sync() {
 
     const allFeatures = gb ? getAttrList(gb, "ct30") : [];
     const features = allFeatures.filter((f) => FEATURE_KEYS.has(f));
+    if (SERVICE_VEHICLES.has(key)) features.push("Service Vehicle");
     const isCustomVehicle = features.includes("Custom Vehicle");
     const stores = gb
       ? getAttrList(gb, "ct12").filter((s) => {
@@ -195,6 +213,7 @@ async function sync() {
     const cls = getAttrStr(gb, "ct1");
     const allFeatures = getAttrList(gb, "ct30");
     const features = allFeatures.filter((f) => FEATURE_KEYS.has(f));
+    if (SERVICE_VEHICLES.has(key)) features.push("Service Vehicle");
     const isCustomVehicle = features.includes("Custom Vehicle");
     const stores = getAttrList(gb, "ct12").filter((s) => {
       if (NON_STORE.has(s)) return false;

@@ -255,7 +255,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "gtabase"
   },
@@ -378,7 +379,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Service Vehicle"
+    ],
     "source": "both"
   },
   {
@@ -405,7 +408,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "both"
   },
@@ -452,7 +456,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Service Vehicle"
+    ],
     "source": "both"
   },
   {
@@ -490,7 +496,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "both"
   },
@@ -519,7 +526,8 @@
     ],
     "features": [
       "Missile Lock-On Jammer",
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "both"
   },
@@ -1835,7 +1843,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "both"
   },
@@ -2152,7 +2161,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "gtabase"
   },
@@ -3212,7 +3222,9 @@
     "internalName": "5639-manchez-scout-c",
     "image": "https://www.gtabase.com/images/gta-5/vehicles/motorcycles/main/resized/manchez-scout-c_320x180.jpg",
     "stores": [],
-    "features": [],
+    "features": [
+      "Service Vehicle"
+    ],
     "source": "gtabase"
   },
   {
@@ -5614,7 +5626,8 @@
     ],
     "features": [
       "Weaponized Vehicle",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Service Vehicle"
     ],
     "source": "both"
   },
@@ -6726,7 +6739,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Service Vehicle"
+    ],
     "source": "gtabase"
   },
   {
@@ -10896,7 +10911,9 @@
     "internalName": "trailerlarge",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/trailerlarge.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Service Vehicle"
+    ],
     "source": "durtyfree"
   },
   {
@@ -11239,7 +11256,8 @@
     "image": "https://www.gtabase.com/images/gta-5/vehicles/vans/main/resized/speedo-custom_320x180.jpg",
     "stores": [],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Service Vehicle"
     ],
     "source": "both"
   },
