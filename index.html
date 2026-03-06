@@ -298,7 +298,7 @@ const excludedClasses = new Set(['RAIL']);
 
 Promise.all([
   fetch(DURTYFREE_URL).then(r => r.json()),
-  fetch('/vehicles.json').then(r => r.json())
+  fetch('vehicles.json').then(r => r.json())
 ]).then(([dfData, patchData]) => {
   // Build patch lookup by normalized name
   const patchByName = {};
