@@ -231,19 +231,6 @@
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
-  /* Garage Planner */
-  .planner-panel { background:#0e0e1a; border:1px solid #2a2a4a; border-radius:6px; margin:0.5rem 1.5rem; }
-  .planner-panel > button#plannerToggle { width:100%; background:none; border:none; color:#aaa; font-size:0.85rem; padding:0.5rem 1rem; text-align:left; cursor:pointer; }
-  .planner-panel > button#plannerToggle:hover { color:#fff; }
-  .planner-body { padding:0.75rem 1rem 1rem; display:flex; flex-direction:column; gap:0.6rem; }
-  .collapsed .planner-body { display:none; }
-  .planner-row { display:flex; align-items:center; gap:0.75rem; flex-wrap:wrap; font-size:0.8rem; color:#aaa; }
-  .planner-row label { color:#ccc; display:flex; align-items:center; gap:0.3rem; }
-  .planner-row > label:first-child { color:#888; min-width:80px; }
-  .planner-row input[type="number"] { background:#1a1a2e; border:1px solid #333; border-radius:4px; color:#ccc; font-size:0.8rem; padding:3px 8px; width:150px; }
-  .planner-row select { background:#1a1a2e; border:1px solid #333; border-radius:4px; color:#ccc; font-size:0.8rem; padding:3px 8px; }
-  #plannerApply { align-self:flex-start; background:#1a3a1a; border:1px solid #3a6a3a; color:#8c8; border-radius:4px; padding:5px 16px; font-size:0.82rem; cursor:pointer; }
-  #plannerApply:hover { background:#2a4a2a; color:#aca; }
 </style>
 <script src="https://unpkg.com/launchdarkly-js-client-sdk@3/dist/ldclient.min.js"></script>
 </head>
@@ -279,7 +266,6 @@
       <option value="price-desc">Sort: Price ↓</option>
       <option value="speed">Sort: Top Speed</option>
       <option value="accel">Sort: Acceleration</option>
-      <option value="grind">Sort: Grinding Tier</option>
     </select>
   </div>
   <div class="controls" style="padding-top:0">
@@ -297,34 +283,6 @@
   <div style="padding:0.2rem 1.5rem;font-size:0.7rem;color:#555" id="resultCount"></div>
 </header>
 <div class="stats" id="stats"></div>
-<div id="planner" class="planner-panel collapsed">
-  <button id="plannerToggle">🎯 Garage Planner ▾</button>
-  <div class="planner-body">
-    <div class="planner-row">
-      <label>Budget</label>
-      <input id="plannerBudget" type="number" placeholder="e.g. 2000000" min="0" step="100000">
-    </div>
-    <div class="planner-row">
-      <label>Goal</label>
-      <select id="plannerGoal">
-        <option value="">Any</option>
-        <option value="grinding">Grinding (make money)</option>
-        <option value="racing">Racing</option>
-        <option value="combat">Combat / PvP</option>
-        <option value="off_road">Off-road</option>
-      </select>
-    </div>
-    <div class="planner-row">
-      <label>Storage I own</label>
-      <label><input type="checkbox" value="garage" class="planner-storage"> Garage</label>
-      <label><input type="checkbox" value="property" class="planner-storage"> Any property (facility/nightclub/etc)</label>
-      <label><input type="checkbox" value="hangar" class="planner-storage"> Hangar</label>
-      <label><input type="checkbox" value="kosatka" class="planner-storage"> Kosatka</label>
-      <label><input type="checkbox" value="pegasus" class="planner-storage"> Pegasus (no storage needed)</label>
-    </div>
-    <button id="plannerApply">Find vehicles →</button>
-  </div>
-</div>
 <div class="modal-overlay" id="modalOverlay">
   <div class="modal" id="modal">
     <button class="modal-close" id="modalClose">&#10005;</button>
@@ -356,7 +314,6 @@ let minPrice = null;
 let maxPrice = null;
 let mfgFilter = '';
 let grindFilter = '';
-let storageFilter = new Set();
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -435,15 +392,7 @@ function render() {
     const price = v.price ?? null;
     const priceActive = minPrice !== null || maxPrice !== null;
     const matchPrice = !priceActive || (price !== null && (minPrice === null || price >= minPrice) && (maxPrice === null || price <= maxPrice));
-    const st = v.storage_type;
-    const storageOk = storageFilter.size === 0 || (
-      (storageFilter.has('garage') && (st === 'garage' || st == null)) ||
-      (storageFilter.has('pegasus') && st === 'pegasus') ||
-      (storageFilter.has('hangar') && st === 'property:hangar') ||
-      (storageFilter.has('kosatka') && st === 'property:kosatka') ||
-      (storageFilter.has('property') && st && st.startsWith('property:'))
-    );
-    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice && matchGrind && storageOk;
+    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice && matchGrind;
   });
 
   const groups = {};
@@ -554,15 +503,6 @@ function render() {
     if (sortOrder === 'price-desc') flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.price;}); });
     if (sortOrder === 'speed')      flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.top_speed_mph;}); });
     if (sortOrder === 'accel')      flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.stat_acceleration;}); });
-    if (sortOrder === 'grind') {
-      var grindRank = {S:0, A:1, B:2, C:3, skip:4};
-      flat.sort(function(a,b) {
-        var ar = a.grinding_tier != null ? (grindRank[a.grinding_tier] !== undefined ? grindRank[a.grinding_tier] : 98) : 99;
-        var br = b.grinding_tier != null ? (grindRank[b.grinding_tier] !== undefined ? grindRank[b.grinding_tier] : 98) : 99;
-        if (ar !== br) return ar - br;
-        return nullLast(a, b, function(v){ return v.price; });
-      });
-    }
     main.innerHTML = '<div class="class-group"><div class="car-grid">' + flat.map(renderCard).join('') + '</div></div>';
   }
 }
@@ -677,34 +617,6 @@ document.getElementById('grindFilter').addEventListener('change', e => {
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'grind', value: e.target.value }));
 });
 
-document.getElementById('plannerToggle').addEventListener('click', () => {
-  const panel = document.getElementById('planner');
-  const collapsed = panel.classList.toggle('collapsed');
-  document.getElementById('plannerToggle').textContent = '🎯 Garage Planner ' + (collapsed ? '▾' : '▴');
-});
-
-document.getElementById('plannerApply').addEventListener('click', () => {
-  const budget = document.getElementById('plannerBudget').value;
-  const goal = document.getElementById('plannerGoal').value;
-  const storageCbs = [...document.querySelectorAll('.planner-storage:checked')].map(cb => cb.value);
-
-  maxPrice = budget ? Number(budget) : null;
-  document.getElementById('maxPrice').value = budget || '';
-
-  useCaseFilter = goal || null;
-  document.querySelectorAll('[data-uc]').forEach(b => b.classList.toggle('uc-active', b.dataset.uc === useCaseFilter));
-
-  storageFilter = new Set(storageCbs);
-
-  if (goal === 'grinding') sortOrder = 'grind';
-  else if (goal === 'racing') sortOrder = 'laptime';
-  else sortOrder = 'price-asc';
-  document.getElementById('sortOrder').value = sortOrder;
-
-  render();
-  ldReady.then(() => ldClient.track('planner-applied', { goal, budget: maxPrice, storage: storageCbs }));
-  document.getElementById('main').scrollIntoView({ behavior: 'smooth' });
-});
 
 ['minPrice', 'maxPrice'].forEach(id => {
   document.getElementById(id).addEventListener('input', () => {
@@ -725,10 +637,6 @@ document.getElementById('resetFilters').addEventListener('click', () => {
   document.getElementById('storeFilter').value = '';
   document.getElementById('mfgFilter').value = ''; mfgFilter = '';
   document.getElementById('grindFilter').value = ''; grindFilter = '';
-  document.getElementById('plannerBudget').value = '';
-  document.getElementById('plannerGoal').value = '';
-  document.querySelectorAll('.planner-storage').forEach(cb => cb.checked = false);
-  storageFilter = new Set();
   document.getElementById('minPrice').value = '';
   document.getElementById('maxPrice').value = '';
   minPrice = null; maxPrice = null;
