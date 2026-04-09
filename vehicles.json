@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:43:32.577Z",
+  "generated_at": "2026-04-09T05:52:06.958Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -13304,6 +13304,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier Annis with a clean aesthetic but zero competitive upside.",
       "storage_type": "garage"
     },
     {
@@ -13333,6 +13334,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "D-tier at $575K — accessible entry for players who want to race without a major investment.",
       "storage_type": "garage"
     },
     {
@@ -13361,6 +13363,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier Italian GT that looks expensive and races expensively poorly.",
       "storage_type": "garage"
     },
     {
@@ -13386,6 +13389,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier coupe that looks the part but races like a D student.",
       "storage_type": "garage"
     },
     {
@@ -13415,6 +13419,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier 2013 Audi R8 tribute; the entire sports class passed it by.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13447,6 +13452,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. Convertible 9F; same tier, same fate.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13473,6 +13479,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. H-tier at $150K — cheap enough that nobody mourned it much.",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
       "removal_date": "2023-06-13"
@@ -13501,6 +13508,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Arena-only ZR380 variant built for spectacle over substance — Arena Points required.",
       "storage_type": "garage"
     },
     {
@@ -13530,6 +13538,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "The base Banshee is an H-tier relic — the 900R upgrade is what you actually want.",
       "storage_type": "garage"
     },
     {
@@ -13559,6 +13568,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier debut from Agents of Sabotage; immediately competitive and a genuine Pariah alternative.",
       "storage_type": "garage"
     },
     {
@@ -13584,6 +13594,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier Pegassi sports car — decent enough but overshadowed by everything above it.",
       "storage_type": "garage"
     },
     {
@@ -13632,6 +13643,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier at $35K — the sports Buffalo; cheap, cheerful, and forgotten.",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
       "removal_date": "2023-06-13"
@@ -13662,6 +13674,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier track Buffalo; an enduring muscle-sports hybrid, now gone.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13722,6 +13735,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. Ferrari California tribute at H-tier; soft-top and softly forgotten.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13758,6 +13772,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Removed SAM 2023. The original F-tier Comet; better variants exist and replaced it.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13788,6 +13803,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. G-tier Benny's Comet; overpriced even when available.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13820,6 +13836,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "G-tier Porsche mid-gen — outclassed by every Comet successor and most competitors.",
       "storage_type": "garage"
     },
     {
@@ -13848,6 +13865,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Same F-tier bones as the Comet S2 with the roof off — skip both.",
       "storage_type": "garage"
     },
     {
@@ -13903,6 +13921,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. Was genuinely C-tier competitive — one of the better sports losses.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13931,6 +13950,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. H-tier but a GTA V launch icon — the Corvette that started many careers.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -13959,6 +13979,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier Coquette variant — better than the base, still not worth racing seriously.",
       "storage_type": "garage"
     },
     {
@@ -13986,6 +14007,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier at $1.73M — one of the better value propositions in the competitive sports tier.",
       "storage_type": "garage"
     },
     {
@@ -14011,6 +14033,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Solid C-tier mid-engined sports; reliable for competitive lobbies at a fair price.",
       "storage_type": "garage"
     },
     {
@@ -14041,6 +14064,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "G-tier Imani Tech sports car — the gadgets are the only reason to own it.",
       "storage_type": "garage"
     },
     {
@@ -14069,6 +14093,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Built for drifting not racing — fun niche toy, zero competitive use.",
       "storage_type": "garage"
     },
     {
@@ -14096,6 +14121,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Former free Social Club reward now rarely seen — E-tier legacy piece.",
       "storage_type": "garage"
     },
     {
@@ -14129,6 +14155,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Free from Social Club link and still D-tier competitive; a cornerstone of the sports class for a decade.",
       "storage_type": "garage"
     },
     {
@@ -14157,6 +14184,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier Jaguar E-Type tribute with genuine racing credentials; the price is the only hesitation.",
       "storage_type": "garage"
     },
     {
@@ -14188,6 +14216,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier 911 tribute — beautiful daily driver, outpaced by real competitors.",
       "storage_type": "garage"
     },
     {
@@ -14215,6 +14244,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier Mercedes SLR — a longtime SSASA staple removed in the purge.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14253,6 +14283,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier flash that never delivers; the name is the best part.",
       "storage_type": "garage"
     },
     {
@@ -14278,6 +14309,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier at $448K — wildly overpriced for the performance even before removal.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14306,6 +14338,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier at $36K; cheap and slow, a forgotten footnote.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14339,6 +14372,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Removed SAM 2023. M-tier but the drift community's icon at $9K — culture over lap times.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14398,6 +14432,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Futuristic Arena ZR380 with the same story as every Arena variant — cool concept, closed ecosystem.",
       "storage_type": "garage"
     },
     {
@@ -14423,6 +14458,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Rare rally-spec that never found its moment — a curiosity more than a competitor.",
       "storage_type": "garage"
     },
     {
@@ -14451,6 +14487,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Free community gift that barely registers as a sports car — charming, trivially slow.",
       "storage_type": "garage"
     },
     {
@@ -14477,6 +14514,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Beautiful E-tier Bravado — buy it for the garage aesthetic, not the podium.",
       "storage_type": "garage"
     },
     {
@@ -14504,6 +14542,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Oval-spec hotring racer that dominates its niche and confuses everywhere else.",
       "storage_type": "garage"
     },
     {
@@ -14530,6 +14569,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Hotring beast that roars on the oval and has no idea what to do elsewhere.",
       "storage_type": "garage"
     },
     {
@@ -14557,6 +14597,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "The original hotring racer — legacy status, surpassed by every newer variant.",
       "storage_type": "garage"
     },
     {
@@ -14585,6 +14626,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. C-tier electric with real merit; quietly one of the better removals.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14647,6 +14689,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "A-tier at $1.965M — exceptional value; one of the best racing buys in the entire sports class.",
       "storage_type": "garage"
     },
     {
@@ -14673,6 +14716,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "D-tier at $2.38M — you're paying for the name; the performance doesn't justify the premium.",
       "storage_type": "garage"
     },
     {
@@ -14726,6 +14770,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier original Jester; foundation of the nameplate, outclassed by all successors.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14754,6 +14799,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. D-tier track variant; once a popular race build, now a garage relic.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -14786,6 +14832,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier RR without the widebody kit is still just an E-tier car.",
       "storage_type": "garage"
     },
     {
@@ -14811,6 +14858,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "D-tier widebody that looks the part; slightly better than the base RR but the gap is narrow.",
       "storage_type": "garage"
     },
     {
@@ -14839,6 +14887,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "C-tier at $1.225M — strong value for the performance level; a sensible sports class pick.",
       "storage_type": "garage"
     },
     {
@@ -14866,6 +14915,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Forgotten electric concept that never found a player base — lower-tier relic.",
       "storage_type": "garage"
     },
     {
@@ -14895,6 +14945,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier Obey that can't decide if it wants to be a sports car.",
       "storage_type": "garage"
     },
     {
@@ -14923,6 +14974,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "The armored Kuruma is the icon — the base version is just a forgettable sports car.",
       "storage_type": "garage"
     },
     {
@@ -14983,6 +15035,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier French sports car with sharp handling; consistently underrated, consistently fast.",
       "storage_type": "garage"
     },
     {
@@ -15010,6 +15063,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. H-tier at $1.625M — expensive and slow; no competitive loss.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15031,6 +15085,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Car Meet-exclusive prize vehicle — a flex for lucky winners, no grind value.",
       "storage_type": "garage",
       "source": "supplement"
     },
@@ -15057,6 +15112,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. I-tier Jaguar-alike; not mourned competitively.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15088,6 +15144,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier Ferrari 458 tribute that was beloved before the meta moved on.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15119,6 +15176,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier track variant of the Massacro; outclassed even in its era.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15150,6 +15208,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. Solid C-tier sports that was competitive and stylish — a real loss.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15178,6 +15237,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Electric Pfister sports car with E-tier performance — the novelty wears off fast.",
       "storage_type": "garage"
     },
     {
@@ -15204,6 +15264,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Nightmare-liveried Arena ZR380 — the best aesthetic of the three, same Arena-only limitations.",
       "storage_type": "garage"
     },
     {
@@ -15233,6 +15294,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "A-tier newcomer that immediately challenged Pariah and Itali RSX at the top of the class.",
       "storage_type": "garage"
     },
     {
@@ -15259,6 +15321,7 @@
         "racing",
         "off-road"
       ],
+      "meta_verdict": "Base Omnis is an off-road oddity that barely registers as a sports car.",
       "storage_type": "garage"
     },
     {
@@ -15287,6 +15350,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Electric crossover experiment stuck at G-tier — impressive tech, unimpressive lap times.",
       "storage_type": "garage"
     },
     {
@@ -15312,6 +15376,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Retro Ferrari Testarossa tribute — stylish mid-tier with a charm that outpaces its lap times.",
       "storage_type": "garage"
     },
     {
@@ -15340,6 +15405,7 @@
       "use_case": [
         "collector"
       ],
+      "meta_verdict": "Removed SAM 2023. The purchasable base Paragon; C-tier and the one most players actually bought.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15372,7 +15438,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "meta_verdict": "Removed SAM 2023. Armored Paragon R — bulletproof prestige that's now unobtainable."
     },
     {
       "name": "Paragon S",
@@ -15400,6 +15467,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier Enus with excellent balance; the Armored's purchasable sibling done properly.",
       "storage_type": "garage"
     },
     {
@@ -15481,6 +15549,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. N-tier at $24K — the drift car that never got its moment.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15509,6 +15578,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Front-wheel-drive F-tier sports car — wrong drivetrain, wrong tier, wrong choice.",
       "storage_type": "garage"
     },
     {
@@ -15537,6 +15607,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. F-tier electric; the Neon replaced and outperforms it.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15565,6 +15636,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier but a beloved GTA Online staple since day one — genuinely missed.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15596,6 +15668,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "C-tier successor to the iconic Rapid GT; competent but expensive for what the tier delivers.",
       "storage_type": "garage"
     },
     {
@@ -15624,6 +15697,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. N-tier at $648K — bottom performance at a mid-tier price.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15657,6 +15731,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "G/H-tier Karin sports coupe — buy it for the looks, not the times.",
       "storage_type": "garage"
     },
     {
@@ -15686,6 +15761,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Removed SAM 2023. F-tier electric sports; gone before most players noticed.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15717,6 +15793,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Karin's Supra tribute is actually competent — sits at E-tier where it belongs.",
       "storage_type": "garage"
     },
     {
@@ -15742,6 +15819,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier at $430K; hard to justify even when it was available.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15772,6 +15850,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Grotti sports coupe with style to spare and a tier position that disappoints.",
       "storage_type": "garage"
     },
     {
@@ -15801,6 +15880,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Removed SAM 2023. L-tier luxury sedan in the sports class; always an identity crisis.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15833,6 +15913,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "G-tier luxury sports sedan — drives like a boardroom, not a racetrack.",
       "storage_type": "garage"
     },
     {
@@ -15858,6 +15939,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier SLS tribute — gorgeous in the garage, forgettable on track.",
       "storage_type": "garage"
     },
     {
@@ -15883,6 +15965,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. M-tier BMW tribute; went quietly and largely unlamented.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15914,6 +15997,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "D-tier JDM classic with widebody kit; style-to-performance ratio leans heavily toward style.",
       "storage_type": "garage"
     },
     {
@@ -15943,6 +16027,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "C-tier BMW homage with clean handling; wins races without demanding attention.",
       "storage_type": "garage"
     },
     {
@@ -15968,6 +16053,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. F-tier Bugatti-adjacent; more show than go, not widely missed.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -15996,6 +16082,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "G-tier Benefactor priced like it belongs in S-tier — overpriced disappointment.",
       "storage_type": "garage"
     },
     {
@@ -16021,6 +16108,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "The Specter Custom is already F-tier — this base version has even less excuse.",
       "storage_type": "garage"
     },
     {
@@ -16078,6 +16166,7 @@
         "fun",
         "collector"
       ],
+      "meta_verdict": "Sprunk-branded Buffalo is a collector's flex and nothing more competitively.",
       "storage_type": "garage"
     },
     {
@@ -16103,6 +16192,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. N-tier at $500K — bottom performance, mid-tier price; no tears shed.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -16132,6 +16222,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Dinka's JDM throwback sits in the mid-lower tier — fun character, limited ceiling.",
       "storage_type": "garage"
     },
     {
@@ -16157,6 +16248,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Base Sultan at ~$12K is the best bargain in GTA sports; just don't expect trophies.",
       "storage_type": "garage"
     },
     {
@@ -16183,6 +16275,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "D-tier rally legend with gorgeous looks; the Sultan RS Classic is the faster buy.",
       "storage_type": "garage"
     },
     {
@@ -16209,6 +16302,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier rally aesthetic with a classic soul — charming but competitively irrelevant.",
       "storage_type": "garage"
     },
     {
@@ -16235,6 +16329,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. G-tier convertible; a stylish casualty of the purge.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -16263,6 +16358,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Rally-styled relic that time forgot — zero meta relevance, decent photo subject.",
       "storage_type": "garage"
     },
     {
@@ -16291,6 +16387,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier Benefactor that promised AMG GT vibes and delivered mediocrity.",
       "storage_type": "garage"
     },
     {
@@ -16319,6 +16416,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Imani Tech sports car stuck at E-tier — the gadgets don't compensate for the performance.",
       "storage_type": "garage"
     },
     {
@@ -16344,6 +16442,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. G-tier German sports; distinctive, forgettable in every other way.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -16373,6 +16472,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "LSCM race-series exclusive locked to Car Meet events — nowhere else, ever.",
       "storage_type": "garage"
     },
     {
@@ -16398,6 +16498,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Modern LSCM racer that you'll never use outside Car Meet events — niche by design.",
       "storage_type": "garage"
     },
     {
@@ -16426,6 +16527,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "RX-7 tribute that drifts beautifully and races adequately — more style than substance.",
       "storage_type": "garage"
     },
     {
@@ -17258,6 +17360,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. K-tier but with iconic styling — a GTA Online visual staple since launch.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
