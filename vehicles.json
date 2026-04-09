@@ -2631,7 +2631,8 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/daemon2.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "price": 145000
   },
   {
     "name": "Defiler",
@@ -5738,7 +5739,8 @@
     "features": [
       "Imani Tech"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "price": 1303700
   },
   {
     "name": "Winky",

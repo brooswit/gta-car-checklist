@@ -44,9 +44,6 @@
       "Drift Tuning"
     ]
   },
-  "Walton L35 (Stock)": {
-    "price": 1303700
-  },
   "Bobcat Security Stockade": {
     "price": 2440500,
     "trade_price": 1830375
@@ -2017,9 +2014,6 @@
     "price": 412000,
     "trade_price": 309000
   },
-  "Daemon (Custom)": {
-    "price": 145000
-  },
   "Cliffhanger": {
     "price": 225000
   },
@@ -2320,5 +2314,16 @@
       "DockTease"
     ],
     "price": 299000
+  },
+  "Walton L35 Stock": {
+    "_note": "GTABase lists as \"Walton L35 (Stock)\" \u2014 name normalized to match DurtyFree",
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 1303700
+  },
+  "Daemon Custom": {
+    "_note": "GTABase lists as \"Daemon (Custom)\" \u2014 name normalized to match DurtyFree",
+    "price": 145000
   }
 }
