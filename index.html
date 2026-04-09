@@ -183,6 +183,7 @@
   .grind-C    { background:#222;    color:#888;  border:1px solid #555; }
   .grind-skip { background:#2a0a0a; color:#744;  border:1px solid #522; text-decoration:line-through; }
   .removed-tag { display:inline-block; font-size:0.55rem; color:#744; border:1px solid #522; border-radius:3px; padding:1px 4px; margin:1px 2px; letter-spacing:0.3px; }
+  .car-verdict { padding:0 0.6rem 0.4rem; font-size:0.68rem; color:#777; font-style:italic; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   /* Use case chips */
   .use-case-chips { display:flex; flex-wrap:wrap; gap:3px; padding:0 0.6rem 0.4rem; }
   .uc-chip { display:inline-block; padding:1px 5px; border-radius:10px; font-size:0.5rem; font-weight:600; text-transform:uppercase; letter-spacing:0.3px; }
@@ -471,6 +472,7 @@ function render() {
             }
             return out;
           })(v.racing_tier, v.top_speed_mph, v.use_case, v.grinding_tier) +
+          (v.meta_verdict ? '<div class="car-verdict" title="' + v.meta_verdict.replace(/"/g, '&quot;') + '">' + v.meta_verdict + '</div>' : '') +
           (function(stats) {
             if (!stats || stats.every(function(s) { return s == null; })) return '';
             var labels = ['Acc','Brk','Trc','Hdl'];
