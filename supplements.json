@@ -96,13 +96,25 @@
     ]
   },
   "Itali Classic": {
-    "price": 2025000
+    "price": 2025000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "Astrale": {
-    "price": 1475500
+    "price": 1475500,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "Luiva": {
-    "price": 2697500
+    "price": 2697500,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "Sentinel XS4": {
     "price": 1429000,
@@ -115,10 +127,18 @@
     "price": 2885000
   },
   "GT750": {
-    "price": 1247000
+    "price": 1247000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "FMJ MK V": {
-    "price": 2965000
+    "price": 2965000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "Drift Walton L35": {
     "price": 1403750,
@@ -4693,7 +4713,11 @@
       "Legendary Motorsport"
     ],
     "price": 2885000,
-    "_note": "A Safehouse in the Hills DLC — price missing from pipeline, sourced from GTA Wiki"
+    "_note": "A Safehouse in the Hills DLC — price missing from pipeline, sourced from GTA Wiki",
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   "LSCM Jester RR": {
     "_missing_from_pipeline": true,
