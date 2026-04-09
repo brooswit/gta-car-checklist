@@ -260,7 +260,9 @@
     <button class="filter-btn" data-uc="grinding">Grinding</button>
     <button class="filter-btn" data-uc="collector">Collector</button>
     <button class="filter-btn" data-uc="fun">Fun</button>
+    <button id="resetFilters" style="margin-left:8px;background:#2a1a1a;border-color:#5a2a2a;color:#c66">✕ Reset</button>
   </div>
+  <div style="padding:0.2rem 1.5rem;font-size:0.7rem;color:#555" id="resultCount"></div>
 </header>
 <div class="stats" id="stats"></div>
 <div class="modal-overlay" id="modalOverlay">
@@ -341,6 +343,7 @@ function render() {
   const missingPart = showMissingCount ? ' — <span>' + (vehicles.length - totalOwned) + '</span> missing' : '';
   document.getElementById('stats').innerHTML =
     'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles' + pctPart + missingPart + ' — Showing <span>' + filtered.length + '</span>';
+  document.getElementById('resultCount').textContent = filtered.length + ' vehicle' + (filtered.length === 1 ? '' : 's');
 
   const main = document.getElementById('main');
   if (filtered.length === 0) {
@@ -541,6 +544,22 @@ document.getElementById('storeFilter').addEventListener('change', e => {
       ldReady.then(() => ldClient.track('filter-changed', { filterType: 'price', min: minPrice, max: maxPrice }));
     }
   });
+});
+
+document.getElementById('resetFilters').addEventListener('click', () => {
+  document.getElementById('search').value = '';
+  document.getElementById('classFilter').value = '';
+  document.getElementById('storeFilter').value = '';
+  document.getElementById('minPrice').value = '';
+  document.getElementById('maxPrice').value = '';
+  minPrice = null; maxPrice = null;
+  filter = '';
+  useCaseFilter = null;
+  sortOrder = 'class';
+  document.getElementById('sortOrder').value = 'class';
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active', 'uc-active'));
+  document.getElementById('showAll').classList.add('active');
+  render();
 });
 
 document.getElementById('sortOrder').addEventListener('change', e => {
