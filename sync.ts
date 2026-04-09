@@ -45,6 +45,11 @@ interface OutputVehicle {
   stat_braking?: number | null;
   stat_traction?: number | null;
   stat_handling?: number | null;
+  grinding_tier?: string | null;
+  meta_verdict?: string | null;
+  meta_note?: string | null;
+  storage_type?: string | null;
+  removed_from_stores?: boolean;
   source: string;
 }
 
@@ -299,6 +304,11 @@ interface Supplement {
   stat_braking?: number | null;
   stat_traction?: number | null;
   stat_handling?: number | null;
+  grinding_tier?: string | null;
+  meta_verdict?: string | null;
+  meta_note?: string | null;
+  storage_type?: string | null;
+  removed_from_stores?: boolean;
   image?: string;
   // For vehicles missing from DurtyFree:
   _missing_from_pipeline?: boolean;
@@ -586,6 +596,11 @@ async function sync() {
             stat_braking: sup.stat_braking,
             stat_traction: sup.stat_traction,
             stat_handling: sup.stat_handling,
+            grinding_tier: sup.grinding_tier,
+            meta_verdict: sup.meta_verdict,
+            meta_note: sup.meta_note,
+            storage_type: sup.storage_type,
+            removed_from_stores: sup.removed_from_stores,
             source: "supplement",
           };
           vehicles.push(newVehicle);
@@ -625,6 +640,11 @@ async function sync() {
         if (sup.stat_braking !== undefined) existing.stat_braking = sup.stat_braking;
         if (sup.stat_traction !== undefined) existing.stat_traction = sup.stat_traction;
         if (sup.stat_handling !== undefined) existing.stat_handling = sup.stat_handling;
+        if (sup.grinding_tier !== undefined) existing.grinding_tier = sup.grinding_tier;
+        if (sup.meta_verdict !== undefined) existing.meta_verdict = sup.meta_verdict;
+        if (sup.meta_note !== undefined) existing.meta_note = sup.meta_note;
+        if (sup.storage_type !== undefined) existing.storage_type = sup.storage_type;
+        if (sup.removed_from_stores !== undefined) existing.removed_from_stores = sup.removed_from_stores;
         supplementsApplied++;
       } else {
         console.log(`  Warning: supplement "${name}" not found in pipeline output`);

@@ -38,7 +38,12 @@
       "unlock_condition_note": "String — human-readable explanation of unlock condition for display",
       "use_case": "Array of use case tags. Valid values: 'racing', 'combat', 'off-road', 'transport', 'utility', 'grinding', 'collector', 'fun'. Vehicles can have multiple tags. 'grinding' = optimized for missions/heists/passive income. 'fun' = beloved/enjoyable vehicles that aren't competitively meta. 'collector' = rare/status/aesthetic.",
       "racing_tier": "String or null. Broughy1322's tier scale (S, A–O, or null). S=best in class/race-meta, descending through O=slowest, null=not a racing vehicle.",
-      "racing_lap_time": "Float or null — tested lap time in seconds (source: Broughy1322). null if not applicable."
+      "racing_lap_time": "Float or null — tested lap time in seconds (source: Broughy1322). null if not applicable.",
+      "grinding_tier": "String or null. Grinding meta tier: S=best grind vehicle, A/B/C=diminishing value, skip=not worth it, null=not a grind vehicle.",
+      "meta_verdict": "String or null. Overall vehicle verdict: must_buy, situational, outclassed, fun_only, niche, or null.",
+      "meta_note": "String or null. Short explanation for meta_verdict (1-2 sentences max).",
+      "storage_type": "String or null. Where the vehicle is stored: garage, pegasus, or null (unknown/property-specific).",
+      "removed_from_stores": "Boolean — true if vehicle was removed from in-game stores and can no longer be purchased."
     },
     "_example": {
       "Nightshark": {
