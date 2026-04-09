@@ -1029,6 +1029,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.214,
     "price": 1610000
   },
   {
@@ -1165,6 +1167,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.787,
     "price": 60000
   },
   {
@@ -4344,6 +4348,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.532,
     "price": 1308000,
     "trade_price": 981000
   },
@@ -4611,6 +4617,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 69.019,
     "price": 745000
   },
   {
@@ -7779,6 +7787,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 67.498,
     "price": 1380000
   },
   {
@@ -8917,6 +8927,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.688,
     "price": 995000
   },
   {
@@ -9000,6 +9012,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.04,
     "price": 1800000,
     "trade_price": 1350000
   },
@@ -9095,6 +9109,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 70.02,
     "price": 9000
   },
   {
@@ -9112,6 +9128,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 71.322,
     "price": 1590000,
     "trade_price": 1192500
   },
@@ -9365,6 +9383,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.98,
     "price": 1970000,
     "trade_price": 1477500,
     "use_case": [
@@ -9941,6 +9961,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 65.699,
     "price": 1370000,
     "trade_price": 1027500
   },
@@ -9978,6 +10000,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 66.033,
     "price": 1715000,
     "trade_price": 1286250
   },
@@ -10100,6 +10124,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 69.119,
     "price": 700000
   },
   {
@@ -10417,6 +10443,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.967,
     "price": 1615000,
     "trade_price": 1211250
   },
@@ -10773,6 +10801,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 65.749,
     "price": 790000
   },
   {
@@ -10872,6 +10902,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.26,
     "price": 797000
   },
   {
@@ -13412,6 +13444,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 810000
   },
   {

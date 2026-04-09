@@ -453,16 +453,23 @@ async function sync() {
     const broughyByInternal = new Map(broughyData.map(b => [b.internalName.toLowerCase(), b]));
 
     let broughyMatched = 0;
+    let broughyFallback = 0;
     for (const vehicle of vehicles) {
       const key = vehicle.internalName.toLowerCase();
-      const b = broughyByInternal.get(key);
+      let b = broughyByInternal.get(key);
+      // Fallback: strip leading "drift" prefix (DurtyFree uses drift* names,
+      // GTABoom uses the base internalName without the prefix)
+      if (!b && key.startsWith("drift")) {
+        b = broughyByInternal.get(key.slice(5));
+        if (b) broughyFallback++;
+      }
       if (b) {
         vehicle.racing_tier = b.tier;
         vehicle.racing_lap_time = b.lapTimeSeconds;
         broughyMatched++;
       }
     }
-    console.log(`  Matched: ${broughyMatched} / ${vehicles.length} vehicles`);
+    console.log(`  Matched: ${broughyMatched} / ${vehicles.length} vehicles (${broughyFallback} via drift-prefix fallback)`);
   } else {
     console.log("No broughy-data.json found — skipping Broughy merge");
   }
