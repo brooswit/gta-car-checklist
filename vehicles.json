@@ -8471,6 +8471,20 @@
     "price": 1625000
   },
   {
+    "name": "LSCM Jester RR",
+    "manufacturer": "Dinka",
+    "vehicleClass": "SPORT",
+    "hash": 1174224392,
+    "internalName": "lscmjesterrr",
+    "image": "",
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "features": [],
+    "price": 2290000,
+    "source": "supplement"
+  },
+  {
     "name": "Lynx",
     "manufacturer": "Ocelot",
     "vehicleClass": "SPORT",

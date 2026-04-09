@@ -1897,7 +1897,9 @@
     ]
   },
   "P-996 LAZER": {
-    "price": 6500000
+    "use_case": [
+      "combat"
+    ]
   },
   "Nimbus": {
     "price": 1900000
@@ -2760,11 +2762,6 @@
       "utility"
     ]
   },
-  "P-996 LAZER": {
-    "use_case": [
-      "combat"
-    ]
-  },
   "Insurgent Pick-Up": {
     "use_case": [
       "combat",
@@ -2826,5 +2823,15 @@
     ],
     "price": 2885000,
     "_note": "A Safehouse in the Hills DLC \u2014 price missing from pipeline, sourced from GTA Wiki"
+  },
+  "LSCM Jester RR": {
+    "_missing_from_pipeline": true,
+    "manufacturer": "Dinka",
+    "vehicleClass": "SPORT",
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 2290000,
+    "_note": "Agents of Sabotage DLC \u2014 confirmed purchasable on GTA Wiki, $2,290,000 from Legendary Motorsport"
   }
 }
