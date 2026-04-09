@@ -436,6 +436,37 @@ async function sync() {
     });
   }
 
+  // ── Merge Broughy racing data ─────────────────────────────────────────────
+  const broughyPath = import.meta.dir + "/broughy-data.json";
+  const broughyFile = Bun.file(broughyPath);
+  if (await broughyFile.exists()) {
+    console.log("Merging Broughy racing data...");
+    interface BroughyEntry {
+      internalName: string;
+      tier: string | null;
+      lapTimeSeconds: number | null;
+      topSpeedMph: number | null;
+      classRank: number | null;
+      overallRank: number | null;
+    }
+    const broughyData: BroughyEntry[] = await broughyFile.json();
+    const broughyByInternal = new Map(broughyData.map(b => [b.internalName.toLowerCase(), b]));
+
+    let broughyMatched = 0;
+    for (const vehicle of vehicles) {
+      const key = vehicle.internalName.toLowerCase();
+      const b = broughyByInternal.get(key);
+      if (b) {
+        vehicle.racing_tier = b.tier;
+        vehicle.racing_lap_time = b.lapTimeSeconds;
+        broughyMatched++;
+      }
+    }
+    console.log(`  Matched: ${broughyMatched} / ${vehicles.length} vehicles`);
+  } else {
+    console.log("No broughy-data.json found — skipping Broughy merge");
+  }
+
   // ── Apply supplements ─────────────────────────────────────────────────────
   const supplementsPath = import.meta.dir + "/supplements.json";
   const supplementsFile = Bun.file(supplementsPath);

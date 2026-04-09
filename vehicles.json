@@ -11,6 +11,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 362.543,
     "price": 1545000
   },
   {
@@ -38,6 +40,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 93.025,
     "price": 299000
   },
   {
@@ -54,6 +58,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 247.805,
     "use_case": [
       "utility",
       "grinding"
@@ -73,6 +79,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 260.349,
     "price": 1325000
   },
   {
@@ -89,6 +97,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 177.336,
     "price": 2955000,
     "trade_price": 2216250
   },
@@ -104,6 +114,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 82.55,
     "price": 2125000,
     "trade_price": 1593750
   },
@@ -120,6 +132,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 242.232,
     "price": 413990
   },
   {
@@ -136,6 +150,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 123.214,
     "price": 3780000
   },
   {
@@ -150,6 +166,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 102.134,
     "price": 16899
   },
   {
@@ -164,6 +182,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 92.761,
     "price": 325000
   },
   {
@@ -178,6 +198,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 99.933,
     "price": 196621
   },
   {
@@ -189,7 +211,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Submersible-Front-GTAV.png/revision/latest/scale-to-width-down/300?cb=20180912085900",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 293.135
   },
   {
     "name": "Suntrap",
@@ -203,6 +227,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 124.557,
     "price": 25160
   },
   {
@@ -217,6 +243,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 114.847,
     "price": 1750000
   },
   {
@@ -231,6 +259,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 100.966,
     "price": 22000
   },
   {
@@ -245,6 +275,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 397.952,
     "price": 1250000
   },
   {
@@ -261,6 +293,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 95.004,
     "price": 1850000
   },
   {
@@ -274,7 +308,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.602
   },
   {
     "name": "Benson",
@@ -285,7 +321,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/benson.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 92.309
   },
   {
     "name": "Benson (Cluckin' Bell)",
@@ -299,6 +337,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 92.309,
     "price": 685000,
     "trade_price": 513750
   },
@@ -311,7 +351,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/30/Biff-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160429175112",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 101.835
   },
   {
     "name": "Bobcat Security Stockade",
@@ -325,6 +367,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 97.814,
     "price": 2440500,
     "trade_price": 1830375
   },
@@ -341,7 +385,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.602
   },
   {
     "name": "Hauler",
@@ -352,7 +398,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/Hauler-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180550",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 104.188
   },
   {
     "name": "Hauler Custom",
@@ -369,6 +417,8 @@
       "Service Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.434,
     "price": 1400000
   },
   {
@@ -383,6 +433,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 110.294,
     "price": 27000
   },
   {
@@ -400,6 +452,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 100.017,
     "price": 95760,
     "trade_price": 72000,
     "use_case": [
@@ -420,7 +474,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.602
   },
   {
     "name": "Packer",
@@ -431,7 +487,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/68/Packer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20230217192026",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 98.031
   },
   {
     "name": "Phantom",
@@ -442,7 +500,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Phantom-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160702200418",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 94.595
   },
   {
     "name": "Phantom Custom",
@@ -459,6 +519,8 @@
       "Service Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 79.283,
     "price": 1225000
   },
   {
@@ -473,6 +535,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 80.08,
     "price": 2553600,
     "trade_price": 1920000,
     "use_case": [
@@ -489,7 +553,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/1d/Pounder-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160918143632",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 106.94
   },
   {
     "name": "Pounder Custom",
@@ -506,6 +572,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 92.826,
     "price": 320530,
     "trade_price": 241000,
     "use_case": [
@@ -525,6 +593,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 97.814,
     "price": 2240000,
     "trade_price": 1680000
   },
@@ -544,6 +614,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 88.841,
     "price": 1375000,
     "use_case": [
       "utility",
@@ -563,7 +635,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.368
   },
   {
     "name": "Asbo",
@@ -577,6 +651,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 77.01,
     "price": 408000,
     "trade_price": 306000
   },
@@ -589,7 +665,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/Blista-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409171328",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 75.993
   },
   {
     "name": "Blista Kanjo",
@@ -603,6 +681,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 73.473,
     "price": 580000,
     "trade_price": 435000
   },
@@ -619,6 +699,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 83.95,
     "price": 610000,
     "trade_price": 457500
   },
@@ -636,6 +718,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 76.442,
     "price": 585000
   },
   {
@@ -652,6 +736,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 70.436,
     "price": 155000
   },
   {
@@ -667,6 +753,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 66.6,
     "price": 1280000
   },
   {
@@ -681,6 +769,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 82.165,
     "price": 25000
   },
   {
@@ -696,7 +786,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.368
   },
   {
     "name": "Issi",
@@ -713,6 +805,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 76.542,
     "price": 18000
   },
   {
@@ -728,6 +822,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 78.695,
     "price": 360000,
     "trade_price": 270000,
     "use_case": [
@@ -748,7 +844,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.368
   },
   {
     "name": "Panto",
@@ -763,6 +861,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 74.057,
     "price": 85000
   },
   {
@@ -777,6 +877,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 76.476,
     "price": 25000
   },
   {
@@ -793,6 +895,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 74.056,
     "price": 140000
   },
   {
@@ -807,6 +911,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 75.642,
     "price": 870000,
     "trade_price": 652500
   },
@@ -822,6 +928,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.12,
     "price": 185000
   },
   {
@@ -838,6 +946,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.4,
     "price": 1499000
   },
   {
@@ -853,6 +963,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.552,
     "price": 205000
   },
   {
@@ -867,6 +979,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.27,
     "price": 80000
   },
   {
@@ -881,6 +995,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.788,
     "price": 90000
   },
   {
@@ -895,6 +1011,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.654,
     "price": 95000
   },
   {
@@ -925,6 +1043,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.632,
     "price": 60000
   },
   {
@@ -939,6 +1059,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 72.322,
     "price": 1370000,
     "trade_price": 1027500
   },
@@ -954,6 +1076,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 71.021,
     "price": 80000
   },
   {
@@ -968,6 +1092,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.822,
     "price": 82000
   },
   {
@@ -982,6 +1108,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 74.541,
     "price": 1310000,
     "trade_price": 982500
   },
@@ -997,6 +1125,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 64.731,
     "price": 1490000,
     "trade_price": 1117500
   },
@@ -1016,6 +1146,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.787,
     "price": 95000
   },
   {
@@ -1048,6 +1180,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.938,
     "price": 845000
   },
   {
@@ -1062,6 +1196,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 72.359,
     "price": 900000
   },
   {
@@ -1076,6 +1212,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.512,
     "price": 60000
   },
   {
@@ -1090,6 +1228,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.528,
     "price": 65000
   },
   {
@@ -1104,6 +1244,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 164.864,
     "price": 800
   },
   {
@@ -1118,6 +1260,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 175.173,
     "price": 800
   },
   {
@@ -1134,6 +1278,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 128.393,
     "price": 10000
   },
   {
@@ -1145,7 +1291,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/74/Fixter-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180352",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 134.434
   },
   {
     "name": "Inductor",
@@ -1159,6 +1307,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 131.365,
     "price": 50000
   },
   {
@@ -1173,6 +1323,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 131.365,
     "price": 50000
   },
   {
@@ -1187,6 +1339,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 152.618,
     "price": 2000
   },
   {
@@ -1203,6 +1357,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 128.393,
     "price": 10000
   },
   {
@@ -1220,6 +1376,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 128.393,
     "price": 10000
   },
   {
@@ -1231,7 +1389,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/ambulance.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 83.483
   },
   {
     "name": "Buffalo Cruiser",
@@ -1247,6 +1407,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 4435000,
     "trade_price": 3326250
   },
@@ -1265,6 +1427,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 5370000,
     "trade_price": 4027500
   },
@@ -1279,7 +1443,9 @@
       "Bail Offices"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 82.876
   },
   {
     "name": "Caracara Pursuit",
@@ -1296,6 +1462,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.07,
     "price": 5335000,
     "trade_price": 4001250
   },
@@ -1313,6 +1481,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.796,
     "price": 5620000,
     "trade_price": 4125000
   },
@@ -1331,6 +1501,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.664,
     "price": 4950000,
     "trade_price": 3712500
   },
@@ -1349,6 +1521,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 70.269,
     "price": 5005000,
     "trade_price": 3753750
   },
@@ -1377,6 +1551,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 89.34,
     "price": 3295000,
     "trade_price": 2471250
   },
@@ -1395,6 +1571,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.814,
     "price": 5420000,
     "trade_price": 4065000
   },
@@ -1413,6 +1591,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.669,
     "price": 4910000,
     "trade_price": 3682500
   },
@@ -1431,6 +1611,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.351,
     "price": 4800000,
     "trade_price": 3600000
   },
@@ -1449,6 +1631,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.383,
     "price": 4720000,
     "trade_price": 3540000
   },
@@ -1463,7 +1647,9 @@
       "Warstock Cache & Carry"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.238
   },
   {
     "name": "Outreach Faction",
@@ -1479,6 +1665,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.753,
     "price": 4150000,
     "trade_price": 3112500
   },
@@ -1494,6 +1682,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 76.293,
     "price": 2980000,
     "trade_price": 2235000
   },
@@ -1511,6 +1701,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.553,
     "price": 4960000,
     "trade_price": 3720000
   },
@@ -1537,6 +1729,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 116.617,
     "price": 731500,
     "trade_price": 550000
   },
@@ -1549,7 +1743,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/66/PoliceRancher-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20151212235205",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.337
   },
   {
     "name": "Police Riot",
@@ -1563,6 +1759,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 99.132,
     "price": 4800000,
     "trade_price": 3600000
   },
@@ -1575,7 +1773,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/37/PoliceRoadcruiser-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20151212235053",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 79.867
   },
   {
     "name": "Police Transporter",
@@ -1586,7 +1786,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ed/PoliceTransporter-GTAV-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20200325043326",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 88.472
   },
   {
     "name": "RCV",
@@ -1602,6 +1804,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 90.007,
     "price": 3125500,
     "trade_price": 2350000
   },
@@ -1614,7 +1818,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/7e/SheriffCruiser-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20190823173752",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 76.343
   },
   {
     "name": "Sheriff SUV",
@@ -1625,7 +1831,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a2/SheriffSUV-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20151222200742",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 79.345
   },
   {
     "name": "Stanier LE Cruiser",
@@ -1641,6 +1849,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.82,
     "price": 4690000,
     "trade_price": 3517500
   },
@@ -1658,6 +1868,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.964,
     "price": 5125000,
     "trade_price": 3843750
   },
@@ -1676,6 +1888,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 71.572,
     "price": 3950000,
     "trade_price": 2962500
   },
@@ -1693,6 +1907,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 54.368,
     "price": 4500000,
     "trade_price": 3375000,
     "use_case": [
@@ -1715,6 +1931,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.902,
     "price": 1825000
   },
   {
@@ -1731,6 +1949,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 60.238,
     "price": 3870000,
     "trade_price": 2902500
   },
@@ -1748,6 +1968,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 57.523,
     "price": 1750000
   },
   {
@@ -1764,6 +1986,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 57.523,
     "price": 1750000,
     "use_case": [
       "grinding",
@@ -1785,6 +2009,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.64,
     "price": 1790000,
     "use_case": [
       "transport",
@@ -1806,6 +2032,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 51.961,
     "price": 2450000,
     "trade_price": 1837500
   },
@@ -1824,6 +2052,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 2345000,
     "trade_price": 1758750
   },
@@ -1841,6 +2071,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.902,
     "price": 4123000,
     "trade_price": 3100000,
     "use_case": [
@@ -1863,6 +2095,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 56.757,
     "price": 1300000
   },
   {
@@ -1879,6 +2113,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.234,
     "price": 2300900,
     "trade_price": 1730000
   },
@@ -1893,7 +2129,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.058
   },
   {
     "name": "Maverick",
@@ -1910,6 +2148,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.058,
     "price": 780000
   },
   {
@@ -1923,7 +2163,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 58.325
   },
   {
     "name": "Savage",
@@ -1939,6 +2181,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.497,
     "price": 2593500,
     "trade_price": 1950000,
     "use_case": [
@@ -1960,6 +2204,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.535,
     "price": 1815000
   },
   {
@@ -1971,7 +2217,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f9/Skylift-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161111200404",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.736
   },
   {
     "name": "Sparrow",
@@ -1988,6 +2236,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 54.997,
     "price": 1815000,
     "use_case": [
       "grinding",
@@ -2011,6 +2261,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.489,
     "price": 2113000
   },
   {
@@ -2029,6 +2281,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.489,
     "price": 3330000
   },
   {
@@ -2047,6 +2301,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 54.953,
     "price": 1500000
   },
   {
@@ -2065,6 +2321,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 54.484,
     "price": 5150000
   },
   {
@@ -2081,6 +2339,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 61.796,
     "price": 3790500,
     "trade_price": 2850000
   },
@@ -2097,7 +2357,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 61.796
   },
   {
     "name": "Volatus",
@@ -2115,6 +2377,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.388,
     "price": 2295000
   },
   {
@@ -2131,6 +2395,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.762,
     "price": 3385000
   },
   {
@@ -2142,7 +2408,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/49/CustomFlatbed-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250619002530",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 96.129
   },
   {
     "name": "Cutter",
@@ -2153,7 +2421,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b4/Cutter-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160917180851",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 188.049
   },
   {
     "name": "Dock Handler",
@@ -2164,7 +2434,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/51/DockHandler-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20230216201415",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 185.852
   },
   {
     "name": "Dozer",
@@ -2175,7 +2447,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/05/Dozer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20240122034303",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 518.251
   },
   {
     "name": "Dump",
@@ -2190,6 +2464,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 183.133,
     "price": 1000000
   },
   {
@@ -2201,7 +2477,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c3/Flatbed-GTAIV-front.png/revision/latest/scale-to-width-down/300?cb=20170223191201",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 96.096
   },
   {
     "name": "Guardian",
@@ -2215,6 +2493,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 77.044,
     "price": 375000
   },
   {
@@ -2226,7 +2506,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/5d/Mixer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160625231645",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 102.669
   },
   {
     "name": "Rubble",
@@ -2237,7 +2519,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/d5/Rubble-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160626150707",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 102.953
   },
   {
     "name": "Tipper",
@@ -2248,7 +2532,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/11/Tipper-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018181108",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 104.237
   },
   {
     "name": "Anti-Aircraft Trailer",
@@ -2264,6 +2550,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1862000,
     "trade_price": 1400000
   },
@@ -2281,6 +2569,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 88.872,
     "use_case": [
       "combat",
       "off-road"
@@ -2299,7 +2589,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 84.15
   },
   {
     "name": "Barracks",
@@ -2313,6 +2605,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 101.101,
     "price": 450000
   },
   {
@@ -2324,7 +2618,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/14/BarracksSemi-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20151217203705",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 97.163
   },
   {
     "name": "Barrage",
@@ -2340,6 +2636,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 72.339,
     "price": 2121350,
     "trade_price": 1595000
   },
@@ -2357,6 +2655,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 108.491,
     "price": 1500000,
     "trade_price": 1125000
   },
@@ -2372,6 +2672,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 84.735,
     "price": 225000
   },
   {
@@ -2387,7 +2689,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 84.15
   },
   {
     "name": "Half-track",
@@ -2403,6 +2707,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 111.061,
     "price": 2254350,
     "trade_price": 1695000,
     "use_case": [
@@ -2422,7 +2728,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 218.443
   },
   {
     "name": "Nightmare Scarab",
@@ -2437,7 +2745,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 84.15
   },
   {
     "name": "Rhino Tank",
@@ -2453,6 +2763,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 143.91,
     "price": 1500000,
     "use_case": [
       "combat",
@@ -2473,7 +2785,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 99.55
   },
   {
     "name": "TM-02 Khanjali",
@@ -2489,6 +2803,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 139.189,
     "use_case": [
       "combat"
     ]
@@ -2505,6 +2821,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 111.178,
     "price": 1630000,
     "trade_price": 1222500,
     "use_case": [
@@ -2527,6 +2845,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 58.892,
     "price": 9000
   },
   {
@@ -2542,7 +2862,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.017
   },
   {
     "name": "Avarus",
@@ -2556,6 +2878,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.168,
     "price": 116000
   },
   {
@@ -2573,6 +2897,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 73.907,
     "price": 16000
   },
   {
@@ -2589,6 +2915,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 58.625,
     "price": 15000,
     "use_case": [
       "racing"
@@ -2608,6 +2936,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 58.625,
     "price": 15000
   },
   {
@@ -2624,6 +2954,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.296,
     "price": 95000,
     "use_case": [
       "racing",
@@ -2644,6 +2976,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 60.96,
     "price": 40000,
     "use_case": [
       "racing"
@@ -2661,6 +2995,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.935,
     "price": 210000
   },
   {
@@ -2675,6 +3011,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.595,
     "price": 225000
   },
   {
@@ -2686,7 +3024,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/Daemon-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160208212049",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.834
   },
   {
     "name": "Daemon Custom",
@@ -2698,6 +3038,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.635,
     "price": 145000
   },
   {
@@ -2712,6 +3054,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 60.326,
     "price": 412000,
     "trade_price": 309000
   },
@@ -2727,6 +3071,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.297,
     "price": 169000
   },
   {
@@ -2743,6 +3089,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.896,
     "price": 245000
   },
   {
@@ -2759,6 +3107,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 60.261,
     "price": 12000
   },
   {
@@ -2773,6 +3123,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.137,
     "price": 48000
   },
   {
@@ -2787,6 +3139,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.399,
     "price": 264000
   },
   {
@@ -2799,6 +3153,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 87.421,
     "price": 5000
   },
   {
@@ -2813,6 +3169,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 87.154,
     "price": 55000
   },
   {
@@ -2827,6 +3185,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.318,
     "price": 47500
   },
   {
@@ -2842,6 +3202,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.23,
     "price": 135000
   },
   {
@@ -2858,6 +3220,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.396,
     "price": 196000
   },
   {
@@ -2873,7 +3237,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.017
   },
   {
     "name": "Gargoyle",
@@ -2888,6 +3254,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.628,
     "price": 120000,
     "trade_price": 90000
   },
@@ -2906,6 +3274,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 60.76,
     "price": 82000,
     "use_case": [
       "racing"
@@ -2921,6 +3291,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 57.44,
     "use_case": [
       "racing"
     ]
@@ -2940,6 +3312,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.167,
     "price": 15000
   },
   {
@@ -2954,6 +3328,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.999,
     "price": 92500
   },
   {
@@ -2968,6 +3344,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.729,
     "price": 997500,
     "trade_price": 750000
   },
@@ -2986,6 +3364,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.465,
     "price": 67000,
     "trade_price": 50250
   },
@@ -3003,6 +3383,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.968,
     "price": 225000,
     "trade_price": 168750
   },
@@ -3019,7 +3401,9 @@
     "features": [
       "Service Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.133
   },
   {
     "name": "Nemesis",
@@ -3033,6 +3417,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.598,
     "price": 12000
   },
   {
@@ -3047,6 +3433,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.496,
     "price": 100000
   },
   {
@@ -3062,7 +3450,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.017
   },
   {
     "name": "Oppressor",
@@ -3078,6 +3468,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 51.953,
     "price": 2750000,
     "trade_price": 2067669,
     "use_case": [
@@ -3099,6 +3491,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.387,
     "price": 8000000,
     "trade_price": 6000000,
     "use_case": [
@@ -3118,6 +3512,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.734,
     "price": 9000
   },
   {
@@ -3134,6 +3530,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 84.667,
     "price": 195000,
     "trade_price": 146250
   },
@@ -3149,6 +3547,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.371,
     "price": 1605000
   },
   {
@@ -3162,7 +3562,9 @@
       "Legendary Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.367
   },
   {
     "name": "Rat Bike",
@@ -3176,6 +3578,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 77.632,
     "price": 48000
   },
   {
@@ -3193,6 +3597,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.459,
     "price": 1900000
   },
   {
@@ -3207,6 +3613,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.461,
     "price": 10000
   },
   {
@@ -3227,6 +3635,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.665,
     "price": 8000,
     "use_case": [
       "racing",
@@ -3248,6 +3658,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.665,
     "price": 7000
   },
   {
@@ -3262,6 +3674,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 63.329,
     "price": 1995000
   },
   {
@@ -3279,6 +3693,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 58.592,
     "price": 2480500
   },
   {
@@ -3295,6 +3711,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 57.49,
     "price": 2225000,
     "use_case": [
       "racing",
@@ -3313,6 +3731,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.4,
     "price": 90000
   },
   {
@@ -3327,6 +3747,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.334,
     "price": 670000,
     "trade_price": 502500
   },
@@ -3342,6 +3764,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.267,
     "price": 75000
   },
   {
@@ -3356,6 +3780,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.299,
     "price": 9000
   },
   {
@@ -3370,6 +3796,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.466,
     "price": 630000
   },
   {
@@ -3386,6 +3814,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 61.028,
     "price": 356000
   },
   {
@@ -3400,6 +3830,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 77.444,
     "price": 95000
   },
   {
@@ -3414,6 +3846,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.311,
     "price": 99000
   },
   {
@@ -3430,6 +3864,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.201,
     "price": 122000
   },
   {
@@ -3445,7 +3881,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.882
   },
   {
     "name": "Apocalypse Impaler",
@@ -3460,7 +3898,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.398
   },
   {
     "name": "Apocalypse Imperator",
@@ -3475,7 +3915,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.916
   },
   {
     "name": "Apocalypse Slamvan",
@@ -3490,7 +3932,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.758
   },
   {
     "name": "Arbiter GT",
@@ -3506,6 +3950,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.054,
     "price": 1580000
   },
   {
@@ -3520,6 +3966,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.153,
     "price": 378000
   },
   {
@@ -3536,6 +3984,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 68.634,
     "price": 160000
   },
   {
@@ -3550,6 +4000,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 75.559,
     "price": 1499000
   },
   {
@@ -3567,6 +4019,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 77.978,
     "price": 925000
   },
   {
@@ -3581,6 +4035,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.055,
     "price": 29000
   },
   {
@@ -3597,6 +4053,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.105,
     "price": 390000
   },
   {
@@ -3615,6 +4073,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 66.132,
     "price": 2140000
   },
   {
@@ -3633,6 +4093,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 63.147,
     "price": 2150000,
     "trade_price": 1612500
   },
@@ -3649,6 +4111,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.754,
     "price": 277000
   },
   {
@@ -3664,6 +4128,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 78.028,
     "price": 225000
   },
   {
@@ -3680,6 +4146,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 78.545,
     "price": 180000
   },
   {
@@ -3694,6 +4162,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.399,
     "price": 909000
   },
   {
@@ -3708,6 +4178,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 79.296,
     "price": 1205000
   },
   {
@@ -3722,6 +4194,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 69.135,
     "price": 695000
   },
   {
@@ -3739,6 +4213,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.904,
     "price": 512000
   },
   {
@@ -3757,6 +4233,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 68.118,
     "price": 35000,
     "trade_price": 26250
   },
@@ -3775,6 +4253,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.182,
     "price": 1775000,
     "trade_price": 1331250
   },
@@ -3792,6 +4272,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 63.88,
     "price": 1550000
   },
   {
@@ -3808,6 +4290,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 62.88,
     "price": 2195000
   },
   {
@@ -3825,6 +4309,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.306,
     "price": 1220000,
     "trade_price": 915000
   },
@@ -3840,6 +4326,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.951,
     "price": 725000
   },
   {
@@ -3875,6 +4363,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 69.519,
     "price": 665000,
     "use_case": [
       "combat",
@@ -3893,6 +4383,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 68.619,
     "price": 62000
   },
   {
@@ -3907,6 +4399,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 73.172,
     "price": 565000,
     "trade_price": 423750
   },
@@ -3925,6 +4419,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 76.776,
     "price": 1250000
   },
   {
@@ -3939,6 +4435,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 74.908,
     "price": 36000
   },
   {
@@ -3952,7 +4450,9 @@
       "Benny's Original Motor Works"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.989
   },
   {
     "name": "Faction Custom Donk",
@@ -3968,6 +4468,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 74.608,
     "price": 695000
   },
   {
@@ -3983,7 +4485,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.882
   },
   {
     "name": "Future Shock Impaler",
@@ -3998,7 +4502,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.398
   },
   {
     "name": "Future Shock Imperator",
@@ -4013,7 +4519,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.916
   },
   {
     "name": "Future Shock Slamvan",
@@ -4028,7 +4536,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.758
   },
   {
     "name": "Gauntlet",
@@ -4045,6 +4555,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.505,
     "price": 32000
   },
   {
@@ -4060,6 +4572,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.589,
     "price": 615000,
     "trade_price": 461250
   },
@@ -4077,6 +4591,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.537,
     "price": 815000
   },
   {
@@ -4112,6 +4628,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.434,
     "price": 1465000,
     "trade_price": 1098750
   },
@@ -4130,6 +4648,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.27,
     "price": 535000
   },
   {
@@ -4146,6 +4666,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 78.362,
     "price": 90000
   },
   {
@@ -4160,6 +4682,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.454,
     "price": 625000
   },
   {
@@ -4175,6 +4699,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.902,
     "price": 331835,
     "trade_price": 249500
   },
@@ -4193,6 +4719,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 67.969,
     "price": 1465000
   },
   {
@@ -4207,6 +4735,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 67.101,
     "price": 1280000
   },
   {
@@ -4218,7 +4748,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/61/LostSlamvan2-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20151212170523",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 78.462
   },
   {
     "name": "Lurcher",
@@ -4232,6 +4764,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 73.757,
     "price": 650000
   },
   {
@@ -4248,6 +4782,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 75.726,
     "price": 925000
   },
   {
@@ -4262,6 +4798,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 79.729,
     "price": 32500
   },
   {
@@ -4278,6 +4816,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 75.458,
     "price": 370000
   },
   {
@@ -4293,7 +4833,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.882
   },
   {
     "name": "Nightmare Impaler",
@@ -4308,7 +4850,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.398
   },
   {
     "name": "Nightmare Imperator",
@@ -4323,7 +4867,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.916
   },
   {
     "name": "Nightmare Slamvan",
@@ -4338,7 +4884,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.758
   },
   {
     "name": "Nightshade",
@@ -4352,6 +4900,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.489,
     "price": 585000
   },
   {
@@ -4369,6 +4919,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.991,
     "price": 805000
   },
   {
@@ -4380,7 +4932,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/phoenix.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.104
   },
   {
     "name": "Picador",
@@ -4394,6 +4948,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 75.059,
     "price": 9000
   },
   {
@@ -4405,7 +4961,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/dominator2.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.767
   },
   {
     "name": "Rat-Loader",
@@ -4419,6 +4977,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 83.734,
     "price": 6000
   },
   {
@@ -4434,6 +4994,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 82.649,
     "price": 37500,
     "trade_price": 28125
   },
@@ -4450,6 +5012,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.854,
     "price": 230000
   },
   {
@@ -4464,6 +5028,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 69.136,
     "price": 10000
   },
   {
@@ -4480,6 +5046,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 71.371,
     "price": 3750000,
     "trade_price": 2812500,
     "use_case": [
@@ -4500,6 +5068,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.817,
     "price": 1320000
   },
   {
@@ -4514,6 +5084,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 69.452,
     "price": 15000
   },
   {
@@ -4530,6 +5102,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 66.75,
     "price": 490000
   },
   {
@@ -4546,6 +5120,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 83.8,
     "price": 49500,
     "trade_price": 37125
   },
@@ -4563,6 +5139,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.354,
     "price": 415000
   },
   {
@@ -4578,6 +5156,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 71.055,
     "price": 71000
   },
   {
@@ -4592,6 +5172,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.738,
     "price": 1500000
   },
   {
@@ -4606,6 +5188,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.688,
     "price": 375000
   },
   {
@@ -4624,6 +5208,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 70.303,
     "price": 1311000
   },
   {
@@ -4638,6 +5224,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 69.904,
     "price": 718000
   },
   {
@@ -4652,6 +5240,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 70.938,
     "price": 1658000
   },
   {
@@ -4666,6 +5256,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 69.753,
     "price": 596000
   },
   {
@@ -4680,6 +5272,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 72.155,
     "price": 21000
   },
   {
@@ -4698,6 +5292,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.208,
     "price": 1947000
   },
   {
@@ -4714,6 +5310,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.299,
     "price": 2295000
   },
   {
@@ -4728,6 +5326,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 77.624,
     "price": 195000
   },
   {
@@ -4742,6 +5342,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 80.264,
     "price": 165000
   },
   {
@@ -4758,6 +5360,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 74.808,
     "price": 240000
   },
   {
@@ -4772,6 +5376,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 81.882,
     "price": 5500
   },
   {
@@ -4788,6 +5394,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 80.748,
     "price": 420000
   },
   {
@@ -4804,6 +5412,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 69.986,
     "price": 2108050,
     "trade_price": 1585000,
     "use_case": [
@@ -4825,6 +5435,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.365,
     "price": 980000
   },
   {
@@ -4840,6 +5452,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.532,
     "price": 485000
   },
   {
@@ -4855,7 +5469,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.762
   },
   {
     "name": "Apocalypse Brutus",
@@ -4870,7 +5486,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.601
   },
   {
     "name": "Apocalypse Sasquatch",
@@ -4885,7 +5503,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.366
   },
   {
     "name": "Bifta",
@@ -4899,6 +5519,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 67.885,
     "price": 75000
   },
   {
@@ -4916,6 +5538,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 67.734,
     "price": 8000
   },
   {
@@ -4932,6 +5556,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.283,
     "price": 1755600,
     "trade_price": 1320000
   },
@@ -4947,6 +5573,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 82.288,
     "price": 62000
   },
   {
@@ -4964,6 +5592,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.956,
     "price": 25000
   },
   {
@@ -4978,6 +5608,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.754,
     "price": 1280000
   },
   {
@@ -4995,6 +5627,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.252,
     "price": 715000
   },
   {
@@ -5011,6 +5645,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 72.703,
     "price": 1775000
   },
   {
@@ -5028,6 +5664,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.57,
     "price": 875000,
     "use_case": [
       "off-road"
@@ -5045,6 +5683,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 66.549,
     "price": 695000
   },
   {
@@ -5059,6 +5699,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 62.095,
     "price": 1870000,
     "trade_price": 1402500
   },
@@ -5078,6 +5720,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1403750
   },
   {
@@ -5095,6 +5739,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 75.125,
     "price": 249000,
     "use_case": [
       "off-road",
@@ -5113,6 +5759,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.002,
     "price": 20000
   },
   {
@@ -5129,6 +5777,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 73.74,
     "price": 1130500,
     "trade_price": 850000,
     "use_case": [
@@ -5145,7 +5795,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e6/Duneloader-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180142",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 90.874
   },
   {
     "name": "Everon",
@@ -5159,6 +5811,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.637,
     "price": 1475000,
     "trade_price": 1106250
   },
@@ -5177,6 +5831,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 65.515,
     "price": 1894500
   },
   {
@@ -5191,6 +5847,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.695,
     "price": 597000
   },
   {
@@ -5206,7 +5864,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.762
   },
   {
     "name": "Future Shock Brutus",
@@ -5221,7 +5881,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.601
   },
   {
     "name": "Future Shock Sasquatch",
@@ -5236,7 +5898,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.366
   },
   {
     "name": "Hellion",
@@ -5253,6 +5917,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.22,
     "price": 835000
   },
   {
@@ -5267,6 +5933,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 67.744,
     "price": 69000
   },
   {
@@ -5281,6 +5949,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 73.156,
     "price": 16000
   },
   {
@@ -5297,6 +5967,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.607,
     "price": 897750,
     "trade_price": 675000,
     "use_case": [
@@ -5318,6 +5990,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 76.993,
     "price": 1795500,
     "trade_price": 1350000,
     "use_case": [
@@ -5340,6 +6014,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 71.906,
     "price": 202500,
     "use_case": [
       "combat",
@@ -5358,6 +6034,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 78.363,
     "price": 40000
   },
   {
@@ -5372,6 +6050,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 64.864,
     "price": 345000,
     "use_case": [
       "off-road"
@@ -5389,6 +6069,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 76.559,
     "price": 500000,
     "use_case": [
       "off-road",
@@ -5409,6 +6091,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 73.44,
     "price": 1775000
   },
   {
@@ -5420,7 +6104,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/monster.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 76.594
   },
   {
     "name": "MonstroCiti",
@@ -5438,6 +6124,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 66.183,
     "price": 1485000
   },
   {
@@ -5453,7 +6141,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.762
   },
   {
     "name": "Nightmare Brutus",
@@ -5468,7 +6158,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 68.601
   },
   {
     "name": "Nightmare Sasquatch",
@@ -5483,7 +6175,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 65.366
   },
   {
     "name": "Nightshark",
@@ -5500,6 +6194,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 66.75,
     "price": 1245000,
     "use_case": [
       "combat"
@@ -5517,6 +6213,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.036,
     "price": 1268000,
     "trade_price": 951000
   },
@@ -5536,6 +6234,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.043,
     "price": 1710000,
     "trade_price": 1282500
   },
@@ -5551,6 +6251,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 70.317,
     "price": 3192000,
     "trade_price": 2400000
   },
@@ -5566,6 +6268,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 81.198,
     "price": 9000
   },
   {
@@ -5580,6 +6284,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 65.984,
     "price": 1873000
   },
   {
@@ -5596,6 +6302,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 99.616,
     "price": 1590000,
     "use_case": [
       "fun",
@@ -5614,6 +6322,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.142,
     "price": 22000
   },
   {
@@ -5628,6 +6338,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.488,
     "price": 380000
   },
   {
@@ -5642,6 +6354,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.076,
     "price": 3000
   },
   {
@@ -5656,6 +6370,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 77.06,
     "price": 38000
   },
   {
@@ -5670,6 +6386,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 77.994,
     "price": 45000,
     "use_case": [
       "off-road"
@@ -5684,7 +6402,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/SpaceDocker-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929163022",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 83.139
   },
   {
     "name": "Street Blazer",
@@ -5698,6 +6418,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 64.914,
     "price": 81000
   },
   {
@@ -5715,6 +6437,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 78.028,
     "price": 1263500,
     "trade_price": 950000
   },
@@ -5732,6 +6456,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.341,
     "price": 1489600,
     "trade_price": 1120000
   },
@@ -5750,6 +6476,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.39,
     "price": 142500,
     "use_case": [
       "combat",
@@ -5771,6 +6499,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 64.197,
     "price": 1877500
   },
   {
@@ -5785,6 +6515,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 66.561,
     "price": 550000
   },
   {
@@ -5799,6 +6531,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 63.596,
     "price": 2214000,
     "trade_price": 1660500,
     "use_case": [
@@ -5818,6 +6552,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 80.597,
     "price": 192000
   },
   {
@@ -5831,7 +6567,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.337
   },
   {
     "name": "Walton L35 Stock",
@@ -5847,6 +6585,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.204,
     "price": 1303700
   },
   {
@@ -5861,6 +6601,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 92.158,
     "price": 1100000,
     "trade_price": 825000
   },
@@ -5876,6 +6618,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.586,
     "price": 1205000
   },
   {
@@ -5892,6 +6636,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.138,
     "price": 700000
   },
   {
@@ -5906,6 +6652,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 97.998,
     "price": 2400000,
     "trade_price": 1800000
   },
@@ -5920,7 +6668,9 @@
       "Legendary Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 54.555
   },
   {
     "name": "DR1",
@@ -5933,7 +6683,9 @@
       "Legendary Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 56.473
   },
   {
     "name": "PR4",
@@ -5946,7 +6698,9 @@
       "Legendary Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 56.356
   },
   {
     "name": "R88",
@@ -5959,7 +6713,9 @@
       "Legendary Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 56.54
   },
   {
     "name": "Alpha-Z1",
@@ -5976,6 +6732,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 33.567,
     "price": 2121350,
     "trade_price": 1595000,
     "use_case": [
@@ -5991,7 +6749,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c3/AtomicBlimp-LSIA-GTAV.png/revision/latest/scale-to-width-down/300?cb=20180730104023",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 103.27
   },
   {
     "name": "Avenger",
@@ -6009,6 +6769,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 39.421,
     "price": 3450000,
     "use_case": [
       "utility",
@@ -6029,6 +6791,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 46.034,
     "price": 3800000
   },
   {
@@ -6048,6 +6812,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 38.334,
     "price": 1150000
   },
   {
@@ -6062,6 +6828,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 103.342,
     "price": 1190350,
     "trade_price": 895000
   },
@@ -6088,6 +6856,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 49.85,
     "price": 240000,
     "use_case": [
       "transport"
@@ -6107,6 +6877,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.335,
     "price": 500000
   },
   {
@@ -6121,6 +6893,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 54.522,
     "price": 275000
   },
   {
@@ -6137,6 +6911,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1020000,
     "trade_price": 765000
   },
@@ -6154,6 +6930,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 30.822,
     "price": 6855000,
     "trade_price": 5141250,
     "use_case": [
@@ -6176,6 +6954,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 33.868,
     "price": 1296750,
     "trade_price": 975000,
     "use_case": [
@@ -6197,6 +6977,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 34.135,
     "price": 3990000,
     "trade_price": 3000000,
     "use_case": [
@@ -6214,7 +6996,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ed/Jet-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20230216195549",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 64.056
   },
   {
     "name": "LF-22 Starling",
@@ -6230,6 +7014,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 44.468,
     "price": 3657500,
     "trade_price": 2750000,
     "use_case": [
@@ -6253,6 +7039,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 48.314,
     "price": 1625000
   },
   {
@@ -6270,6 +7058,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 47.315,
     "price": 10000000,
     "use_case": [
       "collector",
@@ -6288,6 +7078,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 48.649,
     "price": 250000
   },
   {
@@ -6302,6 +7094,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 56.721,
     "price": 300000
   },
   {
@@ -6318,6 +7112,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 49.616,
     "price": 1700000
   },
   {
@@ -6334,6 +7130,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 45.301,
     "price": 3125500,
     "trade_price": 2350000
   },
@@ -6349,6 +7147,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 47.045,
     "price": 1900000
   },
   {
@@ -6365,6 +7165,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 37.068,
     "price": 2653350,
     "trade_price": 1995000
   },
@@ -6382,6 +7184,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 37.645,
     "use_case": [
       "combat"
     ]
@@ -6400,6 +7204,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 34.034,
     "price": 4455500,
     "trade_price": 3350000,
     "use_case": [
@@ -6421,6 +7227,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 100.403,
     "price": 4750000,
     "trade_price": 3562500,
     "use_case": [
@@ -6442,6 +7250,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.981,
     "price": 4350000,
     "trade_price": 3262500
   },
@@ -6459,6 +7269,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 35.201,
     "price": 1596000,
     "trade_price": 1200000,
     "use_case": [
@@ -6480,6 +7292,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 38.568,
     "price": 1130500,
     "trade_price": 850000
   },
@@ -6495,6 +7309,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 49.417,
     "price": 1150000
   },
   {
@@ -6511,6 +7327,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 48.319,
     "price": 2238000
   },
   {
@@ -6525,6 +7343,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 56.602,
     "price": 2000000,
     "use_case": [
       "transport"
@@ -6544,6 +7364,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 4870000,
     "trade_price": 3652500
   },
@@ -6561,6 +7383,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 49.302,
     "price": 4100000,
     "trade_price": 3075000
   },
@@ -6578,6 +7402,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 99.168,
     "price": 665000,
     "trade_price": 500000
   },
@@ -6595,6 +7421,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 36.367,
     "price": 4788000,
     "trade_price": 3600000,
     "use_case": [
@@ -6614,6 +7442,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.05,
     "price": 450000
   },
   {
@@ -6628,6 +7458,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.05,
     "price": 1323350,
     "trade_price": 995000
   },
@@ -6645,6 +7477,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 40.307,
     "price": 950000
   },
   {
@@ -6661,6 +7495,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 53.501,
     "price": 3724000,
     "trade_price": 2800000,
     "use_case": [
@@ -6676,7 +7512,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/9/96/XeroBlimp-GTAVPC-Front.png/revision/latest/scale-to-width-down/300?cb=20180730104237",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 101.934
   },
   {
     "name": "Asea",
@@ -6690,6 +7528,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 74.708,
     "price": 12000
   },
   {
@@ -6704,6 +7544,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.873,
     "price": 26000
   },
   {
@@ -6718,6 +7560,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 67.234,
     "price": 459000
   },
   {
@@ -6735,6 +7579,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.564,
     "price": 1420000
   },
   {
@@ -6749,6 +7595,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.581,
     "price": 1740000
   },
   {
@@ -6767,6 +7615,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 75.959,
     "price": 254000
   },
   {
@@ -6784,6 +7634,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 76.057,
     "price": 558000
   },
   {
@@ -6801,6 +7653,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.957,
     "price": 154000
   },
   {
@@ -6818,6 +7672,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 73.223,
     "price": 396000
   },
   {
@@ -6836,6 +7692,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 69.236,
     "price": 1845000,
     "trade_price": 1383750
   },
@@ -6848,7 +7706,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/emperor.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 85.251
   },
   {
     "name": "Fugitive",
@@ -6862,6 +7722,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 71.655,
     "price": 24000
   },
   {
@@ -6878,6 +7740,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 74.074,
     "price": 200000,
     "trade_price": 150000
   },
@@ -6895,6 +7759,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 68.685,
     "price": 520000
   },
   {
@@ -6927,6 +7793,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 83.667,
     "price": 9000
   },
   {
@@ -6939,6 +7807,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 72.256,
     "price": 16000
   },
   {
@@ -6955,6 +7825,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.998,
     "price": 1417000
   },
   {
@@ -6969,6 +7841,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 74.391,
     "price": 10000
   },
   {
@@ -6984,6 +7858,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 71.972,
     "price": 9000
   },
   {
@@ -7000,6 +7876,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 71.705,
     "price": 400000
   },
   {
@@ -7014,6 +7892,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 91.274,
     "price": 8000
   },
   {
@@ -7028,6 +7908,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.748,
     "price": 1598000
   },
   {
@@ -7040,6 +7922,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 84.318,
     "price": 45000
   },
   {
@@ -7052,6 +7936,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 68.669,
     "price": 65000
   },
   {
@@ -7069,6 +7955,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 69.035,
     "price": 438000
   },
   {
@@ -7086,6 +7974,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.749,
     "price": 325000
   },
   {
@@ -7103,6 +7993,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1429000
   },
   {
@@ -7118,6 +8010,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 81.348,
     "price": 1272000
   },
   {
@@ -7135,6 +8029,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 73.54,
     "price": 10000
   },
   {
@@ -7147,6 +8043,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 74.191,
     "price": 10000
   },
   {
@@ -7163,6 +8061,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 86.268,
     "price": 30000
   },
   {
@@ -7178,6 +8078,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 74.908,
     "price": 250000
   },
   {
@@ -7192,6 +8094,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 74.643,
     "price": 38000
   },
   {
@@ -7206,6 +8110,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 70.872,
     "price": 55000
   },
   {
@@ -7220,6 +8126,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.732,
     "price": 1495000,
     "trade_price": 1121250
   },
@@ -7237,6 +8145,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 79.429,
     "price": 1650000
   },
   {
@@ -7267,6 +8177,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.306,
     "price": 120000
   },
   {
@@ -7281,6 +8193,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.823,
     "price": 1260000,
     "trade_price": 945000
   },
@@ -7296,6 +8210,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.439,
     "price": 15000
   },
   {
@@ -7310,6 +8226,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 112.511,
     "price": 550000
   },
   {
@@ -7325,6 +8243,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 87.57,
     "price": 555000
   },
   {
@@ -7341,6 +8261,8 @@
       "Service Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 85.783,
     "use_case": [
       "off-road",
       "combat"
@@ -7358,6 +8280,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 112.564,
     "price": 500000
   },
   {
@@ -7373,6 +8297,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 116.199,
     "price": 525000
   },
   {
@@ -7387,6 +8313,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.992,
     "price": 1300000
   },
   {
@@ -7401,6 +8329,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 126.477,
     "price": 1842050,
     "trade_price": 1385000
   },
@@ -7417,6 +8347,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 104.688,
     "price": 30000
   },
   {
@@ -7431,6 +8363,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 75.776,
     "price": 650000,
     "trade_price": 487500
   },
@@ -7443,7 +8377,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/79/Tourbus-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20230412184344",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 104.653
   },
   {
     "name": "Trashmaster",
@@ -7468,6 +8404,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 76.143,
     "price": 658350,
     "trade_price": 495000
   },
@@ -7487,6 +8425,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.18,
     "price": 1675000
   },
   {
@@ -7505,6 +8445,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.546,
     "price": 575000
   },
   {
@@ -7522,6 +8464,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 63.847,
     "price": 2075000
   },
   {
@@ -7536,6 +8480,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.096,
     "price": 718000
   },
   {
@@ -7554,6 +8500,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.056,
     "price": 120000
   },
   {
@@ -7572,6 +8520,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.002,
     "price": 130000
   },
   {
@@ -7584,6 +8534,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 65.315,
     "price": 150000
   },
   {
@@ -7599,7 +8551,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.112
   },
   {
     "name": "Banshee",
@@ -7616,6 +8570,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 65.131,
     "price": 105000
   },
   {
@@ -7634,6 +8590,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.621,
     "price": 1989500
   },
   {
@@ -7648,6 +8606,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.035,
     "price": 610000
   },
   {
@@ -7662,6 +8622,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 74.208,
     "price": 42000
   },
   {
@@ -7674,6 +8636,8 @@
     "stores": [],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 68.135,
     "price": 35000
   },
   {
@@ -7691,6 +8655,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.601,
     "price": 96000
   },
   {
@@ -7708,6 +8674,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.963,
     "price": 1995000,
     "trade_price": 1496250
   },
@@ -7723,6 +8691,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 65.282,
     "price": 195000
   },
   {
@@ -7744,6 +8714,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 63.846,
     "price": 100000
   },
   {
@@ -7760,6 +8732,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.615,
     "price": 645000
   },
   {
@@ -7777,6 +8751,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.715,
     "price": 1878000,
     "trade_price": 1408500,
     "use_case": [
@@ -7798,6 +8774,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.298,
     "price": 1797000
   },
   {
@@ -7814,6 +8792,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 66.149,
     "price": 710000
   },
   {
@@ -7831,6 +8811,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.778,
     "price": 1145000,
     "use_case": [
       "racing"
@@ -7848,6 +8830,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 65.416,
     "price": 138000
   },
   {
@@ -7862,6 +8846,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.797,
     "price": 1510000
   },
   {
@@ -7878,6 +8864,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.861,
     "price": 1730000
   },
   {
@@ -7892,6 +8880,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.812,
     "price": 1795000
   },
   {
@@ -7908,6 +8898,8 @@
       "Drift Tuning"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.231,
     "price": 1550000,
     "trade_price": 1162500
   },
@@ -7941,6 +8933,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.212,
     "price": 904000
   },
   {
@@ -7962,6 +8956,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.279,
     "price": 95000,
     "use_case": [
       "racing",
@@ -7983,6 +8979,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.86,
     "price": 2472000
   },
   {
@@ -8019,6 +9017,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.913,
     "price": 145000
   },
   {
@@ -8043,6 +9043,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.097,
     "price": 1675000
   },
   {
@@ -8057,6 +9059,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.735,
     "price": 448000
   },
   {
@@ -8071,6 +9075,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.902,
     "price": 36000
   },
   {
@@ -8122,7 +9128,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.112
   },
   {
     "name": "GB200",
@@ -8136,6 +9144,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.443,
     "price": 940000
   },
   {
@@ -8149,7 +9159,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 74.217
   },
   {
     "name": "Growler",
@@ -8163,6 +9175,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.996,
     "price": 1627000,
     "trade_price": 1220050
   },
@@ -8178,6 +9192,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.487,
     "price": 1790000,
     "trade_price": 1342500
   },
@@ -8193,6 +9209,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.266,
     "price": 1810000
   },
   {
@@ -8207,6 +9225,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.3,
     "price": 830000,
     "trade_price": 622500
   },
@@ -8225,6 +9245,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.06,
     "price": 2165000
   },
   {
@@ -8242,6 +9264,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.961,
     "price": 897000
   },
   {
@@ -8256,6 +9280,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 59.359,
     "price": 1965000
   },
   {
@@ -8267,7 +9293,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/stingertt.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.829
   },
   {
     "name": "Itali RSX",
@@ -8281,6 +9309,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.844,
     "price": 3465000,
     "trade_price": 2598750,
     "use_case": [
@@ -8300,6 +9330,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.98,
     "price": 240000
   },
   {
@@ -8314,6 +9346,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.396,
     "price": 350000
   },
   {
@@ -8346,7 +9380,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/jester5.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.379
   },
   {
     "name": "Jugular",
@@ -8362,6 +9398,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.371,
     "price": 1225000,
     "trade_price": 918750
   },
@@ -8379,6 +9417,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.668,
     "price": 100000
   },
   {
@@ -8396,6 +9436,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.165,
     "price": 1700000,
     "trade_price": 1275000
   },
@@ -8413,6 +9455,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.15,
     "price": 126350,
     "trade_price": 95000
   },
@@ -8429,6 +9473,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.701,
     "price": 698250,
     "trade_price": 525000,
     "use_case": [
@@ -8452,6 +9498,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.811,
     "price": 1990000
   },
   {
@@ -8468,6 +9516,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 64.981,
     "price": 1625000
   },
   {
@@ -8496,6 +9546,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 66.082,
     "price": 1735000
   },
   {
@@ -8513,6 +9565,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.364,
     "price": 275000
   },
   {
@@ -8530,6 +9584,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.213,
     "price": 385000,
     "use_case": [
       "racing"
@@ -8550,6 +9606,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 60.977,
     "price": 1875000
   },
   {
@@ -8564,6 +9622,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.196,
     "price": 1500000
   },
   {
@@ -8579,7 +9639,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 62.112
   },
   {
     "name": "Niobe",
@@ -8597,6 +9659,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 59.726,
     "price": 1880000
   },
   {
@@ -8611,6 +9675,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.399,
     "price": 701000,
     "use_case": [
       "racing",
@@ -8632,6 +9698,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.431,
     "price": 1795000
   },
   {
@@ -8646,6 +9714,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 66.133,
     "price": 2170000
   },
   {
@@ -8663,6 +9733,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.361,
     "price": 905000
   },
   {
@@ -8676,7 +9748,9 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 61.426
   },
   {
     "name": "Paragon S",
@@ -8693,6 +9767,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.443,
     "price": 2010000
   },
   {
@@ -8736,6 +9812,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 60.644,
     "price": 1420000,
     "use_case": [
       "racing",
@@ -8754,6 +9832,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 71.823,
     "price": 24000
   },
   {
@@ -8768,6 +9848,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 63.798,
     "price": 1380000
   },
   {
@@ -8785,6 +9867,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 63.697,
     "price": 1375000
   },
   {
@@ -8799,6 +9883,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.475,
     "price": 132000
   },
   {
@@ -8816,6 +9902,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 61.395,
     "price": 2705500
   },
   {
@@ -8833,6 +9921,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 71.271,
     "price": 648000
   },
   {
@@ -8870,6 +9960,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.115,
     "price": 1610000
   },
   {
@@ -8901,6 +9993,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.784,
     "price": 430000
   },
   {
@@ -8917,6 +10011,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 65.265,
     "price": 1995000
   },
   {
@@ -8934,6 +10030,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 68.869,
     "price": 208000
   },
   {
@@ -8951,6 +10049,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.598,
     "price": 116000
   },
   {
@@ -8965,6 +10065,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 63.462,
     "price": 1300000
   },
   {
@@ -8979,6 +10081,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 70.671,
     "price": 80000
   },
   {
@@ -9013,6 +10117,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 62.045,
     "price": 2172000,
     "trade_price": 1629000
   },
@@ -9028,6 +10134,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 63.881,
     "price": 695000
   },
   {
@@ -9042,6 +10150,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.481,
     "price": 2115000
   },
   {
@@ -9056,6 +10166,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.082,
     "price": 599000
   },
   {
@@ -9072,6 +10184,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.047,
     "price": 252000
   },
   {
@@ -9087,6 +10201,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 66.8,
     "price": 535000
   },
   {
@@ -9101,6 +10217,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 71.872,
     "price": 500000
   },
   {
@@ -9115,6 +10233,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 68.786,
     "price": 1224000,
     "trade_price": 918000
   },
@@ -9130,6 +10250,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 64.982,
     "price": 12000
   },
   {
@@ -9144,6 +10266,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 62.145,
     "price": 1718000,
     "trade_price": 1288500
   },
@@ -9159,6 +10283,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.747,
     "price": 1789000,
     "trade_price": 1341750
   },
@@ -9175,6 +10301,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.38,
     "price": 110000
   },
   {
@@ -9189,6 +10317,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 65.766,
     "price": 816000
   },
   {
@@ -9206,6 +10336,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 64.114,
     "price": 1285000
   },
   {
@@ -9220,6 +10352,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 62.762,
     "price": 1785000,
     "trade_price": 1338750
   },
@@ -9235,6 +10369,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 64.582,
     "price": 695000
   },
   {
@@ -9248,7 +10384,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 74.925
   },
   {
     "name": "Veto Modern",
@@ -9261,7 +10399,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 71.204
   },
   {
     "name": "ZR350",
@@ -9292,6 +10432,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.887,
     "price": 900000
   },
   {
@@ -9310,6 +10452,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 64.265,
     "price": 1150000
   },
   {
@@ -9328,6 +10472,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1475500
   },
   {
@@ -9342,6 +10488,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 69.903,
     "price": 904400,
     "trade_price": 680000
   },
@@ -9361,6 +10509,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.339,
     "price": 145000
   },
   {
@@ -9375,6 +10525,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 64.082,
     "price": 865000
   },
   {
@@ -9391,6 +10543,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.671,
     "price": 665000
   },
   {
@@ -9405,6 +10559,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 67.05,
     "price": 1500000
   },
   {
@@ -9421,6 +10577,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 66.5,
     "price": 5750000,
     "trade_price": 4312500,
     "use_case": [
@@ -9441,6 +10599,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 83.301,
     "price": 450000
   },
   {
@@ -9455,6 +10615,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 78.395,
     "price": 335000
   },
   {
@@ -9466,7 +10628,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/feltzer3.png",
     "stores": [],
     "features": [],
-    "source": "durtyfree"
+    "source": "durtyfree",
+    "racing_tier": "C",
+    "racing_lap_time": 65.715
   },
   {
     "name": "Fränken Stange",
@@ -9480,6 +10644,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.126,
     "price": 550000
   },
   {
@@ -9494,6 +10660,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.139,
     "price": 785000
   },
   {
@@ -9511,6 +10679,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 1247000
   },
   {
@@ -9525,6 +10695,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 66.049,
     "price": 915000
   },
   {
@@ -9542,6 +10714,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 2025000
   },
   {
@@ -9556,6 +10730,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.571,
     "price": 350000
   },
   {
@@ -9574,6 +10750,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 71.554,
     "price": 1470000,
     "use_case": [
       "fun",
@@ -9612,6 +10790,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 63.413,
     "price": 1950500
   },
   {
@@ -9626,6 +10806,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 71.454,
     "price": 995000
   },
   {
@@ -9640,6 +10822,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 82.432,
     "price": 10000
   },
   {
@@ -9654,6 +10838,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.138,
     "price": 1225000
   },
   {
@@ -9668,6 +10854,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 70.587,
     "price": 490000
   },
   {
@@ -9699,6 +10887,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 83.517,
     "price": 38000
   },
   {
@@ -9715,6 +10905,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 75.61,
     "price": 620000
   },
   {
@@ -9729,6 +10921,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 68.969,
     "price": 400000
   },
   {
@@ -9743,6 +10937,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 65.148,
     "price": 885000
   },
   {
@@ -9757,6 +10953,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 67.935,
     "price": 615000
   },
   {
@@ -9771,6 +10969,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 65.165,
     "price": 1620000,
     "trade_price": 1215000
   },
@@ -9788,6 +10988,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 76.497,
     "price": 750000
   },
   {
@@ -9804,6 +11006,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 74.925,
     "price": 982000
   },
   {
@@ -9822,6 +11026,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 67.167,
     "price": 990000
   },
   {
@@ -9836,6 +11042,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.622,
     "price": 850000
   },
   {
@@ -9853,6 +11061,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 72.289,
     "price": 875000
   },
   {
@@ -9869,6 +11079,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 67.351,
     "price": 2500000,
     "trade_price": 1875000,
     "use_case": [
@@ -9891,6 +11103,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 66.183,
     "price": 909000
   },
   {
@@ -9907,6 +11121,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 56.624,
     "price": 4250000,
     "use_case": [
       "combat",
@@ -9929,6 +11145,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 65.182,
     "price": 998000
   },
   {
@@ -9943,6 +11161,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "O",
+    "racing_lap_time": 85.084,
     "price": 30000
   },
   {
@@ -9959,6 +11179,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "N",
+    "racing_lap_time": 83.166,
     "price": 375000
   },
   {
@@ -9973,6 +11195,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 77.51,
     "price": 378000
   },
   {
@@ -9989,6 +11213,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 63.847,
     "price": 705000,
     "use_case": [
       "racing",
@@ -10009,6 +11235,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 63.23,
     "price": 1140000
   },
   {
@@ -10027,6 +11255,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 66.533,
     "price": 875000
   },
   {
@@ -10044,6 +11274,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 68.936,
     "price": 950000,
     "use_case": [
       "collector"
@@ -10064,6 +11296,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 67.501,
     "price": 812000
   },
   {
@@ -10081,6 +11315,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 62.946,
     "price": 1135000,
     "use_case": [
       "racing",
@@ -10099,6 +11335,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 64.365,
     "price": 1000000,
     "use_case": [
       "racing",
@@ -10117,6 +11355,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.776,
     "price": 1955000
   },
   {
@@ -10133,6 +11373,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 63.93,
     "price": 565000,
     "use_case": [
       "racing"
@@ -10154,6 +11396,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 67.45,
     "price": 155000
   },
   {
@@ -10172,6 +11416,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 64.532,
     "price": 3750000,
     "trade_price": 2812500
   },
@@ -10189,6 +11435,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 62.396,
     "price": 650000
   },
   {
@@ -10206,6 +11454,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.312,
     "price": 1890000
   },
   {
@@ -10222,6 +11472,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.66,
     "price": 2250000
   },
   {
@@ -10255,6 +11507,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 60.01,
     "price": 1795000,
     "use_case": [
       "racing",
@@ -10273,6 +11527,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 57.624,
     "price": 2750000,
     "use_case": [
       "racing",
@@ -10295,6 +11551,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 63.196,
     "price": 2355000,
     "use_case": [
       "racing",
@@ -10313,6 +11571,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.678,
     "price": 795000
   },
   {
@@ -10327,6 +11587,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 64.081,
     "price": 2305000
   },
   {
@@ -10344,6 +11606,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 60.593,
     "price": 1995000,
     "use_case": [
       "racing"
@@ -10364,6 +11628,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.428,
     "price": 1750000,
     "use_case": [
       "collector",
@@ -10386,6 +11652,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 2965000
   },
   {
@@ -10400,6 +11668,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.594,
     "price": 2740000,
     "trade_price": 2055000
   },
@@ -10418,6 +11688,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 63.097,
     "price": 1260000,
     "use_case": [
       "racing",
@@ -10439,6 +11711,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.742,
     "price": 2765000
   },
   {
@@ -10458,6 +11732,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 62.462,
     "price": 440000
   },
   {
@@ -10472,6 +11748,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.311,
     "price": 1189000
   },
   {
@@ -10488,6 +11766,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 62.145,
     "price": 495000
   },
   {
@@ -10504,6 +11784,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 57.924,
     "price": 2875000,
     "use_case": [
       "racing",
@@ -10522,6 +11804,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.658,
     "price": 2915000
   },
   {
@@ -10539,6 +11823,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 2697500
   },
   {
@@ -10553,6 +11839,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.394,
     "price": 1440000
   },
   {
@@ -10569,6 +11857,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.827,
     "price": 605000,
     "use_case": [
       "collector",
@@ -10587,6 +11877,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.794,
     "price": 1950000,
     "use_case": [
       "collector",
@@ -10606,6 +11898,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 61.862,
     "price": 880000
   },
   {
@@ -10623,6 +11917,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.541,
     "price": 2950000
   },
   {
@@ -10640,6 +11936,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 59.076,
     "price": 2475000
   },
   {
@@ -10654,6 +11952,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 62.112,
     "price": 1595000
   },
   {
@@ -10668,6 +11968,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 59.209,
     "price": 3830400,
     "trade_price": 2880000,
     "use_case": [
@@ -10690,6 +11992,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.959,
     "price": 2575000
   },
   {
@@ -10707,6 +12011,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 63.03,
     "price": 1603000
   },
   {
@@ -10723,6 +12029,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 57.775,
     "price": 4000000,
     "use_case": [
       "combat",
@@ -10743,6 +12051,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 64.03,
     "price": 795000
   },
   {
@@ -10759,6 +12069,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.543,
     "price": 3074500
   },
   {
@@ -10773,6 +12085,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.778,
     "price": 2200000,
     "use_case": [
       "collector",
@@ -10791,6 +12105,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 65.699,
     "price": 1980000
   },
   {
@@ -10805,6 +12121,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 60.243,
     "price": 1329000
   },
   {
@@ -10819,6 +12137,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.678,
     "price": 2825000
   },
   {
@@ -10833,6 +12153,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.893,
     "price": 2325000
   },
   {
@@ -10850,6 +12172,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.643,
     "price": 2310000
   },
   {
@@ -10867,6 +12191,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.577,
     "price": 2890000
   },
   {
@@ -10884,6 +12210,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 57.775,
     "price": 2845000
   },
   {
@@ -10898,6 +12226,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.578,
     "price": 500000
   },
   {
@@ -10912,6 +12242,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.86,
     "price": 2515000
   },
   {
@@ -10929,6 +12261,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 61.21,
     "price": 2550000
   },
   {
@@ -10947,6 +12281,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 63.864,
     "price": 240000
   },
   {
@@ -10961,6 +12297,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 58.892,
     "price": 1535000,
     "use_case": [
       "racing"
@@ -10980,6 +12318,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 55.872,
     "price": 3750000,
     "use_case": [
       "combat",
@@ -11001,6 +12341,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 59.293,
     "price": 2980000,
     "trade_price": 2235000
   },
@@ -11016,6 +12358,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 60.411,
     "price": 2250000
   },
   {
@@ -11030,6 +12374,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 65.315,
     "price": 150000
   },
   {
@@ -11048,6 +12394,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 57.824,
     "price": 4500000
   },
   {
@@ -11065,6 +12413,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "price": 2885000
   },
   {
@@ -11079,6 +12429,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.677,
     "price": 2700000,
     "use_case": [
       "collector",
@@ -11100,6 +12452,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 59.459,
     "price": 2375000
   },
   {
@@ -11114,6 +12468,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 61.328,
     "price": 2820000
   },
   {
@@ -11131,6 +12487,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.878,
     "price": 725000
   },
   {
@@ -11148,6 +12506,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 60.815,
     "price": 1925000
   },
   {
@@ -11165,6 +12525,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.989,
     "price": 1835000
   },
   {
@@ -11179,6 +12541,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.999,
     "price": 1580000
   },
   {
@@ -11195,6 +12559,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 66.567,
     "price": 1720000
   },
   {
@@ -11206,7 +12572,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/Baller-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193111",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 78.863
   },
   {
     "name": "Baller LE",
@@ -11222,6 +12590,8 @@
       "Imani Tech"
     ],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 73.374,
     "price": 149000
   },
   {
@@ -11239,6 +12609,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 73.796,
     "price": 374000
   },
   {
@@ -11256,6 +12628,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 73.874,
     "price": 247000
   },
   {
@@ -11273,6 +12647,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 74.292,
     "price": 513000
   },
   {
@@ -11287,6 +12663,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 68.118,
     "price": 890000,
     "trade_price": 667500
   },
@@ -11305,6 +12683,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.214,
     "price": 1715000
   },
   {
@@ -11319,6 +12699,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 79.012,
     "price": 27000
   },
   {
@@ -11333,6 +12715,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 63.864,
     "price": 1650000
   },
   {
@@ -11347,6 +12731,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 79.125,
     "price": 60000
   },
   {
@@ -11364,6 +12750,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 69.47,
     "price": 1665000
   },
   {
@@ -11381,6 +12769,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 69.27,
     "price": 250000
   },
   {
@@ -11395,6 +12785,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 71.188,
     "price": 1375000
   },
   {
@@ -11406,7 +12798,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/db/Dubsta-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193131",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 75.409
   },
   {
     "name": "Everon RS",
@@ -11423,6 +12817,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.147,
     "price": 1665000
   },
   {
@@ -11437,6 +12833,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 77.411,
     "price": 50000
   },
   {
@@ -11451,6 +12849,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 75.643,
     "price": 35000
   },
   {
@@ -11469,6 +12869,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 74.124,
     "price": 2000000,
     "trade_price": 1500000
   },
@@ -11484,6 +12886,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 78.094,
     "price": 29000
   },
   {
@@ -11498,6 +12902,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 77.711,
     "price": 42000
   },
   {
@@ -11512,6 +12918,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 72.239,
     "price": 195000
   },
   {
@@ -11526,6 +12934,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 68.985,
     "price": 1729000
   },
   {
@@ -11542,6 +12952,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 69.219,
     "price": 1835000
   },
   {
@@ -11560,6 +12972,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 68.101,
     "price": 1650000,
     "trade_price": 1237500
   },
@@ -11575,6 +12989,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 77.16,
     "price": 58000
   },
   {
@@ -11589,6 +13005,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 76.526,
     "price": 1220000
   },
   {
@@ -11617,6 +13035,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 65.683,
     "price": 608000
   },
   {
@@ -11636,6 +13056,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 81.866,
     "price": 50000
   },
   {
@@ -11650,6 +13072,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "M",
+    "racing_lap_time": 84.05,
     "price": 611800,
     "trade_price": 460000
   },
@@ -11665,6 +13089,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 74.601,
     "price": 32000
   },
   {
@@ -11679,6 +13105,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 66.565,
     "price": 1175000
   },
   {
@@ -11693,6 +13121,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 75.041,
     "price": 85000
   },
   {
@@ -11707,6 +13137,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "L",
+    "racing_lap_time": 80.263,
     "price": 30000
   },
   {
@@ -11721,6 +13153,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 76.326,
     "price": 678000
   },
   {
@@ -11735,6 +13169,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 75.375,
     "price": 60000
   },
   {
@@ -11749,6 +13185,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 75.743,
     "price": 1130000,
     "trade_price": 847500
   },
@@ -11764,6 +13202,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 64.765,
     "price": 498000,
     "use_case": [
       "combat",
@@ -11784,6 +13224,8 @@
       "HSW Performance Upgrade"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 68.452,
     "price": 1605000
   },
   {
@@ -11802,6 +13244,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 69.035,
     "price": 1611000
   },
   {
@@ -11819,6 +13263,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 74.541,
     "price": 253000
   },
   {
@@ -11836,6 +13282,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 70.888,
     "price": 522000
   },
   {
@@ -11847,7 +13295,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f9/Airtug-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018175626",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 202.636
   },
   {
     "name": "Army Trailer",
@@ -11869,7 +13319,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/BaleTrailer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20170724215623",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null
   },
   {
     "name": "Boat Trailer",
@@ -11902,7 +13354,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/Docktug-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180059",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 115.887
   },
   {
     "name": "Fieldmaster",
@@ -11913,7 +13367,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/11/Fieldmaster-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160626144225",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 171.472
   },
   {
     "name": "Forklift",
@@ -11924,7 +13380,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/forklift.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 163.408
   },
   {
     "name": "Graintrailer",
@@ -11935,7 +13393,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/57/GrainTrailer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20170724215627",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null
   },
   {
     "name": "Keitora",
@@ -11963,7 +13423,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/mower.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 388.204
   },
   {
     "name": "Mobile Operations Center",
@@ -11980,6 +13442,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": null,
     "use_case": [
       "utility"
     ]
@@ -11993,7 +13457,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/08/Ripley-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180754",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 114.014
   },
   {
     "name": "Sadler",
@@ -12007,6 +13473,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 78.945,
     "price": 35000
   },
   {
@@ -12018,7 +13486,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3a/ScrapTruck-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160520164314",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 104.038
   },
   {
     "name": "Slamtruck",
@@ -12032,6 +13502,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 88.956,
     "price": 1310000
   },
   {
@@ -12054,7 +13526,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/Tractor-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018181109",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 202.991
   },
   {
     "name": "Trailer",
@@ -12092,6 +13566,8 @@
       "Weaponized Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 80.764,
     "price": 1300000,
     "trade_price": 975000,
     "use_case": [
@@ -12110,6 +13586,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 79.529,
     "price": 30000
   },
   {
@@ -12124,6 +13602,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "E",
+    "racing_lap_time": 84.551,
     "price": 23000
   },
   {
@@ -12135,7 +13615,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/boxville.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 107.324
   },
   {
     "name": "Boxville (LSDS)",
@@ -12149,6 +13631,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 107.324,
     "price": 475000,
     "trade_price": 356250
   },
@@ -12164,6 +13648,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 81.848,
     "price": 598500,
     "trade_price": 450000
   },
@@ -12176,7 +13662,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/burrito.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": null,
+    "racing_lap_time": 88.154
   },
   {
     "name": "Camper",
@@ -12187,7 +13675,9 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/camper.png",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "I",
+    "racing_lap_time": 103.887
   },
   {
     "name": "Clown Van",
@@ -12198,7 +13688,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/ClownVan-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20151222204023",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 86.353
   },
   {
     "name": "Gang Burrito",
@@ -12228,6 +13720,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 105.839,
     "price": 15000
   },
   {
@@ -12242,6 +13736,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "H",
+    "racing_lap_time": 100.184,
     "price": 790000,
     "trade_price": 592500
   },
@@ -12258,6 +13754,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 82.632,
     "price": 30000
   },
   {
@@ -12274,6 +13772,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "A",
+    "racing_lap_time": 79.263,
     "price": 330000
   },
   {
@@ -12288,6 +13788,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 82.799,
     "price": 25000
   },
   {
@@ -12299,7 +13801,9 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e9/SunsetBleachPony-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20180608153229",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "F",
+    "racing_lap_time": 86.603
   },
   {
     "name": "Rumpo",
@@ -12313,6 +13817,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 82.766,
     "price": 13000
   },
   {
@@ -12329,6 +13835,8 @@
       "Missile Lock-On Jammer"
     ],
     "source": "wiki",
+    "racing_tier": "S",
+    "racing_lap_time": 77.026,
     "price": 130000
   },
   {
@@ -12342,7 +13850,9 @@
       "Premium Deluxe Motorsport"
     ],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "C",
+    "racing_lap_time": 81.965
   },
   {
     "name": "Speedo Custom",
@@ -12377,6 +13887,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 108.676,
     "price": 11000
   },
   {
@@ -12391,6 +13903,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "J",
+    "racing_lap_time": 105.438,
     "price": 590000,
     "trade_price": 442500
   },
@@ -12406,6 +13920,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "K",
+    "racing_lap_time": 106.607,
     "price": 345000,
     "trade_price": 258750
   },
@@ -12422,6 +13938,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "D",
+    "racing_lap_time": 82.516,
     "price": 16000
   },
   {
@@ -12437,6 +13955,8 @@
     ],
     "features": [],
     "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 89.289,
     "price": 195000
   },
   {
@@ -12453,6 +13973,8 @@
       "Custom Vehicle"
     ],
     "source": "wiki",
+    "racing_tier": "B",
+    "racing_lap_time": 80.796,
     "price": 1288000
   },
   {
@@ -12464,6 +13986,8 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/33/YougaCustom-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250320150040",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "racing_tier": "G",
+    "racing_lap_time": 88.638
   }
 ]
