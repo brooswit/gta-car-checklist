@@ -772,7 +772,31 @@ Promise.all([
 
   const classes = [...new Set(vehicles.map(v => v.Class))].sort();
   const sel = document.getElementById('classFilter');
-  classes.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o); });
+  const classInfo = {
+    BOAT:         { label: 'Boats',             desc: "Purpose-built for water. Slower than expected, faster than they look." },
+    COMMERCIAL:   { label: 'Commercial',        desc: "Built for cargo and delivery. Utilitarian to the point of dullness." },
+    COMPACT:      { label: 'Compact Cars',      desc: "Small, cheap, nimble. Gets the job done without emptying your wallet." },
+    COUPE:        { label: 'Coupes',            desc: "The 2023 SAM removals left a small but competitive roster. What survives is genuinely strong." },
+    CYCLE:        { label: 'Cycles',            desc: "Bicycles and pedal-powered vehicles. Entertainment and collection pieces, not combat or racing tools." },
+    EMERGENCY:    { label: 'Emergency',         desc: "Police, fire, ambulance. The vehicles you're usually running from." },
+    HELICOPTER:   { label: 'Helicopters',       desc: "Vertical mobility on demand. Expensive, specialized, essential for certain jobs." },
+    INDUSTRIAL:   { label: 'Industrial',        desc: "Forklifts, tractors, and heavy lifting. Nobody races these, but that's the point." },
+    MILITARY:     { label: 'Military Vehicles', desc: "Weaponized and armored. Slow, but built to take everything and keep going." },
+    MOTORCYCLE:   { label: 'Motorcycles',       desc: "Absurdly fast, absurdly fragile. One bump and you're airborne." },
+    MUSCLE:       { label: 'Muscle Cars',       desc: "Raw power and acceleration; the handling is an afterthought. Pure muscle, no finesse." },
+    OFF_ROAD:     { label: 'Off-Road',          desc: "Purpose-built for terrain. Slow on asphalt, unstoppable off it." },
+    OPEN_WHEEL:   { label: 'Open Wheel',        desc: "Racing purity\u2014everything else stripped away. Fastest in a straight line." },
+    PLANE:        { label: 'Planes',            desc: "High-speed air transport for distance. Needs runway and commitment." },
+    SEDAN:        { label: 'Sedans',            desc: "Practical and forgettable. The choice when utility beats style." },
+    SERVICE:      { label: 'Service Vehicles',  desc: "Buses, taxis, and service trucks \u2014 built for function, not flash. Essential for specific mission needs." },
+    SPORT:        { label: 'Sports Cars',       desc: "Fast and responsive without the supercar price tag. The sensible speed choice." },
+    SPORT_CLASSIC:{ label: 'Sports Classics',   desc: "Vintage aesthetics with solid performance. Collectible flex over race car." },
+    SUPER:        { label: 'Supercars',         desc: "The fastest, most expensive cars in the game. Buy for racing legitimacy, keep for the flex." },
+    SUV:          { label: 'SUVs',              desc: "Ranges from luxury cruisers to S-tier competitive racers and armored combat variants. Some of GTA's best racing vehicles hide in this class." },
+    UTILITY:      { label: 'Utility',           desc: "Practical workhorses for modular jobs. Function is all there is." },
+    VAN:          { label: 'Vans',              desc: "Cargo and delivery vans built for hauling goods or people. Niche mission and roleplay appeal." },
+  };
+  classes.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = classInfo[c]?.label || c; if (classInfo[c]?.desc) o.title = classInfo[c].desc; sel.appendChild(o); });
   const allStores = [...new Set(vehicles.flatMap(v => v.stores || []))].sort();
   const storeSel = document.getElementById('storeFilter');
   allStores.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; storeSel.appendChild(o); });
