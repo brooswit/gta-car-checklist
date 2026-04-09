@@ -37,7 +37,7 @@
       "unlock_methods": "Array of unlock type strings. Valid values: 'purchase', 'trade_price', 'lucky_wheel', 'returning_player', 'prime_gaming', 'completion_reward', 'research_unlock', 'cannot_acquire', 'expired'",
       "unlock_condition_note": "String \u2014 human-readable explanation of unlock condition for display",
       "use_case": "Array of use case tags. Valid values: 'racing', 'combat', 'off-road', 'transport', 'utility', 'grinding', 'collector', 'fun'. Vehicles can have multiple tags. 'grinding' = optimized for missions/heists/passive income. 'fun' = beloved/enjoyable vehicles that aren't competitively meta. 'collector' = rare/status/aesthetic.",
-      "racing_tier": "String or null. Broughy1322's 8-tier system: 'S', 'A', 'B', 'C', 'D', 'E', 'F', 'G', or null. S=best in class/race-meta, descending through G=slowest, null=not a racing vehicle.",
+      "racing_tier": "String or null. Broughy1322's tier scale (S, A\u2013O, or null). S=best in class/race-meta, descending through O=slowest, null=not a racing vehicle.",
       "racing_lap_time": "Float or null \u2014 tested lap time in seconds (source: Broughy1322). null if not applicable."
     },
     "_example": {
