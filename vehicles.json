@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:33:03.353Z",
+  "generated_at": "2026-04-09T05:39:03.525Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -25,6 +25,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "Mini-sub stored in the Kosatka; purpose-built for Cayo Perico preps.",
       "storage_type": "property:kosatka"
     },
     {
@@ -135,6 +136,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "The submersible submarine — more novelty than utility, but unforgettable to own.",
       "storage_type": "pegasus"
     },
     {
@@ -163,6 +165,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Fastest boat in the game — the benchmark for anything water-based.",
       "storage_type": "pegasus"
     },
     {
@@ -190,6 +193,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Sleek speedboat with genuine racing pedigree; the Pariah of the water class.",
       "storage_type": "pegasus"
     },
     {
@@ -244,6 +248,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Fast police boat recently made purchasable; great for water patrol roleplay and racing.",
       "storage_type": "pegasus"
     },
     {
@@ -477,6 +482,7 @@
         "combat"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "Armed speedboat that holds its own in water-based missions; niche but reliable.",
       "meta_note": "Armed boat. Very situational — only useful for specific water-based missions.",
       "storage_type": "pegasus"
     },
@@ -671,6 +677,7 @@
         "transport"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Same as Phantom Custom — a crew vehicle masquerading as a solo one.",
       "meta_note": "Used in certain Gunrunning sell missions. Situationally useful.",
       "storage_type": "garage"
     },
@@ -728,6 +735,7 @@
         "grinding"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Large crate delivery truck; needed for big Import/Export jobs, nothing more.",
       "meta_note": "Used in MC and Bunker sell missions. If you run those businesses, you'll use this.",
       "storage_type": "garage"
     },
@@ -826,6 +834,7 @@
         "transport"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Large bunker sale vehicle; painful solo, worth owning in a grinding crew.",
       "meta_note": "Required for Phantom Wedge sell missions. Situationally essential.",
       "storage_type": "garage"
     },
@@ -906,6 +915,7 @@
         "grinding"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Third large bunker sale vehicle; learn the route or it will cost you.",
       "meta_note": "Used in MC sell missions. Situationally useful for large-stock sales.",
       "storage_type": "garage"
     },
@@ -3070,6 +3080,7 @@
         "grinding"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The Akula's less agile cousin; stealth capable but costs $3.87M for the privilege.",
       "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations.",
       "storage_type": "property:hangar"
     },
@@ -3101,6 +3112,7 @@
         "utility"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "The missile-less Buzzard; fine for fast travel, not for combat.",
       "meta_note": "Useful attack helicopter but no personal spawn perk without CEO. Step down from Buzzard Attack Chopper.",
       "storage_type": "pegasus"
     },
@@ -3259,6 +3271,7 @@
         "combat"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The best attack helicopter in the game if helicopters are your thing.",
       "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive.",
       "storage_type": "property:hangar"
     },
@@ -3426,6 +3439,7 @@
         "combat"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Big attack helicopter that costs more and performs worse than the Buzzard Attack Chopper.",
       "meta_note": "Powerful attack helicopter but too expensive for what it offers. Better options exist at lower cost.",
       "storage_type": "pegasus"
     },
@@ -3455,6 +3469,7 @@
         "combat",
         "grinding"
       ],
+      "meta_verdict": "Water-landing helicopter; the Sparrow for players without a Kosatka.",
       "storage_type": "pegasus"
     },
     {
@@ -3661,6 +3676,7 @@
         "grinding"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The old meta helicopter gunship — still fearsome, now mostly outclassed.",
       "meta_note": "Attack helicopter with side gunners. Good for co-op but outclassed by Akula solo.",
       "storage_type": "pegasus"
     },
@@ -4021,6 +4037,7 @@
         "off-road"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "Amphibious armored cannon; surprisingly capable, too slow for serious grinding.",
       "meta_note": "Armored personnel carrier. Useful but slow and expensive for what it offers.",
       "storage_type": "garage"
     },
@@ -4122,6 +4139,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Military buggy with weapons that excels at controlled chaos across any terrain.",
       "storage_type": "garage"
     },
     {
@@ -4155,6 +4173,7 @@
         "combat"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Static missile launcher needing a Facility; zero grinding applications, zero excuses.",
       "meta_note": "Massive missile launcher. Fun but impractical; too slow and unwieldy for real grind use.",
       "storage_type": "garage"
     },
@@ -4236,6 +4255,7 @@
         "combat"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Armored quad-cannon truck; decent for sales, no pretense of being subtle.",
       "meta_note": "Heavily armored with turret. Good for sell missions with a crew.",
       "storage_type": "garage"
     },
@@ -4268,6 +4288,7 @@
         "combat"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Fun RC toy; the Arcade is worth owning, but not for this specifically.",
       "meta_note": "RC toy tank. No practical grinding value whatsoever.",
       "storage_type": "garage"
     },
@@ -4324,6 +4345,7 @@
         "collector"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The classic GTA tank — slow, durable, still the most recognizable vehicle in the game.",
       "meta_note": "Classic tank. Great for chaos, poor for efficiency. Fun but not a grind staple.",
       "storage_type": "garage"
     },
@@ -4359,6 +4381,7 @@
         "combat"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "Jetpack with missiles — the most fun Facility vehicle, the least practical.",
       "meta_note": "Jetpack with weapons. Niche utility, expensive to unlock, outclassed by Oppressor Mk II.",
       "storage_type": "garage"
     },
@@ -4393,6 +4416,7 @@
         "combat"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Facility-gated tank that contributes nothing to any income loop.",
       "meta_note": "Futuristic tank. Slow and cumbersome. Outclassed for grinding; mainly a fun/novelty vehicle.",
       "storage_type": "garage"
     },
@@ -4568,6 +4592,7 @@
         "racing"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "The slower Bati; useful for setups, strictly second to the 801RR.",
       "meta_note": "Fast budget motorcycle for missions. Good early-game option.",
       "storage_type": "garage"
     },
@@ -5326,6 +5351,7 @@
         "fun"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The original scout bike; solid for off-road setups before the Acid Lab era.",
       "meta_note": "Basic off-road bike. Cheap option for wilderness missions.",
       "storage_type": "garage"
     },
@@ -5359,6 +5385,7 @@
         "utility"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Free with the Brickade 6x6 and genuinely earns its keep in Acid Lab preps.",
       "meta_note": "Used in MC sell missions. Cheap and functional for that specific use case.",
       "storage_type": "property"
     },
@@ -5471,6 +5498,7 @@
         "fun"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "The original hoverboard — fun relic, completely outclassed by the Mk II.",
       "meta_note": "Mk I rocket bike; useful but requires Mk II for full potential. Decent mid-tier grind option.",
       "storage_type": "garage"
     },
@@ -8002,6 +8030,7 @@
         "collector"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Bond car cosplay at $5.7M; the missions it unlocks don't come close to justifying it.",
       "meta_note": "Cool concept but impractical for grinding. Outclassed by Oppressor Mk II in every measurable way.",
       "storage_type": "garage"
     },
@@ -8583,6 +8612,7 @@
         "combat"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Four-barrel minigun on a muscle car; fun in missions, awkward everywhere else.",
       "meta_note": "Multiple weapon hardpoints. Good support vehicle for missions.",
       "storage_type": "garage"
     },
@@ -8955,6 +8985,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "The standard Caracara — a reliable off-road platform before the 4x4 made it obsolete.",
       "storage_type": "garage"
     },
     {
@@ -8985,6 +9016,7 @@
         "combat"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Best all-purpose off-roader — fast, stable, and handles every terrain type well.",
       "meta_note": "Decent off-road vehicle for wilderness missions. Situationally useful.",
       "storage_type": "garage"
     },
@@ -9098,6 +9130,7 @@
         "off-road",
         "collector"
       ],
+      "meta_verdict": "Six-wheel-drive monster that climbs anything; removed from stores but iconic.",
       "storage_type": "garage"
     },
     {
@@ -9156,6 +9189,7 @@
         "off-road",
         "combat"
       ],
+      "meta_verdict": "Military dune buggy — low-profile, fast, and great for open-terrain missions.",
       "storage_type": "garage"
     },
     {
@@ -9204,6 +9238,7 @@
       "use_case": [
         "off-road"
       ],
+      "meta_verdict": "New-gen off-roader from The Chop Shop that immediately earned a top-class racing spot.",
       "storage_type": "garage"
     },
     {
@@ -9572,6 +9607,7 @@
       "use_case": [
         "off-road"
       ],
+      "meta_verdict": "Top-tier off-road racer with exceptional handling on dirt and gravel.",
       "storage_type": "garage"
     },
     {
@@ -9598,6 +9634,7 @@
         "off-road",
         "fun"
       ],
+      "meta_verdict": "The monster truck — drives over everything, including common sense.",
       "storage_type": "garage"
     },
     {
@@ -9625,6 +9662,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Armored off-road with a gun; a capable poor man's Nightshark for budget players.",
       "storage_type": "garage"
     },
     {
@@ -9957,6 +9995,7 @@
         "fun",
         "combat"
       ],
+      "meta_verdict": "Tiny RC racer gated behind an Arcade; fast, low, and hilariously hard to hit.",
       "storage_type": "garage"
     },
     {
@@ -10100,6 +10139,7 @@
         "off-road",
         "fun"
       ],
+      "meta_verdict": "The classic overland truck; removed from stores but a GTA Online institution.",
       "storage_type": "garage"
     },
     {
@@ -10697,6 +10737,7 @@
         "grinding"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Flying base with vehicle workshop; overkill for most, essential for Doomsday.",
       "meta_note": "Flying base with weapon workshop. Expensive but versatile. Niche but useful for certain operations.",
       "storage_type": "property"
     },
@@ -10999,6 +11040,7 @@
         "fun"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Expensive VTOL jet with a steep learning curve; Oppressor Mk II does this job better.",
       "meta_note": "Outclassed by other aircraft for every grind purpose. High cost, low return for grinding.",
       "storage_type": "pegasus"
     },
@@ -11112,6 +11154,7 @@
         "transport"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "$10M private jet that flies exactly like the $1.1M Shamal.",
       "meta_note": "Gold-plated status symbol. Zero grinding utility. Pure flex.",
       "storage_type": "pegasus"
     },
@@ -14574,6 +14617,7 @@
         "racing"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Removed June 2023 — tiny and fast; still elite for contact missions if owned.",
       "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle.",
       "storage_type": "garage",
       "removed_from_stores": true,
@@ -16005,6 +16049,7 @@
         "racing"
       ],
       "grinding_tier": "B",
+      "meta_verdict": "Fast Benny's sport that earns its keep on quick-extract missions.",
       "meta_note": "Fast sports car with weapons. Decent for missions requiring speed and light firepower.",
       "storage_type": "garage"
     },
@@ -16634,6 +16679,7 @@
         "fun"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "Flying DeLorean with missiles — thrilling to own, terrible value next to the Mk II.",
       "meta_note": "Flying car with homing missiles. Expensive and outclassed by Oppressor Mk II, but fun and functional.",
       "storage_type": "garage"
     },
@@ -17450,6 +17496,7 @@
         "fun"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "Submersible car with torpedoes; the most creative vehicle in its class.",
       "meta_note": "Submarine car. Outclassed by Toreador but cheaper. Situational utility.",
       "storage_type": "garage"
     },
@@ -19285,6 +19332,7 @@
         "fun"
       ],
       "grinding_tier": "skip",
+      "meta_verdict": "Batman car that explodes if anyone looks at it; missiles don't compensate.",
       "meta_note": "Fast jet-powered car with missiles but no grind utility. Pure fun vehicle.",
       "storage_type": "garage"
     },
@@ -21097,6 +21145,7 @@
         "utility"
       ],
       "grinding_tier": "C",
+      "meta_verdict": "The Bunker's command trailer — essential Gunrunning infrastructure, not a combat tool.",
       "meta_note": "Research and weapon customization hub. Required for some vehicle upgrades but very slow.",
       "storage_type": "property"
     },

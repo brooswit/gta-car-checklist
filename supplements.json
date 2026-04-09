@@ -1297,7 +1297,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Basic off-road bike. Cheap option for wilderness missions."
+    "meta_note": "Basic off-road bike. Cheap option for wilderness missions.",
+    "meta_verdict": "The original scout bike; solid for off-road setups before the Acid Lab era."
   },
   "Verus": {
     "price": 192000,
@@ -1357,7 +1358,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "C",
-    "meta_note": "Armed boat. Very situational \u2014 only useful for specific water-based missions."
+    "meta_note": "Armed boat. Very situational \u2014 only useful for specific water-based missions.",
+    "meta_verdict": "Armed speedboat that holds its own in water-based missions; niche but reliable."
   },
   "Squaddie": {
     "price": 1130000,
@@ -1401,7 +1403,8 @@
       "combat",
       "fun"
     ],
-    "storage_type": "property:kosatka"
+    "storage_type": "property:kosatka",
+    "meta_verdict": "Mini-sub stored in the Kosatka; purpose-built for Cayo Perico preps."
   },
   "Kurtz 31 Patrol Boat": {
     "price": 2955000,
@@ -1409,7 +1412,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "meta_verdict": "Fastest boat in the game \u2014 the benchmark for anything water-based."
   },
   "Longfin": {
     "price": 2125000,
@@ -1418,7 +1422,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "meta_verdict": "Sleek speedboat with genuine racing pedigree; the Pariah of the water class."
   },
   "Annihilator Stealth": {
     "price": 3870000,
@@ -1436,7 +1441,8 @@
     "unlock_condition_note": "Requires a Hangar for storage. Trade price ($2,902,500) unlocks after completing The Cayo Perico Heist as leader using this vehicle as the approach.",
     "storage_type": "property:hangar",
     "grinding_tier": "C",
-    "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations."
+    "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations.",
+    "meta_verdict": "The Akula's less agile cousin; stealth capable but costs $3.87M for the privilege."
   },
   "RO-86 Alkonost": {
     "price": 4350000,
@@ -1704,7 +1710,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "New-gen off-roader from The Chop Shop that immediately earned a top-class racing spot."
   },
   "Vagrant": {
     "price": 2214000,
@@ -1865,7 +1872,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Decent off-road vehicle for wilderness missions. Situationally useful."
+    "meta_note": "Decent off-road vehicle for wilderness missions. Situationally useful.",
+    "meta_verdict": "Best all-purpose off-roader \u2014 fast, stable, and handles every terrain type well."
   },
   "Issi Sport": {
     "price": 897000,
@@ -1877,7 +1885,8 @@
     "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle.",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed June 2023 \u2014 tiny and fast; still elite for contact missions if owned."
   },
   "8F Drafter": {
     "price": 718000,
@@ -1956,7 +1965,8 @@
       "property-arcade"
     ],
     "unlock_condition_note": "Requires owning an Arcade property.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Tiny RC racer gated behind an Arcade; fast, low, and hilariously hard to hit."
   },
   "Schlagen GT": {
     "price": 1300000,
@@ -2024,7 +2034,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Armored off-road with a gun; a capable poor man's Nightshark for budget players."
   },
   "Scramjet": {
     "price": 4000000,
@@ -2119,7 +2130,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Used in MC sell missions. Situationally useful for large-stock sales."
+    "meta_note": "Used in MC sell missions. Situationally useful for large-stock sales.",
+    "meta_verdict": "Third large bunker sale vehicle; learn the route or it will cost you."
   },
   "Mule Custom": {
     "price": 95760,
@@ -2130,7 +2142,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Used in MC and Bunker sell missions. If you run those businesses, you'll use this."
+    "meta_note": "Used in MC and Bunker sell missions. If you run those businesses, you'll use this.",
+    "meta_verdict": "Large crate delivery truck; needed for big Import/Export jobs, nothing more."
   },
   "Swinger": {
     "price": 909000,
@@ -2192,7 +2205,8 @@
       "combat",
       "grinding"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "meta_verdict": "Water-landing helicopter; the Sparrow for players without a Kosatka."
   },
   "Issi Classic": {
     "price": 360000,
@@ -2215,7 +2229,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The standard Caracara \u2014 a reliable off-road platform before the 4x4 made it obsolete."
   },
   "Tezeract": {
     "price": 2825000,
@@ -2310,7 +2325,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Top-tier off-road racer with exceptional handling on dirt and gravel."
   },
   "Neon": {
     "price": 1500000,
@@ -2400,7 +2416,8 @@
     "unlock_condition_note": "Requires owning a Facility (Doomsday Heist property).",
     "storage_type": "property",
     "grinding_tier": "B",
-    "meta_note": "Flying base with weapon workshop. Expensive but versatile. Niche but useful for certain operations."
+    "meta_note": "Flying base with weapon workshop. Expensive but versatile. Niche but useful for certain operations.",
+    "meta_verdict": "Flying base with vehicle workshop; overkill for most, essential for Doomsday."
   },
   "Deluxo": {
     "price": 5750000,
@@ -2412,7 +2429,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Flying car with homing missiles. Expensive and outclassed by Oppressor Mk II, but fun and functional."
+    "meta_note": "Flying car with homing missiles. Expensive and outclassed by Oppressor Mk II, but fun and functional.",
+    "meta_verdict": "Flying DeLorean with missiles \u2014 thrilling to own, terrible value next to the Mk II."
   },
   "Stromberg": {
     "stores": [
@@ -2426,7 +2444,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Submarine car. Outclassed by Toreador but cheaper. Situational utility."
+    "meta_note": "Submarine car. Outclassed by Toreador but cheaper. Situational utility.",
+    "meta_verdict": "Submersible car with torpedoes; the most creative vehicle in its class."
   },
   "RCV": {
     "price": 3125500,
@@ -2451,7 +2470,8 @@
     "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($1,125,000) unlocks after completing \"Escort ULP\" setup as heist leader.",
     "storage_type": "garage",
     "grinding_tier": "skip",
-    "meta_note": "Massive missile launcher. Fun but impractical; too slow and unwieldy for real grind use."
+    "meta_note": "Massive missile launcher. Fun but impractical; too slow and unwieldy for real grind use.",
+    "meta_verdict": "Static missile launcher needing a Facility; zero grinding applications, zero excuses."
   },
   "Barrage": {
     "price": 2121350,
@@ -2459,7 +2479,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Military buggy with weapons that excels at controlled chaos across any terrain."
   },
   "Volatol": {
     "price": 3724000,
@@ -2557,7 +2578,8 @@
     "unlock_condition_note": "Requires owning a Hangar before Warstock listing appears. Trade price ($3,100,000) unlocks after completing 42 Air Freight Cargo source missions as MC President.",
     "storage_type": "property:hangar",
     "grinding_tier": "C",
-    "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive."
+    "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive.",
+    "meta_verdict": "The best attack helicopter in the game if helicopters are your thing."
   },
   "Cyclone": {
     "price": 1890000,
@@ -2598,7 +2620,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "skip",
-    "meta_note": "Fast jet-powered car with missiles but no grind utility. Pure fun vehicle."
+    "meta_note": "Fast jet-powered car with missiles but no grind utility. Pure fun vehicle.",
+    "meta_verdict": "Batman car that explodes if anyone looks at it; missiles don't compensate."
   },
   "Rapid GT Classic": {
     "price": 885000,
@@ -3472,7 +3495,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Fast sports car with weapons. Decent for missions requiring speed and light firepower."
+    "meta_note": "Fast sports car with weapons. Decent for missions requiring speed and light firepower.",
+    "meta_verdict": "Fast Benny's sport that earns its keep on quick-extract missions."
   },
   "Specter": {
     "price": 599000,
@@ -4304,7 +4328,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "skip",
-    "meta_note": "Gold-plated status symbol. Zero grinding utility. Pure flex."
+    "meta_note": "Gold-plated status symbol. Zero grinding utility. Pure flex.",
+    "meta_verdict": "$10M private jet that flies exactly like the $1.1M Shamal."
   },
   "Luxor": {
     "price": 1625000,
@@ -4335,7 +4360,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "skip",
-    "meta_note": "Outclassed by other aircraft for every grind purpose. High cost, low return for grinding."
+    "meta_note": "Outclassed by other aircraft for every grind purpose. High cost, low return for grinding.",
+    "meta_verdict": "Expensive VTOL jet with a steep learning curve; Oppressor Mk II does this job better."
   },
   "Duster": {
     "price": 275000,
@@ -4428,7 +4454,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The classic overland truck; removed from stores but a GTA Online institution."
   },
   "Sandking SWB": {
     "price": 38000,
@@ -4503,7 +4530,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The monster truck \u2014 drives over everything, including common sense."
   },
   "Kalahari": {
     "price": 40000,
@@ -4560,7 +4588,8 @@
       "off-road",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Military dune buggy \u2014 low-profile, fast, and great for open-terrain missions."
   },
   "Dune Buggy": {
     "price": 20000,
@@ -4579,7 +4608,8 @@
       "off-road",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Six-wheel-drive monster that climbs anything; removed from stores but iconic."
   },
   "Desert Raid": {
     "price": 695000,
@@ -4720,7 +4750,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Multiple weapon hardpoints. Good support vehicle for missions."
+    "meta_note": "Multiple weapon hardpoints. Good support vehicle for missions.",
+    "meta_verdict": "Four-barrel minigun on a muscle car; fun in missions, awkward everywhere else."
   },
   "Tampa": {
     "price": 375000,
@@ -4796,7 +4827,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "skip",
-    "meta_note": "Cool concept but impractical for grinding. Outclassed by Oppressor Mk II in every measurable way."
+    "meta_note": "Cool concept but impractical for grinding. Outclassed by Oppressor Mk II in every measurable way.",
+    "meta_verdict": "Bond car cosplay at $5.7M; the missions it unlocks don't come close to justifying it."
   },
   "Ruiner": {
     "price": 10000,
@@ -5169,7 +5201,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Mk I rocket bike; useful but requires Mk II for full potential. Decent mid-tier grind option."
+    "meta_note": "Mk I rocket bike; useful but requires Mk II for full potential. Decent mid-tier grind option.",
+    "meta_verdict": "The original hoverboard \u2014 fun relic, completely outclassed by the Mk II."
   },
   "Nightblade": {
     "price": 100000,
@@ -5419,7 +5452,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Fast budget motorcycle for missions. Good early-game option."
+    "meta_note": "Fast budget motorcycle for missions. Good early-game option.",
+    "meta_verdict": "The slower Bati; useful for setups, strictly second to the 801RR."
   },
   "Bagger": {
     "price": 16000,
@@ -5465,7 +5499,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Classic tank. Great for chaos, poor for efficiency. Fun but not a grind staple."
+    "meta_note": "Classic tank. Great for chaos, poor for efficiency. Fun but not a grind staple.",
+    "meta_verdict": "The classic GTA tank \u2014 slow, durable, still the most recognizable vehicle in the game."
   },
   "Half-track": {
     "price": 2254350,
@@ -5475,7 +5510,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Heavily armored with turret. Good for sell missions with a crew."
+    "meta_note": "Heavily armored with turret. Good for sell missions with a crew.",
+    "meta_verdict": "Armored quad-cannon truck; decent for sales, no pretense of being subtle."
   },
   "Crusader": {
     "price": 225000,
@@ -5533,7 +5569,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "C",
-    "meta_note": "Attack helicopter with side gunners. Good for co-op but outclassed by Akula solo."
+    "meta_note": "Attack helicopter with side gunners. Good for co-op but outclassed by Akula solo.",
+    "meta_verdict": "The old meta helicopter gunship \u2014 still fearsome, now mostly outclassed."
   },
   "Swift Deluxe": {
     "price": 5150000,
@@ -5576,7 +5613,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "skip",
-    "meta_note": "Powerful attack helicopter but too expensive for what it offers. Better options exist at lower cost."
+    "meta_note": "Powerful attack helicopter but too expensive for what it offers. Better options exist at lower cost.",
+    "meta_verdict": "Big attack helicopter that costs more and performs worse than the Buzzard Attack Chopper."
   },
   "Maverick": {
     "stores": [
@@ -5962,7 +6000,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Required for Phantom Wedge sell missions. Situationally essential."
+    "meta_note": "Required for Phantom Wedge sell missions. Situationally essential.",
+    "meta_verdict": "Large bunker sale vehicle; painful solo, worth owning in a grinding crew."
   },
   "Mule": {
     "price": 27000,
@@ -5978,7 +6017,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Used in certain Gunrunning sell missions. Situationally useful."
+    "meta_note": "Used in certain Gunrunning sell missions. Situationally useful.",
+    "meta_verdict": "Same as Phantom Custom \u2014 a crew vehicle masquerading as a solo one."
   },
   "Tug": {
     "stores": [
@@ -6050,7 +6090,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "meta_verdict": "Fast police boat recently made purchasable; great for water patrol roleplay and racing."
   },
   "Marquis": {
     "price": 413990,
@@ -6066,7 +6107,8 @@
       "fun",
       "utility"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "meta_verdict": "The submersible submarine \u2014 more novelty than utility, but unforgettable to own."
   },
   "Jetmax": {
     "stores": [
@@ -6112,7 +6154,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "B",
-    "meta_note": "Useful attack helicopter but no personal spawn perk without CEO. Step down from Buzzard Attack Chopper."
+    "meta_note": "Useful attack helicopter but no personal spawn perk without CEO. Step down from Buzzard Attack Chopper.",
+    "meta_verdict": "The missile-less Buzzard; fine for fast travel, not for combat."
   },
   "Valkyrie MOD.0": {
     "stores": [],
@@ -6178,7 +6221,8 @@
     "price": 1225000,
     "storage_type": "property",
     "grinding_tier": "C",
-    "meta_note": "Research and weapon customization hub. Required for some vehicle upgrades but very slow."
+    "meta_note": "Research and weapon customization hub. Required for some vehicle upgrades but very slow.",
+    "meta_verdict": "The Bunker's command trailer \u2014 essential Gunrunning infrastructure, not a combat tool."
   },
   "Insurgent Pick-Up": {
     "use_case": [
@@ -6199,7 +6243,8 @@
     "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($2,895,000) unlocks after completing the \"Khanjali\" setup mission as heist leader.",
     "storage_type": "garage",
     "grinding_tier": "skip",
-    "meta_note": "Futuristic tank. Slow and cumbersome. Outclassed for grinding; mainly a fun/novelty vehicle."
+    "meta_note": "Futuristic tank. Slow and cumbersome. Outclassed for grinding; mainly a fun/novelty vehicle.",
+    "meta_verdict": "Facility-gated tank that contributes nothing to any income loop."
   },
   "APC": {
     "use_case": [
@@ -6211,7 +6256,8 @@
     "unlock_condition_note": "Purchase unrestricted from Warstock. Trade price ($2,325,000) unlocks after completing \"Offshore Assets\" Mobile Operations mission as leader.",
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Armored personnel carrier. Useful but slow and expensive for what it offers."
+    "meta_note": "Armored personnel carrier. Useful but slow and expensive for what it offers.",
+    "meta_verdict": "Amphibious armored cannon; surprisingly capable, too slow for serious grinding."
   },
   "Brickade 6x6": {
     "use_case": [
@@ -6461,7 +6507,8 @@
     "unlock_condition_note": "Requires owning an Arcade property.",
     "storage_type": "garage",
     "grinding_tier": "skip",
-    "meta_note": "RC toy tank. No practical grinding value whatsoever."
+    "meta_note": "RC toy tank. No practical grinding value whatsoever.",
+    "meta_verdict": "Fun RC toy; the Arcade is worth owning, but not for this specifically."
   },
   "Nightmare Scarab": {
     "use_case": [
@@ -6481,7 +6528,8 @@
     "unlock_condition_note": "Requires owning a Facility. Trade price ($1,875,000) unlocks after completing The Doomsday Scenario as Heist Leader (final act of Doomsday Heist).",
     "storage_type": "garage",
     "grinding_tier": "C",
-    "meta_note": "Jetpack with weapons. Niche utility, expensive to unlock, outclassed by Oppressor Mk II."
+    "meta_note": "Jetpack with weapons. Niche utility, expensive to unlock, outclassed by Oppressor Mk II.",
+    "meta_verdict": "Jetpack with missiles \u2014 the most fun Facility vehicle, the least practical."
   },
   "Apocalypse Deathbike": {
     "use_case": [
@@ -7086,7 +7134,8 @@
     "unlock_condition_note": "Free \u2014 bundled with the Brickade 6x6 once purchased and upgraded at The Freakshop. Same First Dose + Last Dose gate.",
     "storage_type": "property",
     "grinding_tier": "B",
-    "meta_note": "Used in MC sell missions. Cheap and functional for that specific use case."
+    "meta_note": "Used in MC sell missions. Cheap and functional for that specific use case.",
+    "meta_verdict": "Free with the Brickade 6x6 and genuinely earns its keep in Acid Lab preps."
   },
   "Rampant Rocket": {
     "use_case": [
