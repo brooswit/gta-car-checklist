@@ -222,6 +222,10 @@
     <select id="sortOrder">
       <option value="class">Sort: Class</option>
       <option value="laptime">Sort: Fastest (lap time)</option>
+      <option value="price-asc">Sort: Price ↑</option>
+      <option value="price-desc">Sort: Price ↓</option>
+      <option value="speed">Sort: Top Speed</option>
+      <option value="accel">Sort: Acceleration</option>
     </select>
   </div>
   <div class="controls" style="padding-top:0">
@@ -324,32 +328,15 @@ function render() {
     return;
   }
 
-  let displayGroups = groups;
-  let sortedKeys;
-  if (sortOrder === 'laptime') {
-    const flat = [...filtered].sort((a, b) => {
-      if (a.racing_lap_time == null && b.racing_lap_time == null) return 0;
-      if (a.racing_lap_time == null) return 1;
-      if (b.racing_lap_time == null) return -1;
-      return a.racing_lap_time - b.racing_lap_time;
-    });
-    displayGroups = {};
-    flat.forEach(v => {
-      const key = v.vehicleClass || v.Class;
-      if (!displayGroups[key]) displayGroups[key] = [];
-      displayGroups[key].push(v);
-    });
-    sortedKeys = Object.keys(displayGroups);
-  } else {
-    sortedKeys = Object.keys(groups).sort();
+  function nullLast(a, b, fn) {
+    var av = fn(a), bv = fn(b);
+    if (av == null && bv == null) return 0;
+    if (av == null) return 1;
+    if (bv == null) return -1;
+    return av - bv;
   }
-  main.innerHTML = sortedKeys.map(cls => {
-    const cars = displayGroups[cls];
-    const clsOwned = cars.filter(v => owned.has(v.Hash)).length;
-    return '<div class="class-group">' +
-      '<div class="class-header"><span>' + cls + '</span><span class="class-count">' + clsOwned + ' / ' + cars.length + '</span></div>' +
-      '<div class="car-grid">' +
-      cars.map(v => {
+
+  function renderCard(v) {
         const isOwned = owned.has(v.Hash);
         const imgUrl = 'https://gtav-vehicle-database.vercel.app/vehicle-images/' + v.Name.toLowerCase() + '.png';
         return '<div class="car-item' + (isOwned ? ' owned' : '') + '" data-hash="' + v.Hash + '">' +
@@ -398,9 +385,25 @@ function render() {
             return rows ? '<div class="car-stats">' + rows + '</div>' : '';
           })([v.stat_acceleration, v.stat_braking, v.stat_traction, v.stat_handling]) +
           '</div>';
-      }).join('') +
-      '</div></div>';
-  }).join('');
+  }
+
+  if (sortOrder === 'class') {
+    main.innerHTML = Object.keys(groups).sort().map(cls => {
+      const cars = groups[cls];
+      const clsOwned = cars.filter(v => owned.has(v.Hash)).length;
+      return '<div class="class-group">' +
+        '<div class="class-header"><span>' + cls + '</span><span class="class-count">' + clsOwned + ' / ' + cars.length + '</span></div>' +
+        '<div class="car-grid">' + cars.map(renderCard).join('') + '</div></div>';
+    }).join('');
+  } else {
+    var flat = filtered.slice();
+    if (sortOrder === 'laptime')    flat.sort(function(a,b){ return nullLast(a,b,function(v){return v.racing_lap_time;}); });
+    if (sortOrder === 'price-asc')  flat.sort(function(a,b){ return nullLast(a,b,function(v){return v.price;}); });
+    if (sortOrder === 'price-desc') flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.price;}); });
+    if (sortOrder === 'speed')      flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.top_speed_mph;}); });
+    if (sortOrder === 'accel')      flat.sort(function(a,b){ return nullLast(b,a,function(v){return v.stat_acceleration;}); });
+    main.innerHTML = '<div class="class-group"><div class="car-grid">' + flat.map(renderCard).join('') + '</div></div>';
+  }
 }
 
 document.addEventListener('click', e => {
