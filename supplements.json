@@ -5,7 +5,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "_comment": "Supplementary/corrective vehicle data. Auto-bootstrapped from GTABase cache + manually maintained. Applied on top of automated sync pipeline.",
   "_format": {
@@ -777,7 +780,8 @@
       "racing",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Most forgiving top-tier super \u2014 easiest car to go fast in immediately."
   },
   "Tulip M-100": {
     "price": 1658000,
@@ -965,7 +969,8 @@
       "Legendary Motorsport"
     ],
     "_note": "HSW upgrade ($475,000) available at LS Car Meet \u2014 requires PS5/Xbox Series X|S and visiting Hao's Special Works.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Electric super with beautiful handling; immediate top-tier from day one."
   },
   "Astron Custom": {
     "price": 1720000,
@@ -1069,7 +1074,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Late addition to the super class that immediately earned a top-tier slot."
   },
   "Deity": {
     "price": 1845000,
@@ -1279,7 +1285,8 @@
     ],
     "unlock_methods": [],
     "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades (remote control, jammer, EMP) require owning an Agency ($2,010,000\u2013$2,830,000 from Dynasty 8 Executive).",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Sport class monster with Imani Tech as a bonus; best value in its class."
   },
   "Manchez Scout": {
     "price": 225000,
@@ -1297,7 +1304,10 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Brioso 300": {
     "price": 610000,
@@ -1337,7 +1347,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Best sport class car for most tracks; the safe recommendation for any racer."
   },
   "Weaponized Dinghy": {
     "price": 1850000,
@@ -1366,7 +1377,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Submarine car with homing missiles and unlimited boost. Excellent all-rounder for grinding and defense."
+    "meta_note": "Submarine car with homing missiles and unlimited boost. Excellent all-rounder for grinding and defense.",
+    "meta_verdict": "Renders Oppressor Mk II missiles irrelevant; best counter-grief car in the game."
   },
   "Sparrow": {
     "stores": [
@@ -1380,7 +1392,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "S",
-    "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package."
+    "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package.",
+    "meta_verdict": "The Kosatka's essential companion \u2014 buy it the same session."
   },
   "Avisa": {
     "price": 1545000,
@@ -1506,14 +1519,20 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Landstalker XL": {
     "price": 1220000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Penumbra FF": {
     "price": 1380000,
@@ -1541,7 +1560,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Zhaba": {
     "price": 2400000,
@@ -1623,7 +1645,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Furia": {
     "price": 2740000,
@@ -1697,14 +1722,20 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Dynasty": {
     "price": 450000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hellion": {
     "price": 835000,
@@ -1713,14 +1744,20 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Zion Classic": {
     "price": 812000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Gauntlet Hellfire": {
     "price": 745000,
@@ -1744,7 +1781,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Jugular": {
     "stores": [
@@ -1763,7 +1803,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Best overall super car; top speed and handling combined in one package."
   },
   "Locust": {
     "stores": [
@@ -1773,14 +1814,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Nebula Turbo": {
     "price": 797000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Emerus": {
     "price": 2750000,
@@ -1788,7 +1835,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Podium super that rewards smooth driving; doesn't forgive sloppy lines."
   },
   "Gauntlet Classic": {
     "price": 615000,
@@ -1804,7 +1852,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Caracara 4x4": {
     "price": 875000,
@@ -1823,7 +1874,10 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "B",
-    "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle."
+    "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle.",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "8F Drafter": {
     "price": 718000,
@@ -1837,14 +1891,20 @@
     "use_case": [
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "S80RR": {
     "price": 2575000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Thrax": {
     "price": 2325000,
@@ -1859,7 +1919,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Criminally underrated super with consistent top-three lap times."
   },
   "Vamos": {
     "price": 596000,
@@ -1867,14 +1928,20 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Deviant": {
     "price": 512000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "RC Bandito": {
     "price": 1590000,
@@ -1904,7 +1971,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Itali GTO": {
     "stores": [
@@ -1921,7 +1991,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Toros": {
     "price": 498000,
@@ -1961,7 +2034,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Excellent mobility with boost and jump. Good griefing defense and fast travel on land."
+    "meta_note": "Excellent mobility with boost and jump. Good griefing defense and fast travel on land.",
+    "meta_verdict": "Ground combat with missiles and boost; the Oppressor Mk II for non-flyers."
   },
   "Oppressor Mk II": {
     "price": 8000000,
@@ -1974,7 +2048,8 @@
     "unlock_condition_note": "Purchase unrestricted from Warstock, but weapons and boost require a Terrorbyte with Mobile Workshop. Functionally limited without it.",
     "storage_type": "garage",
     "grinding_tier": "S",
-    "meta_note": "Best all-around grind vehicle: fast travel, weaponized, griefing defense. Essential for efficient CEO/MC work."
+    "meta_note": "Best all-around grind vehicle: fast travel, weaponized, griefing defense. Essential for efficient CEO/MC work.",
+    "meta_verdict": "Buy this before anything else; it makes every other activity faster."
   },
   "Terrorbyte": {
     "price": 1375000,
@@ -1988,7 +2063,8 @@
     "unlock_condition_note": "Requires owning a Nightclub. Warstock listing does not appear without one.",
     "storage_type": "property",
     "grinding_tier": "S",
-    "meta_note": "Enables Client Jobs and Oppressor Mk II weapons/boost upgrade. Central hub for efficient grinding operations."
+    "meta_note": "Enables Client Jobs and Oppressor Mk II weapons/boost upgrade. Central hub for efficient grinding operations.",
+    "meta_verdict": "Useless without the Oppressor Mk II; completely indispensable with it."
   },
   "B-11 Strikeforce": {
     "price": 3800000,
@@ -2003,7 +2079,10 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Blimp": {
     "price": 1190350,
@@ -2058,7 +2137,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Jester Classic": {
     "price": 790000,
@@ -2072,14 +2154,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cheburek": {
     "price": 145000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Tyrant": {
     "price": 2515000,
@@ -2171,7 +2259,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hotring Sabre": {
     "price": 830000,
@@ -2187,14 +2278,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "190z": {
     "price": 900000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hustler": {
     "price": 625000,
@@ -2203,7 +2300,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Kamacho": {
     "price": 345000,
@@ -2224,28 +2324,40 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "GT500": {
     "price": 785000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Viseris": {
     "price": 875000,
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Savestra": {
     "price": 990000,
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Autarch": {
     "price": 1955000,
@@ -2261,14 +2373,20 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Streiter": {
     "price": 500000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Avenger": {
     "price": 3450000,
@@ -2365,21 +2483,28 @@
     "unlock_condition_note": "Requires both a Facility AND a Hangar to purchase and store. Trade price ($3,375,000) unlocks after completing the \"Setup: Server Farm\" mission as Doomsday Heist leader.",
     "storage_type": "pegasus",
     "grinding_tier": "A",
-    "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility."
+    "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility.",
+    "meta_verdict": "Goes off-radar; that one feature is worth every penny of the price."
   },
   "SC1": {
     "price": 1603000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Raiden": {
     "price": 1375000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Pariah": {
     "price": 1420000,
@@ -2387,7 +2512,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Fastest sports car ever tested \u2014 the benchmark everything else is measured against."
   },
   "Comet Safari": {
     "price": 710000,
@@ -2410,7 +2536,10 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "FH-1 Hunter": {
     "stores": [
@@ -2435,7 +2564,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "P-45 Nokota": {
     "price": 2653350,
@@ -2473,7 +2605,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "RM-10 Bombushka": {
     "price": 4750000,
@@ -2628,7 +2763,10 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "XLS": {
     "price": 253000,
@@ -2637,35 +2775,50 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Serrano": {
     "price": 60000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Seminole": {
     "price": 30000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rocoto": {
     "price": 85000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Radius": {
     "price": 32000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Patriot": {
     "price": 50000,
@@ -2673,7 +2826,10 @@
       "off-road",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Landstalker": {
     "price": 58000,
@@ -2681,7 +2837,10 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Huntley S": {
     "price": 195000,
@@ -2696,14 +2855,20 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Gresley": {
     "price": 29000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Granger": {
     "price": 35000,
@@ -2711,14 +2876,20 @@
       "transport",
       "utility"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "FQ 2": {
     "price": 50000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Contender": {
     "price": 250000,
@@ -2733,7 +2904,10 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "BeeJay XL": {
     "price": 27000,
@@ -2741,7 +2915,10 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Baller LE LWB (Armored)": {
     "price": 513000,
@@ -2766,7 +2943,10 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Baller LE": {
     "price": 149000,
@@ -2775,7 +2955,10 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Zentorno": {
     "price": 725000,
@@ -2789,7 +2972,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "X80 Proto": {
     "price": 2700000,
@@ -2804,7 +2990,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Visione": {
     "price": 2250000,
@@ -2825,14 +3014,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Tyrus": {
     "price": 2550000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Turismo R": {
     "price": 500000,
@@ -2884,7 +3079,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Penetrator": {
     "price": 880000,
@@ -2938,7 +3136,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "GP1": {
     "price": 1260000,
@@ -2946,7 +3147,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "FMJ": {
     "price": 1750000,
@@ -2954,21 +3158,30 @@
       "collector",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "ETR1": {
     "price": 1995000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Entity XF": {
     "price": 795000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cheetah": {
     "stores": [
@@ -2978,14 +3191,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Bullet": {
     "price": 155000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Banshee 900R": {
     "price": 565000,
@@ -3007,7 +3226,10 @@
     "use_case": [
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Turismo Classic": {
     "price": 705000,
@@ -3022,7 +3244,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Tornado Custom": {
     "price": 375000,
@@ -3043,49 +3268,70 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Stinger GT": {
     "price": 875000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Stinger": {
     "price": 850000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Roosevelt Valor": {
     "price": 982000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Roosevelt": {
     "price": 750000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Retinue": {
     "price": 615000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Pigalle": {
     "price": 400000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Peyote": {
     "price": 38000,
@@ -3120,7 +3366,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Infernus Classic": {
     "price": 915000,
@@ -3134,7 +3383,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Coquette Classic": {
     "price": 665000,
@@ -3170,7 +3422,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Tropos Rallye": {
     "stores": [
@@ -3195,7 +3450,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Sultan": {
     "stores": [
@@ -3228,14 +3486,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Schwartzer": {
     "price": 80000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Schafter V12": {
     "price": 116000,
@@ -3251,35 +3515,50 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Ruston": {
     "price": 430000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Raptor": {
     "price": 648000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rapid GT": {
     "price": 132000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Penumbra": {
     "price": 24000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Omnis": {
     "price": 701000,
@@ -3294,21 +3573,30 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Massacro": {
     "price": 275000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Lynx": {
     "price": 1735000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Kuruma (Armored)": {
     "price": 698250,
@@ -3319,7 +3607,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Best early-game grind vehicle for contact missions; near-invincible against bullets. Essential before Nightshark."
+    "meta_note": "Best early-game grind vehicle for contact missions; near-invincible against bullets. Essential before Nightshark.",
+    "meta_verdict": "Bulletproof windows for $525K \u2014 best early-game purchase by a wide margin."
   },
   "Kuruma": {
     "stores": [
@@ -3344,14 +3633,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Jester": {
     "price": 240000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Futo": {
     "price": 9000,
@@ -3359,28 +3654,40 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Fusilade": {
     "price": 36000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Furore GT": {
     "price": 448000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Feltzer": {
     "price": 145000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Elegy RH8": {
     "price": 95000,
@@ -3402,14 +3709,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Comet Retro Custom": {
     "price": 645000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Comet": {
     "price": 100000,
@@ -3417,14 +3730,20 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Carbonizzare": {
     "price": 195000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Sprunk Buffalo": {
     "price": 535000,
@@ -3439,13 +3758,19 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Buffalo": {
     "price": 35000,
     "use_case": [
       "racing"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Go Go Monkey Blista": {
     "stores": [
@@ -3494,21 +3819,30 @@
     "price": 150000,
     "use_case": [
       "racing"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "9F Cabrio": {
     "price": 130000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "9F": {
     "price": 120000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Wastelander": {
     "price": 658350,
@@ -3580,7 +3914,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Warrener": {
     "price": 120000,
@@ -3588,7 +3925,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Turreted Limo": {
     "price": 1650000,
@@ -3602,7 +3942,10 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Surge": {
     "price": 38000,
@@ -3610,7 +3953,10 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Super Diamond": {
     "price": 250000,
@@ -3618,7 +3964,10 @@
       "collector",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Stretch": {
     "price": 30000,
@@ -3632,7 +3981,10 @@
     "price": 10000,
     "use_case": [
       "transport"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Stanier": {
     "price": 10000,
@@ -3640,7 +3992,10 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Schafter V12 (Armored)": {
     "price": 325000,
@@ -3656,20 +4011,29 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Schafter": {
     "price": 65000,
     "use_case": [
       "transport"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Romero Hearse": {
     "price": 45000,
     "use_case": [
       "fun",
       "collector"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Regina": {
     "price": 8000,
@@ -3677,7 +4041,10 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Primo Custom": {
     "price": 400000,
@@ -3703,20 +4070,29 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Intruder": {
     "price": 16000,
     "use_case": [
       "fun"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Ingot": {
     "price": 9000,
     "use_case": [
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Glendale": {
     "stores": [
@@ -3737,7 +4113,10 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cognoscenti 55 (Armored)": {
     "price": 396000,
@@ -3745,7 +4124,10 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cognoscenti 55": {
     "price": 154000,
@@ -3754,7 +4136,10 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cognoscenti (Armored)": {
     "price": 558000,
@@ -3762,7 +4147,10 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cognoscenti": {
     "price": 254000,
@@ -3771,21 +4159,30 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Asterope": {
     "price": 26000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Asea": {
     "price": 12000,
     "use_case": [
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Vestra": {
     "price": 950000,
@@ -4039,7 +4436,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rusty Rebel": {
     "price": 3000,
@@ -4048,7 +4448,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rebel": {
     "price": 22000,
@@ -4056,7 +4459,10 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rancher XL": {
     "price": 9000,
@@ -4064,7 +4470,10 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Ramp Buggy": {
     "price": 3192000,
@@ -4085,7 +4494,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Near-invincible armored SUV with missile resistance. Top defensive vehicle for missions and sales."
+    "meta_note": "Near-invincible armored SUV with missile resistance. Top defensive vehicle for missions and sales.",
+    "meta_verdict": "Bulletproof and nearly missile-proof; the definitive hostile-delivery vehicle."
   },
   "Marshall": {
     "price": 500000,
@@ -4100,7 +4510,10 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Insurgent Pick-up Custom": {
     "price": 202500
@@ -4124,7 +4537,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hot Rod Blazer": {
     "price": 69000,
@@ -4132,7 +4548,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Dune FAV": {
     "price": 1130500,
@@ -4149,7 +4568,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Dubsta 6x6": {
     "price": 249000,
@@ -4174,7 +4596,10 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Bodhi": {
     "price": 25000,
@@ -4183,7 +4608,10 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Blazer Lifeguard": {
     "price": 62000,
@@ -4191,7 +4619,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Blazer Aqua": {
     "price": 1755600,
@@ -4208,7 +4639,10 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Bifta": {
     "price": 75000,
@@ -4216,7 +4650,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Voodoo Custom": {
     "price": 420000,
@@ -4270,7 +4707,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Weaponized Tampa": {
     "price": 2108050,
@@ -4364,7 +4804,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rat-Truck": {
     "price": 37500,
@@ -4381,7 +4824,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Picador": {
     "price": 9000,
@@ -4389,7 +4835,10 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Nightshade": {
     "price": 585000,
@@ -4449,7 +4898,10 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Faction Custom Donk": {
     "price": 695000,
@@ -4486,7 +4938,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Free for returning players. Bulletproof cabin, great for early grinding. Best free armored car."
+    "meta_note": "Free for returning players. Bulletproof cabin, great for early grinding. Best free armored car.",
+    "meta_verdict": "Free for returning players and better than most $2M muscle cars."
   },
   "Dominator": {
     "price": 35000,
@@ -4503,7 +4956,10 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Chino Custom": {
     "price": 180000,
@@ -4548,7 +5004,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Zombie Chopper": {
     "stores": [
@@ -4568,7 +5027,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Wolfsbane": {
     "price": 95000,
@@ -4576,7 +5038,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Vortex": {
     "price": 356000,
@@ -4601,7 +5066,10 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Thrust": {
     "price": 75000,
@@ -4609,7 +5077,10 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Sovereign": {
     "price": 90000,
@@ -4617,7 +5088,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Shotaro": {
     "price": 2225000,
@@ -4633,7 +5107,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Sanchez (Livery)": {
     "price": 7000
@@ -4644,7 +5121,10 @@
       "racing",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Ruffian": {
     "price": 10000,
@@ -4652,7 +5132,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rat Bike": {
     "price": 48000,
@@ -4660,7 +5143,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "PCJ 600": {
     "price": 9000,
@@ -4669,7 +5155,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Oppressor": {
     "price": 2750000,
@@ -4696,7 +5185,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Manchez": {
     "price": 67000,
@@ -4723,7 +5215,10 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hexer": {
     "price": 15000,
@@ -4732,14 +5227,20 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Hakuchou": {
     "price": 82000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Gargoyle": {
     "price": 120000,
@@ -4771,7 +5272,10 @@
     "use_case": [
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Faggio Mod": {
     "price": 55000,
@@ -4779,21 +5283,30 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Faggio": {
     "price": 5000,
     "use_case": [
       "fun",
       "collector"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Esskey": {
     "price": 264000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Enduro": {
     "price": 48000,
@@ -4801,7 +5314,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Double-T": {
     "stores": [
@@ -4812,7 +5328,10 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Diabolus Custom": {
     "price": 245000,
@@ -4845,7 +5364,10 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Chimera": {
     "price": 210000,
@@ -4884,7 +5406,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Fast motorcycle for contact missions. Good early-game option before Oppressor Mk II."
+    "meta_note": "Fast motorcycle for contact missions. Good early-game option before Oppressor Mk II.",
+    "meta_verdict": "Removed from stores June 2023 \u2014 if you have it, it's still elite for setups."
   },
   "Bati 801": {
     "stores": [
@@ -4904,7 +5427,10 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Avarus": {
     "price": 116000,
@@ -4912,7 +5438,10 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Akuma": {
     "price": 9000,
@@ -4920,7 +5449,10 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rhino Tank": {
     "stores": [
@@ -5084,7 +5616,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "A",
-    "meta_note": "Required for certain sell missions (vehicle cargo). Invaluable when needed."
+    "meta_note": "Required for certain sell missions (vehicle cargo). Invaluable when needed.",
+    "meta_verdict": "Import/Export large vehicles without this is a nightmare; with it, easy money."
   },
   "Buzzard Attack Chopper": {
     "price": 1750000,
@@ -5095,7 +5628,8 @@
     ],
     "storage_type": "pegasus",
     "grinding_tier": "A",
-    "meta_note": "Best budget grind vehicle before Oppressor Mk II. Fast, weaponized, spawns near you as CEO. Excellent early-game."
+    "meta_note": "Best budget grind vehicle before Oppressor Mk II. Fast, weaponized, spawns near you as CEO. Excellent early-game.",
+    "meta_verdict": "Seven years later, still the best helicopter for making money."
   },
   "Annihilator": {
     "price": 1825000,
@@ -5218,14 +5752,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Zion": {
     "price": 60000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Windsor Drop": {
     "price": 900000,
@@ -5259,63 +5799,90 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Oracle XS": {
     "price": 82000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Oracle": {
     "price": 80000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Jackal": {
     "price": 60000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Felon GT": {
     "price": 95000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Felon": {
     "price": 90000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "F620": {
     "price": 80000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Exemplar": {
     "price": 205000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Cognoscenti Cabrio": {
     "price": 185000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Rhapsody": {
     "price": 140000,
@@ -5329,7 +5896,10 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Panto": {
     "price": 85000,
@@ -5343,14 +5913,20 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Dilettante": {
     "price": 25000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Brioso R/A": {
     "price": 155000,
@@ -5556,7 +6132,8 @@
     ],
     "storage_type": "garage",
     "grinding_tier": "A",
-    "meta_note": "Weaponized, heavily armored, team-friendly. Excellent for co-op sell missions."
+    "meta_note": "Weaponized, heavily armored, team-friendly. Excellent for co-op sell missions.",
+    "meta_verdict": "The Kuruma's bigger, meaner cousin \u2014 absorbs everything and keeps moving."
   },
   "Kosatka": {
     "use_case": [
@@ -5571,7 +6148,8 @@
     "unlock_condition_note": "Warstock listing unlocks after meeting Miguel Madrazo at The Music Locker (triggered automatically once player reaches sufficient GTA Online progression).",
     "storage_type": "property",
     "grinding_tier": "S",
-    "meta_note": "Enables Cayo Perico Heist, the best solo money-maker at $1.5M+/hour; the single most important grinding purchase in the game."
+    "meta_note": "Enables Cayo Perico Heist, the best solo money-maker at $1.5M+/hour; the single most important grinding purchase in the game.",
+    "meta_verdict": "The best solo grind vehicle in the game, period."
   },
   "Speedo Custom": {
     "use_case": [
@@ -5586,7 +6164,8 @@
     "_note": "Price is $0 \u2014 free with Nightclub property.",
     "storage_type": "property",
     "grinding_tier": "A",
-    "meta_note": "Required for MC Cocaine/Meth/Cash sell missions. If you run MC businesses, you'll use this."
+    "meta_note": "Required for MC Cocaine/Meth/Cash sell missions. If you run MC businesses, you'll use this.",
+    "meta_verdict": "Comes free with your Nightclub and earns its keep every single sale mission."
   },
   "Mobile Operations Center": {
     "use_case": [
@@ -5645,7 +6224,8 @@
     "unlock_condition_note": "Complete the full First Dose + Last Dose mission chains (12 missions total). Then purchase from The Freakshop for $2,095,000.",
     "storage_type": "property",
     "grinding_tier": "S",
-    "meta_note": "Required for Acid Lab business, one of the best passive income sources. Essential for that grind path."
+    "meta_note": "Required for Acid Lab business, one of the best passive income sources. Essential for that grind path.",
+    "meta_verdict": "The best passive income vehicle added since Cayo Perico."
   },
   "Hakuchou Drag": {
     "use_case": [
@@ -5655,12 +6235,16 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The drag racing king \u2014 and more competitive in standard races than it looks."
   },
   "Mesa": {
     "use_case": [
       "off-road"
-    ]
+    ],
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Stanier LE Cruiser": {
     "stores": [
@@ -6114,7 +6698,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Open-wheel racing at its purest \u2014 unforgiving but blindingly fast."
   },
   "DR1": {
     "use_case": [
@@ -6134,7 +6719,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Fastest open-wheel car; pure racing pedigree in every single stat."
   },
   "R88": {
     "use_case": [
@@ -6217,7 +6803,10 @@
       "Legendary Motorsport"
     ],
     "_note": "Internally the Stirling GT, renamed before release (internalName: feltzer3).",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Airtug": {
     "use_case": [
@@ -6435,7 +7024,9 @@
     "stores": [],
     "_note": "Removed from Warstock Cache & Carry in the San Andreas Mercenaries update (June 2023). Was $865,000. No longer purchasable.",
     "removed_from_stores": true,
-    "_removal_note": "Removed from Warstock Cache & Carry in San Andreas Mercenaries update (June 2023)."
+    "_removal_note": "Removed from Warstock Cache & Carry in San Andreas Mercenaries update (June 2023).",
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Police Cruiser": {
     "use_case": [
@@ -6478,7 +7069,10 @@
       "fun",
       "collector"
     ],
-    "_note": "Street spawn \u2014 not sold in GTA Online."
+    "_note": "Street spawn \u2014 not sold in GTA Online.",
+    "removed_from_stores": true,
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Manchez Scout C": {
     "use_case": [
@@ -6525,7 +7119,9 @@
     ],
     "_note": "Removed from SSASA in San Andreas Mercenaries update (June 2023). Was $90,000.",
     "removed_from_stores": true,
-    "_removal_note": "Removed from Southern SA Super Autos in San Andreas Mercenaries update (June 2023)."
+    "_removal_note": "Removed from Southern SA Super Autos in San Andreas Mercenaries update (June 2023).",
+    "removal_update": "San Andreas Mercenaries",
+    "removal_date": "2023-06-13"
   },
   "Dubsta": {
     "use_case": [

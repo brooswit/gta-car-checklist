@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:23:50.491Z",
+  "generated_at": "2026-04-09T05:31:13.242Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -105,6 +105,7 @@
         "grinding"
       ],
       "grinding_tier": "S",
+      "meta_verdict": "The best solo grind vehicle in the game, period.",
       "meta_note": "Enables Cayo Perico Heist, the best solo money-maker at $1.5M+/hour; the single most important grinding purchase in the game.",
       "storage_type": "property"
     },
@@ -967,6 +968,7 @@
         "grinding"
       ],
       "grinding_tier": "S",
+      "meta_verdict": "Useless without the Oppressor Mk II; completely indispensable with it.",
       "meta_note": "Enables Client Jobs and Oppressor Mk II weapons/boost upgrade. Central hub for efficient grinding operations.",
       "storage_type": "property"
     },
@@ -1199,7 +1201,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Future Shock Issi",
@@ -1253,7 +1258,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Issi Classic",
@@ -1358,7 +1366,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rhapsody",
@@ -1436,7 +1447,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Euros X32",
@@ -1489,7 +1503,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "F620",
@@ -1514,7 +1531,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Felon",
@@ -1539,7 +1559,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Felon GT",
@@ -1564,7 +1587,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "FR36",
@@ -1616,7 +1642,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Kanjo SJ",
@@ -1667,7 +1696,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Oracle XS",
@@ -1692,7 +1724,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Postlude",
@@ -1773,7 +1808,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sentinel XS",
@@ -1877,7 +1915,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Zion Cabrio",
@@ -1902,7 +1943,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "BMX",
@@ -2542,7 +2586,9 @@
         "fun",
         "utility"
       ],
-      "removed_from_stores": true
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Outreach Faction",
@@ -2960,6 +3006,7 @@
         "combat"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Goes off-radar; that one feature is worth every penny of the price.",
       "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility.",
       "storage_type": "pegasus"
     },
@@ -3085,6 +3132,7 @@
         "utility"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Seven years later, still the best helicopter for making money.",
       "meta_note": "Best budget grind vehicle before Oppressor Mk II. Fast, weaponized, spawns near you as CEO. Excellent early-game.",
       "storage_type": "pegasus"
     },
@@ -3115,6 +3163,7 @@
         "utility"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Import/Export large vehicles without this is a nightmare; with it, easy money.",
       "meta_note": "Required for certain sell missions (vehicle cargo). Invaluable when needed.",
       "storage_type": "pegasus"
     },
@@ -3460,6 +3509,7 @@
         "utility"
       ],
       "grinding_tier": "S",
+      "meta_verdict": "The Kosatka's essential companion — buy it the same session.",
       "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package.",
       "storage_type": "pegasus"
     },
@@ -4400,7 +4450,10 @@
         "racing",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Apocalypse Deathbike",
@@ -4452,7 +4505,10 @@
         "collector",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Bagger",
@@ -4481,7 +4537,10 @@
         "collector",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Bati 801",
@@ -4539,6 +4598,7 @@
         "combat"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Removed from stores June 2023 — if you have it, it's still elite for setups.",
       "meta_note": "Fast motorcycle for contact missions. Good early-game option before Oppressor Mk II.",
       "storage_type": "garage"
     },
@@ -4647,7 +4707,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Daemon",
@@ -4669,7 +4732,10 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Daemon Custom",
@@ -4801,7 +4867,10 @@
         "racing",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Enduro",
@@ -4827,7 +4896,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Esskey",
@@ -4852,7 +4924,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Faggio",
@@ -4875,7 +4950,10 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Faggio Mod",
@@ -4901,7 +4979,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Faggio Sport",
@@ -4926,7 +5007,10 @@
       "use_case": [
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "FCR 1000",
@@ -5063,7 +5147,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Hakuchou Drag",
@@ -5088,6 +5175,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "The drag racing king — and more competitive in standard races than it looks.",
       "storage_type": "garage"
     },
     {
@@ -5118,7 +5206,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Innovation",
@@ -5144,7 +5235,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Lectro",
@@ -5292,7 +5386,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Nightblade",
@@ -5407,6 +5504,7 @@
         "combat"
       ],
       "grinding_tier": "S",
+      "meta_verdict": "Buy this before anything else; it makes every other activity faster.",
       "meta_note": "Best all-around grind vehicle: fast travel, weaponized, griefing defense. Essential for efficient CEO/MC work.",
       "storage_type": "garage"
     },
@@ -5435,7 +5533,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Pizza Boy",
@@ -5542,7 +5643,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Reever",
@@ -5597,7 +5701,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sanchez",
@@ -5629,7 +5736,10 @@
         "racing",
         "off-road"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sanchez (livery)",
@@ -5685,7 +5795,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Shinobi",
@@ -5768,7 +5881,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stryder",
@@ -5821,7 +5937,10 @@
         "racing",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vader",
@@ -5847,7 +5966,10 @@
         "racing",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vindicator",
@@ -5928,7 +6050,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Zombie Bobber",
@@ -5954,7 +6079,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Zombie Chopper",
@@ -6167,7 +6295,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Brigham",
@@ -6444,7 +6575,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Clique Wagon",
@@ -6496,7 +6630,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Deviant",
@@ -6524,7 +6661,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Dominator",
@@ -6757,6 +6897,7 @@
         "collector"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Free for returning players and better than most $2M muscle cars.",
       "meta_note": "Free for returning players. Bulletproof cabin, great for early grinding. Best free armored car.",
       "storage_type": "garage"
     },
@@ -7053,7 +7194,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Gauntlet Classic",
@@ -7203,7 +7347,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Hotknife",
@@ -7259,7 +7406,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Impaler",
@@ -7629,7 +7779,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Phoenix",
@@ -7677,7 +7830,10 @@
         "transport",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Pisswasser Dominator",
@@ -7728,7 +7884,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rat-Truck",
@@ -7809,7 +7968,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Ruiner 2000",
@@ -8112,7 +8274,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Tulip M-100",
@@ -8164,7 +8329,10 @@
         "collector",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vigero",
@@ -8190,7 +8358,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vigero ZX",
@@ -8573,7 +8744,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Blazer",
@@ -8603,7 +8777,10 @@
         "fun",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Blazer Aqua",
@@ -8657,7 +8834,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Bodhi",
@@ -8687,7 +8867,10 @@
         "fun",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Boor",
@@ -8742,7 +8925,10 @@
         "fun",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Caracara",
@@ -8938,7 +9124,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Dune FAV",
@@ -9179,7 +9368,10 @@
         "fun",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Hot Rod Blazer",
@@ -9205,7 +9397,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Injection",
@@ -9231,7 +9426,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Insurgent",
@@ -9319,6 +9517,7 @@
         "off-road"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "The Kuruma's bigger, meaner cousin — absorbs everything and keeps moving.",
       "meta_note": "Weaponized, heavily armored, team-friendly. Excellent for co-op sell missions.",
       "storage_type": "garage"
     },
@@ -9345,7 +9544,10 @@
       "use_case": [
         "off-road"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Kamacho",
@@ -9583,6 +9785,7 @@
         "combat"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Bulletproof and nearly missile-proof; the definitive hostile-delivery vehicle.",
       "meta_note": "Near-invincible armored SUV with missile resistance. Top defensive vehicle for missions and sales.",
       "storage_type": "garage"
     },
@@ -9693,7 +9896,10 @@
         "off-road",
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Ratel",
@@ -9777,7 +9983,10 @@
         "off-road",
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Riata",
@@ -9803,7 +10012,10 @@
         "off-road",
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rusty Rebel",
@@ -9830,7 +10042,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sandking SWB",
@@ -9856,7 +10071,10 @@
         "off-road",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sandking XL",
@@ -10124,7 +10342,10 @@
       "use_case": [
         "off-road"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Walton L35",
@@ -10312,6 +10533,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Open-wheel racing at its purest — unforgiving but blindingly fast.",
       "storage_type": "garage"
     },
     {
@@ -10362,6 +10584,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Fastest open-wheel car; pure racing pedigree in every single stat.",
       "storage_type": "garage"
     },
     {
@@ -11572,7 +11795,10 @@
       "use_case": [
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Asterope",
@@ -11597,7 +11823,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Asterope GZ",
@@ -11708,7 +11937,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cognoscenti (Armored)",
@@ -11737,7 +11969,10 @@
         "combat",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cognoscenti 55",
@@ -11767,7 +12002,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cognoscenti 55 (Armored)",
@@ -11796,7 +12034,10 @@
         "combat",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Deity",
@@ -11872,7 +12113,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Glendale",
@@ -11984,7 +12228,10 @@
       "use_case": [
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Intruder",
@@ -12006,7 +12253,10 @@
       "price": 16000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Minimus",
@@ -12059,7 +12309,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Primo",
@@ -12139,7 +12392,10 @@
         "transport",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rhinehart",
@@ -12188,7 +12444,10 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Schafter",
@@ -12210,7 +12469,10 @@
       "price": 65000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Schafter LWB (Armored)",
@@ -12239,7 +12501,10 @@
         "combat",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Schafter V12 (Armored)",
@@ -12324,7 +12589,10 @@
         "transport",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stanier",
@@ -12353,7 +12621,10 @@
         "fun",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stratum",
@@ -12375,7 +12646,10 @@
       "price": 10000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stretch",
@@ -12430,7 +12704,10 @@
         "collector",
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Surge",
@@ -12456,7 +12733,10 @@
         "transport",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Tailgater",
@@ -12481,7 +12761,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Tailgater S",
@@ -12586,7 +12869,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Warrener HKR",
@@ -12639,7 +12925,10 @@
         "fun",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Airport Bus",
@@ -12722,6 +13011,7 @@
         "combat"
       ],
       "grinding_tier": "S",
+      "meta_verdict": "The best passive income vehicle added since Cayo Perico.",
       "meta_note": "Required for Acid Lab business, one of the best passive income sources. Essential for that grind path.",
       "storage_type": "property"
     },
@@ -13082,7 +13372,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "9F Cabrio",
@@ -13111,7 +13404,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Alpha",
@@ -13133,7 +13429,10 @@
       "price": 150000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Apocalypse ZR380",
@@ -13289,7 +13588,10 @@
       "price": 35000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Buffalo S",
@@ -13317,7 +13619,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Calico GTF",
@@ -13348,6 +13653,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Sport class monster with Imani Tech as a bonus; best value in its class.",
       "storage_type": "garage"
     },
     {
@@ -13373,7 +13679,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Comet",
@@ -13406,7 +13715,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Comet Retro Custom",
@@ -13433,7 +13745,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Comet S2",
@@ -13545,7 +13860,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Coquette",
@@ -13570,7 +13888,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Coquette D10",
@@ -13851,7 +14172,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Flash GT",
@@ -13911,7 +14235,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Fusilade",
@@ -13936,7 +14263,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Futo",
@@ -13966,7 +14296,10 @@
         "racing",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Futo GTX",
@@ -14209,7 +14542,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Issi Sport",
@@ -14239,7 +14575,10 @@
       ],
       "grinding_tier": "B",
       "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle.",
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Itali GTO",
@@ -14316,6 +14655,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Best sport class car for most tracks; the safe recommendation for any racer.",
       "storage_type": "garage"
     },
     {
@@ -14342,7 +14682,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Jester (Racecar)",
@@ -14367,7 +14710,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Jester RR",
@@ -14562,6 +14908,7 @@
         "grinding"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Bulletproof windows for $525K — best early-game purchase by a wide margin.",
       "meta_note": "Best early-game grind vehicle for contact missions; near-invincible against bullets. Essential before Nightshark.",
       "storage_type": "garage"
     },
@@ -14619,7 +14966,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "LSCM Jester RR",
@@ -14663,7 +15013,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Massacro",
@@ -14691,7 +15044,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Massacro (Racecar)",
@@ -14719,7 +15075,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Neo",
@@ -14747,7 +15106,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Neon",
@@ -14934,7 +15296,10 @@
       "use_case": [
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Paragon R (Armored)",
@@ -15046,6 +15411,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Fastest sports car ever tested — the benchmark everything else is measured against.",
       "storage_type": "garage"
     },
     {
@@ -15071,7 +15437,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Penumbra FF",
@@ -15124,7 +15493,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rapid GT",
@@ -15149,7 +15521,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rapid GT X",
@@ -15205,7 +15580,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Remus",
@@ -15264,7 +15642,10 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "RT3000",
@@ -15317,7 +15698,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "S95",
@@ -15373,7 +15757,10 @@
         "transport",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Schafter V12",
@@ -15452,7 +15839,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sentinel Classic Widebody",
@@ -15534,7 +15924,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "SM722",
@@ -15665,7 +16058,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Sugoi",
@@ -15794,7 +16190,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Tropos Rallye",
@@ -15900,7 +16299,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Veto Classic",
@@ -16004,7 +16406,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Ardent",
@@ -16118,7 +16523,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cheetah Classic",
@@ -16252,7 +16660,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Fagaloa",
@@ -16277,7 +16688,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Feltzer Classic",
@@ -16303,7 +16717,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Fränken Stange",
@@ -16328,7 +16745,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "GT500",
@@ -16353,7 +16773,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "GT750",
@@ -16461,7 +16884,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "JB 700W",
@@ -16622,7 +17048,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Monroe",
@@ -16674,7 +17103,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Peyote",
@@ -16752,7 +17184,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rapid GT Classic",
@@ -16777,7 +17212,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Retinue",
@@ -16802,7 +17240,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Retinue Mk II",
@@ -16855,7 +17296,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Roosevelt Valor",
@@ -16882,7 +17326,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Savestra",
@@ -16911,7 +17358,10 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stinger",
@@ -16936,7 +17386,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stinger GT",
@@ -16964,7 +17417,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Stromberg",
@@ -17023,7 +17479,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Toreador",
@@ -17053,6 +17512,7 @@
         "fun"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Renders Oppressor Mk II missiles irrelevant; best counter-grief car in the game.",
       "meta_note": "Submarine car with homing missiles and unlimited boost. Excellent all-rounder for grinding and defense.",
       "storage_type": "garage"
     },
@@ -17082,7 +17542,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Tornado",
@@ -17159,7 +17622,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Turismo Classic",
@@ -17243,7 +17709,10 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Z-Type",
@@ -17271,7 +17740,10 @@
       "use_case": [
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Zion Classic",
@@ -17299,7 +17771,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "811",
@@ -17328,7 +17803,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Adder",
@@ -17435,7 +17913,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Champion",
@@ -17494,7 +17975,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cyclone",
@@ -17522,7 +18006,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cyclone II",
@@ -17549,6 +18036,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Electric super with beautiful handling; immediate top-tier from day one.",
       "storage_type": "garage"
     },
     {
@@ -17594,6 +18082,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Criminally underrated super with consistent top-three lap times.",
       "storage_type": "garage"
     },
     {
@@ -17620,6 +18109,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Podium super that rewards smooth driving; doesn't forgive sloppy lines.",
       "storage_type": "garage"
     },
     {
@@ -17650,6 +18140,7 @@
         "racing",
         "off-road"
       ],
+      "meta_verdict": "Most forgiving top-tier super — easiest car to go fast in immediately.",
       "storage_type": "garage"
     },
     {
@@ -17675,7 +18166,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Entity XXR",
@@ -17728,7 +18222,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "FMJ",
@@ -17757,7 +18254,10 @@
         "collector",
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "FMJ MK V",
@@ -17842,7 +18342,10 @@
         "racing",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Ignus",
@@ -17870,6 +18373,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Late addition to the super class that immediately earned a top-tier slot.",
       "storage_type": "garage"
     },
     {
@@ -17900,7 +18404,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Itali GTB",
@@ -17980,6 +18487,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "Best overall super car; top speed and handling combined in one package.",
       "storage_type": "garage"
     },
     {
@@ -18195,7 +18703,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Reaper",
@@ -18275,7 +18786,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "SC1",
@@ -18303,7 +18817,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Scramjet",
@@ -18332,6 +18849,7 @@
         "fun"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Ground combat with missiles and boost; the Oppressor Mk II for non-flyers.",
       "meta_note": "Excellent mobility with boost and jump. Good griefing defense and fast travel on land.",
       "storage_type": "garage"
     },
@@ -18541,7 +19059,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Torero XO",
@@ -18675,7 +19196,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vacca",
@@ -18704,7 +19228,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Vagner",
@@ -18838,7 +19365,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Weaponized Ignus",
@@ -18950,7 +19480,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Zeno",
@@ -19031,7 +19564,10 @@
       "use_case": [
         "racing"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Aleutian",
@@ -19137,7 +19673,9 @@
         "transport",
         "collector"
       ],
-      "removed_from_stores": true
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Baller LE",
@@ -19166,7 +19704,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Baller LE (Armored)",
@@ -19195,7 +19736,10 @@
         "combat",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Baller LE LWB",
@@ -19336,7 +19880,10 @@
         "transport",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Castigator",
@@ -19387,7 +19934,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Cavalcade XL",
@@ -19547,7 +20097,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Granger",
@@ -19573,7 +20126,10 @@
         "transport",
         "utility"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Granger 3600LX",
@@ -19628,7 +20184,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Habanero",
@@ -19653,7 +20212,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Huntley S",
@@ -19790,7 +20352,10 @@
         "transport",
         "fun"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Landstalker XL",
@@ -19815,7 +20380,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Mesa",
@@ -19833,7 +20401,10 @@
       "stat_handling": 21,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Novak",
@@ -19890,7 +20461,10 @@
         "off-road",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Patriot Stretch",
@@ -19942,7 +20516,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Rebla GTS",
@@ -19993,7 +20570,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Seminole",
@@ -20018,7 +20598,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Seminole Frontier",
@@ -20044,7 +20627,10 @@
         "off-road",
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Serrano",
@@ -20069,7 +20655,10 @@
       "use_case": [
         "transport"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Squaddie",
@@ -20211,7 +20800,10 @@
         "collector",
         "combat"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "XLS (Armored)",
@@ -20240,7 +20832,10 @@
         "combat",
         "collector"
       ],
-      "storage_type": "garage"
+      "storage_type": "garage",
+      "removed_from_stores": true,
+      "removal_update": "San Andreas Mercenaries",
+      "removal_date": "2023-06-13"
     },
     {
       "name": "Airtug",
@@ -21166,6 +21761,7 @@
         "grinding"
       ],
       "grinding_tier": "A",
+      "meta_verdict": "Comes free with your Nightclub and earns its keep every single sale mission.",
       "meta_note": "Required for MC Cocaine/Meth/Cash sell missions. If you run MC businesses, you'll use this.",
       "storage_type": "property"
     },

@@ -50,6 +50,8 @@ interface OutputVehicle {
   meta_note?: string | null;
   storage_type?: string | null;
   removed_from_stores?: boolean;
+  removal_update?: string | null;
+  removal_date?: string | null;
   source: string;
 }
 
@@ -309,6 +311,8 @@ interface Supplement {
   meta_note?: string | null;
   storage_type?: string | null;
   removed_from_stores?: boolean;
+  removal_update?: string | null;
+  removal_date?: string | null;
   image?: string;
   // For vehicles missing from DurtyFree:
   _missing_from_pipeline?: boolean;
@@ -601,6 +605,8 @@ async function sync() {
             meta_note: sup.meta_note,
             storage_type: sup.storage_type,
             removed_from_stores: sup.removed_from_stores,
+            removal_update: sup.removal_update,
+            removal_date: sup.removal_date,
             source: "supplement",
           };
           vehicles.push(newVehicle);
@@ -645,6 +651,8 @@ async function sync() {
         if (sup.meta_note !== undefined) existing.meta_note = sup.meta_note;
         if (sup.storage_type !== undefined) existing.storage_type = sup.storage_type;
         if (sup.removed_from_stores !== undefined) existing.removed_from_stores = sup.removed_from_stores;
+        if (sup.removal_update !== undefined) existing.removal_update = sup.removal_update;
+        if (sup.removal_date !== undefined) existing.removal_date = sup.removal_date;
         supplementsApplied++;
       } else {
         console.log(`  Warning: supplement "${name}" not found in pipeline output`);
