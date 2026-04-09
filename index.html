@@ -191,7 +191,12 @@
   .price-filter input { background:#1a1a2e; border:1px solid #333; border-radius:4px; color:#ccc; font-size:0.75rem; padding:3px 6px; width:90px; }
   .price-filter input::placeholder { color:#555; }
   .price-filter span { color:#666; font-size:0.75rem; }
-  .car-price { font-size:0.65rem; color:#888; padding:0 0.6rem 0.3rem; }
+  .car-price { font-size:0.65rem; color:#888; padding:0 0.6rem 0.1rem; }
+  .car-stats { padding:0 0.6rem 0.4rem; display:flex; flex-direction:column; gap:2px; }
+  .stat-row { display:flex; align-items:center; gap:4px; }
+  .stat-label { font-size:0.45rem; color:#555; width:18px; text-align:right; flex-shrink:0; text-transform:uppercase; letter-spacing:0.3px; }
+  .stat-bar-bg { flex:1; height:3px; background:#1a1a2e; border-radius:2px; overflow:hidden; }
+  .stat-bar { height:100%; border-radius:2px; }
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
@@ -354,6 +359,7 @@ function render() {
             '<div class="car-name">' + v.DisplayName.English + '</div>' +
             '<div class="car-mfg">' + (v.ManufacturerDisplayName?.English || '') + '</div>' +
             (v.price ? '<div class="car-price">$' + v.price.toLocaleString() + '</div>' : '') +
+            (v.trade_price ? '<div class="car-price" style="color:#6a9">Trade: $' + v.trade_price.toLocaleString() + '</div>' : '') +
             (v.stores && v.stores.length ? '<div class="car-store">' + v.stores.map(s => '<span class="store-tag' + (s === 'Premium Deluxe Motorsport' ? ' pdm' : '') + '">' + s + '</span>').join('') + '</div>' : '') +
           '</div>' +
           (function(f) {
@@ -379,6 +385,18 @@ function render() {
             }
             return out;
           })(v.racing_tier, v.top_speed_mph, v.use_case) +
+          (function(stats) {
+            if (!stats || stats.every(function(s) { return s == null; })) return '';
+            var labels = ['Acc','Brk','Trc','Hdl'];
+            var rows = labels.map(function(lbl, i) {
+              var val = stats[i];
+              if (val == null) return '';
+              var hue = Math.round(val * 1.2);
+              return '<div class="stat-row"><span class="stat-label">' + lbl + '</span>'
+                + '<div class="stat-bar-bg"><div class="stat-bar" style="width:' + val + '%;background:hsl(' + hue + ',70%,40%)"></div></div></div>';
+            }).join('');
+            return rows ? '<div class="car-stats">' + rows + '</div>' : '';
+          })([v.stat_acceleration, v.stat_braking, v.stat_traction, v.stat_handling]) +
           '</div>';
       }).join('') +
       '</div></div>';
@@ -484,9 +502,14 @@ Promise.all([
         stores: patch?.stores || [],
         features: patch?.features || [],
         price: patch?.price ?? null,
+        trade_price: patch?.trade_price ?? null,
         racing_tier: patch?.racing_tier ?? null,
         racing_lap_time: patch?.racing_lap_time ?? null,
         top_speed_mph: patch?.top_speed_mph ?? null,
+        stat_acceleration: patch?.stat_acceleration ?? null,
+        stat_braking: patch?.stat_braking ?? null,
+        stat_traction: patch?.stat_traction ?? null,
+        stat_handling: patch?.stat_handling ?? null,
         use_case: patch?.use_case || [],
       };
     });
@@ -505,9 +528,14 @@ Promise.all([
       features: p.features,
       image: p.image,
       price: p.price ?? null,
+      trade_price: p.trade_price ?? null,
       racing_tier: p.racing_tier ?? null,
       racing_lap_time: p.racing_lap_time ?? null,
       top_speed_mph: p.top_speed_mph ?? null,
+      stat_acceleration: p.stat_acceleration ?? null,
+      stat_braking: p.stat_braking ?? null,
+      stat_traction: p.stat_traction ?? null,
+      stat_handling: p.stat_handling ?? null,
       use_case: p.use_case || [],
     });
   }
