@@ -1,4 +1,7 @@
 {
+  "811": {
+    "price": 1135000
+  },
   "_comment": "Supplementary/corrective vehicle data. Auto-bootstrapped from GTABase cache + manually maintained. Applied on top of automated sync pipeline.",
   "_format": {
     "features_add": "Add features to pipeline output",
@@ -1234,9 +1237,6 @@
   "Adder": {
     "price": 1000000
   },
-  "811": {
-    "price": 1135000
-  },
   "Z-Type": {
     "price": 950000
   },
@@ -1291,7 +1291,7 @@
   "Infernus Classic": {
     "price": 915000
   },
-  "Fr\u00e4nken Stange": {
+  "Fränken Stange": {
     "price": 550000
   },
   "Coquette Classic": {
@@ -1641,7 +1641,10 @@
   },
   "Hydra": {
     "price": 3990000,
-    "trade_price": 3000000
+    "trade_price": 3000000,
+    "stores": [
+      "Warstock Cache & Carry"
+    ]
   },
   "Duster": {
     "price": 275000
@@ -1666,7 +1669,10 @@
     "price": 550000
   },
   "Technical Custom": {
-    "price": 142500
+    "price": 142500,
+    "stores": [
+      "Warstock Cache & Carry"
+    ]
   },
   "Technical Aqua": {
     "price": 1489600,
@@ -1699,7 +1705,10 @@
     "trade_price": 2400000
   },
   "Nightshark": {
-    "price": 1245000
+    "price": 1245000,
+    "features_add": [
+      "Missile Lock-On Jammer"
+    ]
   },
   "Marshall": {
     "price": 500000
@@ -2316,14 +2325,31 @@
     "price": 299000
   },
   "Walton L35 Stock": {
-    "_note": "GTABase lists as \"Walton L35 (Stock)\" \u2014 name normalized to match DurtyFree",
+    "_note": "GTABase lists as \"Walton L35 (Stock)\" — name normalized to match DurtyFree",
     "stores": [
       "Southern San Andreas Super Autos"
     ],
     "price": 1303700
   },
   "Daemon Custom": {
-    "_note": "GTABase lists as \"Daemon (Custom)\" \u2014 name normalized to match DurtyFree",
+    "_note": "GTABase lists as \"Daemon (Custom)\" — name normalized to match DurtyFree",
     "price": 145000
+  },
+  "Buzzard": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 1750000,
+    "_note": "Buzzard Attack Chopper variant — base Buzzard is a CEO perk vehicle, not purchasable"
+  },
+  "Valkyrie MOD.0": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ]
+  },
+  "Insurgent Pick-Up Custom": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ]
   }
 }

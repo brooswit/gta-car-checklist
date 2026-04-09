@@ -579,7 +579,6 @@
     "internalName": "kanjo",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a4/BlistaKanjo-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20191213212705",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -595,7 +594,6 @@
     "internalName": "brioso2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/28/Brioso300-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201216100327",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos",
       "Benny's Original Motor Works"
     ],
@@ -659,8 +657,7 @@
     "internalName": "dilettante",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/8/84/Dilettante-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20231012173443",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -752,8 +749,7 @@
     "internalName": "prairie",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/06/Prairie-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20200613074252",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -783,7 +779,6 @@
     "internalName": "weevil",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3d/Weevil-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201216100322",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -799,8 +794,7 @@
     "internalName": "cogcabrio",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/28/CognoscentiCabrioUp-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160917231450",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -831,8 +825,7 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/de/Exemplar-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20150530112831",
     "stores": [
       "Southern San Andreas Super Autos",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -846,8 +839,7 @@
     "internalName": "f620",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f8/F620-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929162327",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -861,8 +853,7 @@
     "internalName": "felon",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/de/Felon-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161111225437",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -876,8 +867,7 @@
     "internalName": "felon2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/17/FelonGTUp-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180332",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -907,8 +897,7 @@
     "internalName": "jackal",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/48/Jackal-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160702195507",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -937,8 +926,7 @@
     "internalName": "oracle2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f6/Oracle-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20230623151704",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -952,8 +940,7 @@
     "internalName": "oracle",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/22/OracleXS-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409181541",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -1061,8 +1048,7 @@
     "internalName": "zion",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cc/Zion-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929171027",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -1076,8 +1062,7 @@
     "internalName": "zion2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/ZionCabrioDown-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929171022",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -1449,8 +1434,7 @@
     "internalName": "lguard",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/69/Lifeguard-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160111205940",
     "stores": [
-      "Warstock Cache & Carry",
-      "#Locations"
+      "Warstock Cache & Carry"
     ],
     "features": [],
     "source": "wiki"
@@ -1725,11 +1709,14 @@
     "hash": 745926877,
     "internalName": "Buzzard2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/02/Buzzard-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20250814173059",
-    "stores": [],
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "price": 1750000
   },
   {
     "name": "Buzzard Attack Chopper",
@@ -1771,7 +1758,6 @@
     "internalName": "conada",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/50/Conada-GTAOe-front.png/revision/latest/scale-to-width-down/300?cb=20241114210943",
     "stores": [
-      "#Locations",
       "Elitás Travel"
     ],
     "features": [
@@ -2051,7 +2037,9 @@
     "hash": 1543134283,
     "internalName": "valkyrie2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/77/ValkyrieMOD0-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20151216172704",
-    "stores": [],
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
     "features": [
       "Weaponized Vehicle"
     ],
@@ -2288,7 +2276,6 @@
     "internalName": "barrage",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/ba/Barrage-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171218202613",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry"
     ],
     "features": [
@@ -2415,7 +2402,6 @@
     "internalName": "thruster",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a9/Thruster-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171218195041",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry",
       "Avenger"
     ],
@@ -2494,8 +2480,7 @@
     "internalName": "avarus",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/1a/Avarus-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014164948",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2604,8 +2589,7 @@
     "internalName": "cliffhanger",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/78/Cliffhanger-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014164545",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2703,8 +2687,7 @@
     "internalName": "enduro",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ef/Enduro-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20160302173841",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2718,8 +2701,7 @@
     "internalName": "esskey",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/4e/Esskey-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014165149",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2745,8 +2727,7 @@
     "internalName": "faggio3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/07/FaggioMod-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161004182448",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2760,8 +2741,7 @@
     "internalName": "faggio",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/50/FaggioSport-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161004182412",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2882,8 +2862,7 @@
     "internalName": "innovation",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/13/Innovation-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160302173556",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -2912,7 +2891,6 @@
     "internalName": "manchez",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Manchez-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014165403",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [
@@ -2963,8 +2941,7 @@
     "internalName": "nemesis",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/4b/Nemesis-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160126214050",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3041,8 +3018,7 @@
     "internalName": "pcj",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/74/PCJ600-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160121201111",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3100,8 +3076,7 @@
     "internalName": "ratbike",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b5/RatBike-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161004182129",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3132,8 +3107,7 @@
     "internalName": "ruffian",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b5/Ruffian-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160204203142",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3245,7 +3219,6 @@
     "internalName": "Stryder",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3b/Stryder-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20200414194041",
     "stores": [
-      "#Locations",
       "Legendary Motorsport"
     ],
     "features": [],
@@ -3275,8 +3248,7 @@
     "internalName": "Vader",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/9/9b/Vader-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160130222000",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3320,8 +3292,7 @@
     "internalName": "wolfsbane",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Wolfsbane-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014165611",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3335,8 +3306,7 @@
     "internalName": "zombiea",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/af/ZombieBobber-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161004181721",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -3616,8 +3586,7 @@
     "internalName": "clique",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Clique-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20181214181626",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -3645,8 +3614,7 @@
     "internalName": "coquette3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/df/CoquetteBlackFin-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20180331183558",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -4080,8 +4048,7 @@
     "internalName": "hustler",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/Hustler-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190222200926",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -4315,8 +4282,7 @@
     "internalName": "picador",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/55/Picador-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20220809140321",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4341,8 +4307,7 @@
     "internalName": "ratloader",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cd/Rat-Loader-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160304220227",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4387,8 +4352,7 @@
     "internalName": "ruiner",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/67/Ruiner-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20200616120635",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4497,7 +4461,6 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/00/Stallion-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160702194827",
     "stores": [
       "Exports and Imports",
-      "Grand Theft Auto Online#Editions",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -4558,8 +4521,7 @@
     "internalName": "tulip",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/ce/Tulip-GTAVI-Trailer1.png/revision/latest/scale-to-width-down/300?cb=20250513074114",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4587,8 +4549,7 @@
     "internalName": "vamos",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/ac/Vamos-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20181214201710",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4602,8 +4563,7 @@
     "internalName": "vigero",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c4/Vigero-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160305172506",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4819,8 +4779,7 @@
     "internalName": "bifta",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Bifta-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160302170310",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -4868,8 +4827,7 @@
     "internalName": "blazer2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b4/BlazerLifeguard-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161111194438",
     "stores": [
-      "Warstock Cache & Carry",
-      "#Locations"
+      "Warstock Cache & Carry"
     ],
     "features": [],
     "source": "wiki",
@@ -5028,8 +4986,7 @@
     "internalName": "dune",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/DuneBuggy-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160529141843",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5071,7 +5028,6 @@
     "internalName": "everon",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/Everon-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20191213212651",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -5180,8 +5136,7 @@
     "internalName": "blazer3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/05/HotRodBlazer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160927172000",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5195,8 +5150,7 @@
     "internalName": "BfInjection",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/8/80/Injection-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160626144335",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5244,9 +5198,7 @@
     "internalName": "insurgent3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ea/InsurgentPickUpCustom-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190128044128",
     "stores": [
-      "Mobile Operations Center",
-      "Avenger",
-      "Weaponized Vehicle Workshop"
+      "Warstock Cache & Carry"
     ],
     "features": [
       "Custom Vehicle",
@@ -5263,8 +5215,7 @@
     "internalName": "kalahari",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b7/Kalahari-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160302170553",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5399,7 +5350,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle"
+      "Weaponized Vehicle",
+      "Missile Lock-On Jammer"
     ],
     "source": "wiki",
     "price": 1245000
@@ -5461,8 +5413,7 @@
     "internalName": "RancherXL",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/59/RancherXL-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20190814130953",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5506,8 +5457,7 @@
     "internalName": "rebel2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Rebel-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193232",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5521,8 +5471,7 @@
     "internalName": "riata",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/67/Riata-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190821211147",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5536,8 +5485,7 @@
     "internalName": "Rebel",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ed/RustyRebel-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193237",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5551,8 +5499,7 @@
     "internalName": "sandking2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e2/SandkingSWB-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20240123172312",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -5640,9 +5587,7 @@
     "internalName": "technical3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/74/TechnicalCustom-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190128040300",
     "stores": [
-      "Mobile Operations Center",
-      "Avenger",
-      "Weaponized Vehicle Workshop"
+      "Warstock Cache & Carry"
     ],
     "features": [
       "Custom Vehicle",
@@ -5690,7 +5635,6 @@
     "internalName": "vagrant",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/27/Vagrant-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20191213212807",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -5706,8 +5650,7 @@
     "internalName": "verus",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/62/Verus-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201216100307",
     "stores": [
-      "Warstock Cache & Carry",
-      "#Locations"
+      "Warstock Cache & Carry"
     ],
     "features": [],
     "source": "wiki",
@@ -5750,7 +5693,6 @@
     "internalName": "winky",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/59/Winky-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201216100324",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry"
     ],
     "features": [],
@@ -5863,7 +5805,6 @@
     "internalName": "alphaz1",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/50/AlphaZ1-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190627214648",
     "stores": [
-      "#Locations",
       "Elitás Travel"
     ],
     "features": [
@@ -6033,7 +5974,6 @@
     "internalName": "raiju",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/F160Raiju-GTAOe-front.png/revision/latest/scale-to-width-down/300?cb=20230613215734",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry"
     ],
     "features": [
@@ -6069,8 +6009,7 @@
     "internalName": "hydra",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Hydra-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20151211201554",
     "stores": [
-      "Warstock Cache & Carry",
-      "Humane Raid - EMP"
+      "Warstock Cache & Carry"
     ],
     "features": [
       "Weaponized Vehicle"
@@ -6439,7 +6378,6 @@
     "internalName": "molotok",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a6/V65-Molotok-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190625182945",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry"
     ],
     "features": [
@@ -6531,8 +6469,7 @@
     "internalName": "asea",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Asea-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160406180243",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6546,8 +6483,7 @@
     "internalName": "asterope",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/ec/Asterope-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018175632",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6705,8 +6641,7 @@
     "internalName": "fugitive",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/5c/Fugitive-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180444",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6771,8 +6706,7 @@
     "internalName": "ingot",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/62/Ingot-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20190513111715",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6814,8 +6748,7 @@
     "internalName": "premier",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/Premier-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018180637",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6860,8 +6793,7 @@
     "internalName": "regina",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/71/Regina-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160625231110",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -6965,8 +6897,7 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/38/Stafford-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190126213908",
     "stores": [
       "Exports and Imports",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7026,8 +6957,7 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/d8/SuperDiamond-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409182331",
     "stores": [
       "Southern San Andreas Super Autos",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7041,8 +6971,7 @@
     "internalName": "surge",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c2/Surge-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018181104",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -7056,8 +6985,7 @@
     "internalName": "tailgater",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/Tailgater-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160917232330",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -7118,8 +7046,7 @@
     "internalName": "warrener",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3c/Warrener-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160302171843",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -7148,8 +7075,7 @@
     "internalName": "washington",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/12/Washington-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160410151922",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -7250,7 +7176,6 @@
     "internalName": "pbus2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/8/88/FestivalBus-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20200424105727",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -7448,7 +7373,6 @@
     "internalName": "zr380",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/20/ApocalypseZR380-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20181214201711",
     "stores": [
-      "#Locations",
       "Arenawar"
     ],
     "features": [
@@ -7574,8 +7498,7 @@
     "internalName": "carbonizzare",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/5b/Carbonizzare-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251011122020",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7694,8 +7617,7 @@
     "internalName": "coquette",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Coquette-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251011172025",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7862,8 +7784,7 @@
     "stores": [
       "Exports and Imports",
       "Southern San Andreas Super Autos",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7901,8 +7822,7 @@
     "internalName": "furoregt",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/58/FuroreGT-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251024135413",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -7916,8 +7836,7 @@
     "internalName": "fusilade",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f2/Fusilade-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251025203758",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -8143,8 +8062,7 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b3/Jester-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193207",
     "stores": [
       "Exports and Imports",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -8158,8 +8076,7 @@
     "internalName": "jester2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/JesterRacecar-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193214",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -8320,8 +8237,7 @@
     "internalName": "lynx",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/Lynx-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20160712123941",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -8568,8 +8484,7 @@
     "internalName": "penumbra",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Penumbra-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20230623151708",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -8614,8 +8529,7 @@
     "internalName": "RapidGT",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/42/RapidGT-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20150529203102",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -8717,8 +8631,7 @@
     "internalName": "ruston",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/Ruston-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20170314170818",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -8796,8 +8709,7 @@
     "internalName": "schwarzer",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/44/Schwartzer-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20220809140353",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -8846,8 +8758,7 @@
     "internalName": "SEVEN70",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/5b/Seven70-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251229193829",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -8920,8 +8831,7 @@
     "internalName": "streiter",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/7c/Streiter-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251229194208",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -8935,7 +8845,6 @@
     "internalName": "Sugoi",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/8/82/Sugoi-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20191213212802",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -8996,8 +8905,7 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/SuranoDown-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160305181513",
     "stores": [
       "Southern San Andreas Super Autos",
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9057,8 +8965,7 @@
     "internalName": "verlierer2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/8/8c/Verlierer-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20180331183730",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9115,8 +9022,7 @@
     "internalName": "z190",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/be/190z-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171218203545",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9243,7 +9149,6 @@
     "internalName": "deluxo",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/15/Deluxo-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171218191259",
     "stores": [
-      "#Locations",
       "Warstock Cache & Carry"
     ],
     "features": [
@@ -9261,8 +9166,7 @@
     "internalName": "Dynasty",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/1d/Dynasty-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20190825200025",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -9276,8 +9180,7 @@
     "internalName": "fagaloa",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/14/Fagaloa-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20241114211125",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -9316,8 +9219,7 @@
     "internalName": "gt500",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/25/GT500-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171218203343",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9379,8 +9281,7 @@
     "internalName": "jb700",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/70/JB700-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409201623",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9473,8 +9374,7 @@
     "internalName": "michelli",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/MichelliGT-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20241114211305",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -9549,8 +9449,7 @@
     "internalName": "pigalle",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/d4/Pigalle-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20241114211159",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -9564,8 +9463,7 @@
     "internalName": "rapidgt3",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/13/RapidGTClassic-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20170916171351",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9579,8 +9477,7 @@
     "internalName": "retinue",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b8/Retinue-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20171220192309",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -9659,8 +9556,7 @@
     "internalName": "stinger",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/41/Stinger-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160917231452",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -9788,8 +9684,7 @@
     "internalName": "tornado6",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/79/TornadoRatRod-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20161014164052",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -10099,8 +9994,7 @@
     "internalName": "entityxf",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/EntityXF-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250930194704",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -10743,7 +10637,6 @@
     "internalName": "virtue",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/5c/Virtue-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251002014540",
     "stores": [
-      "#Locations",
       "Legendary Motorsport"
     ],
     "features": [
@@ -10776,8 +10669,7 @@
     "internalName": "voltic",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/Voltic-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251002133927",
     "stores": [
-      "Legendary Motorsport",
-      "#Locations"
+      "Legendary Motorsport"
     ],
     "features": [],
     "source": "wiki",
@@ -11062,8 +10954,7 @@
     "internalName": "BjXL",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/da/BeeJayXL-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929171015",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11091,8 +10982,7 @@
     "internalName": "cavalcade",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/57/Cavalcade-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20230623151646",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11182,8 +11072,7 @@
     "internalName": "fq2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/6e/FQ2-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160305185537",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11197,8 +11086,7 @@
     "internalName": "GRANGER",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/6/6c/Granger-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193143",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11231,8 +11119,7 @@
     "internalName": "gresley",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Gresley-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193149",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11246,8 +11133,7 @@
     "internalName": "habanero",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/53/Habanero-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250208193155",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11324,8 +11210,7 @@
     "internalName": "landstalker",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/77/Landstalker-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160406180655",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11339,8 +11224,7 @@
     "internalName": "landstalker2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/1/1b/LandstalkerXL-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20200811143139",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11398,7 +11282,6 @@
     "internalName": "patriot2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/4b/PatriotStretch-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20180725175620",
     "stores": [
-      "#Locations",
       "Southern San Andreas Super Autos"
     ],
     "features": [],
@@ -11414,8 +11297,7 @@
     "internalName": "radi",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b6/Radius-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409181754",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11443,8 +11325,7 @@
     "internalName": "rocoto",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/38/Rocoto-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20231009223139",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11458,8 +11339,7 @@
     "internalName": "Seminole",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/a/a0/Seminole-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20241019162911",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11473,8 +11353,7 @@
     "internalName": "seminole2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/SeminoleFrontier-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20200811143236",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11488,8 +11367,7 @@
     "internalName": "serrano",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3d/Serrano-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160409182018",
     "stores": [
-      "Southern San Andreas Super Autos",
-      "#Locations"
+      "Southern San Andreas Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -11908,7 +11786,6 @@
     "internalName": "burrito2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/00/Burrito2-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160929164142",
     "stores": [
-      "#mpheist3",
       "Warstock Cache & Carry"
     ],
     "features": [],

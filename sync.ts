@@ -230,6 +230,7 @@ function extractStores(wikitext: string): string[] {
         candidate === "Money" ||
         candidate.startsWith("Category:") ||
         candidate.startsWith("File:") ||
+        candidate.includes("#") ||
         candidate.length < 3
       ) continue;
       if (NON_STORE_PATTERNS.some(p => p.test(candidate))) continue;
