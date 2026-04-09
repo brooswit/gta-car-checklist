@@ -473,6 +473,7 @@ function openModal(hash) {
       '<div class="modal-class">' + (v.Class || '') + '</div>' +
       (v.price ? '<div class="modal-section"><div class="modal-label">Price</div><div class="modal-price">$' + v.price.toLocaleString() + '</div>' + (v.trade_price ? '<div class="modal-trade">Trade: $' + v.trade_price.toLocaleString() + '</div>' : '') + '</div>' : '') +
       (v.stores && v.stores.length ? '<div class="modal-section"><div class="modal-label">Available at</div><div class="car-store">' + v.stores.map(function(s){ return '<span class="store-tag">' + s + '</span>'; }).join('') + '</div></div>' : '') +
+      (v.unlock_condition_note ? '<div class="modal-section"><div class="modal-label">How to unlock</div><div style="font-size:0.8rem;color:#bbb">' + v.unlock_condition_note + '</div></div>' : '') +
       (featBadges ? '<div class="modal-section"><div class="modal-label">Features</div><div class="car-features">' + featBadges + '</div></div>' : '') +
       (ucChips ? '<div class="modal-section"><div class="modal-label">Use Case</div><div class="use-case-chips">' + ucChips + '</div></div>' : '') +
       (racingParts.length ? '<div class="modal-section"><div class="modal-label">Racing</div><div class="modal-racing">' + racingParts.join(' &nbsp;·&nbsp; ') + '</div></div>' : '') +
@@ -597,6 +598,7 @@ Promise.all([
         features: patch?.features || [],
         price: patch?.price ?? null,
         trade_price: patch?.trade_price ?? null,
+        unlock_condition_note: patch?.unlock_condition_note ?? null,
         racing_tier: patch?.racing_tier ?? null,
         racing_lap_time: patch?.racing_lap_time ?? null,
         top_speed_mph: patch?.top_speed_mph ?? null,
@@ -623,6 +625,7 @@ Promise.all([
       image: p.image,
       price: p.price ?? null,
       trade_price: p.trade_price ?? null,
+      unlock_condition_note: p.unlock_condition_note ?? null,
       racing_tier: p.racing_tier ?? null,
       racing_lap_time: p.racing_lap_time ?? null,
       top_speed_mph: p.top_speed_mph ?? null,
