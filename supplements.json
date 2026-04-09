@@ -1602,7 +1602,11 @@
     "use_case": [
       "fun",
       "combat"
-    ]
+    ],
+    "unlock_methods": [
+      "property-arcade"
+    ],
+    "unlock_condition_note": "Requires owning an Arcade property."
   },
   "Schlagen GT": {
     "price": 1300000,
@@ -1671,14 +1675,20 @@
     "use_case": [
       "grinding",
       "combat"
-    ]
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted from Warstock, but weapons and boost require a Terrorbyte with Mobile Workshop. Functionally limited without it."
   },
   "Terrorbyte": {
     "price": 1375000,
     "use_case": [
       "utility",
       "grinding"
-    ]
+    ],
+    "unlock_methods": [
+      "property-nightclub"
+    ],
+    "unlock_condition_note": "Requires owning a Nightclub. Warstock listing does not appear without one."
   },
   "B-11 Strikeforce": {
     "price": 3800000,
@@ -1925,7 +1935,11 @@
     "use_case": [
       "utility",
       "grinding"
-    ]
+    ],
+    "unlock_methods": [
+      "property-facility"
+    ],
+    "unlock_condition_note": "Requires owning a Facility (Doomsday Heist property)."
   },
   "Deluxo": {
     "price": 5750000,
@@ -2917,7 +2931,12 @@
     ],
     "use_case": [
       "racing"
-    ]
+    ],
+    "_note": "Free — requires Arena War Skill level 20. No GTA$ price.",
+    "unlock_methods": [
+      "arena-war-rank"
+    ],
+    "unlock_condition_note": "Free at SSASA after reaching Arena War Skill rank 20 (separate progression track from regular RP)."
   },
   "Blista Compact": {
     "stores": [
@@ -4742,7 +4761,13 @@
     "use_case": [
       "utility",
       "grinding"
-    ]
+    ],
+    "price": 2200000,
+    "_note": "Unlock gate: must meet Miguel Madrazo at The Music Locker first.",
+    "unlock_methods": [
+      "cutscene-trigger"
+    ],
+    "unlock_condition_note": "Warstock listing unlocks after meeting Miguel Madrazo at The Music Locker (triggered automatically once player reaches sufficient GTA Online progression)."
   },
   "Speedo Custom": {
     "use_case": [
@@ -4753,7 +4778,11 @@
   "Mobile Operations Center": {
     "use_case": [
       "utility"
-    ]
+    ],
+    "unlock_methods": [
+      "property-bunker"
+    ],
+    "unlock_condition_note": "Requires owning a Bunker. Also serves as the upgrade bay for Mk II weapons."
   },
   "Insurgent Pick-Up": {
     "use_case": [
@@ -4776,17 +4805,19 @@
     "use_case": [
       "off-road",
       "combat"
-    ]
-  },
-  "Stirling GT": {
-    "use_case": [
-      "racing",
-      "collector"
-    ]
+    ],
+    "unlock_methods": [
+      "mission-chain"
+    ],
+    "unlock_condition_note": "Complete the full First Dose + Last Dose mission chains (12 missions total). Then purchase from The Freakshop for $2,095,000."
   },
   "Hakuchou Drag": {
     "use_case": [
       "racing"
+    ],
+    "price": 976000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Mesa": {
@@ -4899,7 +4930,8 @@
   "Blista": {
     "use_case": [
       "racing"
-    ]
+    ],
+    "_note": "Not for sale in GTA Online (sells for $1,600 at LSC only)."
   },
   "Future Shock Issi": {
     "use_case": [
@@ -4986,7 +5018,11 @@
   "Invade and Persuade Tank": {
     "use_case": [
       "combat"
-    ]
+    ],
+    "unlock_methods": [
+      "property-arcade"
+    ],
+    "unlock_condition_note": "Requires owning an Arcade property."
   },
   "Nightmare Scarab": {
     "use_case": [
@@ -5037,7 +5073,8 @@
     "use_case": [
       "collector",
       "fun"
-    ]
+    ],
+    "_note": "Benny's conversion: ~$371K total ($36K base Faction + $335K upgrade). Not a direct purchase price."
   },
   "Future Shock Dominator": {
     "use_case": [
@@ -5063,7 +5100,8 @@
     "use_case": [
       "fun",
       "collector"
-    ]
+    ],
+    "_note": "Mission/spawn vehicle — not purchasable."
   },
   "Nightmare Dominator": {
     "use_case": [
@@ -5089,13 +5127,18 @@
     "use_case": [
       "racing",
       "collector"
-    ]
+    ],
+    "_note": "Street spawn only — not sold in GTA Online."
   },
   "Pisswasser Dominator": {
     "use_case": [
       "fun",
       "collector"
-    ]
+    ],
+    "stores": [
+      "Southern SA Super Autos"
+    ],
+    "_note": "Free since July 2021 (was $315,000). Store confirmed on SSASA."
   },
   "Apocalypse Bruiser": {
     "use_case": [
@@ -5170,21 +5213,37 @@
   "BR8": {
     "use_case": [
       "racing"
+    ],
+    "price": 3400000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "DR1": {
     "use_case": [
       "racing"
+    ],
+    "price": 2997000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "PR4": {
     "use_case": [
       "racing"
+    ],
+    "price": 3515000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "R88": {
     "use_case": [
       "racing"
+    ],
+    "price": 3115000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Tour Bus": {
@@ -5211,11 +5270,19 @@
     "use_case": [
       "racing",
       "collector"
+    ],
+    "price": 2380000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Jester RR Widebody": {
     "use_case": [
       "racing"
+    ],
+    "price": 2290000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Nightmare ZR380": {
@@ -5227,12 +5294,24 @@
     "use_case": [
       "combat",
       "collector"
-    ]
+    ],
+    "_note": "Free — complete all 6 Casino Story Missions as host, or Lucky Wheel prize.",
+    "unlock_methods": [
+      "casino-story-missions",
+      "lucky-wheel"
+    ],
+    "unlock_condition_note": "Complete all 6 Diamond Casino Story Missions as host → collected from Port of Los Santos. Also available as Lucky Wheel podium prize."
   },
   "Feltzer Classic": {
     "use_case": [
-      "racing"
-    ]
+      "racing",
+      "collector"
+    ],
+    "price": 975000,
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "_note": "Internally the Stirling GT, renamed before release (internalName: feltzer3)."
   },
   "Airtug": {
     "use_case": [
@@ -5382,11 +5461,19 @@
     "use_case": [
       "racing",
       "fun"
+    ],
+    "price": 895000,
+    "stores": [
+      "Southern SA Super Autos"
     ]
   },
   "Veto Modern": {
     "use_case": [
       "racing"
+    ],
+    "price": 995000,
+    "stores": [
+      "Southern SA Super Autos"
     ]
   },
   "Submersible": {
@@ -5459,18 +5546,28 @@
     "use_case": [
       "fun",
       "collector"
-    ]
+    ],
+    "_note": "Street spawn — not sold in GTA Online."
   },
   "Manchez Scout C": {
     "use_case": [
       "off-road",
       "utility"
-    ]
+    ],
+    "_note": "Free — bundled with Brickade 6x6 upgrade.",
+    "unlock_methods": [
+      "mission-chain"
+    ],
+    "unlock_condition_note": "Free — bundled with the Brickade 6x6 once purchased and upgraded at The Freakshop. Same First Dose + Last Dose gate."
   },
   "Rampant Rocket": {
     "use_case": [
       "fun",
       "combat"
+    ],
+    "price": 925000,
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Sanchez (livery)": {
@@ -5489,12 +5586,14 @@
     "use_case": [
       "transport",
       "collector"
-    ]
+    ],
+    "_note": "Removed from SSASA in San Andreas Mercenaries update (June 2023). Was $90,000."
   },
   "Dubsta": {
     "use_case": [
       "off-road",
       "collector"
-    ]
+    ],
+    "_note": "Event-only: briefly available at PDM during Junk Energy Skydives Week. Not in standard rotation."
   }
 }

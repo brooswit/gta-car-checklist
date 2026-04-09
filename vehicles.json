@@ -90,6 +90,7 @@
     "stat_braking": 10,
     "stat_traction": null,
     "stat_handling": 100,
+    "price": 2200000,
     "use_case": [
       "utility",
       "grinding"
@@ -4811,7 +4812,9 @@
     "hash": 4039289119,
     "internalName": "hakuchou2",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/hakuchou2.png",
-    "stores": [],
+    "stores": [
+      "Legendary Motorsport"
+    ],
     "features": [],
     "source": "wiki",
     "racing_tier": null,
@@ -4821,6 +4824,7 @@
     "stat_braking": 43,
     "stat_traction": 69,
     "stat_handling": 62,
+    "price": 976000,
     "use_case": [
       "racing"
     ]
@@ -5218,6 +5222,7 @@
     "stat_braking": 30,
     "stat_traction": 38,
     "stat_handling": 47,
+    "price": 925000,
     "use_case": [
       "fun",
       "combat"
@@ -7307,7 +7312,9 @@
     "hash": 3379262425,
     "internalName": "dominator2",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/dominator2.png",
-    "stores": [],
+    "stores": [
+      "Southern SA Super Autos"
+    ],
     "features": [],
     "source": "wiki",
     "racing_tier": "B",
@@ -9818,6 +9825,7 @@
     "stat_braking": 40,
     "stat_traction": 84,
     "stat_handling": 93,
+    "price": 3400000,
     "use_case": [
       "racing"
     ]
@@ -9841,6 +9849,7 @@
     "stat_braking": 35,
     "stat_traction": 76,
     "stat_handling": 80,
+    "price": 2997000,
     "use_case": [
       "racing"
     ]
@@ -9864,6 +9873,7 @@
     "stat_braking": 38,
     "stat_traction": 83,
     "stat_handling": 91,
+    "price": 3515000,
     "use_case": [
       "racing"
     ]
@@ -9887,6 +9897,7 @@
     "stat_braking": 38,
     "stat_traction": 78,
     "stat_handling": 91,
+    "price": 3115000,
     "use_case": [
       "racing"
     ]
@@ -13614,7 +13625,9 @@
     "hash": 1447690049,
     "internalName": "stingertt",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/stingertt.png",
-    "stores": [],
+    "stores": [
+      "Legendary Motorsport"
+    ],
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
@@ -13624,6 +13637,7 @@
     "stat_braking": 29,
     "stat_traction": 58,
     "stat_handling": 58,
+    "price": 2380000,
     "use_case": [
       "racing",
       "collector"
@@ -13738,7 +13752,9 @@
     "hash": 1484920335,
     "internalName": "jester5",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/jester5.png",
-    "stores": [],
+    "stores": [
+      "Legendary Motorsport"
+    ],
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
@@ -13748,6 +13764,7 @@
     "stat_braking": 25,
     "stat_traction": 63,
     "stat_handling": 40,
+    "price": 2290000,
     "use_case": [
       "racing"
     ]
@@ -15175,7 +15192,7 @@
     "internalName": "veto",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/08/VetoClassic-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201224111321",
     "stores": [
-      "Southern San Andreas Super Autos"
+      "Southern SA Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -15186,6 +15203,7 @@
     "stat_braking": 8,
     "stat_traction": 67,
     "stat_handling": 55,
+    "price": 895000,
     "use_case": [
       "racing",
       "fun"
@@ -15199,7 +15217,7 @@
     "internalName": "veto2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/fb/VetoModern-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20201224111316",
     "stores": [
-      "Southern San Andreas Super Autos"
+      "Southern SA Super Autos"
     ],
     "features": [],
     "source": "wiki",
@@ -15210,6 +15228,7 @@
     "stat_braking": 10,
     "stat_traction": 70,
     "stat_handling": 52,
+    "price": 995000,
     "use_case": [
       "racing"
     ]
@@ -15533,7 +15552,9 @@
     "hash": 2728226064,
     "internalName": "feltzer3",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/feltzer3.png",
-    "stores": [],
+    "stores": [
+      "Legendary Motorsport"
+    ],
     "features": [],
     "source": "durtyfree",
     "racing_tier": "C",
@@ -15543,8 +15564,10 @@
     "stat_braking": 23,
     "stat_traction": 48,
     "stat_handling": 37,
+    "price": 975000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
