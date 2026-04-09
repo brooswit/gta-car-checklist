@@ -140,7 +140,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Newer Sentinel variant in the Sedan class with no racing tier \u2014 upscale entry awaiting benchmarking."
   },
   "X-Treme": {
     "price": 2885000
@@ -190,7 +191,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Hardy at $1.38M \u2014 strong upper-tier sedan with a price that matches its position."
   },
   "Minimus": {
     "price": 1417000,
@@ -198,7 +200,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Minimus \u2014 compact sedan punching at the top of the class; well-priced for S-tier."
   },
   "Rapid GT X": {
     "price": 2705500,
@@ -359,7 +362,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Sedan that redefines the class ceiling \u2014 the Chavos V6 is an unexpected competitive gem."
   },
   "Banshee GTS": {
     "price": 1989500,
@@ -400,7 +404,8 @@
       "fun",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "High-end German sedan with no racing tier benchmarked \u2014 strong aesthetic, competitive potential unknown."
   },
   "Pizza Boy": {
     "stores": [
@@ -487,7 +492,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Euros X32 at $1.5M \u2014 Porsche 911-style coupe that races mid-pack without distinction."
   },
   "Coquette D1": {
     "price": 1500000,
@@ -579,7 +585,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Coupe that outpaces everything in its class \u2014 the FR36 sets the benchmark."
   },
   "Vigero ZX Convertible": {
     "price": 2295000,
@@ -622,7 +629,8 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Asterope GZ at $459K \u2014 well-priced competitive sedan with genuine class-leading potential."
   },
   "Aleutian": {
     "price": 1835000,
@@ -929,7 +937,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Rhinehart \u2014 luxury sedan that makes a surprisingly strong case for the Sedan class."
   },
   "Kanjo SJ": {
     "price": 1370000,
@@ -937,7 +946,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Kanjo SJ \u2014 Civic-inspired tuner coupe that races below what its street pedigree suggests."
   },
   "LM87": {
     "price": 2915000,
@@ -961,7 +971,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Postlude at $1.31M \u2014 overpriced for H-tier; buy it purely for the garage aesthetic."
   },
   "Omnis e-GT": {
     "price": 1795000,
@@ -1168,7 +1179,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Deity at $1.845M \u2014 luxury sedan with B-tier credentials and a price that doesn't match."
   },
   "Cinquemila": {
     "price": 1740000,
@@ -1176,7 +1188,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Cinquemila \u2014 Italian-designed sedan that races at the very top of an overlooked class."
   },
   "Astron": {
     "price": 1580000,
@@ -1221,7 +1234,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Previon \u2014 the strongest competition for the FR36 at the top of the Coupe class."
   },
   "Sultan RS Classic": {
     "price": 1789000,
@@ -1314,7 +1328,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Tailgater S \u2014 the Tailgater lineage finally delivering at the top of the sedan class."
   },
   "Warrener HKR": {
     "price": 1260000,
@@ -1323,7 +1338,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Warrener HKR at $1.26M \u2014 retro-restomod Warrener; expensive for an E-tier result."
   },
   "RT3000": {
     "price": 1715000,
@@ -1602,7 +1618,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Glendale Custom \u2014 the retro American sedan upgraded to genuine competitiveness."
   },
   "Peyote Custom": {
     "price": 620000,
@@ -2251,7 +2268,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Stafford at $1.272M \u2014 Britain's finest gone from GTA Online stores."
   },
   "Blimp": {
     "price": 1190350,
@@ -4245,7 +4263,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Washington \u2014 the quintessential GTA sedan, gone after years of loyal service."
   },
   "Warrener": {
     "price": 120000,
@@ -4256,14 +4275,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Warrener \u2014 retro muscle-ish sedan gone with the SAM cull."
   },
   "Turreted Limo": {
     "price": 1650000,
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Armored Turreted Limo \u2014 the most absurd entry in the Sedan class, and that's saying something."
   },
   "Tailgater": {
     "price": 55000,
@@ -4273,7 +4294,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier base Tailgater \u2014 the sedan that the Tailgater S elevated beyond recognition."
   },
   "Surge": {
     "price": 38000,
@@ -4284,7 +4306,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Surge \u2014 electric sedan concept that never found its audience."
   },
   "Super Diamond": {
     "price": 250000,
@@ -4295,7 +4318,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Super Diamond \u2014 stretched luxury sedan that raced like it weighed a ton."
   },
   "Stretch": {
     "price": 30000,
@@ -4303,7 +4327,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The Stretch limousine at $30K \u2014 player-purchasable limo that races like it seats twelve."
   },
   "Stratum": {
     "price": 10000,
@@ -4312,7 +4337,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Stratum \u2014 forgettable budget sedan taken by the SAM cull."
   },
   "Stanier": {
     "price": 10000,
@@ -4323,7 +4349,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Stanier \u2014 GTA Online's iconic police sedan, retired from civilian sale."
   },
   "Schafter V12 (Armored)": {
     "price": 325000,
@@ -4331,7 +4358,8 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier armored Schafter V12 at $325K \u2014 bulletproof S-tier sedan at a genuinely surprising price."
   },
   "Schafter LWB (Armored)": {
     "price": 438000,
@@ -4342,7 +4370,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Schafter LWB Armored \u2014 long-wheelbase armored sedan gone with the update."
   },
   "Schafter": {
     "price": 65000,
@@ -4351,7 +4380,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Schafter \u2014 the original Benefactor sedan, taken by the SAM cull."
   },
   "Romero Hearse": {
     "price": 45000,
@@ -4361,7 +4391,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Romero Hearse \u2014 GTA's funeral car parked in the sedan class, now doubly gone."
   },
   "Regina": {
     "price": 8000,
@@ -4372,7 +4403,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. L-tier Regina station wagon \u2014 the bottom of sedans, taken by the cull."
   },
   "Primo Custom": {
     "price": 400000,
@@ -4380,7 +4412,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Primo Custom at $400K \u2014 the lowrider version of GTA's cheapest sedan, still D-tier."
   },
   "Primo": {
     "stores": [
@@ -4391,7 +4424,8 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Primo at $9K \u2014 GTA Online's cheapest available sedan; buy it for the humor."
   },
   "Premier": {
     "price": 10000,
@@ -4401,7 +4435,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Premier \u2014 the most anonymous sedan in GTA Online history."
   },
   "Intruder": {
     "price": 16000,
@@ -4410,7 +4445,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Intruder \u2014 low-tier sedan from the early era, quietly taken."
   },
   "Ingot": {
     "price": 9000,
@@ -4420,7 +4456,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Ingot \u2014 GTA Online's least interesting car, taken mercifully by SAM."
   },
   "Glendale": {
     "stores": [
@@ -4434,7 +4471,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Glendale at $200K \u2014 retro American barge; buy the Custom version for actual competitiveness."
   },
   "Fugitive": {
     "price": 24000,
@@ -4444,7 +4482,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Fugitive \u2014 budget four-door gone with the SAM cull."
   },
   "Cognoscenti 55 (Armored)": {
     "price": 396000,
@@ -4455,7 +4494,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Cognoscenti 55 Armored \u2014 bulletproof but not tier-proof; gone with the update."
   },
   "Cognoscenti 55": {
     "price": 154000,
@@ -4467,7 +4507,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Cognoscenti 55 \u2014 the shorter Cognoscenti, taken alongside its armored sibling."
   },
   "Cognoscenti (Armored)": {
     "price": 558000,
@@ -4478,7 +4519,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Cognoscenti Armored \u2014 bulletproof luxury gone alongside the unarmored variant."
   },
   "Cognoscenti": {
     "price": 254000,
@@ -4490,7 +4532,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Cognoscenti \u2014 Rolls-Royce-style luxury sedan, gone with the update."
   },
   "Asterope": {
     "price": 26000,
@@ -4500,7 +4543,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Asterope \u2014 the base before the GZ, removed before the upgrade mattered."
   },
   "Asea": {
     "price": 12000,
@@ -4510,7 +4554,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Asea \u2014 the bottom-shelf Soviet-style sedan, gone without a fight."
   },
   "Vestra": {
     "price": 950000,
@@ -6194,7 +6239,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Zion Cabrio \u2014 convertible Zion variant gone alongside the hardtop."
   },
   "Zion": {
     "price": 60000,
@@ -6204,21 +6250,24 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Zion \u2014 the Maserati-style coupe taken by the SAM cull."
   },
   "Windsor Drop": {
     "price": 900000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Windsor Drop \u2014 the convertible Windsor; same beauty, same G-tier reality."
   },
   "Windsor": {
     "price": 845000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Windsor \u2014 stunning Rolls-Royce-style coupe that belongs in a penthouse garage, not on a circuit."
   },
   "Sentinel XS": {
     "stores": [
@@ -6232,7 +6281,8 @@
       "racing"
     ],
     "storage_type": "garage",
-    "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/SentinelXS-GTAV-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20200331040219"
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/SentinelXS-GTAV-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20200331040219",
+    "meta_verdict": "F-tier Sentinel XS at $60K \u2014 the only surviving Sentinel variant; cheap enough to own casually."
   },
   "Sentinel": {
     "price": 95000,
@@ -6242,7 +6292,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Sentinel \u2014 GTA Online's BMW tribute, retired with the SAM update."
   },
   "Oracle XS": {
     "price": 82000,
@@ -6252,7 +6303,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Oracle XS \u2014 the sportier Oracle variant, equally gone."
   },
   "Oracle": {
     "price": 80000,
@@ -6262,7 +6314,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Oracle \u2014 luxury coupe that never rose above mid-lower tier before removal."
   },
   "Jackal": {
     "price": 60000,
@@ -6272,7 +6325,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier Jackal \u2014 budget coupe from GTA Online's early era, quietly removed."
   },
   "Felon GT": {
     "price": 95000,
@@ -6282,7 +6336,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Felon GT \u2014 the GT variant of the Felon, equally removed."
   },
   "Felon": {
     "price": 90000,
@@ -6292,7 +6347,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Felon \u2014 luxury coupe from GTA Online's early era, gone with the update."
   },
   "F620": {
     "price": 80000,
@@ -6302,7 +6358,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier F620 \u2014 forgettable luxury coupe that left no legacy behind."
   },
   "Exemplar": {
     "price": 205000,
@@ -6312,7 +6369,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier Exemplar \u2014 sleek luxury coupe taken by the SAM cull."
   },
   "Cognoscenti Cabrio": {
     "price": 185000,
@@ -6322,7 +6380,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Cognoscenti Cabrio \u2014 open-top luxury coupe gone with the update."
   },
   "Rhapsody": {
     "price": 140000,
@@ -7208,7 +7267,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Formula-style single-seater \u2014 the DR1 competes with the best Open Wheel racers at its price."
   },
   "PR4": {
     "use_case": [
@@ -7229,7 +7289,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier R88 \u2014 retro open-wheel racer with classic IndyCar aesthetics and genuine competitive credentials."
   },
   "Tour Bus": {
     "use_case": [
@@ -7624,7 +7685,8 @@
   "Emperor": {
     "use_case": [
       "fun"
-    ]
+    ],
+    "meta_verdict": "K-tier Emperor with no listed price \u2014 the battered old sedan of GTA; special acquisition only."
   },
   "Baller": {
     "use_case": [
