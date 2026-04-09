@@ -20,7 +20,9 @@
     "internalName": "Dinghy",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/dinghy.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -44,7 +46,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -72,7 +76,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -112,7 +118,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -221,7 +229,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -351,7 +361,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Service Vehicle"
+      "Service Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -443,7 +454,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Service Vehicle"
+      "Service Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -470,7 +482,8 @@
     ],
     "features": [
       "Service Vehicle",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1239,7 +1252,9 @@
     "internalName": "firetruk",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/firetruk.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1439,7 +1454,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1520,7 +1537,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1534,7 +1553,9 @@
       "Grand Theft Auto Online",
       "Elitás Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1560,7 +1581,9 @@
     "internalName": "Buzzard2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/02/Buzzard-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20250814173059",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1573,7 +1596,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1630,7 +1655,9 @@
     "internalName": "hunter",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/hunter.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1644,7 +1671,9 @@
       "Elitás Travel",
       "Criminal Enterprise Starter Pack"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1657,7 +1686,9 @@
     "stores": [
       "Elitás Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1668,7 +1699,9 @@
     "internalName": "maverick2",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/maverick2.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1680,7 +1713,8 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/maverick.png",
     "stores": [],
     "features": [
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1692,7 +1726,9 @@
     "internalName": "polmav",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/polmav.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1705,7 +1741,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1716,7 +1754,9 @@
     "internalName": "seasparrow",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/seasparrow.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1739,7 +1779,8 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/seasparrow2.png",
     "stores": [],
     "features": [
-      "Service Vehicle"
+      "Service Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1755,7 +1796,8 @@
     ],
     "features": [
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1771,7 +1813,8 @@
     ],
     "features": [
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1787,7 +1830,9 @@
       "Grand Theft Auto Online",
       "Elitás Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1802,7 +1847,8 @@
     ],
     "features": [
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1816,7 +1862,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1827,7 +1875,9 @@
     "internalName": "valkyrie2",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/7/77/ValkyrieMOD0-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20151216172704",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1842,7 +1892,8 @@
     ],
     "features": [
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -1856,7 +1907,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -1984,7 +2037,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -2065,7 +2120,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -2121,7 +2178,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -2147,7 +2206,9 @@
     "internalName": "RHINO",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/rhino.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -2162,7 +2223,9 @@
       "Warstock Cache & Carry",
       "Avenger"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -2175,7 +2238,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -3077,7 +3142,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -3204,9 +3271,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -3570,7 +3637,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -3856,7 +3925,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -3990,7 +4061,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4323,7 +4396,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4396,7 +4471,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4640,7 +4717,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4727,7 +4806,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4740,7 +4821,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4756,8 +4839,8 @@
       "Weaponized Vehicle Workshop"
     ],
     "features": [
-      "Weaponized Vehicle",
-      "Custom Vehicle"
+      "Custom Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -4854,7 +4937,9 @@
     "stores": [
       "Arena Workshop"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -4926,9 +5011,9 @@
       "Southern San Andreas Super Autos"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -5089,7 +5174,9 @@
       "Series A Funding",
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5102,7 +5189,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5118,8 +5207,8 @@
       "Weaponized Vehicle Workshop"
     ],
     "features": [
-      "Weaponized Vehicle",
-      "Custom Vehicle"
+      "Custom Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -5355,7 +5444,8 @@
     ],
     "features": [
       "Service Vehicle",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -5369,7 +5459,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5463,7 +5555,9 @@
     "stores": [
       "Elitas Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5477,7 +5571,9 @@
       "#Locations",
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5507,7 +5603,9 @@
       "Warstock Cache & Carry",
       "Humane Raid - EMP"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5531,7 +5629,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5619,7 +5719,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5645,7 +5747,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5658,7 +5762,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5671,7 +5777,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5684,7 +5792,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5697,9 +5807,7 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [
-      "Weaponized Vehicle"
-    ],
+    "features": [],
     "source": "wiki"
   },
   {
@@ -5712,7 +5820,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5725,7 +5835,9 @@
     "stores": [
       "Elitás Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5751,7 +5863,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5777,7 +5891,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5790,7 +5906,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5803,7 +5921,9 @@
     "stores": [
       "Elitás Travel"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5817,7 +5937,9 @@
       "#Locations",
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -5872,7 +5994,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -6032,9 +6156,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -6406,7 +6530,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -7874,9 +8000,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -8280,9 +8406,9 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -8385,7 +8511,9 @@
       "#Locations",
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -8524,9 +8652,9 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -8754,9 +8882,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -8798,7 +8926,9 @@
     "internalName": "stromberg",
     "image": "https://static.wikia.nocookie.net/gtawiki/images/d/d5/Stromberg-GTA2.png/revision/latest/scale-to-width-down/300?cb=20191224070543",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -8827,7 +8957,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -8929,9 +9061,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -9052,9 +9184,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -9756,7 +9888,9 @@
     "internalName": "vigilante",
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/vigilante.png",
     "stores": [],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -9814,9 +9948,9 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Weaponized Vehicle",
       "HSW Performance Upgrade",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -10210,7 +10344,8 @@
     ],
     "features": [
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -10294,9 +10429,9 @@
       "Legendary Motorsport"
     ],
     "features": [
-      "Weaponized Vehicle",
       "Imani Tech",
-      "Missile Lock-On Jammer"
+      "Missile Lock-On Jammer",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -10694,7 +10829,8 @@
       "Warstock Cache & Carry"
     ],
     "features": [
-      "Service Vehicle"
+      "Service Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },
@@ -10800,7 +10936,9 @@
     "stores": [
       "Warstock Cache & Carry"
     ],
-    "features": [],
+    "features": [
+      "Weaponized Vehicle"
+    ],
     "source": "wiki"
   },
   {
@@ -11043,7 +11181,8 @@
       "Nightclubs"
     ],
     "features": [
-      "Service Vehicle"
+      "Service Vehicle",
+      "Weaponized Vehicle"
     ],
     "source": "wiki"
   },

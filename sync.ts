@@ -72,10 +72,8 @@ const SERVICE_VEHICLES = new Set(
   ].map(n => normalize(n))
 );
 
-// Weaponized vehicles missing from Wiki's Weaponized category (Wiki data gap)
-const WEAPONIZED_OVERRIDES = new Set(
-  ["Oppressor Mk II"].map(n => normalize(n))
-);
+// Note: Weaponized Vehicle detection uses DurtyFree's Weapons array (not Wiki category)
+// Wiki's Weaponized category is incomplete (e.g. Oppressor Mk II absent)
 
 // HSW vehicles where Wiki category title doesn't match DurtyFree display name,
 // or vehicle is absent from DurtyFree entirely — keyed by normalized display name
@@ -267,15 +265,14 @@ async function sync() {
 
   // Pre-fetch feature flag category sets in parallel
   console.log("Fetching Wiki feature flag categories...");
-  const [weaponizedSet, imaniSet, driftSet, hswSet] = await Promise.all([
-    fetchCategoryMembers("Weaponized_Vehicles_in_GTA_Online"),
+  // Weaponized uses DurtyFree Weapons array — no Wiki category needed
+  const [imaniSet, driftSet, hswSet] = await Promise.all([
     fetchCategoryMembers("Vehicles_eligible_for_Imani_Tech_upgrades"),
     fetchCategoryMembers("Vehicles_eligible_for_Drift_Tune_conversion"),
     fetchCategoryMembers("Vehicles_eligible_for_Hao's_Special_Works_conversion"),
   ]);
   console.log(
-    `  Weaponized: ${weaponizedSet.size}, Imani: ${imaniSet.size}, ` +
-    `Drift: ${driftSet.size}, HSW: ${hswSet.size}`
+    `  Imani: ${imaniSet.size}, Drift: ${driftSet.size}, HSW: ${hswSet.size}`
   );
 
   // Build wiki title guesses for all unique display names
@@ -362,19 +359,22 @@ async function sync() {
       if (thumbnail) image = thumbnail;
       source = "wiki";
 
-      // Wiki category checks + static overrides for known Wiki data gaps
-      if (weaponizedSet.has(wikiTitle) || WEAPONIZED_OVERRIDES.has(key)) features.push("Weaponized Vehicle");
       // Imani Tech: Wiki category is broader than GTABase (any Imani upgrade vs. full menu)
-      // We accept the broader definition — 166 vehicles is correct for "Imani Tech eligible"
+      // We accept the broader definition — ~186 vehicles is correct for "Imani Tech eligible"
       if (imaniSet.has(wikiTitle)) features.push("Imani Tech");
       if (driftSet.has(wikiTitle)) features.push("Drift Tuning");
       // HSW: wiki category + overrides for title mismatches (e.g. "Banshee (HD Universe)" vs "Banshee")
       if (hswSet.has(wikiTitle) || HSW_OVERRIDES.has(key)) features.push("HSW Performance Upgrade");
       if (BENNYS_CUSTOM.has(key)) features.push("Custom Vehicle");
       if (SERVICE_VEHICLES.has(key)) features.push("Service Vehicle");
-      // Missile Jammer: static set (Wiki page text misses ~162 of ~200 eligible vehicles)
+      // Missile Jammer: static set bootstrapped from GTABase cache (Wiki text misses most vehicles)
       if (MISSILE_JAMMER_VEHICLES.has(key)) features.push("Missile Lock-On Jammer");
     }
+
+    // Weaponized: use DurtyFree Weapons array — more complete than Wiki category
+    // (Wiki's Weaponized_Vehicles_in_GTA_Online omits Oppressor Mk II and others)
+    const weapons = v.Weapons as unknown[] | undefined;
+    if (Array.isArray(weapons) && weapons.length > 0) features.push("Weaponized Vehicle");
 
     vehicles.push({
       name: displayName,
