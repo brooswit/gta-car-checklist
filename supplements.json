@@ -1,11 +1,2324 @@
 {
-  "_comment": "Supplementary/corrective vehicle data. Applied on top of automated sync pipeline.",
+  "_comment": "Supplementary/corrective vehicle data. Auto-bootstrapped from GTABase cache + manually maintained. Applied on top of automated sync pipeline.",
   "_format": {
     "features_add": "Add features to pipeline output",
     "features_remove": "Remove features from pipeline output",
     "stores": "Full replacement of pipeline store list",
+    "price": "Retail price in GTA$",
+    "trade_price": "Trade price in GTA$",
     "image": "Override pipeline image URL",
     "_missing_from_pipeline": "true = create new entry (not in DurtyFree)",
     "_note": "Human-readable explanation for this supplement entry"
+  },
+  "Buffalo STX Pursuit": {
+    "price": 5370000,
+    "trade_price": 4027500
+  },
+  "Keitora": {
+    "price": 810000
+  },
+  "Itali Classic": {
+    "price": 2025000
+  },
+  "Astrale": {
+    "price": 1475500
+  },
+  "Luiva": {
+    "price": 2697500
+  },
+  "Sentinel XS4": {
+    "price": 1429000
+  },
+  "X-Treme": {
+    "price": 2885000
+  },
+  "GT750": {
+    "price": 1247000
+  },
+  "FMJ MK V": {
+    "price": 2965000
+  },
+  "Drift Walton L35": {
+    "price": 1403750,
+    "features_add": [
+      "Drift Tuning"
+    ]
+  },
+  "Walton L35 (Stock)": {
+    "price": 1303700
+  },
+  "Bobcat Security Stockade": {
+    "price": 2440500,
+    "trade_price": 1830375
+  },
+  "Hardy": {
+    "price": 1380000
+  },
+  "Minimus": {
+    "price": 1417000
+  },
+  "Rapid GT X": {
+    "price": 2705500
+  },
+  "Sentinel GTS": {
+    "price": 2172000,
+    "trade_price": 1629000
+  },
+  "LSCM Cheetah Classic": {
+    "price": 1950500
+  },
+  "Suzume": {
+    "price": 3074500
+  },
+  "Tampa GT": {
+    "price": 1311000
+  },
+  "Woodlander": {
+    "price": 1611000
+  },
+  "Everon RS": {
+    "price": 1665000
+  },
+  "Outreach Faction": {
+    "price": 4150000,
+    "trade_price": 3112500
+  },
+  "Coquette D10 Pursuit": {
+    "price": 5620000,
+    "trade_price": 4125000
+  },
+  "Caracara Pursuit": {
+    "price": 5335000,
+    "trade_price": 4001250
+  },
+  "Titan 250 D": {
+    "price": 4870000,
+    "trade_price": 3652500
+  },
+  "DH-7 Iron Mule": {
+    "price": 2345000,
+    "trade_price": 1758750
+  },
+  "Duster 300-H": {
+    "price": 1020000,
+    "trade_price": 765000
+  },
+  "Uranus LozSpeed": {
+    "price": 1140000
+  },
+  "Firebolt ASP": {
+    "price": 1894500
+  },
+  "Terminus Patrol": {
+    "price": 5125000,
+    "trade_price": 3843750
+  },
+  "Coquette D5": {
+    "price": 1730000
+  },
+  "Chavos V6": {
+    "price": 1420000
+  },
+  "Banshee GTS": {
+    "price": 1989500
+  },
+  "Dominator FX Interceptor": {
+    "price": 4950000,
+    "trade_price": 3712500
+  },
+  "Impaler LX Cruiser": {
+    "price": 4800000,
+    "trade_price": 3600000
+  },
+  "Dominator FX": {
+    "price": 1550000
+  },
+  "Vorschlaghammer": {
+    "price": 1790000
+  },
+  "Pizza Boy": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 195000,
+    "trade_price": 146250
+  },
+  "Castigator": {
+    "price": 1650000
+  },
+  "Impaler SZ Cruiser": {
+    "price": 4720000,
+    "trade_price": 3540000
+  },
+  "Dorado Cruiser": {
+    "price": 5005000,
+    "trade_price": 3753750
+  },
+  "Greenwood Cruiser": {
+    "price": 4910000,
+    "trade_price": 3682500
+  },
+  "Yosemite 1500": {
+    "price": 1205000
+  },
+  "Envisage": {
+    "price": 2472000
+  },
+  "Paragon S": {
+    "price": 2010000
+  },
+  "Niobe": {
+    "price": 1880000
+  },
+  "Euros X32": {
+    "price": 1499000
+  },
+  "Coquette D1": {
+    "price": 1500000
+  },
+  "Pipistrello": {
+    "price": 2950000
+  },
+  "Boxville (LSDS)": {
+    "price": 475000,
+    "trade_price": 356250
+  },
+  "Benson (Cluckin' Bell)": {
+    "price": 685000,
+    "trade_price": 513750
+  },
+  "Cavalcade XL": {
+    "price": 1665000
+  },
+  "Baller ST-D": {
+    "price": 1715000
+  },
+  "Terminus": {
+    "price": 1877500
+  },
+  "Dorado": {
+    "price": 1375000
+  },
+  "Impaler SZ": {
+    "price": 1280000
+  },
+  "Gauntlet Interceptor": {
+    "price": 5420000,
+    "trade_price": 4065000
+  },
+  "FR36": {
+    "price": 1610000
+  },
+  "Vigero ZX Convertible": {
+    "price": 2295000
+  },
+  "Impaler LX": {
+    "price": 1465000
+  },
+  "Dominator GT": {
+    "price": 2195000
+  },
+  "Vivanite": {
+    "price": 1605000
+  },
+  "Asterope GZ": {
+    "price": 459000
+  },
+  "Aleutian": {
+    "price": 1835000
+  },
+  "Turismo Omaggio": {
+    "price": 2845000
+  },
+  "Weaponized Conada": {
+    "price": 3385000
+  },
+  "Junk Energy Inductor": {
+    "price": 50000
+  },
+  "Hotring Hellfire": {
+    "price": 1810000
+  },
+  "Buffalo EVX": {
+    "price": 2140000
+  },
+  "Inductor": {
+    "price": 50000
+  },
+  "La Coureuse": {
+    "price": 1990000
+  },
+  "Brigham": {
+    "price": 1499000
+  },
+  "Streamer216": {
+    "price": 2238000
+  },
+  "Ratel": {
+    "price": 1873000
+  },
+  "MonstroCiti": {
+    "price": 1485000
+  },
+  "Clique Wagon": {
+    "price": 1205000
+  },
+  "F-160 Raiju": {
+    "price": 6855000,
+    "trade_price": 5141250
+  },
+  "Boor": {
+    "price": 1280000
+  },
+  "Eudora": {
+    "price": 1250000
+  },
+  "Hotring Everon": {
+    "price": 1790000,
+    "trade_price": 1342500
+  },
+  "Issi Rally": {
+    "price": 1835000
+  },
+  "Virtue": {
+    "price": 2980000,
+    "trade_price": 2235000
+  },
+  "Panthere": {
+    "price": 2170000
+  },
+  "Broadway": {
+    "price": 925000
+  },
+  "Powersurge": {
+    "price": 1605000
+  },
+  "300R": {
+    "price": 2075000
+  },
+  "Journey II": {
+    "price": 790000,
+    "trade_price": 592500
+  },
+  "Entity MT": {
+    "price": 2355000
+  },
+  "Tulip M-100": {
+    "price": 1658000
+  },
+  "Surfer Custom": {
+    "price": 590000,
+    "trade_price": 442500
+  },
+  "Tahoma Coupe": {
+    "price": 1500000
+  },
+  "Weevil Custom": {
+    "price": 980000
+  },
+  "10F Widebody": {
+    "price": 575000
+  },
+  "Sentinel Classic Widebody": {
+    "price": 700000
+  },
+  "Brioso 300 Widebody": {
+    "price": 585000
+  },
+  "Vigero ZX": {
+    "price": 1947000
+  },
+  "SM722": {
+    "price": 2115000
+  },
+  "Ruiner ZZ-8": {
+    "price": 1320000
+  },
+  "Rhinehart": {
+    "price": 1598000
+  },
+  "Kanjo SJ": {
+    "price": 1370000,
+    "trade_price": 1027500
+  },
+  "LM87": {
+    "price": 2915000
+  },
+  "Torero XO": {
+    "price": 2890000
+  },
+  "Postlude": {
+    "price": 1310000,
+    "trade_price": 982500
+  },
+  "Omnis e-GT": {
+    "price": 1795000
+  },
+  "Draugur": {
+    "price": 1870000,
+    "trade_price": 1402500
+  },
+  "Conada": {
+    "price": 2450000,
+    "trade_price": 1837500
+  },
+  "Greenwood": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 1465000,
+    "trade_price": 1098750,
+    "features_add": [
+      "Imani Tech"
+    ]
+  },
+  "10F": {
+    "price": 1675000
+  },
+  "Corsita": {
+    "price": 1795000
+  },
+  "Weaponized Ignus": {
+    "price": 4500000
+  },
+  "Cyclone II": {
+    "price": 2250000
+  },
+  "Astron Custom": {
+    "price": 1720000
+  },
+  "Arbiter GT": {
+    "price": 1580000
+  },
+  "S95": {
+    "price": 1995000
+  },
+  "Granger 3600LX": {
+    "price": 2000000,
+    "trade_price": 1500000
+  },
+  "I-Wagen": {
+    "price": 1729000
+  },
+  "Patriot Mil-Spec": {
+    "price": 1710000,
+    "trade_price": 1282500
+  },
+  "Baller ST": {
+    "price": 890000,
+    "trade_price": 667500
+  },
+  "Reever": {
+    "price": 1900000
+  },
+  "Shinobi": {
+    "price": 2480500
+  },
+  "Comet S2 Cabrio": {
+    "price": 1797000
+  },
+  "Zeno": {
+    "price": 2820000
+  },
+  "Buffalo STX": {
+    "price": 2150000,
+    "trade_price": 1612500
+  },
+  "Ignus": {
+    "price": 2765000
+  },
+  "Deity": {
+    "price": 1845000,
+    "trade_price": 1383750
+  },
+  "Cinquemila": {
+    "price": 1740000
+  },
+  "Astron": {
+    "price": 1580000
+  },
+  "Champion": {
+    "price": 3750000,
+    "trade_price": 2812500
+  },
+  "Jubilee": {
+    "price": 1650000,
+    "trade_price": 1237500
+  },
+  "Previon": {
+    "price": 1490000,
+    "trade_price": 1117500
+  },
+  "Sultan RS Classic": {
+    "price": 1789000,
+    "trade_price": 1341750
+  },
+  "Dominator ASP": {
+    "price": 1775000,
+    "trade_price": 1331250
+  },
+  "Cypher": {
+    "price": 1550000,
+    "trade_price": 1162500
+  },
+  "Growler": {
+    "price": 1627000,
+    "trade_price": 1220050
+  },
+  "Vectre": {
+    "price": 1785000,
+    "trade_price": 1338750
+  },
+  "Comet S2": {
+    "price": 1878000,
+    "trade_price": 1408500
+  },
+  "Remus": {
+    "price": 1370000,
+    "trade_price": 1027500
+  },
+  "Jester RR": {
+    "price": 1970000,
+    "trade_price": 1477500
+  },
+  "Tailgater S": {
+    "price": 1495000,
+    "trade_price": 1121250
+  },
+  "Warrener HKR": {
+    "price": 1260000,
+    "trade_price": 945000
+  },
+  "RT3000": {
+    "price": 1715000,
+    "trade_price": 1286250
+  },
+  "ZR350": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 1615000,
+    "trade_price": 1211250,
+    "features_add": [
+      "Drift Tuning"
+    ]
+  },
+  "Dominator GTT": {
+    "price": 1220000,
+    "trade_price": 915000
+  },
+  "Euros": {
+    "price": 1800000,
+    "trade_price": 1350000
+  },
+  "Futo GTX": {
+    "price": 1590000,
+    "trade_price": 1192500
+  },
+  "Calico GTF": {
+    "price": 1995000,
+    "trade_price": 1496250
+  },
+  "Manchez Scout": {
+    "price": 225000,
+    "trade_price": 168750
+  },
+  "Verus": {
+    "price": 192000
+  },
+  "Brioso 300": {
+    "price": 610000,
+    "trade_price": 457500
+  },
+  "Vetir": {
+    "price": 1630000,
+    "trade_price": 1222500
+  },
+  "Weevil": {
+    "price": 870000,
+    "trade_price": 652500
+  },
+  "Slamtruck": {
+    "price": 1310000
+  },
+  "Itali RSX": {
+    "price": 3465000,
+    "trade_price": 2598750
+  },
+  "Weaponized Dinghy": {
+    "price": 1850000
+  },
+  "Squaddie": {
+    "price": 1130000,
+    "trade_price": 847500
+  },
+  "Toreador": {
+    "price": 4250000
+  },
+  "Sparrow": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 1815000
+  },
+  "Avisa": {
+    "price": 1545000
+  },
+  "Kurtz 31 Patrol Boat": {
+    "price": 2955000,
+    "trade_price": 2216250
+  },
+  "Longfin": {
+    "price": 2125000,
+    "trade_price": 1593750
+  },
+  "Annihilator Stealth": {
+    "price": 3870000,
+    "trade_price": 2902500
+  },
+  "RO-86 Alkonost": {
+    "price": 4350000,
+    "trade_price": 3262500,
+    "features_add": [
+      "Weaponized Vehicle"
+    ]
+  },
+  "Winky": {
+    "price": 1100000,
+    "trade_price": 825000
+  },
+  "Gauntlet Classic Custom": {
+    "price": 815000
+  },
+  "Yosemite Rancher": {
+    "price": 700000
+  },
+  "Youga Classic 4x4": {
+    "price": 1288000
+  },
+  "Glendale Custom": {
+    "price": 520000
+  },
+  "Peyote Custom": {
+    "price": 620000
+  },
+  "Manana Custom": {
+    "price": 925000
+  },
+  "Beater Dukes": {
+    "price": 378000
+  },
+  "Seminole Frontier": {
+    "price": 678000
+  },
+  "Landstalker XL": {
+    "price": 1220000
+  },
+  "Penumbra FF": {
+    "price": 1380000
+  },
+  "Club": {
+    "price": 1280000
+  },
+  "Coquette D10": {
+    "price": 1510000
+  },
+  "Tigon": {
+    "price": 2310000
+  },
+  "Zhaba": {
+    "price": 2400000,
+    "trade_price": 1800000
+  },
+  "JB 700W": {
+    "price": 1470000
+  },
+  "Blista Kanjo": {
+    "price": 580000,
+    "trade_price": 435000
+  },
+  "Sugoi": {
+    "price": 1224000,
+    "trade_price": 918000
+  },
+  "Drift Yosemite": {
+    "price": 1308000,
+    "trade_price": 981000
+  },
+  "Outlaw": {
+    "price": 1268000,
+    "trade_price": 951000
+  },
+  "Sultan Classic": {
+    "price": 1718000,
+    "trade_price": 1288500
+  },
+  "Stryder": {
+    "price": 670000,
+    "trade_price": 502500
+  },
+  "V-STR": {
+    "price": 1285000
+  },
+  "Imorgon": {
+    "price": 2165000
+  },
+  "Furia": {
+    "price": 2740000,
+    "trade_price": 2055000
+  },
+  "Bugstars Burrito": {
+    "price": 598500,
+    "trade_price": 450000
+  },
+  "Rebla GTS": {
+    "price": 1175000
+  },
+  "Komoda": {
+    "price": 1700000,
+    "trade_price": 1275000
+  },
+  "Asbo": {
+    "price": 408000,
+    "trade_price": 306000
+  },
+  "Retinue Mk II": {
+    "price": 1620000,
+    "trade_price": 1215000
+  },
+  "Everon": {
+    "price": 1475000,
+    "trade_price": 1106250
+  },
+  "Vagrant": {
+    "price": 2214000,
+    "trade_price": 1660500
+  },
+  "Peyote Gasser": {
+    "price": 805000
+  },
+  "Dynasty": {
+    "price": 450000
+  },
+  "Hellion": {
+    "price": 835000
+  },
+  "Zion Classic": {
+    "price": 812000
+  },
+  "Gauntlet Hellfire": {
+    "price": 745000
+  },
+  "Novak": {
+    "price": 608000
+  },
+  "Zorrusso": {
+    "price": 1925000
+  },
+  "Jugular": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 1225000,
+    "trade_price": 918750
+  },
+  "Krieger": {
+    "price": 2875000
+  },
+  "Locust": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 1625000
+  },
+  "Nebula Turbo": {
+    "price": 797000
+  },
+  "Emerus": {
+    "price": 2750000
+  },
+  "Gauntlet Classic": {
+    "price": 615000,
+    "trade_price": 461250
+  },
+  "Neo": {
+    "price": 1875000
+  },
+  "Caracara 4x4": {
+    "price": 875000
+  },
+  "Issi Sport": {
+    "price": 897000
+  },
+  "8F Drafter": {
+    "price": 718000
+  },
+  "Paragon R": {
+    "price": 905000
+  },
+  "S80RR": {
+    "price": 2575000
+  },
+  "Thrax": {
+    "price": 2325000
+  },
+  "Deveste Eight": {
+    "price": 1795000
+  },
+  "Vamos": {
+    "price": 596000
+  },
+  "Deviant": {
+    "price": 512000
+  },
+  "RC Bandito": {
+    "price": 1590000,
+    "features_add": [
+      "Weaponized Vehicle"
+    ]
+  },
+  "Schlagen GT": {
+    "price": 1300000
+  },
+  "Tulip": {
+    "price": 718000
+  },
+  "Itali GTO": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 1965000
+  },
+  "Clique": {
+    "price": 909000
+  },
+  "Toros": {
+    "price": 498000
+  },
+  "Impaler": {
+    "price": 331835,
+    "trade_price": 249500
+  },
+  "Freecrawler": {
+    "price": 597000
+  },
+  "Menacer": {
+    "price": 1775000
+  },
+  "Scramjet": {
+    "price": 4000000
+  },
+  "Oppressor Mk II": {
+    "price": 8000000,
+    "trade_price": 6000000
+  },
+  "Terrorbyte": {
+    "price": 1375000
+  },
+  "B-11 Strikeforce": {
+    "price": 3800000
+  },
+  "Stafford": {
+    "price": 1272000
+  },
+  "Blimp": {
+    "price": 1190350,
+    "trade_price": 895000
+  },
+  "Festival Bus": {
+    "price": 1842050,
+    "trade_price": 1385000
+  },
+  "Patriot Stretch": {
+    "price": 611800,
+    "trade_price": 460000
+  },
+  "Pounder Custom": {
+    "price": 320530,
+    "trade_price": 241000
+  },
+  "Mule Custom": {
+    "price": 95760,
+    "trade_price": 72000
+  },
+  "Swinger": {
+    "price": 909000
+  },
+  "Jester Classic": {
+    "price": 790000
+  },
+  "Michelli GT": {
+    "price": 1225000
+  },
+  "Cheburek": {
+    "price": 145000
+  },
+  "Tyrant": {
+    "price": 2515000
+  },
+  "Dominator GTX": {
+    "price": 725000
+  },
+  "Sea Sparrow": {
+    "stores": [
+      "Elitas Travel"
+    ],
+    "price": 1815000
+  },
+  "Issi Classic": {
+    "price": 360000,
+    "trade_price": 270000
+  },
+  "Flash GT": {
+    "price": 1675000
+  },
+  "Caracara": {
+    "price": 1775000
+  },
+  "Tezeract": {
+    "price": 2825000
+  },
+  "Ellie": {
+    "price": 565000,
+    "trade_price": 423750
+  },
+  "GB200": {
+    "price": 940000
+  },
+  "Taipan": {
+    "price": 1980000
+  },
+  "Entity XXR": {
+    "price": 2305000
+  },
+  "Fagaloa": {
+    "price": 335000
+  },
+  "Hotring Sabre": {
+    "price": 830000,
+    "trade_price": 622500
+  },
+  "Comet SR": {
+    "price": 1145000
+  },
+  "190z": {
+    "price": 900000
+  },
+  "Hustler": {
+    "price": 625000
+  },
+  "Kamacho": {
+    "price": 345000
+  },
+  "Neon": {
+    "price": 1500000
+  },
+  "Revolter": {
+    "price": 1610000
+  },
+  "GT500": {
+    "price": 785000
+  },
+  "Viseris": {
+    "price": 875000
+  },
+  "Savestra": {
+    "price": 990000
+  },
+  "Autarch": {
+    "price": 1955000
+  },
+  "Hermes": {
+    "price": 535000
+  },
+  "Streiter": {
+    "price": 500000
+  },
+  "Avenger": {
+    "price": 3450000
+  },
+  "Deluxo": {
+    "price": 5750000,
+    "trade_price": 4312500
+  },
+  "Stromberg": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 2500000,
+    "trade_price": 1875000
+  },
+  "RCV": {
+    "price": 3125500,
+    "trade_price": 2350000
+  },
+  "Chernobog": {
+    "price": 1500000,
+    "trade_price": 1125000
+  },
+  "Barrage": {
+    "price": 2121350,
+    "trade_price": 1595000
+  },
+  "Volatol": {
+    "price": 3724000,
+    "trade_price": 2800000
+  },
+  "Akula": {
+    "price": 4500000,
+    "trade_price": 3375000
+  },
+  "SC1": {
+    "price": 1603000
+  },
+  "Raiden": {
+    "price": 1375000
+  },
+  "Pariah": {
+    "price": 1420000
+  },
+  "Comet Safari": {
+    "price": 710000
+  },
+  "Yosemite": {
+    "price": 485000
+  },
+  "Riata": {
+    "price": 380000
+  },
+  "FH-1 Hunter": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 4123000,
+    "trade_price": 3100000
+  },
+  "Cyclone": {
+    "price": 1890000
+  },
+  "P-45 Nokota": {
+    "price": 2653350,
+    "trade_price": 1995000
+  },
+  "Seabreeze": {
+    "price": 1130500,
+    "trade_price": 850000
+  },
+  "Vigilante": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 3750000
+  },
+  "Rapid GT Classic": {
+    "price": 885000
+  },
+  "RM-10 Bombushka": {
+    "price": 4750000,
+    "trade_price": 3562500
+  },
+  "Mogul": {
+    "price": 3125500,
+    "trade_price": 2350000
+  },
+  "Pyro": {
+    "price": 4455500,
+    "trade_price": 3350000
+  },
+  "Howard NX-25": {
+    "price": 1296750,
+    "trade_price": 975000
+  },
+  "Youga Classic": {
+    "price": 195000
+  },
+  "Youga": {
+    "price": 16000
+  },
+  "Taco Van": {
+    "price": 345000,
+    "trade_price": 258750
+  },
+  "Surfer": {
+    "price": 11000
+  },
+  "Rumpo Custom": {
+    "price": 130000
+  },
+  "Rumpo": {
+    "price": 13000
+  },
+  "Paradise": {
+    "price": 25000
+  },
+  "Minivan Custom": {
+    "price": 330000
+  },
+  "Minivan": {
+    "price": 30000
+  },
+  "Journey": {
+    "price": 15000
+  },
+  "Gang Burrito": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 86450,
+    "trade_price": 65000
+  },
+  "Armored Boxville": {
+    "price": 1300000,
+    "trade_price": 975000
+  },
+  "Bobcat XL": {
+    "price": 23000
+  },
+  "Bison": {
+    "price": 30000
+  },
+  "Sadler": {
+    "price": 35000
+  },
+  "XLS (Armored)": {
+    "price": 522000
+  },
+  "XLS": {
+    "price": 253000
+  },
+  "Serrano": {
+    "price": 60000
+  },
+  "Seminole": {
+    "price": 30000
+  },
+  "Rocoto": {
+    "price": 85000
+  },
+  "Radius": {
+    "price": 32000
+  },
+  "Patriot": {
+    "price": 50000
+  },
+  "Landstalker": {
+    "price": 58000
+  },
+  "Huntley S": {
+    "price": 195000
+  },
+  "Habanero": {
+    "price": 42000
+  },
+  "Gresley": {
+    "price": 29000
+  },
+  "Granger": {
+    "price": 35000
+  },
+  "FQ 2": {
+    "price": 50000
+  },
+  "Contender": {
+    "price": 250000
+  },
+  "Cavalcade": {
+    "price": 60000
+  },
+  "BeeJay XL": {
+    "price": 27000
+  },
+  "Baller LE LWB (Armored)": {
+    "price": 513000
+  },
+  "Baller LE LWB": {
+    "price": 247000
+  },
+  "Baller LE (Armored)": {
+    "price": 374000
+  },
+  "Baller LE": {
+    "price": 149000
+  },
+  "Zentorno": {
+    "price": 725000
+  },
+  "XA-21": {
+    "price": 2375000
+  },
+  "X80 Proto": {
+    "price": 2700000
+  },
+  "Voltic": {
+    "price": 150000
+  },
+  "Visione": {
+    "price": 2250000
+  },
+  "Vagner": {
+    "price": 1535000
+  },
+  "Vacca": {
+    "price": 240000
+  },
+  "Tyrus": {
+    "price": 2550000
+  },
+  "Turismo R": {
+    "price": 500000
+  },
+  "Tempesta": {
+    "price": 1329000
+  },
+  "T20": {
+    "price": 2200000
+  },
+  "Sultan RS": {
+    "price": 795000
+  },
+  "Rocket Voltic": {
+    "price": 3830400,
+    "trade_price": 2880000
+  },
+  "Reaper": {
+    "price": 1595000
+  },
+  "RE-7B": {
+    "price": 2475000
+  },
+  "Penetrator": {
+    "price": 880000
+  },
+  "Osiris": {
+    "price": 1950000
+  },
+  "Nero Custom": {
+    "price": 605000
+  },
+  "Nero": {
+    "price": 1440000
+  },
+  "Itali GTB Custom": {
+    "price": 495000
+  },
+  "Itali GTB": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 1189000
+  },
+  "Infernus": {
+    "price": 440000
+  },
+  "GP1": {
+    "price": 1260000
+  },
+  "FMJ": {
+    "price": 1750000
+  },
+  "ETR1": {
+    "price": 1995000
+  },
+  "Entity XF": {
+    "price": 795000
+  },
+  "Cheetah": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 650000
+  },
+  "Bullet": {
+    "price": 155000
+  },
+  "Banshee 900R": {
+    "price": 565000
+  },
+  "Adder": {
+    "price": 1000000
+  },
+  "811": {
+    "price": 1135000
+  },
+  "Z-Type": {
+    "price": 950000
+  },
+  "Turismo Classic": {
+    "price": 705000
+  },
+  "Tornado Rat Rod": {
+    "price": 378000
+  },
+  "Tornado Custom": {
+    "price": 375000
+  },
+  "Tornado": {
+    "price": 30000
+  },
+  "Torero": {
+    "price": 998000
+  },
+  "Stinger GT": {
+    "price": 875000
+  },
+  "Stinger": {
+    "price": 850000
+  },
+  "Roosevelt Valor": {
+    "price": 982000
+  },
+  "Roosevelt": {
+    "price": 750000
+  },
+  "Retinue": {
+    "price": 615000
+  },
+  "Pigalle": {
+    "price": 400000
+  },
+  "Peyote": {
+    "price": 38000
+  },
+  "Monroe": {
+    "price": 490000
+  },
+  "Manana": {
+    "price": 10000
+  },
+  "Mamba": {
+    "price": 995000
+  },
+  "JB 700": {
+    "price": 350000
+  },
+  "Infernus Classic": {
+    "price": 915000
+  },
+  "Fr\u00e4nken Stange": {
+    "price": 550000
+  },
+  "Coquette Classic": {
+    "price": 665000
+  },
+  "Cheetah Classic": {
+    "price": 865000
+  },
+  "Casco": {
+    "price": 904400,
+    "trade_price": 680000
+  },
+  "Ardent": {
+    "price": 1150000
+  },
+  "Verlierer": {
+    "price": 695000
+  },
+  "Tropos Rallye": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 816000
+  },
+  "Drift Tampa": {
+    "price": 995000
+  },
+  "Surano": {
+    "price": 110000
+  },
+  "Sultan": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 12000
+  },
+  "Specter Custom": {
+    "price": 252000
+  },
+  "Specter": {
+    "price": 599000
+  },
+  "Seven-70": {
+    "price": 695000
+  },
+  "Schwartzer": {
+    "price": 80000
+  },
+  "Schafter V12": {
+    "price": 116000
+  },
+  "Schafter LWB": {
+    "price": 208000
+  },
+  "Ruston": {
+    "price": 430000
+  },
+  "Raptor": {
+    "price": 648000
+  },
+  "Rapid GT": {
+    "price": 132000
+  },
+  "Penumbra": {
+    "price": 24000
+  },
+  "Omnis": {
+    "price": 701000
+  },
+  "Massacro (Racecar)": {
+    "price": 385000
+  },
+  "Massacro": {
+    "price": 275000
+  },
+  "Lynx": {
+    "price": 1735000
+  },
+  "Kuruma (Armored)": {
+    "price": 698250,
+    "trade_price": 525000
+  },
+  "Kuruma": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 126350,
+    "trade_price": 95000
+  },
+  "Khamelion": {
+    "price": 100000
+  },
+  "Jester (Racecar)": {
+    "price": 350000
+  },
+  "Jester": {
+    "price": 240000
+  },
+  "Futo": {
+    "price": 9000
+  },
+  "Fusilade": {
+    "price": 36000
+  },
+  "Furore GT": {
+    "price": 448000
+  },
+  "Feltzer": {
+    "price": 145000
+  },
+  "Elegy RH8": {
+    "price": 95000
+  },
+  "Elegy Retro Custom": {
+    "price": 904000
+  },
+  "Coquette": {
+    "price": 138000
+  },
+  "Comet Retro Custom": {
+    "price": 645000
+  },
+  "Comet": {
+    "price": 100000
+  },
+  "Carbonizzare": {
+    "price": 195000
+  },
+  "Sprunk Buffalo": {
+    "price": 535000
+  },
+  "Buffalo S": {
+    "price": 96000
+  },
+  "Buffalo": {
+    "price": 35000
+  },
+  "Go Go Monkey Blista": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ]
+  },
+  "Blista Compact": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 42000
+  },
+  "Bestia GTS": {
+    "price": 610000
+  },
+  "Banshee": {
+    "stores": [
+      "Legendary Motorsport",
+      "Benny's Original Motor Works"
+    ],
+    "price": 105000
+  },
+  "Alpha": {
+    "price": 150000
+  },
+  "9F Cabrio": {
+    "price": 130000
+  },
+  "9F": {
+    "price": 120000
+  },
+  "Wastelander": {
+    "price": 658350,
+    "trade_price": 495000
+  },
+  "Taxi": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 650000,
+    "trade_price": 487500
+  },
+  "Rental Shuttle Bus": {
+    "price": 30000
+  },
+  "Dune": {
+    "price": 1300000
+  },
+  "Dashound": {
+    "price": 525000
+  },
+  "Bus": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 500000
+  },
+  "Brickade": {
+    "price": 555000
+  },
+  "Airport Bus": {
+    "price": 550000
+  },
+  "Washington": {
+    "price": 15000
+  },
+  "Warrener": {
+    "price": 120000
+  },
+  "Turreted Limo": {
+    "price": 1650000
+  },
+  "Tailgater": {
+    "price": 55000
+  },
+  "Surge": {
+    "price": 38000
+  },
+  "Super Diamond": {
+    "price": 250000
+  },
+  "Stretch": {
+    "price": 30000
+  },
+  "Stratum": {
+    "price": 10000
+  },
+  "Stanier": {
+    "price": 10000
+  },
+  "Schafter V12 (Armored)": {
+    "price": 325000
+  },
+  "Schafter LWB (Armored)": {
+    "price": 438000
+  },
+  "Schafter": {
+    "price": 65000
+  },
+  "Romero Hearse": {
+    "price": 45000
+  },
+  "Regina": {
+    "price": 8000
+  },
+  "Primo Custom": {
+    "price": 400000
+  },
+  "Primo": {
+    "stores": [
+      "Southern San Andreas Super Autos",
+      "Benny's Original Motor Works"
+    ],
+    "price": 9000
+  },
+  "Premier": {
+    "price": 10000
+  },
+  "Intruder": {
+    "price": 16000
+  },
+  "Ingot": {
+    "price": 9000
+  },
+  "Glendale": {
+    "stores": [
+      "ArenaWar.tv",
+      "Benny's Original Motor Works",
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 200000,
+    "trade_price": 150000
+  },
+  "Fugitive": {
+    "price": 24000
+  },
+  "Cognoscenti 55 (Armored)": {
+    "price": 396000
+  },
+  "Cognoscenti 55": {
+    "price": 154000
+  },
+  "Cognoscenti (Armored)": {
+    "price": 558000
+  },
+  "Cognoscenti": {
+    "price": 254000
+  },
+  "Asterope": {
+    "price": 26000
+  },
+  "Asea": {
+    "price": 12000
+  },
+  "Vestra": {
+    "price": 950000
+  },
+  "Velum 5-Seater": {
+    "price": 1323350,
+    "trade_price": 995000
+  },
+  "Velum": {
+    "price": 450000
+  },
+  "V-65 Molotok": {
+    "price": 4788000,
+    "trade_price": 3600000
+  },
+  "Ultralight": {
+    "price": 665000,
+    "trade_price": 500000
+  },
+  "Tula": {
+    "price": 4100000,
+    "trade_price": 3075000
+  },
+  "Titan": {
+    "price": 2000000
+  },
+  "Shamal": {
+    "price": 1150000
+  },
+  "Rogue": {
+    "price": 1596000,
+    "trade_price": 1200000
+  },
+  "P-996 LAZER": {
+    "price": 6500000
+  },
+  "Nimbus": {
+    "price": 1900000
+  },
+  "Miljet": {
+    "price": 1700000
+  },
+  "Mammatus": {
+    "price": 300000
+  },
+  "Mallard": {
+    "price": 250000
+  },
+  "Luxor Deluxe": {
+    "price": 10000000
+  },
+  "Luxor": {
+    "price": 1625000
+  },
+  "LF-22 Starling": {
+    "price": 3657500,
+    "trade_price": 2750000
+  },
+  "Hydra": {
+    "price": 3990000,
+    "trade_price": 3000000
+  },
+  "Duster": {
+    "price": 275000
+  },
+  "Dodo": {
+    "stores": [
+      "Elitas Travel"
+    ],
+    "price": 500000
+  },
+  "Cuban 800": {
+    "price": 240000
+  },
+  "Besra": {
+    "price": 1150000
+  },
+  "Alpha-Z1": {
+    "price": 2121350,
+    "trade_price": 1595000
+  },
+  "Trophy Truck": {
+    "price": 550000
+  },
+  "Technical Custom": {
+    "price": 142500
+  },
+  "Technical Aqua": {
+    "price": 1489600,
+    "trade_price": 1120000
+  },
+  "Technical": {
+    "price": 1263500,
+    "trade_price": 950000
+  },
+  "Street Blazer": {
+    "price": 81000
+  },
+  "Sandking XL": {
+    "price": 45000
+  },
+  "Sandking SWB": {
+    "price": 38000
+  },
+  "Rusty Rebel": {
+    "price": 3000
+  },
+  "Rebel": {
+    "price": 22000
+  },
+  "Rancher XL": {
+    "price": 9000
+  },
+  "Ramp Buggy": {
+    "price": 3192000,
+    "trade_price": 2400000
+  },
+  "Nightshark": {
+    "price": 1245000
+  },
+  "Marshall": {
+    "price": 500000
+  },
+  "Kalahari": {
+    "price": 40000
+  },
+  "Insurgent Pick-up Custom": {
+    "price": 202500
+  },
+  "Insurgent Pick-up": {
+    "price": 1795500,
+    "trade_price": 1350000
+  },
+  "Insurgent": {
+    "price": 897750,
+    "trade_price": 675000
+  },
+  "Injection": {
+    "price": 16000
+  },
+  "Hot Rod Blazer": {
+    "price": 69000
+  },
+  "Dune FAV": {
+    "price": 1130500,
+    "trade_price": 850000
+  },
+  "Dune Buggy": {
+    "price": 20000
+  },
+  "Dubsta 6x6": {
+    "price": 249000
+  },
+  "Desert Raid": {
+    "price": 695000
+  },
+  "Brawler": {
+    "price": 715000
+  },
+  "Bodhi": {
+    "price": 25000
+  },
+  "Blazer Lifeguard": {
+    "price": 62000
+  },
+  "Blazer Aqua": {
+    "price": 1755600,
+    "trade_price": 1320000
+  },
+  "Blazer": {
+    "price": 8000
+  },
+  "Bifta": {
+    "price": 75000
+  },
+  "Voodoo Custom": {
+    "price": 420000
+  },
+  "Voodoo": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 5500
+  },
+  "Virgo Classic Custom": {
+    "price": 240000
+  },
+  "Virgo Classic": {
+    "price": 165000
+  },
+  "Virgo": {
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "price": 195000
+  },
+  "Vigero": {
+    "price": 21000
+  },
+  "Weaponized Tampa": {
+    "price": 2108050,
+    "trade_price": 1585000
+  },
+  "Tampa": {
+    "price": 375000
+  },
+  "Burger Shot Stallion": {
+    "price": 277000
+  },
+  "Stallion": {
+    "price": 71000
+  },
+  "Slamvan Custom": {
+    "price": 415000
+  },
+  "Slamvan": {
+    "stores": [
+      "Southern San Andreas Super Autos",
+      "Benny's Original Motor Works",
+      "ArenaWar.tv"
+    ],
+    "price": 49500,
+    "trade_price": 37125
+  },
+  "Sabre Turbo Custom": {
+    "price": 490000
+  },
+  "Sabre Turbo": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 15000
+  },
+  "Ruiner 2000": {
+    "price": 3750000,
+    "trade_price": 2812500
+  },
+  "Ruiner": {
+    "price": 10000
+  },
+  "Rat-Truck": {
+    "price": 37500,
+    "trade_price": 28125
+  },
+  "Rat-Loader": {
+    "price": 6000
+  },
+  "Picador": {
+    "price": 9000
+  },
+  "Nightshade": {
+    "price": 585000
+  },
+  "Moonbeam Custom": {
+    "price": 370000
+  },
+  "Moonbeam": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 32500
+  },
+  "Lurcher": {
+    "price": 650000
+  },
+  "Hotknife": {
+    "price": 90000
+  },
+  "Redwood Gauntlet": {
+    "price": 230000
+  },
+  "Gauntlet": {
+    "price": 32000
+  },
+  "Faction Custom Donk": {
+    "price": 695000
+  },
+  "Faction": {
+    "price": 36000
+  },
+  "Dukes": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 62000
+  },
+  "Duke O'Death": {
+    "price": 665000
+  },
+  "Dominator": {
+    "price": 35000,
+    "trade_price": 26250
+  },
+  "Coquette BlackFin": {
+    "price": 695000
+  },
+  "Chino Custom": {
+    "price": 180000
+  },
+  "Chino": {
+    "price": 225000
+  },
+  "Buccaneer Custom": {
+    "price": 390000
+  },
+  "Buccaneer": {
+    "stores": [
+      "Benny's Original Motor Works"
+    ],
+    "price": 29000
+  },
+  "Blade": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 160000
+  },
+  "Zombie Chopper": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 122000
+  },
+  "Zombie Bobber": {
+    "price": 99000
+  },
+  "Wolfsbane": {
+    "price": 95000
+  },
+  "Vortex": {
+    "price": 356000
+  },
+  "Vindicator": {
+    "price": 630000
+  },
+  "Vader": {
+    "price": 9000
+  },
+  "Thrust": {
+    "price": 75000
+  },
+  "Sovereign": {
+    "price": 90000
+  },
+  "Shotaro": {
+    "price": 2225000
+  },
+  "Sanctus": {
+    "price": 1995000
+  },
+  "Sanchez (Livery)": {
+    "price": 7000
+  },
+  "Sanchez": {
+    "price": 8000
+  },
+  "Ruffian": {
+    "price": 10000
+  },
+  "Rat Bike": {
+    "price": 48000
+  },
+  "PCJ 600": {
+    "price": 9000
+  },
+  "Oppressor": {
+    "price": 2750000,
+    "trade_price": 2067669
+  },
+  "Nightblade": {
+    "price": 100000
+  },
+  "Nemesis": {
+    "price": 12000
+  },
+  "Manchez": {
+    "price": 67000,
+    "trade_price": 50250
+  },
+  "Lectro": {
+    "price": 997500,
+    "trade_price": 750000
+  },
+  "Innovation": {
+    "price": 92500
+  },
+  "Hexer": {
+    "price": 15000
+  },
+  "Hakuchou": {
+    "price": 82000
+  },
+  "Gargoyle": {
+    "price": 120000,
+    "trade_price": 90000
+  },
+  "FCR 1000 Custom": {
+    "price": 196000
+  },
+  "FCR 1000": {
+    "price": 135000
+  },
+  "Faggio Sport": {
+    "price": 47500
+  },
+  "Faggio Mod": {
+    "price": 55000
+  },
+  "Faggio": {
+    "price": 5000
+  },
+  "Esskey": {
+    "price": 264000
+  },
+  "Enduro": {
+    "price": 48000
+  },
+  "Double-T": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 12000
+  },
+  "Diabolus Custom": {
+    "price": 245000
+  },
+  "Diabolus": {
+    "price": 169000
+  },
+  "Defiler": {
+    "price": 412000,
+    "trade_price": 309000
+  },
+  "Daemon (Custom)": {
+    "price": 145000
+  },
+  "Cliffhanger": {
+    "price": 225000
+  },
+  "Chimera": {
+    "price": 210000
+  },
+  "Carbon RS": {
+    "price": 40000
+  },
+  "BF400": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 95000
+  },
+  "Bati 801RR": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 15000
+  },
+  "Bati 801": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 15000
+  },
+  "Bagger": {
+    "price": 16000
+  },
+  "Avarus": {
+    "price": 116000
+  },
+  "Akuma": {
+    "price": 9000
+  },
+  "Rhino Tank": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 1500000
+  },
+  "Half-track": {
+    "price": 2254350,
+    "trade_price": 1695000
+  },
+  "Crusader": {
+    "price": 225000
+  },
+  "Barracks": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 450000
+  },
+  "Anti-Aircraft Trailer": {
+    "price": 1862000,
+    "trade_price": 1400000
+  },
+  "Guardian": {
+    "price": 375000
+  },
+  "Dump": {
+    "price": 1000000
+  },
+  "Volatus": {
+    "price": 2295000
+  },
+  "Valkyrie": {
+    "price": 3790500,
+    "trade_price": 2850000
+  },
+  "Swift Deluxe": {
+    "price": 5150000
+  },
+  "Swift": {
+    "price": 1500000
+  },
+  "SuperVolito Carbon": {
+    "price": 3330000
+  },
+  "SuperVolito": {
+    "price": 2113000
+  },
+  "Savage": {
+    "price": 2593500,
+    "trade_price": 1950000
+  },
+  "Maverick": {
+    "stores": [
+      "Elitas Travel"
+    ],
+    "price": 780000
+  },
+  "Havok": {
+    "price": 2300900,
+    "trade_price": 1730000
+  },
+  "Frogger": {
+    "price": 1300000
+  },
+  "Cargobob": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 1790000
+  },
+  "Buzzard Attack Chopper": {
+    "price": 1750000
+  },
+  "Annihilator": {
+    "price": 1825000
+  },
+  "Unmarked Cruiser": {
+    "price": 3950000,
+    "trade_price": 2962500
+  },
+  "Police Riot": {
+    "price": 4800000,
+    "trade_price": 3600000
+  },
+  "Police Prison Bus": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 731500,
+    "trade_price": 550000
+  },
+  "Police Bike": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 4960000,
+    "trade_price": 3720000
+  },
+  "Park Ranger": {
+    "price": 2980000,
+    "trade_price": 2235000
+  },
+  "Fire Truck": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 3295000,
+    "trade_price": 2471250
+  },
+  "Whippet Race Bike": {
+    "price": 10000
+  },
+  "Tri-Cycles Race Bike": {
+    "price": 10000
+  },
+  "Scorcher": {
+    "price": 2000
+  },
+  "Endurex Race Bike": {
+    "price": 10000
+  },
+  "Cruiser": {
+    "stores": [
+      "P&M Cycles"
+    ],
+    "price": 800
+  },
+  "BMX": {
+    "stores": [
+      "P&M Cycles"
+    ],
+    "price": 800
+  },
+  "Zion Cabrio": {
+    "price": 65000
+  },
+  "Zion": {
+    "price": 60000
+  },
+  "Windsor Drop": {
+    "price": 900000
+  },
+  "Windsor": {
+    "price": 845000
+  },
+  "Sentinel XS": {
+    "stores": [
+      "Southern San Andreas Super Autos"
+    ],
+    "price": 60000,
+    "features_add": [
+      "Drift Tuning"
+    ]
+  },
+  "Sentinel": {
+    "price": 95000
+  },
+  "Oracle XS": {
+    "price": 82000
+  },
+  "Oracle": {
+    "price": 80000
+  },
+  "Jackal": {
+    "price": 60000
+  },
+  "Felon GT": {
+    "price": 95000
+  },
+  "Felon": {
+    "price": 90000
+  },
+  "F620": {
+    "price": 80000
+  },
+  "Exemplar": {
+    "price": 205000
+  },
+  "Cognoscenti Cabrio": {
+    "price": 185000
+  },
+  "Rhapsody": {
+    "price": 140000
+  },
+  "Prairie": {
+    "price": 25000
+  },
+  "Panto": {
+    "price": 85000
+  },
+  "Issi": {
+    "price": 18000
+  },
+  "Dilettante": {
+    "price": 25000
+  },
+  "Brioso R/A": {
+    "price": 155000
+  },
+  "Stockade": {
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "price": 2240000,
+    "trade_price": 1680000
+  },
+  "Phantom Wedge": {
+    "price": 2553600,
+    "trade_price": 1920000
+  },
+  "Phantom Custom": {
+    "price": 1225000
+  },
+  "Mule": {
+    "price": 27000
+  },
+  "Hauler Custom": {
+    "price": 1400000
+  },
+  "Tug": {
+    "stores": [
+      "DockTease"
+    ],
+    "price": 1250000
+  },
+  "Tropic": {
+    "price": 22000
+  },
+  "Toro": {
+    "price": 1750000
+  },
+  "Suntrap": {
+    "price": 25160
+  },
+  "Squalo": {
+    "stores": [
+      "DockTease"
+    ],
+    "price": 196621
+  },
+  "Speeder": {
+    "stores": [
+      "DockTease"
+    ],
+    "price": 325000
+  },
+  "Seashark": {
+    "price": 16899
+  },
+  "Police Predator": {
+    "price": 3780000
+  },
+  "Marquis": {
+    "price": 413990
+  },
+  "Kraken": {
+    "price": 1325000
+  },
+  "Jetmax": {
+    "stores": [
+      "DockTease"
+    ],
+    "price": 299000
   }
 }
