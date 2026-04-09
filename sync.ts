@@ -28,6 +28,8 @@ interface OutputVehicle {
   image: string;
   stores: string[];
   features: string[];
+  price?: number;
+  trade_price?: number;
   source: string;
 }
 
@@ -252,6 +254,31 @@ function buildWikiTitleGuess(displayName: string): string {
   });
 }
 
+// Deterministic hash for supplement-only vehicles (no DurtyFree hash available)
+function hashCode(str: string): number {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (Math.imul(31, hash) + str.charCodeAt(i)) | 0;
+  }
+  return hash;
+}
+
+interface Supplement {
+  // For existing pipeline vehicles:
+  features_add?: string[];
+  features_remove?: string[];
+  stores?: string[];
+  price?: number;
+  trade_price?: number;
+  image?: string;
+  // For vehicles missing from DurtyFree:
+  _missing_from_pipeline?: boolean;
+  _note?: string;
+  vehicleClass?: string;
+  manufacturer?: string;
+  features?: string[];  // complete list when _missing_from_pipeline
+}
+
 // ── Main sync ─────────────────────────────────────────────────────────────────
 
 async function sync() {
@@ -387,6 +414,66 @@ async function sync() {
       features,
       source,
     });
+  }
+
+  // ── Apply supplements ─────────────────────────────────────────────────────
+  const supplementsPath = import.meta.dir + "/supplements.json";
+  const supplementsFile = Bun.file(supplementsPath);
+  let supplementsApplied = 0;
+  let supplementsAdded = 0;
+
+  if (await supplementsFile.exists()) {
+    console.log("Applying supplements...");
+    const supplements: Record<string, Supplement> = await supplementsFile.json();
+    const vehicleByName = new Map(vehicles.map(v => [v.name.toLowerCase(), v]));
+
+    for (const [name, sup] of Object.entries(supplements)) {
+      if (name.startsWith("_")) continue; // skip meta-keys (_comment, _format, etc.)
+      const existing = vehicleByName.get(name.toLowerCase());
+
+      if (sup._missing_from_pipeline) {
+        // Add vehicle that DurtyFree doesn't know about
+        if (!existing) {
+          const newVehicle: OutputVehicle = {
+            name,
+            manufacturer: sup.manufacturer ?? "",
+            vehicleClass: sup.vehicleClass ?? "Unknown",
+            hash: hashCode(normalize(name)),
+            internalName: normalize(name).replace(/ /g, ""),
+            image: sup.image ?? "",
+            stores: sup.stores ?? [],
+            features: sup.features ?? [],
+            price: sup.price,
+            trade_price: sup.trade_price,
+            source: "supplement",
+          };
+          vehicles.push(newVehicle);
+          vehicleByName.set(name.toLowerCase(), newVehicle);
+          supplementsAdded++;
+        }
+      } else if (existing) {
+        // Patch existing pipeline vehicle
+        if (sup.stores !== undefined) existing.stores = sup.stores;
+        if (sup.image !== undefined) existing.image = sup.image;
+        if (sup.features_add) {
+          for (const f of sup.features_add) {
+            if (!existing.features.includes(f)) existing.features.push(f);
+          }
+        }
+        if (sup.features_remove) {
+          existing.features = existing.features.filter(f => !sup.features_remove!.includes(f));
+        }
+        if (sup.price !== undefined) existing.price = sup.price;
+        if (sup.trade_price !== undefined) existing.trade_price = sup.trade_price;
+        supplementsApplied++;
+      } else {
+        console.log(`  Warning: supplement "${name}" not found in pipeline output`);
+      }
+    }
+
+    console.log(`  Applied: ${supplementsApplied} patches, ${supplementsAdded} new vehicles`);
+  } else {
+    console.log("No supplements.json found — skipping supplement layer");
   }
 
   // Sort by class, then name

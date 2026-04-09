@@ -1,0 +1,11 @@
+{
+  "_comment": "Supplementary/corrective vehicle data. Applied on top of automated sync pipeline.",
+  "_format": {
+    "features_add": "Add features to pipeline output",
+    "features_remove": "Remove features from pipeline output",
+    "stores": "Full replacement of pipeline store list",
+    "image": "Override pipeline image URL",
+    "_missing_from_pipeline": "true = create new entry (not in DurtyFree)",
+    "_note": "Human-readable explanation for this supplement entry"
+  }
+}
