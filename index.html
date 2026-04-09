@@ -266,6 +266,25 @@
       <option value="C"   title="Barely worth it for grinding. Only buy if a specific mission requires it.">C — Situational</option>
       <option value="skip" title="Don’t waste money grinding with this. There’s always something better.">Skip</option>
     </select>
+    <select id="raceFilter" title="Broughy's tiers rank every vehicle by lap time on a standard circuit \u2014 the definitive competitive racing benchmark for GTA Online.">
+      <option value="">All Racing Tiers</option>
+      <option value="S" title="Best in class \u2014 top of the racing meta">S</option>
+      <option value="A" title="Strong competitor \u2014 seriously viable in races">A</option>
+      <option value="B" title="Good performance \u2014 solid competitive choice">B</option>
+      <option value="C" title="Capable \u2014 above average standing">C</option>
+      <option value="D" title="Average tier \u2014 middle of the pack">D</option>
+      <option value="E" title="Below average \u2014 starting to struggle">E</option>
+      <option value="F" title="Weak racer \u2014 noticeable disadvantage">F</option>
+      <option value="G" title="Outclassed \u2014 well below the meta">G</option>
+      <option value="H" title="Poor choice \u2014 rarely competitive">H</option>
+      <option value="I" title="Very weak \u2014 mostly for fun">I</option>
+      <option value="J" title="Near bottom \u2014 don't expect to win">J</option>
+      <option value="K" title="Near last \u2014 avoid for serious racing">K</option>
+      <option value="L" title="Low tier \u2014 won't place often">L</option>
+      <option value="M" title="Very poor \u2014 competitive only against lower tiers">M</option>
+      <option value="N" title="Bottom tier \u2014 novelty or fun racing only">N</option>
+      <option value="O" title="Last place \u2014 slowest option available">O</option>
+    </select>
     <button class="filter-btn" id="showAll">All</button>
     <button class="filter-btn" id="showOwned">Owned</button>
     <button class="filter-btn" id="showMissing">Missing</button>
@@ -330,6 +349,7 @@ let minPrice = null;
 let maxPrice = null;
 let mfgFilter = '';
 let grindFilter = '';
+let raceFilter = '';
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -358,6 +378,7 @@ function pushHash() {
   if (filter) params.set('own', filter);
   if (sortOrder && sortOrder !== 'class') params.set('sort', sortOrder);
   if (grindFilter) params.set('grind', grindFilter);
+  if (raceFilter) params.set('race', raceFilter);
   if (minPrice !== null) params.set('minp', minPrice);
   if (maxPrice !== null) params.set('maxp', maxPrice);
   const str = params.toString();
@@ -384,6 +405,7 @@ function restoreFromHash() {
   }
   if (params.has('sort')) { sortOrder = params.get('sort'); document.getElementById('sortOrder').value = sortOrder; }
   if (params.has('grind')) { grindFilter = params.get('grind'); document.getElementById('grindFilter').value = grindFilter; }
+  if (params.has('race')) { raceFilter = params.get('race'); document.getElementById('raceFilter').value = raceFilter; }
     if (params.has('minp')) { minPrice = Number(params.get('minp')); document.getElementById('minPrice').value = minPrice; }
   if (params.has('maxp')) { maxPrice = Number(params.get('maxp')); document.getElementById('maxPrice').value = maxPrice; }
 }
@@ -402,13 +424,14 @@ function render() {
     const matchStore = !storeVal || (v.stores && v.stores.includes(storeVal));
     const matchMfg = !mfgFilter || (v.ManufacturerDisplayName?.English || '') === mfgFilter;
     const matchGrind = !grindFilter || v.grinding_tier === grindFilter;
+    const matchRace = !raceFilter || v.racing_tier === raceFilter;
     const isOwned = owned.has(v.Hash);
     const matchFilter = !filter || (filter === 'owned' && isOwned) || (filter === 'missing' && !isOwned);
     const matchUseCase = !useCaseFilter || (v.use_case || []).includes(useCaseFilter);
     const price = v.price ?? null;
     const priceActive = minPrice !== null || maxPrice !== null;
     const matchPrice = !priceActive || (price !== null && (minPrice === null || price >= minPrice) && (maxPrice === null || price <= maxPrice));
-    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice && matchGrind;
+    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice && matchGrind && matchRace;
   });
 
   const groups = {};
@@ -634,6 +657,11 @@ document.getElementById('grindFilter').addEventListener('change', e => {
   render();
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'grind', value: e.target.value }));
 });
+document.getElementById('raceFilter').addEventListener('change', e => {
+  raceFilter = e.target.value;
+  render();
+  ldReady.then(() => ldClient.track('filter-changed', { filterType: 'race', value: e.target.value }));
+});
 
 
 ['minPrice', 'maxPrice'].forEach(id => {
@@ -655,6 +683,7 @@ document.getElementById('resetFilters').addEventListener('click', () => {
   document.getElementById('storeFilter').value = '';
   document.getElementById('mfgFilter').value = ''; mfgFilter = '';
   document.getElementById('grindFilter').value = ''; grindFilter = '';
+  document.getElementById('raceFilter').value = ''; raceFilter = '';
   document.getElementById('minPrice').value = '';
   document.getElementById('maxPrice').value = '';
   minPrice = null; maxPrice = null;
