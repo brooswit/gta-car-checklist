@@ -72,6 +72,57 @@ const SERVICE_VEHICLES = new Set(
   ].map(n => normalize(n))
 );
 
+// Weaponized vehicles missing from Wiki's Weaponized category (Wiki data gap)
+const WEAPONIZED_OVERRIDES = new Set(
+  ["Oppressor Mk II"].map(n => normalize(n))
+);
+
+// HSW vehicles where Wiki category title doesn't match DurtyFree display name,
+// or vehicle is absent from DurtyFree entirely — keyed by normalized display name
+const HSW_OVERRIDES = new Set(
+  ["Sentinel XS", "Hakuchou Drag Bike", "Banshee", "Stinger TT", "Stirling GT"].map(n => normalize(n))
+);
+
+// Missile Lock-On Jammer — static set from GTABase (Wiki page text misses most vehicles)
+// Source: GTABase ct30 cache, bootstrapped 2026-03-04
+const MISSILE_JAMMER_VEHICLES = new Set(
+  [
+    "10F","10F Widebody","300R","811","9F","9F Cabrio","Akuma","Aleutian","Alpha-Z1",
+    "Ardent","Astrale","Avenger","BF400","Bagger","Baller LE (Armored)","Baller LE LWB",
+    "Baller LE LWB (Armored)","Baller ST-D","Banshee GTS","Bati 801","Bati 801RR",
+    "Besra","Blade","Blazer","Bodhi","Brawler","Broadway","Buffalo EVX","Buffalo S",
+    "Buffalo S Cruiser","Buffalo STX","Buffalo STX Pursuit","Bullet","Calico GTF",
+    "Caracara 4x4","Caracara Pursuit","Cargobob","Cargobob Jetsam","Cavalcade XL",
+    "Champion","Chavos V6","Cheburek","Cheetah","Cognoscenti","Cognoscenti (Armored)",
+    "Cognoscenti 55","Cognoscenti 55 (Armored)","Comet","Comet S2","Comet S2 Cabrio",
+    "Comet SR","Conada","Contender","Coquette D10 Pursuit","Coquette D5","Cyclone",
+    "DH-7 Iron Mule","Deity","Deveste Eight","Deviant","Dodo","Dominator","Dominator ASP",
+    "Dominator FX Interceptor","Dominator GTT","Dorado Cruiser","Double-T",
+    "Drift Walton L35","Dubsta 6x6","Duke O'Death","ETR1","Elegy RH8","Entity MT",
+    "Envisage","Eudora","Euros","Everon RS","FMJ","FMJ MK V","Firebolt ASP","Futo",
+    "Futo GTX","GP1","GT750","Gauntlet","Gauntlet Hellfire","Gauntlet Interceptor",
+    "Granger 3600LX","Greenwood","Greenwood Cruiser","Hakuchou","Hakuchou Drag Bike",
+    "Hardy","Hellion","Hermes","Hexer","Howard NX-25","Ignus","Imorgon","Impaler LX",
+    "Impaler LX Cruiser","Impaler SZ Cruiser","Infernus","Issi","Issi Sport",
+    "Itali Classic","JB 700W","Jester RR","Jubilee","Jugular","Komoda","Krieger",
+    "Kuruma","LSCM Cheetah Classic","LSCM Jester RR (Widebody)","La Coureuse","Locust",
+    "Luiva","Luxor","Luxor Deluxe","Manchez","Manchez Scout","Massacro",
+    "Massacro (Racecar)","Maverick","Mesa (Merryweather)","MonstroCiti","Neo","Niobe",
+    "Omnis e-GT","Outreach Faction","Paragon R","Paragon S","Patriot","Patriot Mil-Spec",
+    "Peyote Gasser","Pipistrello","Pizza Boy","Police Bike","Police Cruiser (Stanier LE)",
+    "RE-7B","Raiden","Rapid GT X","Raptor","Reever","Remus","Revolter","Rumpo Custom",
+    "S80RR","SC1","Sanchez","Sanchez (Livery)","Savestra","Schafter LWB",
+    "Schafter LWB (Armored)","Schafter V12","Schafter V12 (Armored)","Sentinel",
+    "Sentinel GTS","Sentinel XS4","Shinobi","Shotaro","Stanier","Stinger GT","Stinger TT",
+    "Stirling GT","SuperVolito","SuperVolito Carbon","Swift Deluxe","Swinger","Tampa GT",
+    "Terminus","Terminus Patrol","Terrorbyte","Tigon","Torero","Torero XO",
+    "Turismo Omaggio","Tyrus","Unmarked Cruiser","Uranus LozSpeed","V-STR","Vacca",
+    "Vigero ZX","Virtue","Viseris","Volatus","Vortex","Weaponized Ignus","Weevil Custom",
+    "Woodlander","X-Treme","XA-21","XLS","XLS (Armored)","Z-Type","Zentorno",
+    "Zion Classic","Zombie Chopper","Zorrusso",
+  ].map(n => normalize(n))
+);
+
 // Stores that indicate not-purchasable
 const NON_STORE_PATTERNS = [
   /cannot be acquired/i,
@@ -311,13 +362,18 @@ async function sync() {
       if (thumbnail) image = thumbnail;
       source = "wiki";
 
-      if (weaponizedSet.has(wikiTitle)) features.push("Weaponized Vehicle");
+      // Wiki category checks + static overrides for known Wiki data gaps
+      if (weaponizedSet.has(wikiTitle) || WEAPONIZED_OVERRIDES.has(key)) features.push("Weaponized Vehicle");
+      // Imani Tech: Wiki category is broader than GTABase (any Imani upgrade vs. full menu)
+      // We accept the broader definition — 166 vehicles is correct for "Imani Tech eligible"
       if (imaniSet.has(wikiTitle)) features.push("Imani Tech");
       if (driftSet.has(wikiTitle)) features.push("Drift Tuning");
-      if (hswSet.has(wikiTitle)) features.push("HSW Performance Upgrade");
+      // HSW: wiki category + overrides for title mismatches (e.g. "Banshee (HD Universe)" vs "Banshee")
+      if (hswSet.has(wikiTitle) || HSW_OVERRIDES.has(key)) features.push("HSW Performance Upgrade");
       if (BENNYS_CUSTOM.has(key)) features.push("Custom Vehicle");
       if (SERVICE_VEHICLES.has(key)) features.push("Service Vehicle");
-      if (wikitext.includes("Missile Lock-On Jammer")) features.push("Missile Lock-On Jammer");
+      // Missile Jammer: static set (Wiki page text misses ~162 of ~200 eligible vehicles)
+      if (MISSILE_JAMMER_VEHICLES.has(key)) features.push("Missile Lock-On Jammer");
     }
 
     vehicles.push({
