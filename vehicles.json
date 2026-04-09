@@ -26,7 +26,10 @@
     "features": [
       "Weaponized Vehicle"
     ],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Jetmax",
@@ -100,7 +103,10 @@
     "racing_tier": null,
     "racing_lap_time": 177.336,
     "price": 2955000,
-    "trade_price": 2216250
+    "trade_price": 2216250,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Longfin",
@@ -152,7 +158,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 123.214,
-    "price": 3780000
+    "price": 3780000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Seashark",
@@ -295,7 +304,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 95.004,
-    "price": 1850000
+    "price": 1850000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Cerberus",
@@ -310,7 +322,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 85.602
+    "racing_lap_time": 85.602,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Benson",
@@ -323,7 +338,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 92.309
+    "racing_lap_time": 92.309,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Benson (Cluckin' Bell)",
@@ -340,7 +358,10 @@
     "racing_tier": null,
     "racing_lap_time": 92.309,
     "price": 685000,
-    "trade_price": 513750
+    "trade_price": 513750,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Biff",
@@ -353,7 +374,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 101.835
+    "racing_lap_time": 101.835,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Bobcat Security Stockade",
@@ -370,7 +394,10 @@
     "racing_tier": null,
     "racing_lap_time": 97.814,
     "price": 2440500,
-    "trade_price": 1830375
+    "trade_price": 1830375,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Future Shock Cerberus",
@@ -387,7 +414,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 85.602
+    "racing_lap_time": 85.602,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Hauler",
@@ -400,7 +430,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 104.188
+    "racing_lap_time": 104.188,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Hauler Custom",
@@ -419,7 +452,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.434,
-    "price": 1400000
+    "price": 1400000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Mule",
@@ -435,7 +471,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 110.294,
-    "price": 27000
+    "price": 27000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Mule Custom",
@@ -476,7 +515,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 85.602
+    "racing_lap_time": 85.602,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Packer",
@@ -489,7 +531,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 98.031
+    "racing_lap_time": 98.031,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Phantom",
@@ -502,7 +547,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 94.595
+    "racing_lap_time": 94.595,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Phantom Custom",
@@ -521,7 +569,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.283,
-    "price": 1225000
+    "price": 1225000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Phantom Wedge",
@@ -555,7 +606,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 106.94
+    "racing_lap_time": 106.94,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Pounder Custom",
@@ -596,7 +650,10 @@
     "racing_tier": null,
     "racing_lap_time": 97.814,
     "price": 2240000,
-    "trade_price": 1680000
+    "trade_price": 1680000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Terrorbyte",
@@ -637,7 +694,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 67.368
+    "racing_lap_time": 67.368,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Asbo",
@@ -654,7 +714,10 @@
     "racing_tier": "E",
     "racing_lap_time": 77.01,
     "price": 408000,
-    "trade_price": 306000
+    "trade_price": 306000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Blista",
@@ -667,7 +730,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
-    "racing_lap_time": 75.993
+    "racing_lap_time": 75.993,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Blista Kanjo",
@@ -684,7 +750,10 @@
     "racing_tier": "B",
     "racing_lap_time": 73.473,
     "price": 580000,
-    "trade_price": 435000
+    "trade_price": 435000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Brioso 300",
@@ -702,7 +771,10 @@
     "racing_tier": "G",
     "racing_lap_time": 83.95,
     "price": 610000,
-    "trade_price": 457500
+    "trade_price": 457500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Brioso 300 Widebody",
@@ -720,7 +792,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.442,
-    "price": 585000
+    "price": 585000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Brioso R/A",
@@ -738,7 +813,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 70.436,
-    "price": 155000
+    "price": 155000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Club",
@@ -755,7 +833,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 66.6,
-    "price": 1280000
+    "price": 1280000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dilettante",
@@ -771,7 +852,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 82.165,
-    "price": 25000
+    "price": 25000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Future Shock Issi",
@@ -788,7 +872,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 67.368
+    "racing_lap_time": 67.368,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Issi",
@@ -807,7 +894,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.542,
-    "price": 18000
+    "price": 18000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Issi Classic",
@@ -846,7 +936,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 67.368
+    "racing_lap_time": 67.368,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Panto",
@@ -863,7 +956,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 74.057,
-    "price": 85000
+    "price": 85000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Prairie",
@@ -879,7 +975,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.476,
-    "price": 25000
+    "price": 25000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rhapsody",
@@ -897,7 +996,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 74.056,
-    "price": 140000
+    "price": 140000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Weevil",
@@ -914,7 +1016,10 @@
     "racing_tier": "D",
     "racing_lap_time": 75.642,
     "price": 870000,
-    "trade_price": 652500
+    "trade_price": 652500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cognoscenti Cabrio",
@@ -930,7 +1035,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.12,
-    "price": 185000
+    "price": 185000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Euros X32",
@@ -948,7 +1056,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.4,
-    "price": 1499000
+    "price": 1499000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Exemplar",
@@ -965,7 +1076,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.552,
-    "price": 205000
+    "price": 205000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "F620",
@@ -981,7 +1095,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.27,
-    "price": 80000
+    "price": 80000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Felon",
@@ -997,7 +1114,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.788,
-    "price": 90000
+    "price": 90000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Felon GT",
@@ -1013,7 +1133,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.654,
-    "price": 95000
+    "price": 95000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "FR36",
@@ -1031,7 +1154,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.214,
-    "price": 1610000
+    "price": 1610000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Jackal",
@@ -1047,7 +1173,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.632,
-    "price": 60000
+    "price": 60000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Kanjo SJ",
@@ -1064,7 +1193,10 @@
     "racing_tier": "G",
     "racing_lap_time": 72.322,
     "price": 1370000,
-    "trade_price": 1027500
+    "trade_price": 1027500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Oracle",
@@ -1080,7 +1212,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 71.021,
-    "price": 80000
+    "price": 80000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Oracle XS",
@@ -1096,7 +1231,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.822,
-    "price": 82000
+    "price": 82000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Postlude",
@@ -1113,7 +1251,10 @@
     "racing_tier": "H",
     "racing_lap_time": 74.541,
     "price": 1310000,
-    "trade_price": 982500
+    "trade_price": 982500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Previon",
@@ -1130,7 +1271,10 @@
     "racing_tier": "A",
     "racing_lap_time": 64.731,
     "price": 1490000,
-    "trade_price": 1117500
+    "trade_price": 1117500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sentinel",
@@ -1150,7 +1294,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.787,
-    "price": 95000
+    "price": 95000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sentinel XS",
@@ -1169,7 +1316,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.787,
-    "price": 60000
+    "price": 60000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Windsor",
@@ -1186,7 +1336,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.938,
-    "price": 845000
+    "price": 845000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Windsor Drop",
@@ -1202,7 +1355,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 72.359,
-    "price": 900000
+    "price": 900000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Zion",
@@ -1218,7 +1374,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.512,
-    "price": 60000
+    "price": 60000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Zion Cabrio",
@@ -1234,7 +1393,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.528,
-    "price": 65000
+    "price": 65000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "BMX",
@@ -1250,7 +1412,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 164.864,
-    "price": 800
+    "price": 800,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Cruiser",
@@ -1266,7 +1431,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 175.173,
-    "price": 800
+    "price": 800,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Endurex Race Bike",
@@ -1284,7 +1452,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
-    "price": 10000
+    "price": 10000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Fixter",
@@ -1297,7 +1468,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 134.434
+    "racing_lap_time": 134.434,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Inductor",
@@ -1313,7 +1487,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 131.365,
-    "price": 50000
+    "price": 50000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Junk Energy Inductor",
@@ -1329,7 +1506,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 131.365,
-    "price": 50000
+    "price": 50000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Scorcher",
@@ -1345,7 +1525,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 152.618,
-    "price": 2000
+    "price": 2000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Tri-Cycles Race Bike",
@@ -1363,7 +1546,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
-    "price": 10000
+    "price": 10000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Whippet Race Bike",
@@ -1382,7 +1568,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
-    "price": 10000
+    "price": 10000,
+    "use_case": [
+      "fun"
+    ]
   },
   {
     "name": "Ambulance",
@@ -1558,7 +1747,10 @@
     "racing_tier": null,
     "racing_lap_time": 89.34,
     "price": 3295000,
-    "trade_price": 2471250
+    "trade_price": 2471250,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Gauntlet Interceptor",
@@ -1811,7 +2003,10 @@
     "racing_tier": null,
     "racing_lap_time": 90.007,
     "price": 3125500,
-    "trade_price": 2350000
+    "trade_price": 2350000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Sheriff Cruiser",
@@ -1937,7 +2132,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.902,
-    "price": 1825000
+    "price": 1825000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Annihilator Stealth",
@@ -1956,7 +2154,10 @@
     "racing_tier": null,
     "racing_lap_time": 60.238,
     "price": 3870000,
-    "trade_price": 2902500
+    "trade_price": 2902500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Buzzard",
@@ -1974,7 +2175,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.523,
-    "price": 1750000
+    "price": 1750000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Buzzard Attack Chopper",
@@ -2101,7 +2305,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 56.757,
-    "price": 1300000
+    "price": 1300000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Havok",
@@ -2120,7 +2327,10 @@
     "racing_tier": null,
     "racing_lap_time": 55.234,
     "price": 2300900,
-    "trade_price": 1730000
+    "trade_price": 1730000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Higgins Helitours Maverick",
@@ -2135,7 +2345,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 59.058
+    "racing_lap_time": 59.058,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Maverick",
@@ -2154,7 +2367,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.058,
-    "price": 780000
+    "price": 780000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Police Maverick",
@@ -2169,7 +2385,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 58.325
+    "racing_lap_time": 58.325,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Savage",
@@ -2210,7 +2429,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.535,
-    "price": 1815000
+    "price": 1815000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Skylift",
@@ -2267,7 +2489,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.489,
-    "price": 2113000
+    "price": 2113000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "SuperVolito Carbon",
@@ -2287,7 +2512,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.489,
-    "price": 3330000
+    "price": 3330000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Swift",
@@ -2307,7 +2535,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.953,
-    "price": 1500000
+    "price": 1500000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Swift Deluxe",
@@ -2327,7 +2558,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.484,
-    "price": 5150000
+    "price": 5150000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Valkyrie",
@@ -2346,7 +2580,10 @@
     "racing_tier": null,
     "racing_lap_time": 61.796,
     "price": 3790500,
-    "trade_price": 2850000
+    "trade_price": 2850000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Valkyrie MOD.0",
@@ -2363,7 +2600,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 61.796
+    "racing_lap_time": 61.796,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Volatus",
@@ -2383,7 +2623,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.388,
-    "price": 2295000
+    "price": 2295000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Weaponized Conada",
@@ -2401,7 +2644,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.762,
-    "price": 3385000
+    "price": 3385000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Custom Flatbed",
@@ -2414,7 +2660,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 96.129
+    "racing_lap_time": 96.129,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Cutter",
@@ -2427,7 +2676,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 188.049
+    "racing_lap_time": 188.049,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Dock Handler",
@@ -2440,7 +2692,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 185.852
+    "racing_lap_time": 185.852,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Dozer",
@@ -2453,7 +2708,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 518.251
+    "racing_lap_time": 518.251,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Dump",
@@ -2470,7 +2728,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 183.133,
-    "price": 1000000
+    "price": 1000000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Flatbed",
@@ -2483,7 +2744,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 96.096
+    "racing_lap_time": 96.096,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Guardian",
@@ -2499,7 +2763,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 77.044,
-    "price": 375000
+    "price": 375000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Mixer",
@@ -2512,7 +2779,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 102.669
+    "racing_lap_time": 102.669,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Rubble",
@@ -2525,7 +2795,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 102.953
+    "racing_lap_time": 102.953,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Tipper",
@@ -2538,7 +2811,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 104.237
+    "racing_lap_time": 104.237,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Anti-Aircraft Trailer",
@@ -2557,7 +2833,10 @@
     "racing_tier": null,
     "racing_lap_time": null,
     "price": 1862000,
-    "trade_price": 1400000
+    "trade_price": 1400000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "APC",
@@ -2595,7 +2874,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 84.15
+    "racing_lap_time": 84.15,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Barracks",
@@ -2611,7 +2893,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 101.101,
-    "price": 450000
+    "price": 450000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Barracks Semi",
@@ -2624,7 +2909,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 97.163
+    "racing_lap_time": 97.163,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Barrage",
@@ -2643,7 +2931,10 @@
     "racing_tier": null,
     "racing_lap_time": 72.339,
     "price": 2121350,
-    "trade_price": 1595000
+    "trade_price": 1595000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Chernobog",
@@ -2662,7 +2953,10 @@
     "racing_tier": null,
     "racing_lap_time": 108.491,
     "price": 1500000,
-    "trade_price": 1125000
+    "trade_price": 1125000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Crusader",
@@ -2678,7 +2972,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.735,
-    "price": 225000
+    "price": 225000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Scarab",
@@ -2695,7 +2992,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 84.15
+    "racing_lap_time": 84.15,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Half-track",
@@ -2734,7 +3034,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 218.443
+    "racing_lap_time": 218.443,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Scarab",
@@ -2751,7 +3054,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 84.15
+    "racing_lap_time": 84.15,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Rhino Tank",
@@ -2791,7 +3097,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 99.55
+    "racing_lap_time": 99.55,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "TM-02 Khanjali",
@@ -2868,7 +3177,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 59.017
+    "racing_lap_time": 59.017,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Avarus",
@@ -3243,7 +3555,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 59.017
+    "racing_lap_time": 59.017,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Gargoyle",
@@ -3456,7 +3771,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 59.017
+    "racing_lap_time": 59.017,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Oppressor",
@@ -3887,7 +4205,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.882
+    "racing_lap_time": 64.882,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Impaler",
@@ -3904,7 +4225,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.398
+    "racing_lap_time": 64.398,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Imperator",
@@ -3921,7 +4245,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.916
+    "racing_lap_time": 65.916,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Slamvan",
@@ -3938,7 +4265,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 74.758
+    "racing_lap_time": 74.758,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Arbiter GT",
@@ -3956,7 +4286,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.054,
-    "price": 1580000
+    "price": 1580000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Beater Dukes",
@@ -3972,7 +4305,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.153,
-    "price": 378000
+    "price": 378000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Blade",
@@ -3990,7 +4326,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 68.634,
-    "price": 160000
+    "price": 160000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Brigham",
@@ -4006,7 +4345,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.559,
-    "price": 1499000
+    "price": 1499000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Broadway",
@@ -4025,7 +4367,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 77.978,
-    "price": 925000
+    "price": 925000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buccaneer",
@@ -4041,7 +4386,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.055,
-    "price": 29000
+    "price": 29000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buccaneer Custom",
@@ -4059,7 +4407,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.105,
-    "price": 390000
+    "price": 390000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buffalo EVX",
@@ -4079,7 +4430,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 66.132,
-    "price": 2140000
+    "price": 2140000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buffalo STX",
@@ -4100,7 +4454,10 @@
     "racing_tier": "S",
     "racing_lap_time": 63.147,
     "price": 2150000,
-    "trade_price": 1612500
+    "trade_price": 1612500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Burger Shot Stallion",
@@ -4117,7 +4474,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.754,
-    "price": 277000
+    "price": 277000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Chino",
@@ -4134,7 +4494,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.028,
-    "price": 225000
+    "price": 225000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Chino Custom",
@@ -4152,7 +4515,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.545,
-    "price": 180000
+    "price": 180000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Clique",
@@ -4168,7 +4534,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.399,
-    "price": 909000
+    "price": 909000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Clique Wagon",
@@ -4184,7 +4553,10 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 79.296,
-    "price": 1205000
+    "price": 1205000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Coquette BlackFin",
@@ -4200,7 +4572,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.135,
-    "price": 695000
+    "price": 695000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Deviant",
@@ -4219,7 +4594,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.904,
-    "price": 512000
+    "price": 512000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator",
@@ -4240,7 +4618,10 @@
     "racing_tier": "C",
     "racing_lap_time": 68.118,
     "price": 35000,
-    "trade_price": 26250
+    "trade_price": 26250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator ASP",
@@ -4260,7 +4641,10 @@
     "racing_tier": "A",
     "racing_lap_time": 65.182,
     "price": 1775000,
-    "trade_price": 1331250
+    "trade_price": 1331250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator FX",
@@ -4278,7 +4662,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 63.88,
-    "price": 1550000
+    "price": 1550000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator GT",
@@ -4296,7 +4683,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 62.88,
-    "price": 2195000
+    "price": 2195000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator GTT",
@@ -4316,7 +4706,10 @@
     "racing_tier": "B",
     "racing_lap_time": 66.306,
     "price": 1220000,
-    "trade_price": 915000
+    "trade_price": 915000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Dominator GTX",
@@ -4332,7 +4725,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.951,
-    "price": 725000
+    "price": 725000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Drift Yosemite",
@@ -4351,7 +4747,10 @@
     "racing_tier": "A",
     "racing_lap_time": 65.532,
     "price": 1308000,
-    "trade_price": 981000
+    "trade_price": 981000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Duke O'Death",
@@ -4391,7 +4790,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 68.619,
-    "price": 62000
+    "price": 62000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Ellie",
@@ -4408,7 +4810,10 @@
     "racing_tier": "H",
     "racing_lap_time": 73.172,
     "price": 565000,
-    "trade_price": 423750
+    "trade_price": 423750,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Eudora",
@@ -4427,7 +4832,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 76.776,
-    "price": 1250000
+    "price": 1250000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Faction",
@@ -4443,7 +4851,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.908,
-    "price": 36000
+    "price": 36000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Faction Custom 1",
@@ -4458,7 +4869,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "H",
-    "racing_lap_time": 72.989
+    "racing_lap_time": 72.989,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Faction Custom Donk",
@@ -4476,7 +4890,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.608,
-    "price": 695000
+    "price": 695000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Future Shock Dominator",
@@ -4493,7 +4910,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.882
+    "racing_lap_time": 64.882,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Impaler",
@@ -4510,7 +4930,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.398
+    "racing_lap_time": 64.398,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Imperator",
@@ -4527,7 +4950,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.916
+    "racing_lap_time": 65.916,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Slamvan",
@@ -4544,7 +4970,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 74.758
+    "racing_lap_time": 74.758,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Gauntlet",
@@ -4563,7 +4992,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.505,
-    "price": 32000
+    "price": 32000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Gauntlet Classic",
@@ -4581,7 +5013,10 @@
     "racing_tier": "G",
     "racing_lap_time": 71.589,
     "price": 615000,
-    "trade_price": 461250
+    "trade_price": 461250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Gauntlet Classic Custom",
@@ -4599,7 +5034,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.537,
-    "price": 815000
+    "price": 815000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Gauntlet Hellfire",
@@ -4619,7 +5057,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.019,
-    "price": 745000
+    "price": 745000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Greenwood",
@@ -4639,7 +5080,10 @@
     "racing_tier": "C",
     "racing_lap_time": 67.434,
     "price": 1465000,
-    "trade_price": 1098750
+    "trade_price": 1098750,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Hermes",
@@ -4658,7 +5102,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.27,
-    "price": 535000
+    "price": 535000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Hotknife",
@@ -4676,7 +5123,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.362,
-    "price": 90000
+    "price": 90000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Hustler",
@@ -4692,7 +5142,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.454,
-    "price": 625000
+    "price": 625000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Impaler",
@@ -4710,7 +5163,10 @@
     "racing_tier": "C",
     "racing_lap_time": 67.902,
     "price": 331835,
-    "trade_price": 249500
+    "trade_price": 249500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Impaler LX",
@@ -4729,7 +5185,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.969,
-    "price": 1465000
+    "price": 1465000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Impaler SZ",
@@ -4745,7 +5204,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 67.101,
-    "price": 1280000
+    "price": 1280000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Lost Slamvan",
@@ -4758,7 +5220,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "L",
-    "racing_lap_time": 78.462
+    "racing_lap_time": 78.462,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Lurcher",
@@ -4774,7 +5239,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 73.757,
-    "price": 650000
+    "price": 650000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Manana Custom",
@@ -4792,7 +5260,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.726,
-    "price": 925000
+    "price": 925000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Moonbeam",
@@ -4808,7 +5279,10 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 79.729,
-    "price": 32500
+    "price": 32500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Moonbeam Custom",
@@ -4826,7 +5300,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 75.458,
-    "price": 370000
+    "price": 370000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Nightmare Dominator",
@@ -4843,7 +5320,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.882
+    "racing_lap_time": 64.882,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Impaler",
@@ -4860,7 +5340,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 64.398
+    "racing_lap_time": 64.398,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Imperator",
@@ -4877,7 +5360,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.916
+    "racing_lap_time": 65.916,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Slamvan",
@@ -4894,7 +5380,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 74.758
+    "racing_lap_time": 74.758,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightshade",
@@ -4910,7 +5399,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.489,
-    "price": 585000
+    "price": 585000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Peyote Gasser",
@@ -4929,7 +5421,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.991,
-    "price": 805000
+    "price": 805000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Phoenix",
@@ -4942,7 +5437,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "G",
-    "racing_lap_time": 71.104
+    "racing_lap_time": 71.104,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Picador",
@@ -4958,7 +5456,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 75.059,
-    "price": 9000
+    "price": 9000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Pisswasser Dominator",
@@ -4971,7 +5472,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "B",
-    "racing_lap_time": 66.767
+    "racing_lap_time": 66.767,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rat-Loader",
@@ -4987,7 +5491,10 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 83.734,
-    "price": 6000
+    "price": 6000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rat-Truck",
@@ -5005,7 +5512,10 @@
     "racing_tier": "O",
     "racing_lap_time": 82.649,
     "price": 37500,
-    "trade_price": 28125
+    "trade_price": 28125,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Redwood Gauntlet",
@@ -5022,7 +5532,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.854,
-    "price": 230000
+    "price": 230000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Ruiner",
@@ -5038,7 +5551,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.136,
-    "price": 10000
+    "price": 10000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Ruiner 2000",
@@ -5078,7 +5594,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.817,
-    "price": 1320000
+    "price": 1320000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sabre Turbo",
@@ -5094,7 +5613,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.452,
-    "price": 15000
+    "price": 15000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sabre Turbo Custom",
@@ -5112,7 +5634,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.75,
-    "price": 490000
+    "price": 490000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Slamvan",
@@ -5131,7 +5656,10 @@
     "racing_tier": "O",
     "racing_lap_time": 83.8,
     "price": 49500,
-    "trade_price": 37125
+    "trade_price": 37125,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Slamvan Custom",
@@ -5149,7 +5677,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.354,
-    "price": 415000
+    "price": 415000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Stallion",
@@ -5166,7 +5697,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.055,
-    "price": 71000
+    "price": 71000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tahoma Coupe",
@@ -5182,7 +5716,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.738,
-    "price": 1500000
+    "price": 1500000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tampa",
@@ -5198,7 +5735,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.688,
-    "price": 375000
+    "price": 375000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tampa GT",
@@ -5218,7 +5758,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.303,
-    "price": 1311000
+    "price": 1311000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tulip",
@@ -5234,7 +5777,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 69.904,
-    "price": 718000
+    "price": 718000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tulip M-100",
@@ -5250,7 +5796,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.938,
-    "price": 1658000
+    "price": 1658000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vamos",
@@ -5266,7 +5815,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 69.753,
-    "price": 596000
+    "price": 596000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vigero",
@@ -5282,7 +5834,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.155,
-    "price": 21000
+    "price": 21000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vigero ZX",
@@ -5302,7 +5857,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.208,
-    "price": 1947000
+    "price": 1947000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vigero ZX Convertible",
@@ -5320,7 +5878,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.299,
-    "price": 2295000
+    "price": 2295000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Virgo",
@@ -5336,7 +5897,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 77.624,
-    "price": 195000
+    "price": 195000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Virgo Classic",
@@ -5352,7 +5916,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.264,
-    "price": 165000
+    "price": 165000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Virgo Classic Custom",
@@ -5370,7 +5937,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.808,
-    "price": 240000
+    "price": 240000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Voodoo",
@@ -5386,7 +5956,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 81.882,
-    "price": 5500
+    "price": 5500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Voodoo Custom",
@@ -5404,7 +5977,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.748,
-    "price": 420000
+    "price": 420000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Weaponized Tampa",
@@ -5445,7 +6021,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.365,
-    "price": 980000
+    "price": 980000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Yosemite",
@@ -5462,7 +6041,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.532,
-    "price": 485000
+    "price": 485000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Apocalypse Bruiser",
@@ -5479,7 +6061,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 78.762
+    "racing_lap_time": 78.762,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Brutus",
@@ -5496,7 +6081,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 68.601
+    "racing_lap_time": 68.601,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Apocalypse Sasquatch",
@@ -5513,7 +6101,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.366
+    "racing_lap_time": 65.366,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Bifta",
@@ -5529,7 +6120,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.885,
-    "price": 75000
+    "price": 75000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Blazer",
@@ -5548,7 +6142,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.734,
-    "price": 8000
+    "price": 8000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Blazer Aqua",
@@ -5567,7 +6164,10 @@
     "racing_tier": null,
     "racing_lap_time": 65.283,
     "price": 1755600,
-    "trade_price": 1320000
+    "trade_price": 1320000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Blazer Lifeguard",
@@ -5583,7 +6183,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 82.288,
-    "price": 62000
+    "price": 62000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Bodhi",
@@ -5602,7 +6205,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.956,
-    "price": 25000
+    "price": 25000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Boor",
@@ -5618,7 +6224,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.754,
-    "price": 1280000
+    "price": 1280000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Brawler",
@@ -5637,7 +6246,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.252,
-    "price": 715000
+    "price": 715000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Caracara",
@@ -5655,7 +6267,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 72.703,
-    "price": 1775000
+    "price": 1775000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Caracara 4x4",
@@ -5693,7 +6308,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 66.549,
-    "price": 695000
+    "price": 695000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Draugur",
@@ -5710,7 +6328,10 @@
     "racing_tier": "A",
     "racing_lap_time": 62.095,
     "price": 1870000,
-    "trade_price": 1402500
+    "trade_price": 1402500,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Drift Walton L35",
@@ -5730,7 +6351,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
-    "price": 1403750
+    "price": 1403750,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Dubsta 6x6",
@@ -5769,7 +6393,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.002,
-    "price": 20000
+    "price": 20000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Dune FAV",
@@ -5805,7 +6432,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "O",
-    "racing_lap_time": 90.874
+    "racing_lap_time": 90.874,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Everon",
@@ -5822,7 +6452,10 @@
     "racing_tier": "F",
     "racing_lap_time": 69.637,
     "price": 1475000,
-    "trade_price": 1106250
+    "trade_price": 1106250,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Firebolt ASP",
@@ -5841,7 +6474,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 65.515,
-    "price": 1894500
+    "price": 1894500,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Freecrawler",
@@ -5857,7 +6493,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.695,
-    "price": 597000
+    "price": 597000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Future Shock Bruiser",
@@ -5874,7 +6513,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 78.762
+    "racing_lap_time": 78.762,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Brutus",
@@ -5891,7 +6533,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 68.601
+    "racing_lap_time": 68.601,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Future Shock Sasquatch",
@@ -5908,7 +6553,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.366
+    "racing_lap_time": 65.366,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Hellion",
@@ -5927,7 +6575,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.22,
-    "price": 835000
+    "price": 835000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Hot Rod Blazer",
@@ -5943,7 +6594,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.744,
-    "price": 69000
+    "price": 69000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Injection",
@@ -5959,7 +6613,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 73.156,
-    "price": 16000
+    "price": 16000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Insurgent",
@@ -6044,7 +6701,10 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 78.363,
-    "price": 40000
+    "price": 40000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Kamacho",
@@ -6101,7 +6761,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 73.44,
-    "price": 1775000
+    "price": 1775000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Monster",
@@ -6114,7 +6777,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "L",
-    "racing_lap_time": 76.594
+    "racing_lap_time": 76.594,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "MonstroCiti",
@@ -6134,7 +6800,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.183,
-    "price": 1485000
+    "price": 1485000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Nightmare Bruiser",
@@ -6151,7 +6820,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 78.762
+    "racing_lap_time": 78.762,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Brutus",
@@ -6168,7 +6840,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 68.601
+    "racing_lap_time": 68.601,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightmare Sasquatch",
@@ -6185,7 +6860,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 65.366
+    "racing_lap_time": 65.366,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nightshark",
@@ -6224,7 +6902,10 @@
     "racing_tier": "G",
     "racing_lap_time": 70.036,
     "price": 1268000,
-    "trade_price": 951000
+    "trade_price": 951000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Patriot Mil-Spec",
@@ -6245,7 +6926,10 @@
     "racing_tier": "K",
     "racing_lap_time": 76.043,
     "price": 1710000,
-    "trade_price": 1282500
+    "trade_price": 1282500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Ramp Buggy",
@@ -6262,7 +6946,10 @@
     "racing_tier": null,
     "racing_lap_time": 70.317,
     "price": 3192000,
-    "trade_price": 2400000
+    "trade_price": 2400000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Rancher XL",
@@ -6278,7 +6965,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 81.198,
-    "price": 9000
+    "price": 9000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Ratel",
@@ -6294,7 +6984,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 65.984,
-    "price": 1873000
+    "price": 1873000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "RC Bandito",
@@ -6332,7 +7025,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.142,
-    "price": 22000
+    "price": 22000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Riata",
@@ -6348,7 +7044,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.488,
-    "price": 380000
+    "price": 380000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Rusty Rebel",
@@ -6364,7 +7063,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.076,
-    "price": 3000
+    "price": 3000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Sandking SWB",
@@ -6380,7 +7082,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 77.06,
-    "price": 38000
+    "price": 38000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Sandking XL",
@@ -6412,7 +7117,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 83.139
+    "racing_lap_time": 83.139,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Street Blazer",
@@ -6428,7 +7136,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 64.914,
-    "price": 81000
+    "price": 81000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Technical",
@@ -6448,7 +7159,10 @@
     "racing_tier": null,
     "racing_lap_time": 78.028,
     "price": 1263500,
-    "trade_price": 950000
+    "trade_price": 950000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Technical Aqua",
@@ -6467,7 +7181,10 @@
     "racing_tier": null,
     "racing_lap_time": 74.341,
     "price": 1489600,
-    "trade_price": 1120000
+    "trade_price": 1120000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Technical Custom",
@@ -6509,7 +7226,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.197,
-    "price": 1877500
+    "price": 1877500,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Trophy Truck",
@@ -6525,7 +7245,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 66.561,
-    "price": 550000
+    "price": 550000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Vagrant",
@@ -6562,7 +7285,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.597,
-    "price": 192000
+    "price": 192000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Walton L35",
@@ -6577,7 +7303,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "F",
-    "racing_lap_time": 69.337
+    "racing_lap_time": 69.337,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Walton L35 Stock",
@@ -6595,7 +7324,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.204,
-    "price": 1303700
+    "price": 1303700,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Winky",
@@ -6612,7 +7344,10 @@
     "racing_tier": "O",
     "racing_lap_time": 92.158,
     "price": 1100000,
-    "trade_price": 825000
+    "trade_price": 825000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Yosemite 1500",
@@ -6628,7 +7363,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.586,
-    "price": 1205000
+    "price": 1205000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Yosemite Rancher",
@@ -6646,7 +7384,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.138,
-    "price": 700000
+    "price": 700000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "Zhaba",
@@ -6663,7 +7404,10 @@
     "racing_tier": "O",
     "racing_lap_time": 97.998,
     "price": 2400000,
-    "trade_price": 1800000
+    "trade_price": 1800000,
+    "use_case": [
+      "off-road"
+    ]
   },
   {
     "name": "BR8",
@@ -6678,7 +7422,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "S",
-    "racing_lap_time": 54.555
+    "racing_lap_time": 54.555,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "DR1",
@@ -6693,7 +7440,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "A",
-    "racing_lap_time": 56.473
+    "racing_lap_time": 56.473,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "PR4",
@@ -6708,7 +7458,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "A",
-    "racing_lap_time": 56.356
+    "racing_lap_time": 56.356,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "R88",
@@ -6723,7 +7476,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "A",
-    "racing_lap_time": 56.54
+    "racing_lap_time": 56.54,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Alpha-Z1",
@@ -6801,7 +7557,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 46.034,
-    "price": 3800000
+    "price": 3800000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Besra",
@@ -6922,7 +7681,10 @@
     "racing_tier": null,
     "racing_lap_time": null,
     "price": 1020000,
-    "trade_price": 765000
+    "trade_price": 765000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "F-160 Raiju",
@@ -7141,7 +7903,10 @@
     "racing_tier": null,
     "racing_lap_time": 45.301,
     "price": 3125500,
-    "trade_price": 2350000
+    "trade_price": 2350000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Nimbus",
@@ -7176,7 +7941,10 @@
     "racing_tier": null,
     "racing_lap_time": 37.068,
     "price": 2653350,
-    "trade_price": 1995000
+    "trade_price": 1995000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "P-996 LAZER",
@@ -7261,7 +8029,10 @@
     "racing_tier": null,
     "racing_lap_time": 53.981,
     "price": 4350000,
-    "trade_price": 3262500
+    "trade_price": 3262500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Rogue",
@@ -7303,7 +8074,10 @@
     "racing_tier": null,
     "racing_lap_time": 38.568,
     "price": 1130500,
-    "trade_price": 850000
+    "trade_price": 850000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Shamal",
@@ -7337,7 +8111,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 48.319,
-    "price": 2238000
+    "price": 2238000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Titan",
@@ -7375,7 +8152,10 @@
     "racing_tier": null,
     "racing_lap_time": null,
     "price": 4870000,
-    "trade_price": 3652500
+    "trade_price": 3652500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Tula",
@@ -7394,7 +8174,10 @@
     "racing_tier": null,
     "racing_lap_time": 49.302,
     "price": 4100000,
-    "trade_price": 3075000
+    "trade_price": 3075000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Ultralight",
@@ -7413,7 +8196,10 @@
     "racing_tier": null,
     "racing_lap_time": 99.168,
     "price": 665000,
-    "trade_price": 500000
+    "trade_price": 500000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "V-65 Molotok",
@@ -7703,7 +8489,10 @@
     "racing_tier": "B",
     "racing_lap_time": 69.236,
     "price": 1845000,
-    "trade_price": 1383750
+    "trade_price": 1383750,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Emperor",
@@ -8157,7 +8946,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.429,
-    "price": 1650000
+    "price": 1650000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Vorschlaghammer",
@@ -8238,7 +9030,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 112.511,
-    "price": 550000
+    "price": 550000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Brickade",
@@ -8255,7 +9050,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 87.57,
-    "price": 555000
+    "price": 555000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Brickade 6x6",
@@ -8292,7 +9090,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 112.564,
-    "price": 500000
+    "price": 500000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Dashound",
@@ -8309,7 +9110,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 116.199,
-    "price": 525000
+    "price": 525000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Dune",
@@ -8325,7 +9129,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.992,
-    "price": 1300000
+    "price": 1300000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Festival Bus",
@@ -8342,7 +9149,10 @@
     "racing_tier": null,
     "racing_lap_time": 126.477,
     "price": 1842050,
-    "trade_price": 1385000
+    "trade_price": 1385000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Rental Shuttle Bus",
@@ -8359,7 +9169,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.688,
-    "price": 30000
+    "price": 30000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Taxi",
@@ -8376,7 +9189,10 @@
     "racing_tier": null,
     "racing_lap_time": 75.776,
     "price": 650000,
-    "trade_price": 487500
+    "trade_price": 487500,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Tour Bus",
@@ -8389,7 +9205,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 104.653
+    "racing_lap_time": 104.653,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Trashmaster",
@@ -8400,7 +9219,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Trashmaster-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160606122714",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Wastelander",
@@ -8417,7 +9239,10 @@
     "racing_tier": null,
     "racing_lap_time": 76.143,
     "price": 658350,
-    "trade_price": 495000
+    "trade_price": 495000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "10F",
@@ -8437,7 +9262,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.18,
-    "price": 1675000
+    "price": 1675000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "10F Widebody",
@@ -8457,7 +9285,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.546,
-    "price": 575000
+    "price": 575000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "300R",
@@ -8476,7 +9307,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.847,
-    "price": 2075000
+    "price": 2075000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "8F Drafter",
@@ -8492,7 +9326,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.096,
-    "price": 718000
+    "price": 718000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "9F",
@@ -8512,7 +9349,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.056,
-    "price": 120000
+    "price": 120000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "9F Cabrio",
@@ -8532,7 +9372,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.002,
-    "price": 130000
+    "price": 130000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Alpha",
@@ -8546,7 +9389,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.315,
-    "price": 150000
+    "price": 150000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Apocalypse ZR380",
@@ -8563,7 +9409,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 62.112
+    "racing_lap_time": 62.112,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Banshee",
@@ -8582,7 +9431,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.131,
-    "price": 105000
+    "price": 105000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   {
     "name": "Banshee GTS",
@@ -8602,7 +9455,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.621,
-    "price": 1989500
+    "price": 1989500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Bestia GTS",
@@ -8618,7 +9474,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.035,
-    "price": 610000
+    "price": 610000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Blista Compact",
@@ -8634,7 +9493,10 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 74.208,
-    "price": 42000
+    "price": 42000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buffalo",
@@ -8648,7 +9510,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 68.135,
-    "price": 35000
+    "price": 35000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Buffalo S",
@@ -8667,7 +9532,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.601,
-    "price": 96000
+    "price": 96000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Calico GTF",
@@ -8687,7 +9555,10 @@
     "racing_tier": "E",
     "racing_lap_time": 62.963,
     "price": 1995000,
-    "trade_price": 1496250
+    "trade_price": 1496250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Carbonizzare",
@@ -8703,7 +9574,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.282,
-    "price": 195000
+    "price": 195000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Comet",
@@ -8726,7 +9600,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.846,
-    "price": 100000
+    "price": 100000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   {
     "name": "Comet Retro Custom",
@@ -8744,7 +9622,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.615,
-    "price": 645000
+    "price": 645000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Comet S2",
@@ -8786,7 +9667,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.298,
-    "price": 1797000
+    "price": 1797000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Comet Safari",
@@ -8804,7 +9688,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.149,
-    "price": 710000
+    "price": 710000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Comet SR",
@@ -8842,7 +9729,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.416,
-    "price": 138000
+    "price": 138000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Coquette D10",
@@ -8858,7 +9748,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.797,
-    "price": 1510000
+    "price": 1510000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Coquette D5",
@@ -8876,7 +9769,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.861,
-    "price": 1730000
+    "price": 1730000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Corsita",
@@ -8892,7 +9788,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.812,
-    "price": 1795000
+    "price": 1795000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cypher",
@@ -8911,7 +9810,10 @@
     "racing_tier": "G",
     "racing_lap_time": 64.231,
     "price": 1550000,
-    "trade_price": 1162500
+    "trade_price": 1162500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Drift Tampa",
@@ -8929,7 +9831,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.688,
-    "price": 995000
+    "price": 995000,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Elegy Retro Custom",
@@ -8947,7 +9853,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.212,
-    "price": 904000
+    "price": 904000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Elegy RH8",
@@ -8993,7 +9902,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.86,
-    "price": 2472000
+    "price": 2472000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Euros",
@@ -9015,7 +9927,10 @@
     "racing_tier": "F",
     "racing_lap_time": 64.04,
     "price": 1800000,
-    "trade_price": 1350000
+    "trade_price": 1350000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Feltzer",
@@ -9033,7 +9948,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.913,
-    "price": 145000
+    "price": 145000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Flash GT",
@@ -9059,7 +9977,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.097,
-    "price": 1675000
+    "price": 1675000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Furore GT",
@@ -9075,7 +9996,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.735,
-    "price": 448000
+    "price": 448000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Fusilade",
@@ -9091,7 +10015,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.902,
-    "price": 36000
+    "price": 36000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Futo",
@@ -9111,7 +10038,11 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 70.02,
-    "price": 9000
+    "price": 9000,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Futo GTX",
@@ -9131,7 +10062,11 @@
     "racing_tier": "N",
     "racing_lap_time": 71.322,
     "price": 1590000,
-    "trade_price": 1192500
+    "trade_price": 1192500,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Future Shock ZR380",
@@ -9148,7 +10083,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 62.112
+    "racing_lap_time": 62.112,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "GB200",
@@ -9164,7 +10102,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.443,
-    "price": 940000
+    "price": 940000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Go Go Monkey Blista",
@@ -9179,7 +10120,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "O",
-    "racing_lap_time": 74.217
+    "racing_lap_time": 74.217,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Growler",
@@ -9196,7 +10140,10 @@
     "racing_tier": "E",
     "racing_lap_time": 62.996,
     "price": 1627000,
-    "trade_price": 1220050
+    "trade_price": 1220050,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Hotring Everon",
@@ -9213,7 +10160,11 @@
     "racing_tier": "J",
     "racing_lap_time": 66.487,
     "price": 1790000,
-    "trade_price": 1342500
+    "trade_price": 1342500,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Hotring Hellfire",
@@ -9229,7 +10180,11 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.266,
-    "price": 1810000
+    "price": 1810000,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Hotring Sabre",
@@ -9246,7 +10201,11 @@
     "racing_tier": "J",
     "racing_lap_time": 66.3,
     "price": 830000,
-    "trade_price": 622500
+    "trade_price": 622500,
+    "use_case": [
+      "racing",
+      "fun"
+    ]
   },
   {
     "name": "Imorgon",
@@ -9265,7 +10224,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.06,
-    "price": 2165000
+    "price": 2165000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Issi Sport",
@@ -9284,7 +10246,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.961,
-    "price": 897000
+    "price": 897000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Itali GTO",
@@ -9300,7 +10265,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 59.359,
-    "price": 1965000
+    "price": 1965000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Itali GTO Stinger TT",
@@ -9313,7 +10281,11 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
-    "racing_lap_time": 62.829
+    "racing_lap_time": 62.829,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   {
     "name": "Itali RSX",
@@ -9350,7 +10322,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.98,
-    "price": 240000
+    "price": 240000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Jester (Racecar)",
@@ -9366,7 +10341,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.396,
-    "price": 350000
+    "price": 350000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Jester RR",
@@ -9402,7 +10380,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
-    "racing_lap_time": 62.379
+    "racing_lap_time": 62.379,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Jugular",
@@ -9421,7 +10402,10 @@
     "racing_tier": "C",
     "racing_lap_time": 61.371,
     "price": 1225000,
-    "trade_price": 918750
+    "trade_price": 918750,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Khamelion",
@@ -9439,7 +10423,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.668,
-    "price": 100000
+    "price": 100000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Komoda",
@@ -9459,7 +10446,10 @@
     "racing_tier": "F",
     "racing_lap_time": 64.165,
     "price": 1700000,
-    "trade_price": 1275000
+    "trade_price": 1275000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Kuruma",
@@ -9478,7 +10468,10 @@
     "racing_tier": "J",
     "racing_lap_time": 66.15,
     "price": 126350,
-    "trade_price": 95000
+    "trade_price": 95000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Kuruma (Armored)",
@@ -9520,7 +10513,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.811,
-    "price": 1990000
+    "price": 1990000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Locust",
@@ -9538,7 +10534,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 64.981,
-    "price": 1625000
+    "price": 1625000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "LSCM Jester RR",
@@ -9552,6 +10551,10 @@
     ],
     "features": [],
     "price": 2290000,
+    "use_case": [
+      "racing",
+      "collector"
+    ],
     "source": "supplement"
   },
   {
@@ -9568,7 +10571,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.082,
-    "price": 1735000
+    "price": 1735000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Massacro",
@@ -9587,7 +10593,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.364,
-    "price": 275000
+    "price": 275000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Massacro (Racecar)",
@@ -9628,7 +10637,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 60.977,
-    "price": 1875000
+    "price": 1875000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Neon",
@@ -9644,7 +10656,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.196,
-    "price": 1500000
+    "price": 1500000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Nightmare ZR380",
@@ -9661,7 +10676,10 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 62.112
+    "racing_lap_time": 62.112,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Niobe",
@@ -9681,7 +10699,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 59.726,
-    "price": 1880000
+    "price": 1880000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Omnis",
@@ -9720,7 +10741,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.431,
-    "price": 1795000
+    "price": 1795000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Panthere",
@@ -9736,7 +10760,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.133,
-    "price": 2170000
+    "price": 2170000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Paragon R",
@@ -9755,7 +10782,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.361,
-    "price": 905000
+    "price": 905000,
+    "use_case": [
+      "collector"
+    ]
   },
   {
     "name": "Paragon R (Armored)",
@@ -9770,7 +10800,11 @@
     ],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 61.426
+    "racing_lap_time": 61.426,
+    "use_case": [
+      "combat",
+      "collector"
+    ]
   },
   {
     "name": "Paragon S",
@@ -9789,7 +10823,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.443,
-    "price": 2010000
+    "price": 2010000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Pariah",
@@ -9854,7 +10891,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.823,
-    "price": 24000
+    "price": 24000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Penumbra FF",
@@ -9870,7 +10910,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.798,
-    "price": 1380000
+    "price": 1380000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Raiden",
@@ -9889,7 +10932,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.697,
-    "price": 1375000
+    "price": 1375000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rapid GT",
@@ -9905,7 +10951,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.475,
-    "price": 132000
+    "price": 132000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rapid GT X",
@@ -9924,7 +10973,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.395,
-    "price": 2705500
+    "price": 2705500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Raptor",
@@ -9943,7 +10995,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.271,
-    "price": 648000
+    "price": 648000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Remus",
@@ -9964,7 +11019,10 @@
     "racing_tier": "I",
     "racing_lap_time": 65.699,
     "price": 1370000,
-    "trade_price": 1027500
+    "trade_price": 1027500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Revolter",
@@ -9984,7 +11042,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.115,
-    "price": 1610000
+    "price": 1610000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "RT3000",
@@ -10003,7 +11064,10 @@
     "racing_tier": "I",
     "racing_lap_time": 66.033,
     "price": 1715000,
-    "trade_price": 1286250
+    "trade_price": 1286250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Ruston",
@@ -10019,7 +11083,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.784,
-    "price": 430000
+    "price": 430000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "S95",
@@ -10037,7 +11104,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.265,
-    "price": 1995000
+    "price": 1995000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Schafter LWB",
@@ -10056,7 +11126,11 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 68.869,
-    "price": 208000
+    "price": 208000,
+    "use_case": [
+      "transport",
+      "collector"
+    ]
   },
   {
     "name": "Schafter V12",
@@ -10075,7 +11149,11 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.598,
-    "price": 116000
+    "price": 116000,
+    "use_case": [
+      "racing",
+      "collector"
+    ]
   },
   {
     "name": "Schlagen GT",
@@ -10091,7 +11169,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.462,
-    "price": 1300000
+    "price": 1300000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Schwartzer",
@@ -10107,7 +11188,10 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 70.671,
-    "price": 80000
+    "price": 80000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sentinel Classic Widebody",
@@ -10126,7 +11210,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.119,
-    "price": 700000
+    "price": 700000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sentinel GTS",
@@ -10146,7 +11233,10 @@
     "racing_tier": "C",
     "racing_lap_time": 62.045,
     "price": 2172000,
-    "trade_price": 1629000
+    "trade_price": 1629000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Seven-70",
@@ -10162,7 +11252,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.881,
-    "price": 695000
+    "price": 695000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "SM722",
@@ -10178,7 +11271,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.481,
-    "price": 2115000
+    "price": 2115000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Specter",
@@ -10194,7 +11290,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.082,
-    "price": 599000
+    "price": 599000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Specter Custom",
@@ -10212,7 +11311,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.047,
-    "price": 252000
+    "price": 252000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sprunk Buffalo",
@@ -10229,7 +11331,11 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.8,
-    "price": 535000
+    "price": 535000,
+    "use_case": [
+      "fun",
+      "collector"
+    ]
   },
   {
     "name": "Streiter",
@@ -10245,7 +11351,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.872,
-    "price": 500000
+    "price": 500000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sugoi",
@@ -10262,7 +11371,10 @@
     "racing_tier": "L",
     "racing_lap_time": 68.786,
     "price": 1224000,
-    "trade_price": 918000
+    "trade_price": 918000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sultan",
@@ -10278,7 +11390,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 64.982,
-    "price": 12000
+    "price": 12000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sultan Classic",
@@ -10295,7 +11410,10 @@
     "racing_tier": "D",
     "racing_lap_time": 62.145,
     "price": 1718000,
-    "trade_price": 1288500
+    "trade_price": 1288500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Sultan RS Classic",
@@ -10312,7 +11430,10 @@
     "racing_tier": "E",
     "racing_lap_time": 62.747,
     "price": 1789000,
-    "trade_price": 1341750
+    "trade_price": 1341750,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Surano",
@@ -10329,7 +11450,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.38,
-    "price": 110000
+    "price": 110000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tropos Rallye",
@@ -10345,7 +11469,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 65.766,
-    "price": 816000
+    "price": 816000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "V-STR",
@@ -10364,7 +11491,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.114,
-    "price": 1285000
+    "price": 1285000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vectre",
@@ -10381,7 +11511,10 @@
     "racing_tier": "E",
     "racing_lap_time": 62.762,
     "price": 1785000,
-    "trade_price": 1338750
+    "trade_price": 1338750,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Verlierer",
@@ -10397,7 +11530,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.582,
-    "price": 695000
+    "price": 695000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Veto Classic",
@@ -10446,7 +11582,10 @@
     "racing_tier": "J",
     "racing_lap_time": 66.967,
     "price": 1615000,
-    "trade_price": 1211250
+    "trade_price": 1211250,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "190z",
@@ -10462,7 +11601,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.887,
-    "price": 900000
+    "price": 900000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Ardent",
@@ -10482,7 +11624,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.265,
-    "price": 1150000
+    "price": 1150000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Astrale",
@@ -10519,7 +11664,10 @@
     "racing_tier": "F",
     "racing_lap_time": 69.903,
     "price": 904400,
-    "trade_price": 680000
+    "trade_price": 680000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cheburek",
@@ -10539,7 +11687,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.339,
-    "price": 145000
+    "price": 145000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cheetah Classic",
@@ -10555,7 +11706,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.082,
-    "price": 865000
+    "price": 865000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Coquette Classic",
@@ -10573,7 +11727,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.671,
-    "price": 665000
+    "price": 665000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Coquette D1",
@@ -10589,7 +11746,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.05,
-    "price": 1500000
+    "price": 1500000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Deluxo",
@@ -10629,7 +11789,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.301,
-    "price": 450000
+    "price": 450000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Fagaloa",
@@ -10645,7 +11808,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.395,
-    "price": 335000
+    "price": 335000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Feltzer Classic",
@@ -10658,7 +11824,10 @@
     "features": [],
     "source": "durtyfree",
     "racing_tier": "C",
-    "racing_lap_time": 65.715
+    "racing_lap_time": 65.715,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Fränken Stange",
@@ -10674,7 +11843,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.126,
-    "price": 550000
+    "price": 550000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "GT500",
@@ -10690,7 +11862,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.139,
-    "price": 785000
+    "price": 785000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "GT750",
@@ -10725,7 +11900,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.049,
-    "price": 915000
+    "price": 915000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Itali Classic",
@@ -10760,7 +11938,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.571,
-    "price": 350000
+    "price": 350000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "JB 700W",
@@ -10803,7 +11984,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 65.749,
-    "price": 790000
+    "price": 790000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "LSCM Cheetah Classic",
@@ -10822,7 +12006,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.413,
-    "price": 1950500
+    "price": 1950500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Mamba",
@@ -10838,7 +12025,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.454,
-    "price": 995000
+    "price": 995000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Manana",
@@ -10854,7 +12044,10 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 82.432,
-    "price": 10000
+    "price": 10000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Michelli GT",
@@ -10870,7 +12063,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.138,
-    "price": 1225000
+    "price": 1225000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Monroe",
@@ -10886,7 +12082,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.587,
-    "price": 490000
+    "price": 490000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Nebula Turbo",
@@ -10904,7 +12103,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.26,
-    "price": 797000
+    "price": 797000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Peyote",
@@ -10921,7 +12123,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.517,
-    "price": 38000
+    "price": 38000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Peyote Custom",
@@ -10939,7 +12144,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.61,
-    "price": 620000
+    "price": 620000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Pigalle",
@@ -10955,7 +12163,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 68.969,
-    "price": 400000
+    "price": 400000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rapid GT Classic",
@@ -10971,7 +12182,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 65.148,
-    "price": 885000
+    "price": 885000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Retinue",
@@ -10987,7 +12201,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.935,
-    "price": 615000
+    "price": 615000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Retinue Mk II",
@@ -11004,7 +12221,10 @@
     "racing_tier": "B",
     "racing_lap_time": 65.165,
     "price": 1620000,
-    "trade_price": 1215000
+    "trade_price": 1215000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Roosevelt",
@@ -11022,7 +12242,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.497,
-    "price": 750000
+    "price": 750000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Roosevelt Valor",
@@ -11040,7 +12263,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 74.925,
-    "price": 982000
+    "price": 982000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Savestra",
@@ -11060,7 +12286,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.167,
-    "price": 990000
+    "price": 990000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Stinger",
@@ -11076,7 +12305,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.622,
-    "price": 850000
+    "price": 850000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Stinger GT",
@@ -11095,7 +12327,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.289,
-    "price": 875000
+    "price": 875000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Stromberg",
@@ -11137,7 +12372,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.183,
-    "price": 909000
+    "price": 909000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Toreador",
@@ -11179,7 +12417,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 65.182,
-    "price": 998000
+    "price": 998000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tornado",
@@ -11195,7 +12436,10 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 85.084,
-    "price": 30000
+    "price": 30000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tornado Custom",
@@ -11213,7 +12457,10 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.166,
-    "price": 375000
+    "price": 375000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tornado Rat Rod",
@@ -11229,7 +12476,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 77.51,
-    "price": 378000
+    "price": 378000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Turismo Classic",
@@ -11269,7 +12519,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.23,
-    "price": 1140000
+    "price": 1140000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Viseris",
@@ -11289,7 +12542,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.533,
-    "price": 875000
+    "price": 875000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Z-Type",
@@ -11330,7 +12586,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.501,
-    "price": 812000
+    "price": 812000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "811",
@@ -11389,7 +12648,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.776,
-    "price": 1955000
+    "price": 1955000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Banshee 900R",
@@ -11430,7 +12692,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.45,
-    "price": 155000
+    "price": 155000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Champion",
@@ -11451,7 +12716,10 @@
     "racing_tier": "I",
     "racing_lap_time": 64.532,
     "price": 3750000,
-    "trade_price": 2812500
+    "trade_price": 2812500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Cheetah",
@@ -11469,7 +12737,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.396,
-    "price": 650000
+    "price": 650000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cyclone",
@@ -11488,7 +12759,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.312,
-    "price": 1890000
+    "price": 1890000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Cyclone II",
@@ -11506,7 +12780,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.66,
-    "price": 2250000
+    "price": 2250000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Deveste Eight",
@@ -11605,7 +12882,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.678,
-    "price": 795000
+    "price": 795000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Entity XXR",
@@ -11621,7 +12901,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.081,
-    "price": 2305000
+    "price": 2305000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "ETR1",
@@ -11703,7 +12986,10 @@
     "racing_tier": "E",
     "racing_lap_time": 60.594,
     "price": 2740000,
-    "trade_price": 2055000
+    "trade_price": 2055000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "GP1",
@@ -11745,7 +13031,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.742,
-    "price": 2765000
+    "price": 2765000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Infernus",
@@ -11766,7 +13055,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.462,
-    "price": 440000
+    "price": 440000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Itali GTB",
@@ -11782,7 +13074,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.311,
-    "price": 1189000
+    "price": 1189000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Itali GTB Custom",
@@ -11800,7 +13095,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.145,
-    "price": 495000
+    "price": 495000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Krieger",
@@ -11838,7 +13136,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.658,
-    "price": 2915000
+    "price": 2915000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Luiva",
@@ -11873,7 +13174,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.394,
-    "price": 1440000
+    "price": 1440000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Nero Custom",
@@ -11932,7 +13236,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 61.862,
-    "price": 880000
+    "price": 880000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Pipistrello",
@@ -11951,7 +13258,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.541,
-    "price": 2950000
+    "price": 2950000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "RE-7B",
@@ -11970,7 +13280,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 59.076,
-    "price": 2475000
+    "price": 2475000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Reaper",
@@ -11986,7 +13299,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.112,
-    "price": 1595000
+    "price": 1595000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Rocket Voltic",
@@ -12026,7 +13342,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.959,
-    "price": 2575000
+    "price": 2575000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "SC1",
@@ -12045,7 +13364,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 63.03,
-    "price": 1603000
+    "price": 1603000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Scramjet",
@@ -12085,7 +13407,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.03,
-    "price": 795000
+    "price": 795000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Suzume",
@@ -12103,7 +13428,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.543,
-    "price": 3074500
+    "price": 3074500,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "T20",
@@ -12139,7 +13467,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 65.699,
-    "price": 1980000
+    "price": 1980000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tempesta",
@@ -12155,7 +13486,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.243,
-    "price": 1329000
+    "price": 1329000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tezeract",
@@ -12171,7 +13505,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.678,
-    "price": 2825000
+    "price": 2825000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Thrax",
@@ -12187,7 +13524,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.893,
-    "price": 2325000
+    "price": 2325000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tigon",
@@ -12206,7 +13546,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.643,
-    "price": 2310000
+    "price": 2310000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Torero XO",
@@ -12225,7 +13568,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.577,
-    "price": 2890000
+    "price": 2890000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Turismo Omaggio",
@@ -12244,7 +13590,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.775,
-    "price": 2845000
+    "price": 2845000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Turismo R",
@@ -12260,7 +13609,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.578,
-    "price": 500000
+    "price": 500000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tyrant",
@@ -12276,7 +13628,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.86,
-    "price": 2515000
+    "price": 2515000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Tyrus",
@@ -12295,7 +13650,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 61.21,
-    "price": 2550000
+    "price": 2550000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vacca",
@@ -12315,7 +13673,10 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 63.864,
-    "price": 240000
+    "price": 240000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Vagner",
@@ -12376,7 +13737,10 @@
     "racing_tier": "B",
     "racing_lap_time": 59.293,
     "price": 2980000,
-    "trade_price": 2235000
+    "trade_price": 2235000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Visione",
@@ -12392,7 +13756,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.411,
-    "price": 2250000
+    "price": 2250000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Voltic",
@@ -12408,7 +13775,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 65.315,
-    "price": 150000
+    "price": 150000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Weaponized Ignus",
@@ -12428,7 +13798,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.824,
-    "price": 4500000
+    "price": 4500000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "X-treme",
@@ -12486,7 +13859,10 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.459,
-    "price": 2375000
+    "price": 2375000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Zeno",
@@ -12502,7 +13878,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.328,
-    "price": 2820000
+    "price": 2820000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Zentorno",
@@ -12521,7 +13900,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.878,
-    "price": 725000
+    "price": 725000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Zorrusso",
@@ -12540,7 +13922,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.815,
-    "price": 1925000
+    "price": 1925000,
+    "use_case": [
+      "racing"
+    ]
   },
   {
     "name": "Aleutian",
@@ -12904,7 +14289,10 @@
     "racing_tier": "F",
     "racing_lap_time": 74.124,
     "price": 2000000,
-    "trade_price": 1500000
+    "trade_price": 1500000,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Gresley",
@@ -13007,7 +14395,10 @@
     "racing_tier": "B",
     "racing_lap_time": 68.101,
     "price": 1650000,
-    "trade_price": 1237500
+    "trade_price": 1237500,
+    "use_case": [
+      "combat"
+    ]
   },
   {
     "name": "Landstalker",
@@ -13329,7 +14720,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "D",
-    "racing_lap_time": 202.636
+    "racing_lap_time": 202.636,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Army Trailer",
@@ -13340,7 +14734,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/9/9b/Armytrailer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20170218140723",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Baletrailer",
@@ -13353,7 +14750,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": null
+    "racing_lap_time": null,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Boat Trailer",
@@ -13364,7 +14764,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/4/4e/BoatTrailer-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20170724215701",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Caddy",
@@ -13375,7 +14778,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Caddy-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20161018175900",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Docktug",
@@ -13388,7 +14794,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 115.887
+    "racing_lap_time": 115.887,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Fieldmaster",
@@ -13401,7 +14810,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "C",
-    "racing_lap_time": 171.472
+    "racing_lap_time": 171.472,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Forklift",
@@ -13414,7 +14826,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 163.408
+    "racing_lap_time": 163.408,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Graintrailer",
@@ -13427,7 +14842,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": null
+    "racing_lap_time": null,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Keitora",
@@ -13446,7 +14864,10 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
-    "price": 810000
+    "price": 810000,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Lawn Mower",
@@ -13459,7 +14880,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "E",
-    "racing_lap_time": 388.204
+    "racing_lap_time": 388.204,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Mobile Operations Center",
@@ -13493,7 +14917,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 114.014
+    "racing_lap_time": 114.014,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Sadler",
@@ -13509,7 +14936,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 78.945,
-    "price": 35000
+    "price": 35000,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Scrap Truck",
@@ -13522,7 +14952,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 104.038
+    "racing_lap_time": 104.038,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Slamtruck",
@@ -13538,7 +14971,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 88.956,
-    "price": 1310000
+    "price": 1310000,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Tow Truck",
@@ -13549,7 +14985,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/f/fb/Towtruck2-GTAVe-front.png/revision/latest/scale-to-width-down/300?cb=20240213233425",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Tractor",
@@ -13562,7 +15001,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 202.991
+    "racing_lap_time": 202.991,
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Trailer",
@@ -13573,7 +15015,10 @@
     "image": "https://gtav-vehicle-database.vercel.app/vehicle-images/raketrailer.png",
     "stores": [],
     "features": [],
-    "source": "durtyfree"
+    "source": "durtyfree",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Utility Truck",
@@ -13584,7 +15029,10 @@
     "image": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/UtilityTruck2Box-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160626153858",
     "stores": [],
     "features": [],
-    "source": "wiki"
+    "source": "wiki",
+    "use_case": [
+      "utility"
+    ]
   },
   {
     "name": "Armored Boxville",
@@ -13622,7 +15070,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 79.529,
-    "price": 30000
+    "price": 30000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Bobcat XL",
@@ -13638,7 +15089,10 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 84.551,
-    "price": 23000
+    "price": 23000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Boxville",
@@ -13651,7 +15105,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "K",
-    "racing_lap_time": 107.324
+    "racing_lap_time": 107.324,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Boxville (LSDS)",
@@ -13668,7 +15125,10 @@
     "racing_tier": "K",
     "racing_lap_time": 107.324,
     "price": 475000,
-    "trade_price": 356250
+    "trade_price": 356250,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Bugstars Burrito",
@@ -13685,7 +15145,10 @@
     "racing_tier": "C",
     "racing_lap_time": 81.848,
     "price": 598500,
-    "trade_price": 450000
+    "trade_price": 450000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Burrito",
@@ -13698,7 +15161,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": null,
-    "racing_lap_time": 88.154
+    "racing_lap_time": 88.154,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Camper",
@@ -13711,7 +15177,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "I",
-    "racing_lap_time": 103.887
+    "racing_lap_time": 103.887,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Clown Van",
@@ -13724,7 +15193,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "F",
-    "racing_lap_time": 86.353
+    "racing_lap_time": 86.353,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Gang Burrito",
@@ -13739,7 +15211,10 @@
     "features": [],
     "source": "wiki",
     "price": 86450,
-    "trade_price": 65000
+    "trade_price": 65000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Journey",
@@ -13756,7 +15231,10 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 105.839,
-    "price": 15000
+    "price": 15000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Journey II",
@@ -13773,7 +15251,10 @@
     "racing_tier": "H",
     "racing_lap_time": 100.184,
     "price": 790000,
-    "trade_price": 592500
+    "trade_price": 592500,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Minivan",
@@ -13790,7 +15271,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.632,
-    "price": 30000
+    "price": 30000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Minivan Custom",
@@ -13808,7 +15292,10 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 79.263,
-    "price": 330000
+    "price": 330000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Paradise",
@@ -13824,7 +15311,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.799,
-    "price": 25000
+    "price": 25000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Pony",
@@ -13837,7 +15327,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "F",
-    "racing_lap_time": 86.603
+    "racing_lap_time": 86.603,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Rumpo",
@@ -13853,7 +15346,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.766,
-    "price": 13000
+    "price": 13000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Rumpo Custom",
@@ -13871,7 +15367,10 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 77.026,
-    "price": 130000
+    "price": 130000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Speedo",
@@ -13886,7 +15385,10 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "C",
-    "racing_lap_time": 81.965
+    "racing_lap_time": 81.965,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Speedo Custom",
@@ -13923,7 +15425,10 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 108.676,
-    "price": 11000
+    "price": 11000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Surfer Custom",
@@ -13940,7 +15445,10 @@
     "racing_tier": "J",
     "racing_lap_time": 105.438,
     "price": 590000,
-    "trade_price": 442500
+    "trade_price": 442500,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Taco Van",
@@ -13957,7 +15465,10 @@
     "racing_tier": "K",
     "racing_lap_time": 106.607,
     "price": 345000,
-    "trade_price": 258750
+    "trade_price": 258750,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Youga",
@@ -13974,7 +15485,10 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.516,
-    "price": 16000
+    "price": 16000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Youga Classic",
@@ -13991,7 +15505,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 89.289,
-    "price": 195000
+    "price": 195000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Youga Classic 4x4",
@@ -14009,7 +15526,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 80.796,
-    "price": 1288000
+    "price": 1288000,
+    "use_case": [
+      "transport"
+    ]
   },
   {
     "name": "Youga Custom",
@@ -14022,6 +15542,9 @@
     "features": [],
     "source": "wiki",
     "racing_tier": "G",
-    "racing_lap_time": 88.638
+    "racing_lap_time": 88.638,
+    "use_case": [
+      "transport"
+    ]
   }
 ]

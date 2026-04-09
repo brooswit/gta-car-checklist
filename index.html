@@ -164,6 +164,29 @@
   .feat-bennys { background: #2a2a1a; color: #c90; border: 1px solid #4a4a2a; }
   .feat-imani { background: #2a1a3a; color: #a6c; border: 1px solid #4a2a5a; }
   .feat-service { background: #1a2a2a; color: #6cc; border: 1px solid #2a4a4a; }
+  /* Racing tier badge */
+  .tier-badge { display:inline-block; padding:1px 6px; border-radius:3px; font-size:0.6rem; font-weight:700; letter-spacing:0.5px; margin:1px 2px 1px 0; }
+  .tier-S { background:#7a5c00; color:#ffd700; border:1px solid #ffd700; }
+  .tier-A { background:#0a3a0a; color:#4caf50; border:1px solid #4caf50; }
+  .tier-B { background:#1a3a0a; color:#8bc34a; border:1px solid #8bc34a; }
+  .tier-C { background:#2a3a0a; color:#cddc39; border:1px solid #cddc39; }
+  .tier-D { background:#3a3a0a; color:#ffeb3b; border:1px solid #ffeb3b; }
+  .tier-E { background:#3a2a0a; color:#ffc107; border:1px solid #ffc107; }
+  .tier-F { background:#3a1a0a; color:#ff9800; border:1px solid #ff9800; }
+  .tier-G { background:#3a0a0a; color:#ff5722; border:1px solid #ff5722; }
+  .tier-low { background:#2a0a0a; color:#888; border:1px solid #444; }
+  /* Use case chips */
+  .use-case-chips { display:flex; flex-wrap:wrap; gap:3px; padding:0 0.6rem 0.4rem; }
+  .uc-chip { display:inline-block; padding:1px 5px; border-radius:10px; font-size:0.5rem; font-weight:600; text-transform:uppercase; letter-spacing:0.3px; }
+  .uc-racing   { background:#0a1a3a; color:#6af; border:1px solid #2a4a6a; }
+  .uc-combat   { background:#3a0a0a; color:#f66; border:1px solid #6a2a2a; }
+  .uc-off-road { background:#1a2a0a; color:#8c6; border:1px solid #3a5a2a; }
+  .uc-transport{ background:#1a1a2a; color:#aaa; border:1px solid #3a3a5a; }
+  .uc-utility  { background:#2a1a0a; color:#c96; border:1px solid #5a3a2a; }
+  .uc-grinding { background:#0a2a2a; color:#6cc; border:1px solid #2a5a5a; }
+  .uc-collector{ background:#2a0a2a; color:#c6c; border:1px solid #5a2a5a; }
+  .uc-fun      { background:#2a2a0a; color:#fc6; border:1px solid #5a5a2a; }
+  .filter-btn.uc-active { outline:2px solid #f5c518; }
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
@@ -180,6 +203,21 @@
     <button class="filter-btn" id="showAll">All</button>
     <button class="filter-btn" id="showOwned">Owned</button>
     <button class="filter-btn" id="showMissing">Missing</button>
+    <select id="sortOrder">
+      <option value="class">Sort: Class</option>
+      <option value="laptime">Sort: Fastest (lap time)</option>
+    </select>
+  </div>
+  <div class="controls" style="padding-top:0">
+    <span style="color:#888;font-size:0.75rem">Use case:</span>
+    <button class="filter-btn" data-uc="racing">Racing</button>
+    <button class="filter-btn" data-uc="combat">Combat</button>
+    <button class="filter-btn" data-uc="off-road">Off-road</button>
+    <button class="filter-btn" data-uc="transport">Transport</button>
+    <button class="filter-btn" data-uc="utility">Utility</button>
+    <button class="filter-btn" data-uc="grinding">Grinding</button>
+    <button class="filter-btn" data-uc="collector">Collector</button>
+    <button class="filter-btn" data-uc="fun">Fun</button>
   </div>
 </header>
 <div class="stats" id="stats"></div>
@@ -202,6 +240,8 @@ ldReady.then(() => ldClient.track('ld-initialized', { isNewUser: _isNewUser }));
 let vehicles = [];
 let owned = new Set(JSON.parse(localStorage.getItem('gtaOwnedCars') || '[]'));
 let filter = '';
+let useCaseFilter = null;
+let sortOrder = 'class';
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -231,7 +271,8 @@ function render() {
     const matchStore = !storeVal || (v.stores && v.stores.includes(storeVal));
     const isOwned = owned.has(v.Hash);
     const matchFilter = !filter || (filter === 'owned' && isOwned) || (filter === 'missing' && !isOwned);
-    return matchSearch && matchClass && matchStore && matchFilter;
+    const matchUseCase = !useCaseFilter || (v.use_case || []).includes(useCaseFilter);
+    return matchSearch && matchClass && matchStore && matchFilter && matchUseCase;
   });
 
   const groups = {};
@@ -262,9 +303,27 @@ function render() {
     return;
   }
 
-  const classes = Object.keys(groups).sort();
-  main.innerHTML = classes.map(cls => {
-    const cars = groups[cls];
+  let displayGroups = groups;
+  let sortedKeys;
+  if (sortOrder === 'laptime') {
+    const flat = [...filtered].sort((a, b) => {
+      if (a.racing_lap_time == null && b.racing_lap_time == null) return 0;
+      if (a.racing_lap_time == null) return 1;
+      if (b.racing_lap_time == null) return -1;
+      return a.racing_lap_time - b.racing_lap_time;
+    });
+    displayGroups = {};
+    flat.forEach(v => {
+      const key = v.vehicleClass || v.Class;
+      if (!displayGroups[key]) displayGroups[key] = [];
+      displayGroups[key].push(v);
+    });
+    sortedKeys = Object.keys(displayGroups);
+  } else {
+    sortedKeys = Object.keys(groups).sort();
+  }
+  main.innerHTML = sortedKeys.map(cls => {
+    const cars = displayGroups[cls];
     const clsOwned = cars.filter(v => owned.has(v.Hash)).length;
     return '<div class="class-group">' +
       '<div class="class-header"><span>' + cls + '</span><span class="class-count">' + clsOwned + ' / ' + cars.length + '</span></div>' +
@@ -291,6 +350,17 @@ function render() {
             if (f.includes('Service Vehicle')) badges.push('<span class="feat-badge feat-service">Service</span>');
             return badges.length ? '<div class="car-features">' + badges.join('') + '</div>' : '';
           })(v.features || []) +
+          (function(tier, uc) {
+            var out = '';
+            if (tier) {
+              var tierCls = tier === 'S' ? 'tier-S' : (tier >= 'A' && tier <= 'G') ? 'tier-' + tier : 'tier-low';
+              out += '<div class="car-features"><span class="tier-badge ' + tierCls + '">' + tier + '</span></div>';
+            }
+            if (uc && uc.length) {
+              out += '<div class="use-case-chips">' + uc.map(function(u) { return '<span class="uc-chip uc-' + u + '">' + u + '</span>'; }).join('') + '</div>';
+            }
+            return out;
+          })(v.racing_tier, v.use_case) +
           '</div>';
       }).join('') +
       '</div></div>';
@@ -327,6 +397,21 @@ document.getElementById('classFilter').addEventListener('change', e => {
 document.getElementById('storeFilter').addEventListener('change', e => {
   render();
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'store', value: e.target.value }));
+});
+
+document.getElementById('sortOrder').addEventListener('change', e => {
+  sortOrder = e.target.value;
+  render();
+});
+
+document.querySelectorAll('[data-uc]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const uc = btn.dataset.uc;
+    useCaseFilter = useCaseFilter === uc ? null : uc;
+    document.querySelectorAll('[data-uc]').forEach(b => b.classList.toggle('uc-active', b.dataset.uc === useCaseFilter));
+    ldReady.then(() => ldClient.track('filter-changed', { filterType: 'use_case', value: useCaseFilter || 'all' }));
+    render();
+  });
 });
 
 ['showAll', 'showOwned', 'showMissing'].forEach(id => {
@@ -366,7 +451,10 @@ Promise.all([
       return {
         ...v,
         stores: patch?.stores || [],
-        features: patch?.features || []
+        features: patch?.features || [],
+        racing_tier: patch?.racing_tier ?? null,
+        racing_lap_time: patch?.racing_lap_time ?? null,
+        use_case: patch?.use_case || [],
       };
     });
 
@@ -382,7 +470,10 @@ Promise.all([
       Class: p.vehicleClass,
       stores: p.stores,
       features: p.features,
-      image: p.image
+      image: p.image,
+      racing_tier: p.racing_tier ?? null,
+      racing_lap_time: p.racing_lap_time ?? null,
+      use_case: p.use_case || [],
     });
   }
 
