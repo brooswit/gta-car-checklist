@@ -113,7 +113,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Pricey Itali Classic at $2.025M with no racing benchmark \u2014 Italian heritage at a steep premium."
   },
   "Astrale": {
     "price": 1475500,
@@ -121,7 +122,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Stylish Sport Classic with no racing benchmark yet \u2014 an aesthetic purchase until the data arrives."
   },
   "Luiva": {
     "price": 2697500,
@@ -149,7 +151,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Sport Classic with no racing tier benchmarked \u2014 buy it for the aesthetics while the data catches up."
   },
   "FMJ MK V": {
     "price": 2965000,
@@ -218,7 +221,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "LSCM Cheetah Classic \u2014 A-tier performance at double the base price; Car Meet exclusivity tax."
   },
   "Suzume": {
     "price": 3074500,
@@ -235,7 +239,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Tampa variant at $1.31M \u2014 the GT suffix promises more than the racing tier delivers."
   },
   "Woodlander": {
     "price": 1611000,
@@ -312,7 +317,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Sport Classic with genuine racing credentials \u2014 one of the class's newer competitive additions."
   },
   "Firebolt ASP": {
     "price": 1894500,
@@ -381,7 +387,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Dominator variant with event livery \u2014 competes at the top with style to match."
   },
   "Vorschlaghammer": {
     "price": 1790000,
@@ -401,7 +408,9 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Delivery moped at $195K \u2014 GTA Online's most expensive joke purchase.",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/9/94/PizzaBoy-GTAO-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20240727231035"
   },
   "Castigator": {
     "price": 1650000,
@@ -479,7 +488,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Coquette D1 \u2014 overpriced at $1.5M, trading on the Coquette name without the performance."
   },
   "Pipistrello": {
     "price": 2950000,
@@ -543,7 +553,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Impaler variant with lowrider stance \u2014 competitive enough without reaching the top shelf."
   },
   "Gauntlet Interceptor": {
     "price": 5420000,
@@ -566,7 +577,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Same A-tier performance as the ZX with the roof gone \u2014 equally competitive, twice as stylish."
   },
   "Impaler LX": {
     "price": 1465000,
@@ -574,7 +586,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier lowrider Impaler \u2014 pays premium price for modest gains over the base model."
   },
   "Dominator GT": {
     "price": 2195000,
@@ -582,7 +595,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Dominator that finally earned the nameplate \u2014 top muscle class pick for serious racers."
   },
   "Vivanite": {
     "price": 1605000,
@@ -644,7 +658,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier electric Bravado that actually works on the racetrack \u2014 muscle class's unlikely EV success story."
   },
   "Inductor": {
     "price": 50000,
@@ -666,7 +681,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "J-tier Lampadati luxury coupe lost in the wrong vehicle class \u2014 races like it knows it."
   },
   "Streamer216": {
     "price": 2238000,
@@ -699,7 +715,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "M-tier station wagon lowrider at $1.205M \u2014 genuinely one of GTA's most absurd purchases."
   },
   "F-160 Raiju": {
     "price": 6855000,
@@ -723,7 +740,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "J-tier luxury muscle sedan \u2014 looks expensive, drives expensively slow."
   },
   "Hotring Everon": {
     "price": 1790000,
@@ -767,7 +785,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "K-tier stretched luxury lowrider \u2014 the most impractical vehicle in the muscle class, somehow purchasable."
   },
   "Powersurge": {
     "price": 1605000,
@@ -775,7 +794,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Electric sport bike with genuine racing pedigree \u2014 strong alternative to the Carbon RS."
   },
   "300R": {
     "price": 2075000,
@@ -808,7 +828,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Tulip variant at $1.658M \u2014 overpriced for F-tier performance, style doesn't justify the cost."
   },
   "Surfer Custom": {
     "price": 590000,
@@ -824,7 +845,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier muscle coupe that tries hard aesthetically and races like it's not trying at all."
   },
   "Weevil Custom": {
     "price": 980000,
@@ -832,7 +854,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier VW Bug tribute in the Muscle class \u2014 unexpected, delightful, and genuinely fast."
   },
   "10F Widebody": {
     "price": 575000,
@@ -864,7 +887,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Camaro tribute that reinvented the Muscle class \u2014 the Dominator's fiercest rival."
   },
   "SM722": {
     "price": 2115000,
@@ -879,7 +903,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Ruiner revival with actual racing legs \u2014 the original Ruiner's long-overdue redemption arc."
   },
   "Rhinehart": {
     "price": 1598000,
@@ -962,7 +987,9 @@
     ],
     "unlock_methods": [],
     "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,098,750) unlocks after completing \"ULP - Intelligence\" (Operation Paper Trail, The Contract DLC).",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Imani Tech station wagon \u2014 the gadgets make it unique, the tier keeps it grounded.",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f6/Greenwood-GTAO-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20220726130342"
   },
   "10F": {
     "price": 1675000,
@@ -1013,7 +1040,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier muscle coupe at $1.58M \u2014 looks great in the garage, races without distinction."
   },
   "S95": {
     "price": 1995000,
@@ -1061,7 +1089,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Pricey sport bike at $1.9M that sits just below the Carbon RS \u2014 fast but not the fastest."
   },
   "Shinobi": {
     "price": 2480500,
@@ -1069,7 +1098,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Newer sport bike with top-tier speed \u2014 sleek Dinka design that competes with Carbon RS."
   },
   "Comet S2 Cabrio": {
     "price": 1797000,
@@ -1098,7 +1128,8 @@
     "stores": [
       "Southern SA Super Autos"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Bravado with Imani Tech gadgets \u2014 the best car in the class and it's not close."
   },
   "Ignus": {
     "price": 2765000,
@@ -1184,7 +1215,8 @@
       "combat"
     ],
     "unlock_condition_note": "Purchase unrestricted. Trade price ($1,331,250) requires LS Car Meet Reputation points.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Dominator variant slotting just below the GT \u2014 still elite muscle class racing."
   },
   "Cypher": {
     "price": 1550000,
@@ -1290,7 +1322,8 @@
       "racing"
     ],
     "storage_type": "garage",
-    "meta_verdict": "RX-7 tribute that drifts beautifully and races adequately \u2014 more style than substance."
+    "meta_verdict": "RX-7 tribute that drifts beautifully and races adequately \u2014 more style than substance.",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/0/04/ZR350-GTAO-RGSC-Main.jpg/revision/latest/scale-to-width-down/300?cb=20210720103635"
   },
   "Dominator GTT": {
     "price": 1220000,
@@ -1299,7 +1332,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Dominator with extra attitude \u2014 strong mid-tier buy at $1.22M."
   },
   "Euros": {
     "price": 1800000,
@@ -1512,7 +1546,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Classic Gauntlet with the Custom treatment \u2014 old muscle given a fresh but slow life."
   },
   "Yosemite Rancher": {
     "price": 700000,
@@ -1543,7 +1578,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "J-tier Peyote Custom \u2014 lowrider VW Bug tribute that makes no apologies for its tier position."
   },
   "Manana Custom": {
     "price": 925000,
@@ -1551,7 +1587,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "J-tier Manana Custom lowrider \u2014 the lowrider scene's most overlooked entry, races accordingly."
   },
   "Beater Dukes": {
     "price": 378000,
@@ -1559,7 +1596,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier junkyard Dukes with a weathered look \u2014 charming rust bucket with minimal pace."
   },
   "Seminole Frontier": {
     "price": 678000,
@@ -1632,7 +1670,8 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Weaponized JB 700 with spy gadgets and missiles \u2014 pure Bond fantasy, no racing relevance."
   },
   "Blista Kanjo": {
     "price": 580000,
@@ -1658,7 +1697,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier drift-spec Yosemite that's genuinely fast even in standard racing \u2014 surprisingly competitive."
   },
   "Outlaw": {
     "price": 1268000,
@@ -1684,7 +1724,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic electric dirt bike at $670K \u2014 genuinely capable off-road with a premium price tag."
   },
   "V-STR": {
     "price": 1285000,
@@ -1753,7 +1794,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Retinue Mk II \u2014 meaningfully faster than the base, short of the A-tier leaders."
   },
   "Everon": {
     "price": 1475000,
@@ -1783,7 +1825,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier retro hot rod \u2014 cult following, limited pace, no longer sold."
   },
   "Dynasty": {
     "price": 450000,
@@ -1793,7 +1836,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. N-tier Dynasty \u2014 Chinese-inspired luxury classic taken alongside the SAM cull."
   },
   "Hellion": {
     "price": 835000,
@@ -1815,7 +1859,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Zion Classic \u2014 BMW Z8-style Sport Classic gone with the update."
   },
   "Gauntlet Hellfire": {
     "price": 745000,
@@ -1824,7 +1869,8 @@
       "combat",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Gauntlet with Hellcat energy \u2014 loud and fun, not a serious race contender."
   },
   "Novak": {
     "price": 608000,
@@ -1888,7 +1934,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier Nebula Turbo \u2014 Soviet-era car design that GTA Online briefly made purchasable."
   },
   "Emerus": {
     "price": 2750000,
@@ -1906,7 +1953,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Gauntlet in retro trim \u2014 the classic aesthetic is real, the racing potential isn't."
   },
   "Neo": {
     "price": 1875000,
@@ -1999,7 +2047,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Declasse muscle coupe \u2014 clean retro design that ended with the update."
   },
   "Deviant": {
     "price": 512000,
@@ -2009,7 +2058,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Vapid muscle \u2014 aggressive styling with limited follow-through on track."
   },
   "RC Bandito": {
     "price": 1590000,
@@ -2044,7 +2094,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Declasse muscle \u2014 punchy retro styling the SAM cull took too soon."
   },
   "Itali GTO": {
     "stores": [
@@ -2065,7 +2116,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier lowrider muscle \u2014 solid before removal, a gap that won't be filled."
   },
   "Toros": {
     "price": 498000,
@@ -2081,7 +2133,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier base Impaler at $331K \u2014 serviceable muscle, outclassed by its own LX variant."
   },
   "Freecrawler": {
     "price": 597000,
@@ -2214,14 +2267,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier Swinger \u2014 clean British roadster aesthetic, competitively mid-pack before removal."
   },
   "Jester Classic": {
     "price": 790000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier Jester Classic \u2014 retro Japanese sports car aesthetic that races near the bottom of the class."
   },
   "Michelli GT": {
     "price": 1225000,
@@ -2231,7 +2286,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Michelli GT \u2014 Italian grand touring aesthetic, mid-pack at best, gone now."
   },
   "Cheburek": {
     "price": 145000,
@@ -2241,7 +2297,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Cheburek \u2014 GTA's beloved Lada joke car, slow by design and proud of it."
   },
   "Tyrant": {
     "price": 2515000,
@@ -2256,7 +2313,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Dominator variant \u2014 decent filler, overshadowed by its better siblings above and below."
   },
   "Sea Sparrow": {
     "stores": [
@@ -2310,7 +2368,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier muscle coupe with retro charm \u2014 a beautiful car that races like an H-tier car."
   },
   "GB200": {
     "price": 940000,
@@ -2344,7 +2403,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. L-tier Fagaloa \u2014 Samoan car culture representation the SAM cull removed quietly."
   },
   "Hotring Sabre": {
     "price": 830000,
@@ -2375,7 +2435,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier 190z \u2014 JDM Datsun tribute the SAM cull took without fanfare."
   },
   "Hustler": {
     "price": 625000,
@@ -2387,7 +2448,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier hot rod \u2014 more style icon than race car, correctly categorized."
   },
   "Kamacho": {
     "price": 345000,
@@ -2424,7 +2486,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier GT500 \u2014 classic GT racer styling with a tier position that belied the looks."
   },
   "Viseris": {
     "price": 875000,
@@ -2434,7 +2497,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier Viseris \u2014 Lotus Esprit tribute gone with the SAM update."
   },
   "Savestra": {
     "price": 990000,
@@ -2444,7 +2508,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Savestra \u2014 Alfa Romeo Spider tribute the cull took quietly."
   },
   "Autarch": {
     "price": 1955000,
@@ -2464,7 +2529,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier retro custom \u2014 beautiful Art Deco design, missed by lowrider fans."
   },
   "Streiter": {
     "price": 500000,
@@ -2624,7 +2690,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Karin pickup at $485K \u2014 best value proposition in the entire muscle class."
   },
   "Riata": {
     "price": 380000,
@@ -3358,7 +3425,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Z-Type at $950K \u2014 famously overpriced even when it was for sale."
   },
   "Turismo Classic": {
     "price": 705000,
@@ -3366,7 +3434,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Ferrari 250 GTO tribute at $705K \u2014 outstanding value for the best Sport Classic racing."
   },
   "Tornado Rat Rod": {
     "price": 378000,
@@ -3376,21 +3445,24 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. L-tier Tornado Rat Rod \u2014 wild custom hot rod aesthetic, taken with the rest."
   },
   "Tornado Custom": {
     "price": 375000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "N-tier Tornado Custom \u2014 lowrider classic that belongs in a car show, not on a circuit."
   },
   "Tornado": {
     "price": 30000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "O-tier Tornado at $30K \u2014 the basement of Sport Classics, cheap enough to own without guilt."
   },
   "Torero": {
     "price": 998000,
@@ -3400,7 +3472,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier Pegassi Torero \u2014 Lamborghini Miura tribute taken by the cull at peak form."
   },
   "Stinger GT": {
     "price": 875000,
@@ -3410,7 +3483,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Stinger GT \u2014 the GT badge didn't move the tier needle before removal."
   },
   "Stinger": {
     "price": 850000,
@@ -3420,7 +3494,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Stinger \u2014 an original GTA classic that quietly exited with the SAM cull."
   },
   "Roosevelt Valor": {
     "price": 982000,
@@ -3430,7 +3505,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Roosevelt Valor \u2014 1930s luxury car with mounted gun, gone with the update."
   },
   "Roosevelt": {
     "price": 750000,
@@ -3440,7 +3516,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier Roosevelt \u2014 the 1930s luxury classic, gone before it could build a legacy."
   },
   "Retinue": {
     "price": 615000,
@@ -3450,7 +3527,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier base Retinue \u2014 the foundation for the Mk II, gone before the upgrade culture caught on."
   },
   "Pigalle": {
     "price": 400000,
@@ -3460,35 +3538,40 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Pigalle \u2014 avant-garde French design that never found its audience in GTA."
   },
   "Peyote": {
     "price": 38000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "N-tier Peyote at $38K \u2014 the base before the Custom; buy it as the stepping stone."
   },
   "Monroe": {
     "price": 490000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Monroe \u2014 elegance over pace; the most beautiful Sport Classic in the game."
   },
   "Manana": {
     "price": 10000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "M-tier Manana at $10K \u2014 the cheapest Sport Classic, priced exactly right for what it offers."
   },
   "Mamba": {
     "price": 995000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Mamba at $995K \u2014 Cobra tribute that looks the part and races near the bottom."
   },
   "JB 700": {
     "price": 350000,
@@ -3498,14 +3581,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier JB 700 \u2014 the spy car with ejector seat, removed but never forgotten."
   },
   "Infernus Classic": {
     "price": 915000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Infernus Classic \u2014 beautiful Ferrari homage that races honestly at mid-pack."
   },
   "Fr\u00e4nken Stange": {
     "price": 550000,
@@ -3515,21 +3600,24 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier Fr\u00e4nken Stange \u2014 GTA's most unhinged hot rod design, a true one-of-a-kind."
   },
   "Coquette Classic": {
     "price": 665000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Coquette Classic \u2014 beautiful C1 Corvette tribute that drifts well and races slowly."
   },
   "Cheetah Classic": {
     "price": 865000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Ferrari classic tribute that earns its price \u2014 genuine Sport Classic racing pedigree."
   },
   "Casco": {
     "price": 904400,
@@ -3537,14 +3625,16 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Casco at $904K \u2014 handsome mid-century design that races at the low end of the class."
   },
   "Ardent": {
     "price": 1150000,
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Aston Martin tribute with missiles and machine guns \u2014 style and violence in one package."
   },
   "Verlierer": {
     "price": 695000,
@@ -4838,7 +4928,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "N-tier Voodoo with Custom kit \u2014 still N-tier, now with hydraulics and style."
   },
   "Voodoo": {
     "stores": [
@@ -4849,7 +4940,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "N-tier lowrider at $5.5K \u2014 the cheapest lowrider in the game, priced exactly right."
   },
   "Virgo Classic Custom": {
     "price": 240000,
@@ -4857,7 +4949,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier Virgo with Custom treatment \u2014 luxury liner with I-tier racing credentials to match."
   },
   "Virgo Classic": {
     "price": 165000,
@@ -4865,7 +4958,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "N-tier Virgo Classic \u2014 a rolling piece of cruising culture with zero racing ambition."
   },
   "Virgo": {
     "stores": [
@@ -4876,7 +4970,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "K-tier classic lowrider \u2014 deep in the bottom tier but genuinely rich in character."
   },
   "Vigero": {
     "price": 21000,
@@ -4887,7 +4982,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier classic Vigero \u2014 the ZX's ancestor, retired alongside the update."
   },
   "Weaponized Tampa": {
     "price": 2108050,
@@ -4905,7 +5001,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier base Tampa for $375K \u2014 save those dollars for the Weaponized version instead."
   },
   "Burger Shot Stallion": {
     "price": 277000,
@@ -4913,7 +5010,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Stallion with fast food branding \u2014 the worst of both worlds in one vehicle."
   },
   "Stallion": {
     "price": 71000,
@@ -4921,7 +5019,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Stallion at $71K \u2014 cheap muscle class entry that delivers exactly what it costs."
   },
   "Slamvan Custom": {
     "price": 415000,
@@ -4929,7 +5028,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Slamvan with custom stance \u2014 more show than go, but the show is genuinely good."
   },
   "Slamvan": {
     "stores": [
@@ -4943,7 +5043,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "O-tier base Slamvan \u2014 buy this only as the stepping stone to the Slamvan Custom."
   },
   "Sabre Turbo Custom": {
     "price": 490000,
@@ -4951,7 +5052,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier classic muscle with the Custom treatment \u2014 old school with just enough modern pace."
   },
   "Sabre Turbo": {
     "stores": [
@@ -4962,7 +5064,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier base Sabre at $15K \u2014 the Custom version is worth it, this one isn't."
   },
   "Ruiner 2000": {
     "price": 3750000,
@@ -4986,7 +5089,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Firebird homage \u2014 iconic hood art, minimal racing merit, now gone."
   },
   "Rat-Truck": {
     "price": 37500,
@@ -4995,7 +5099,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "O-tier rat rod at $37.5K \u2014 the very bottom of Muscle class, still somehow loveable."
   },
   "Rat-Loader": {
     "price": 6000,
@@ -5006,7 +5111,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. O-tier Rat-Loader ratrod \u2014 aesthetic outlived its store listing."
   },
   "Picador": {
     "price": 9000,
@@ -5017,14 +5123,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Picador ute \u2014 a curiosity that few mourned, taken by SAM anyway."
   },
   "Nightshade": {
     "price": 585000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Vapid muscle coupe \u2014 neat design that sits at the bottom of relevant racing."
   },
   "Moonbeam Custom": {
     "price": 370000,
@@ -5032,7 +5140,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier Moonbeam minivan Custom \u2014 a minivan in the muscle class is peak GTA absurdity."
   },
   "Moonbeam": {
     "stores": [
@@ -5043,7 +5152,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "M-tier base Moonbeam minivan at $32.5K \u2014 a minivan, full stop, nothing more to say."
   },
   "Lurcher": {
     "price": 650000,
@@ -5051,7 +5161,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Lurcher hearse \u2014 Halloween aesthetic with lap times to match the horror."
   },
   "Hotknife": {
     "price": 90000,
@@ -5060,7 +5171,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "L-tier hot rod at $90K \u2014 pure aesthetics, zero lap times, no apologies."
   },
   "Redwood Gauntlet": {
     "price": 230000,
@@ -5068,7 +5180,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Gauntlet in racing livery that lied about its ambitions on track."
   },
   "Gauntlet": {
     "price": 32000,
@@ -5080,7 +5193,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier classic Gauntlet \u2014 the muscle class OG, long past its competitive prime."
   },
   "Faction Custom Donk": {
     "price": 695000,
@@ -5088,7 +5202,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier Donk-spec Faction \u2014 the most eye-catching vehicle in the class, the worst racer."
   },
   "Faction": {
     "price": 36000,
@@ -5096,7 +5211,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier base Faction at $36K \u2014 buy it only as the stepping stone to the Custom."
   },
   "Dukes": {
     "stores": [
@@ -5107,7 +5223,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Charger tribute at $62K \u2014 slow, old, nostalgic, and somehow still on the lot."
   },
   "Duke O'Death": {
     "price": 665000,
@@ -5127,7 +5244,8 @@
       "racing",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The base Dominator at $35K is C-tier bargain muscle \u2014 functional, cheap, nothing special."
   },
   "Coquette BlackFin": {
     "price": 695000,
@@ -5138,7 +5256,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier Coquette oddly filed under Muscle \u2014 misclassified and correctly removed."
   },
   "Chino Custom": {
     "price": 180000,
@@ -5146,7 +5265,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "L-tier Chino with the Custom kit \u2014 more style, same slow."
   },
   "Chino": {
     "price": 225000,
@@ -5154,7 +5274,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "L-tier Chino lowrider \u2014 pure cruise culture, zero race culture."
   },
   "Buccaneer Custom": {
     "price": 390000,
@@ -5162,7 +5283,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Buccaneer with custom lowrider treatment \u2014 looks dramatically better, races no differently."
   },
   "Buccaneer": {
     "stores": [
@@ -5173,7 +5295,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Vapid classic at $29K \u2014 bottom of the barrel, but it costs almost nothing."
   },
   "Blade": {
     "stores": [
@@ -5186,7 +5309,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier classic chopper \u2014 cult following couldn't save it from the cull."
   },
   "Zombie Chopper": {
     "stores": [
@@ -5198,7 +5322,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The Zombie Chopper survived SAM while its Bobber sibling didn't \u2014 both are equally slow."
   },
   "Zombie Bobber": {
     "price": 99000,
@@ -5209,7 +5334,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Biker DLC bobber \u2014 stylish zombie aesthetic, average performance, now gone."
   },
   "Wolfsbane": {
     "price": 95000,
@@ -5220,7 +5346,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Biker DLC chopper \u2014 outlaw aesthetic the SAM cull took quietly."
   },
   "Vortex": {
     "price": 356000,
@@ -5229,7 +5356,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Pegassi concept bike at $356K \u2014 striking design that doesn't translate to meaningful performance."
   },
   "Vindicator": {
     "price": 630000,
@@ -5237,7 +5365,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Heavyweight cruiser at $630K \u2014 buy it for the presence, not the lap times."
   },
   "Vader": {
     "price": 9000,
@@ -5248,7 +5377,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Budget commuter bike from GTA Online's early days \u2014 gone, rarely mourned."
   },
   "Thrust": {
     "price": 75000,
@@ -5259,7 +5389,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Sport bike with decent speed \u2014 removed before it could build a following."
   },
   "Sovereign": {
     "price": 90000,
@@ -5270,7 +5401,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Harley-style cruiser \u2014 pure aesthetics, no competitive legacy to miss."
   },
   "Shotaro": {
     "price": 2225000,
@@ -5278,7 +5410,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Tron-inspired light cycle that's genuinely fast \u2014 best-looking bike with real racing credentials."
   },
   "Sanctus": {
     "price": 1995000,
@@ -5289,10 +5422,12 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Skull-decorated chopper at $1.995M \u2014 wildly overpriced even before removal."
   },
   "Sanchez (Livery)": {
-    "price": 7000
+    "price": 7000,
+    "meta_verdict": "Livery Sanchez at $7K \u2014 the OG dirt bike's purchasable survivor, charmingly slow."
   },
   "Sanchez": {
     "price": 8000,
@@ -5303,7 +5438,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. The original dirt bike \u2014 a GTA icon retired by the update."
   },
   "Ruffian": {
     "price": 10000,
@@ -5314,7 +5450,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Budget sport bike that never threatened the top spots \u2014 quietly removed."
   },
   "Rat Bike": {
     "price": 48000,
@@ -5325,7 +5462,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Junkyard aesthetic chopper \u2014 more character than performance, correctly removed."
   },
   "PCJ 600": {
     "price": 9000,
@@ -5337,7 +5475,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. GTA's OG stunt bike \u2014 legendary in story mode, barely relevant in Online."
   },
   "Oppressor": {
     "price": 2750000,
@@ -5357,7 +5496,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Dark chopper with a solid aesthetic \u2014 doesn't race and doesn't pretend to."
   },
   "Nemesis": {
     "price": 12000,
@@ -5368,7 +5508,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Low-spec sport bike from the early era \u2014 long outclassed and now gone."
   },
   "Manchez": {
     "price": 67000,
@@ -5378,7 +5519,8 @@
       "grinding",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Base Manchez at $67K \u2014 the stepping stone to the Scout, not a destination itself."
   },
   "Lectro": {
     "price": 997500,
@@ -5387,7 +5529,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Electric sport bike at $997.5K \u2014 fast for its era, outpaced by newer additions."
   },
   "Innovation": {
     "price": 92500,
@@ -5398,7 +5541,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Old cruiser that never innovated enough \u2014 the name wrote the review."
   },
   "Hexer": {
     "price": 15000,
@@ -5410,7 +5554,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Biker DLC chopper \u2014 Lost MC aesthetic, taken by the SAM cull."
   },
   "Hakuchou": {
     "price": 82000,
@@ -5420,7 +5565,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. The base before the Drag \u2014 solid sport bike power-crept by its own Custom version."
   },
   "Gargoyle": {
     "price": 120000,
@@ -5429,7 +5575,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Off-road dirt bike that rivals the BF400 \u2014 capable alternative at a similar price point."
   },
   "FCR 1000 Custom": {
     "price": 196000,
@@ -5437,7 +5584,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The best-looking cruiser in the game with appropriately slow lap times \u2014 buy it for the garage."
   },
   "FCR 1000": {
     "price": 135000,
@@ -5445,7 +5593,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Base FCR 1000 \u2014 buy the Custom version instead; this is just the stepping stone."
   },
   "Faggio Sport": {
     "price": 47500,
@@ -5455,7 +5604,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. The fastest moped in GTA history \u2014 that's the ceiling, and it was enough."
   },
   "Faggio Mod": {
     "price": 55000,
@@ -5466,7 +5616,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Modded Faggio moped \u2014 slightly faster, equally unmissable."
   },
   "Faggio": {
     "price": 5000,
@@ -5476,7 +5627,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. GTA's iconic moped \u2014 slow, beloved, appropriately retired."
   },
   "Esskey": {
     "price": 264000,
@@ -5486,7 +5638,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Electric delivery scooter at $264K \u2014 a novelty purchase that nobody needed."
   },
   "Enduro": {
     "price": 48000,
@@ -5497,7 +5650,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Dirt bike that predated the BF400 \u2014 the BF400 made it irrelevant first."
   },
   "Double-T": {
     "stores": [
@@ -5511,7 +5665,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Low-tier sport bike from GTA Online's early era \u2014 long forgotten."
   },
   "Diabolus Custom": {
     "price": 245000,
@@ -5519,7 +5674,8 @@
       "collector",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Electric Diabolus Custom with boost ability \u2014 fun novelty bike with a genuine trick up its sleeve."
   },
   "Diabolus": {
     "price": 169000,
@@ -5527,7 +5683,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Base Diabolus electric bike \u2014 buy the Custom version instead; this is just the foundation."
   },
   "Defiler": {
     "price": 412000,
@@ -5536,7 +5693,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Big bagger-style touring bike at $412K \u2014 aggressive look, underwhelming pace."
   },
   "Cliffhanger": {
     "price": 225000,
@@ -5547,7 +5705,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Dirt bike that carved its niche \u2014 off-road capable, store listing gone."
   },
   "Chimera": {
     "price": 210000,
@@ -5555,14 +5714,16 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Scrambler-style bike at $210K \u2014 capable off-road, forgettable on pavement."
   },
   "Carbon RS": {
     "price": 40000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The fastest non-drag motorcycle available \u2014 if you're racing on two wheels, this is it."
   },
   "BF400": {
     "stores": [
@@ -5573,7 +5734,8 @@
       "racing",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The BF400 at $95K is the go-to off-road motorcycle \u2014 cheap, capable, and universally used."
   },
   "Bati 801RR": {
     "stores": [
@@ -5611,7 +5773,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Touring cruiser with zero racing intent \u2014 correctly filed under removed."
   },
   "Avarus": {
     "price": 116000,
@@ -5622,7 +5785,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Biker DLC chopper \u2014 solid custom aesthetic, gone with the update."
   },
   "Akuma": {
     "price": 9000,
@@ -5633,7 +5797,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Fast sport bike in its era \u2014 outpaced by every modern motorcycle before removal."
   },
   "Rhino Tank": {
     "stores": [
@@ -5977,7 +6142,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/SentinelXS-GTAV-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20200331040219"
   },
   "Sentinel": {
     "price": 95000,
@@ -6286,7 +6452,8 @@
     "use_case": [
       "collector",
       "fun"
-    ]
+    ],
+    "meta_verdict": "Biker DLC custom chopper \u2014 pure outlaw aesthetic with zero competitive racing application."
   },
   "Buzzard": {
     "stores": [
@@ -6580,7 +6747,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "pegasus",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/e/eb/HigginsHelitoursMaverick-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20250619002552"
   },
   "Police Maverick": {
     "use_case": [
@@ -6684,43 +6852,50 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Deathbike with post-apoc weaponry \u2014 the most feared Arena motorcycle variant."
   },
   "Future Shock Deathbike": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Deathbike \u2014 sci-fi armored motorcycle locked behind Arena buy-in."
   },
   "Nightmare Deathbike": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Deathbike \u2014 bone-decorated monster motorcycle that never leaves the Arena circuit."
   },
   "Apocalypse Dominator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Dominator with post-apoc weaponry \u2014 fully gated behind Arena Points and the Workshop."
   },
   "Apocalypse Impaler": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Impaler with wrecking attachments \u2014 Mad Max energy locked behind Arena buy-in."
   },
   "Apocalypse Imperator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Imperator \u2014 the most visually aggressive Arena muscle, appropriately expensive to unlock."
   },
   "Apocalypse Slamvan": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only weaponized Slamvan \u2014 junkyard monster you'll never see outside Arena War events."
   },
   "Faction Custom 1": {
     "use_case": [
@@ -6728,69 +6903,80 @@
       "fun"
     ],
     "_note": "Benny's conversion: ~$371K total ($36K base Faction + $335K upgrade). Not a direct purchase price.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Faction Custom \u2014 the lowrider aesthetic is the entire point; racing is an afterthought."
   },
   "Future Shock Dominator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Dominator with sci-fi kit \u2014 same closed ecosystem as every Arena variant."
   },
   "Future Shock Impaler": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Impaler \u2014 cool concept locked behind Arena Points and dedicated workshop space."
   },
   "Future Shock Imperator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Imperator \u2014 the tech-forward muscle pick for Arena sci-fi fans."
   },
   "Future Shock Slamvan": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Slamvan \u2014 weaponized van with a science fiction makeover, Arena-only."
   },
   "Lost Slamvan": {
     "use_case": [
       "fun",
       "collector"
     ],
-    "_note": "Mission/spawn vehicle \u2014 not purchasable."
+    "_note": "Mission/spawn vehicle \u2014 not purchasable.",
+    "meta_verdict": "L-tier Lost MC Slamvan with no listed price \u2014 special acquisition only, race value to match."
   },
   "Nightmare Dominator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Dominator \u2014 skull-faced horror muscle locked in the Arena ecosystem."
   },
   "Nightmare Impaler": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Impaler with monster truck energy \u2014 bone-covered spectacle over substance."
   },
   "Nightmare Imperator": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Imperator \u2014 the spookiest muscle car you can't meaningfully use outside Arena."
   },
   "Nightmare Slamvan": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Slamvan \u2014 bone-festooned weaponized van that never leaves the Arena War circuit."
   },
   "Phoenix": {
     "use_case": [
       "racing",
       "collector"
     ],
-    "_note": "Street spawn only \u2014 not sold in GTA Online."
+    "_note": "Street spawn only \u2014 not sold in GTA Online.",
+    "meta_verdict": "G-tier Phoenix with no listed price \u2014 iconic GTA nameplate running on legacy fumes."
   },
   "Pisswasser Dominator": {
     "use_case": [
@@ -6801,7 +6987,8 @@
       "Southern SA Super Autos"
     ],
     "_note": "Free since July 2021 (was $315,000). Store confirmed on SSASA.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Special-livery B-tier Dominator \u2014 same race performance as the GTT with sponsored beer branding."
   },
   "Apocalypse Bruiser": {
     "use_case": [
@@ -6963,7 +7150,8 @@
       "Legendary Motorsport"
     ],
     "storage_type": "garage",
-    "meta_verdict": "D-tier at $2.38M \u2014 you're paying for the name; the performance doesn't justify the premium."
+    "meta_verdict": "D-tier at $2.38M \u2014 you're paying for the name; the performance doesn't justify the premium.",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/3/3f/ItaliGTOStingerTT-GTAOe-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20230613102946"
   },
   "Jester RR Widebody": {
     "use_case": [
@@ -6974,7 +7162,8 @@
       "Legendary Motorsport"
     ],
     "storage_type": "garage",
-    "meta_verdict": "D-tier widebody that looks the part; slightly better than the base RR but the gap is narrow."
+    "meta_verdict": "D-tier widebody that looks the part; slightly better than the base RR but the gap is narrow.",
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/JesterRR-GTAO-RGSC-MainNew.jpg/revision/latest/scale-to-width-down/300?cb=20210720103621"
   },
   "Nightmare ZR380": {
     "use_case": [
@@ -7009,7 +7198,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. C-tier Stirling GT tribute \u2014 Mercedes 300SL homage taken before it found its audience."
   },
   "Airtug": {
     "use_case": [
@@ -7277,7 +7467,8 @@
     "_note": "Street spawn \u2014 not sold in GTA Online.",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Old chopper with no listed price \u2014 likely mission-locked, now doubly inaccessible."
   },
   "Manchez Scout C": {
     "use_case": [
@@ -7303,7 +7494,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Rocket-style sport bike at $925K \u2014 fast, distinctive, and competitively relevant in motorcycle racing."
   },
   "Sanchez (livery)": {
     "use_case": [
@@ -7311,7 +7503,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Livery Sanchez at $7K \u2014 the OG dirt bike's purchasable survivor, charmingly slow."
   },
   "Emperor": {
     "use_case": [
