@@ -8,7 +8,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Porsche tribute that never found its footing competitively."
   },
   "_comment": "Supplementary/corrective vehicle data. Auto-bootstrapped from GTABase cache + manually maintained. Applied on top of automated sync pipeline.",
   "_format": {
@@ -128,7 +129,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Recent addition still finding its place; early data suggests solid mid-tier at best."
   },
   "Sentinel XS4": {
     "price": 1429000,
@@ -155,7 +157,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Weaponized FMJ update; niche combat super for players who want missiles and speed."
   },
   "Drift Walton L35": {
     "price": 1403750,
@@ -220,7 +223,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier newcomer at $3.1M \u2014 competitive but expensive for what the tier delivers."
   },
   "Tampa GT": {
     "price": 1311000,
@@ -475,7 +479,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier with excellent balance; one of the better-handling supers at any price point."
   },
   "Boxville (LSDS)": {
     "price": 475000,
@@ -601,7 +606,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier racing with iconic styling \u2014 one of the few supers that fully earns its price."
   },
   "Weaponized Conada": {
     "price": 3385000,
@@ -733,7 +739,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Consistently B-tier; the straightforward choice for players who want results, not experiments."
   },
   "Panthere": {
     "price": 2170000,
@@ -781,7 +788,7 @@
       "off-road"
     ],
     "storage_type": "garage",
-    "meta_verdict": "Most forgiving top-tier super \u2014 easiest car to go fast in immediately."
+    "meta_verdict": "H-tier Overflod that disappoints on track; looks the part, rarely plays it."
   },
   "Tulip M-100": {
     "price": 1658000,
@@ -880,14 +887,16 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Consistent B-tier with clean handling; reliable across every track type without drama."
   },
   "Torero XO": {
     "price": 2890000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier racer on the iconic Torero silhouette; wins lobbies, not championships."
   },
   "Postlude": {
     "price": 1310000,
@@ -958,7 +967,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier racing performance plus weapons; the only super that does both without compromise."
   },
   "Cyclone II": {
     "price": 2250000,
@@ -1054,7 +1064,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier exotic that looks the part and races average; $2.8M for the disappointment."
   },
   "Buffalo STX": {
     "price": 2150000,
@@ -1112,7 +1123,8 @@
       "Legendary Motorsport"
     ],
     "_note": "Repriced during Los Santos Drug Wars update (was $2,995,000 / trade $2,246,250 at launch).",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier racing at $3.75M \u2014 the worst value ratio in the entire super class."
   },
   "Jubilee": {
     "price": 1650000,
@@ -1569,7 +1581,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Was a solid C-tier contender \u2014 removed before players fully appreciated it."
   },
   "Zhaba": {
     "price": 2400000,
@@ -1662,7 +1675,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier that looks faster than it is \u2014 which summarizes the problem entirely."
   },
   "Bugstars Burrito": {
     "price": 598500,
@@ -1791,7 +1805,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Pegassi that never justified its price; not widely mourned."
   },
   "Jugular": {
     "stores": [
@@ -1913,14 +1928,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. B-tier and consistently underrated; its removal hurt the competitive roster."
   },
   "Thrax": {
     "price": 2325000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Sharp B-tier at $2.3M \u2014 competitive without being the most expensive option in class."
   },
   "Deveste Eight": {
     "price": 1795000,
@@ -2187,7 +2204,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Lambo-alike; consistent, and consistently mediocre."
   },
   "Dominator GTX": {
     "price": 725000,
@@ -2237,7 +2255,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Electric hypercar concept that underperforms on every track; style over substance."
   },
   "Ellie": {
     "price": 565000,
@@ -2260,14 +2279,16 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "J-tier \u2014 near the absolute bottom of the super class; avoid entirely for racing."
   },
   "Entity XXR": {
     "price": 2305000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Beautiful I-tier Overflod in a B-tier price bracket \u2014 the definition of style tax."
   },
   "Fagaloa": {
     "price": 335000,
@@ -2380,7 +2401,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Solid C-tier that holds its own on most tracks; not flashy, just reliable."
   },
   "Hermes": {
     "price": 535000,
@@ -2515,7 +2537,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier through its entire lifespan; no great loss competitively."
   },
   "Raiden": {
     "price": 1375000,
@@ -2589,7 +2612,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. The original electric super; the Cyclone II is everything it wasn't."
   },
   "P-45 Nokota": {
     "price": 2653350,
@@ -2988,7 +3012,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The 2014 meta king \u2014 E-tier today but only $725K and a genuine GTA Online icon."
   },
   "XA-21": {
     "price": 2375000,
@@ -2998,7 +3023,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Was a legitimate C-tier racer \u2014 a real loss from the competitive pool."
   },
   "X80 Proto": {
     "price": 2700000,
@@ -3006,7 +3032,8 @@
       "collector",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The F1 car that isn't \u2014 E-tier performance and a $2.7M price that stings."
   },
   "Voltic": {
     "price": 150000,
@@ -3016,21 +3043,24 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier electric oddity; the Cyclone II is its spiritual successor done right."
   },
   "Visione": {
     "price": 2250000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier performance in a gorgeous body \u2014 buy it for the garage, not the podium."
   },
   "Vagner": {
     "price": 1535000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier cornering at $1.5M \u2014 the best value in the competitive super tier by a wide margin."
   },
   "Vacca": {
     "price": 240000,
@@ -3040,7 +3070,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Cheapest entry into the super class at $240K; I-tier but accessible."
   },
   "Tyrus": {
     "price": 2550000,
@@ -3050,7 +3081,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Competent E-tier Overflod; gone before anyone got attached."
   },
   "Turismo R": {
     "price": 500000,
@@ -3064,7 +3096,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier with decent style; outclassed in a fair fight but not embarrassing at $1.3M."
   },
   "T20": {
     "price": 2200000,
@@ -3072,14 +3105,16 @@
       "collector",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Was the 2015 benchmark super; a decade of power creep left it E-tier."
   },
   "Sultan RS": {
     "price": 795000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Rally super that belongs in sports class; I-tier here, surprisingly fun there."
   },
   "Rocket Voltic": {
     "price": 3830400,
@@ -3088,14 +3123,16 @@
       "fun",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Rocket-boosted stunt car \u2014 not a racer, but the most fun in its lane."
   },
   "Reaper": {
     "price": 1595000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Lambo lookalike; genuinely beautiful, genuinely disappointing on track."
   },
   "RE-7B": {
     "price": 2475000,
@@ -3105,14 +3142,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Was a genuine B-tier contender \u2014 one of the bigger losses in the purge."
   },
   "Penetrator": {
     "price": 880000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Pegassi that's slow even by super standards; name is the fastest thing about it."
   },
   "Osiris": {
     "price": 1950000,
@@ -3120,7 +3159,8 @@
       "collector",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Was revolutionary in 2015; E-tier a decade later tells the whole story."
   },
   "Nero Custom": {
     "price": 605000,
@@ -3128,21 +3168,24 @@
       "collector",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Benny's Nero trades money for marginal E-tier gains; still not competitive."
   },
   "Nero": {
     "price": 1440000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier with excellent aesthetics; the garage trophy, not the race winner."
   },
   "Itali GTB Custom": {
     "price": 495000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Benny's makes the GTB pricier but not faster enough to matter; skip both."
   },
   "Itali GTB": {
     "stores": [
@@ -3152,7 +3195,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Italian GT that costs $1.2M; overpriced for the performance, underpowered for the badge."
   },
   "Infernus": {
     "price": 440000,
@@ -3162,7 +3206,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier but a GTA institution since Vice City \u2014 irreplaceable nostalgia."
   },
   "GP1": {
     "price": 1260000,
@@ -3173,7 +3218,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Progen that never lived up to what the badge implied."
   },
   "FMJ": {
     "price": 1750000,
@@ -3184,7 +3230,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier; succeeded by the FMJ MK V, which is the clear upgrade."
   },
   "ETR1": {
     "price": 1995000,
@@ -3194,7 +3241,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Was D-tier and genuinely competitive; a quiet loss in the SAM purge."
   },
   "Entity XF": {
     "price": 795000,
@@ -3204,7 +3252,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier but one of GTA Online's most iconic supers \u2014 genuinely missed."
   },
   "Cheetah": {
     "stores": [
@@ -3217,7 +3266,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier on track, legendary in culture \u2014 a Vice City ghost."
   },
   "Bullet": {
     "price": 155000,
@@ -3227,14 +3277,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. Was the cheapest super ever at $155K; K-tier but a GTA IV icon."
   },
   "Banshee 900R": {
     "price": 565000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "I-tier as a super but only $565K; genuinely better compared against sports class."
   },
   "Adder": {
     "price": 1000000,
@@ -3242,7 +3294,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The 2013 prestige car; $1M and tier H make it a collector piece, not a racer."
   },
   "Z-Type": {
     "price": 950000,
@@ -6326,7 +6379,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Off-road capable super; unique in class but limited on tarmac where supers live."
   },
   "LSCM Jester RR": {
     "_missing_from_pipeline": true,
