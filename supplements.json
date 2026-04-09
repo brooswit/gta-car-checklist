@@ -282,7 +282,7 @@
       "combat",
       "transport"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "DH-7 Iron Mule": {
     "price": 2345000,
@@ -608,7 +608,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Junk Energy Inductor": {
     "price": 50000,
@@ -659,7 +659,7 @@
       "fun",
       "racing"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Ratel": {
     "price": 1873000,
@@ -693,7 +693,7 @@
       "combat",
       "racing"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Boor": {
     "price": 1280000,
@@ -1390,7 +1390,7 @@
       "combat",
       "utility"
     ],
-    "storage_type": "pegasus",
+    "storage_type": "property:kosatka",
     "grinding_tier": "S",
     "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package.",
     "meta_verdict": "The Kosatka's essential companion \u2014 buy it the same session."
@@ -1401,7 +1401,7 @@
       "combat",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:kosatka"
   },
   "Kurtz 31 Patrol Boat": {
     "price": 2955000,
@@ -1434,7 +1434,7 @@
       "property-hangar"
     ],
     "unlock_condition_note": "Requires a Hangar for storage. Trade price ($2,902,500) unlocks after completing The Cayo Perico Heist as leader using this vehicle as the approach.",
-    "storage_type": "pegasus",
+    "storage_type": "property:hangar",
     "grinding_tier": "C",
     "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations."
   },
@@ -1447,7 +1447,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Winky": {
     "price": 1100000,
@@ -2071,7 +2071,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Stafford": {
     "price": 1272000,
@@ -2467,7 +2467,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Akula": {
     "price": 4500000,
@@ -2481,7 +2481,7 @@
       "property-hangar"
     ],
     "unlock_condition_note": "Requires both a Facility AND a Hangar to purchase and store. Trade price ($3,375,000) unlocks after completing the \"Setup: Server Farm\" mission as Doomsday Heist leader.",
-    "storage_type": "pegasus",
+    "storage_type": "property:hangar",
     "grinding_tier": "A",
     "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility.",
     "meta_verdict": "Goes off-radar; that one feature is worth every penny of the price."
@@ -2555,7 +2555,7 @@
       "property-hangar"
     ],
     "unlock_condition_note": "Requires owning a Hangar before Warstock listing appears. Trade price ($3,100,000) unlocks after completing 42 Air Freight Cargo source missions as MC President.",
-    "storage_type": "pegasus",
+    "storage_type": "property:hangar",
     "grinding_tier": "C",
     "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive."
   },
@@ -2576,7 +2576,7 @@
       "combat",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Seabreeze": {
     "price": 1130500,
@@ -2617,7 +2617,7 @@
       "transport",
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Mogul": {
     "price": 3125500,
@@ -2626,7 +2626,7 @@
       "combat",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Pyro": {
     "price": 4455500,
@@ -2635,7 +2635,7 @@
       "combat",
       "racing"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Howard NX-25": {
     "price": 1296750,
@@ -4213,7 +4213,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Ultralight": {
     "price": 665000,
@@ -4230,7 +4230,7 @@
       "combat",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Titan": {
     "price": 2000000,
@@ -4254,7 +4254,7 @@
       "combat",
       "fun"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "P-996 LAZER": {
     "use_case": [
@@ -4320,7 +4320,7 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "pegasus"
+    "storage_type": "property:hangar"
   },
   "Hydra": {
     "price": 3990000,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:31:13.242Z",
+  "generated_at": "2026-04-09T05:33:03.353Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -25,7 +25,7 @@
         "combat",
         "fun"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:kosatka"
     },
     {
       "name": "Dinghy",
@@ -3008,7 +3008,7 @@
       "grinding_tier": "A",
       "meta_verdict": "Goes off-radar; that one feature is worth every penny of the price.",
       "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility.",
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Annihilator",
@@ -3071,7 +3071,7 @@
       ],
       "grinding_tier": "C",
       "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations.",
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Buzzard",
@@ -3260,7 +3260,7 @@
       ],
       "grinding_tier": "C",
       "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive.",
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Frogger",
@@ -3511,7 +3511,7 @@
       "grinding_tier": "S",
       "meta_verdict": "The Kosatka's essential companion — buy it the same session.",
       "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package.",
-      "storage_type": "pegasus"
+      "storage_type": "property:kosatka"
     },
     {
       "name": "SuperVolito",
@@ -3743,7 +3743,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Custom Flatbed",
@@ -10725,7 +10725,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Besra",
@@ -10938,7 +10938,7 @@
         "combat",
         "racing"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Howard NX-25",
@@ -11051,7 +11051,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Luxor",
@@ -11221,7 +11221,7 @@
         "combat",
         "fun"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Nimbus",
@@ -11275,7 +11275,7 @@
         "combat",
         "fun"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "P-996 LAZER",
@@ -11331,7 +11331,7 @@
         "combat",
         "racing"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "RM-10 Bombushka",
@@ -11360,7 +11360,7 @@
         "transport",
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "RO-86 Alkonost",
@@ -11388,7 +11388,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Rogue",
@@ -11417,7 +11417,7 @@
         "combat",
         "fun"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Seabreeze",
@@ -11500,7 +11500,7 @@
         "fun",
         "racing"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Titan",
@@ -11554,7 +11554,7 @@
         "combat",
         "transport"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Tula",
@@ -11583,7 +11583,7 @@
         "combat",
         "fun"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Ultralight",
@@ -11639,7 +11639,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Velum",
@@ -11747,7 +11747,7 @@
       "use_case": [
         "combat"
       ],
-      "storage_type": "pegasus"
+      "storage_type": "property:hangar"
     },
     {
       "name": "Xero Blimp",
