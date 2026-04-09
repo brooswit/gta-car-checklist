@@ -231,12 +231,28 @@
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
+  /* Site intro */
+  .site-intro { padding: 1rem 1.5rem 0.5rem; }
+  .site-intro h1 { font-size: 1.3rem; font-weight: 700; color: #eee; margin: 0 0 0.4rem; }
+  .intro-body { font-size: 0.8rem; color: #888; margin: 0 0 0.6rem; line-height: 1.5; max-width: 720px; }
+  .intro-tips { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; }
+  .intro-tip { font-size: 0.72rem; color: #666; }
+  .intro-tip strong { color: #999; font-weight: 600; }
 </style>
 <script src="https://unpkg.com/launchdarkly-js-client-sdk@3/dist/ldclient.min.js"></script>
 </head>
 <body>
 <header>
-  <h1>GTA Online - Do I Have This Car?</h1>
+  <div class="site-intro">
+    <h1>Every GTA Online Vehicle, Ranked and Explained</h1>
+    <p class="intro-body">All 795 GTA Online vehicles in one place, ranked and explained. No generic wiki stats \u2014 actual opinions on what\u2019s worth buying, what\u2019s worth skipping, and what the 2023 SAM removal took away. Filter by grinding tier, use case, store status, or class.</p>
+    <div class="intro-tips">
+      <span class="intro-tip"><strong>Grinding Tier</strong> \u2014 S and A-tier are the meta. Skip tier means skip it.</span>
+      <span class="intro-tip"><strong>Use Case</strong> \u2014 racing, combat, off-road, utility, fun. Filter for your purpose.</span>
+      <span class="intro-tip"><strong>Not in Stores</strong> \u2014 See the 190+ vehicles removed in the 2023 SAM update.</span>
+      <span class="intro-tip"><strong>Vehicle Class</strong> \u2014 Browse by type. Each class has its strengths.</span>
+    </div>
+  </div>
   <div class="controls">
     <input type="search" id="search" placeholder="Search cars..." autocomplete="off">
     <select id="classFilter"><option value="">All Classes</option></select>
