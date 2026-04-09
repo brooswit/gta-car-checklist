@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:11:33.495Z",
+  "generated_at": "2026-04-09T05:15:36.521Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -2429,9 +2429,7 @@
       "hash": 469291905,
       "internalName": "lguard",
       "image": "https://static.wikia.nocookie.net/gtawiki/images/6/69/Lifeguard-GTAV-front.png/revision/latest/scale-to-width-down/300?cb=20160111205940",
-      "stores": [
-        "Warstock Cache & Carry"
-      ],
+      "stores": [],
       "features": [],
       "source": "wiki",
       "racing_tier": null,
@@ -3473,9 +3471,7 @@
       "hash": 1543134283,
       "internalName": "valkyrie2",
       "image": "https://static.wikia.nocookie.net/gtawiki/images/7/77/ValkyrieMOD0-GTAO-front.png/revision/latest/scale-to-width-down/300?cb=20151216172704",
-      "stores": [
-        "Warstock Cache & Carry"
-      ],
+      "stores": [],
       "features": [
         "Weaponized Vehicle"
       ],
@@ -3811,6 +3807,9 @@
       "stat_braking": 3,
       "stat_traction": 50,
       "stat_handling": 26,
+      "price": 3092250,
+      "trade_price": 2325000,
+      "unlock_condition_note": "Purchase unrestricted from Warstock. Trade price ($2,325,000) unlocks after completing \"Offshore Assets\" Mobile Operations mission as leader.",
       "use_case": [
         "combat",
         "off-road"
@@ -9724,7 +9723,7 @@
       "internalName": "l35",
       "image": "https://static.wikia.nocookie.net/gtawiki/images/7/78/WaltonL35-GTAOe-front.png/revision/latest/scale-to-width-down/300?cb=20230613215735",
       "stores": [
-        "Southern San Andreas Super Autos"
+        "Southern SA Super Autos"
       ],
       "features": [],
       "source": "wiki",
@@ -9735,6 +9734,7 @@
       "stat_braking": 7,
       "stat_traction": 36,
       "stat_handling": 29,
+      "price": 1670000,
       "use_case": [
         "off-road",
         "transport"
@@ -10624,6 +10624,7 @@
       "stat_braking": 100,
       "stat_traction": 40,
       "stat_handling": 100,
+      "price": 6500000,
       "use_case": [
         "combat"
       ]
@@ -19695,6 +19696,7 @@
       "stat_braking": 20,
       "stat_traction": 85,
       "stat_handling": 0,
+      "price": 1225000,
       "unlock_methods": [
         "property-bunker"
       ],
@@ -20314,6 +20316,7 @@
       "stat_braking": 17,
       "stat_traction": 27,
       "stat_handling": 22,
+      "price": 15000,
       "use_case": [
         "transport"
       ]

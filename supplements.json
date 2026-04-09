@@ -3357,6 +3357,10 @@
   "P-996 LAZER": {
     "use_case": [
       "combat"
+    ],
+    "price": 6500000,
+    "stores": [
+      "Warstock Cache & Carry"
     ]
   },
   "Nimbus": {
@@ -4804,12 +4808,11 @@
     ]
   },
   "Valkyrie MOD.0": {
-    "stores": [
-      "Warstock Cache & Carry"
-    ],
+    "stores": [],
     "use_case": [
       "combat"
-    ]
+    ],
+    "_note": "Appears as NPC in Cayo Perico and Superdollar Deal heist missions. No confirmed purchasable listing — stores entry removed pending verification."
   },
   "Insurgent Pick-Up Custom": {
     "stores": [
@@ -4851,7 +4854,8 @@
     "unlock_methods": [
       "property-bunker"
     ],
-    "unlock_condition_note": "Requires owning a Bunker. Also serves as the upgrade bay for Mk II weapons."
+    "unlock_condition_note": "Requires owning a Bunker. Also serves as the upgrade bay for Mk II weapons.",
+    "price": 1225000
   },
   "Insurgent Pick-Up": {
     "use_case": [
@@ -4874,7 +4878,10 @@
     "use_case": [
       "combat",
       "off-road"
-    ]
+    ],
+    "price": 3092250,
+    "trade_price": 2325000,
+    "unlock_condition_note": "Purchase unrestricted from Warstock. Trade price ($2,325,000) unlocks after completing \"Offshore Assets\" Mobile Operations mission as leader."
   },
   "Brickade 6x6": {
     "use_case": [
@@ -5290,6 +5297,10 @@
     "use_case": [
       "off-road",
       "transport"
+    ],
+    "price": 1670000,
+    "stores": [
+      "Southern SA Super Autos"
     ]
   },
   "BR8": {
@@ -5503,7 +5514,12 @@
   "Speedo": {
     "use_case": [
       "transport"
-    ]
+    ],
+    "price": 15000,
+    "stores": [
+      "Premium Deluxe Motorsport"
+    ],
+    "_note": "Showroom rotation vehicle at PDM — may not be available at all times."
   },
   "Youga Custom": {
     "use_case": [
@@ -5592,7 +5608,9 @@
     "use_case": [
       "fun",
       "utility"
-    ]
+    ],
+    "stores": [],
+    "_note": "Removed from Warstock Cache & Carry in the San Andreas Mercenaries update (June 2023). Was $865,000. No longer purchasable."
   },
   "Police Cruiser": {
     "use_case": [
