@@ -241,7 +241,8 @@
     "use_case": [
       "combat",
       "off-road"
-    ]
+    ],
+    "unlock_condition_note": "Straight Warstock purchase, no property gate. Owning one enables Dispatch Work missions. Trade price ($4,001,250) unlocks after completing \"Slush Fund\" as mission leader AND \"Dispatch Work - Obstruction of Justice\"."
   },
   "Titan 250 D": {
     "price": 4870000,
@@ -278,7 +279,9 @@
       "off-road",
       "racing",
       "combat"
-    ]
+    ],
+    "unlock_condition_note": "Purchasable at SSASA on all platforms. Free alternate unlock (E&E/PS5/Series X only): complete Tier 4 Agents of Sabotage Career Progress challenges.",
+    "_note": "E&E-exclusive free path exists alongside standard purchase."
   },
   "Terminus Patrol": {
     "price": 5125000,
@@ -286,7 +289,8 @@
     "use_case": [
       "fun",
       "utility"
-    ]
+    ],
+    "unlock_condition_note": "Straight Warstock purchase. Trade price ($3,843,750) unlocks after completing \"Slush Fund\" as leader AND \"Dispatch Work - Health Code Violations\"."
   },
   "Coquette D5": {
     "price": 1730000,
@@ -805,7 +809,7 @@
   },
   "Greenwood": {
     "stores": [
-      "Southern San Andreas Super Autos"
+      "Southern SA Super Autos"
     ],
     "price": 1465000,
     "trade_price": 1098750,
@@ -816,7 +820,9 @@
       "racing",
       "collector",
       "combat"
-    ]
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,098,750) unlocks after completing \"ULP - Intelligence\" (Operation Paper Trail, The Contract DLC)."
   },
   "10F": {
     "price": 1675000,
@@ -840,7 +846,11 @@
     "price": 2250000,
     "use_case": [
       "racing"
-    ]
+    ],
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "_note": "HSW upgrade ($475,000) available at LS Car Meet — requires PS5/Xbox Series X|S and visiting Hao's Special Works."
   },
   "Astron Custom": {
     "price": 1720000,
@@ -859,7 +869,8 @@
     "price": 1995000,
     "use_case": [
       "racing"
-    ]
+    ],
+    "_note": "HSW upgrade ($525,000) available at LS Car Meet — requires PS5/Xbox Series X|S."
   },
   "Granger 3600LX": {
     "price": 2000000,
@@ -919,6 +930,11 @@
     "trade_price": 1612500,
     "use_case": [
       "combat"
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades AND trade price ($1,612,500) both require owning an Agency — doubly Agency-dependent.",
+    "stores": [
+      "Southern SA Super Autos"
     ]
   },
   "Ignus": {
@@ -952,13 +968,24 @@
     "trade_price": 2812500,
     "use_case": [
       "combat"
-    ]
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency.",
+    "stores": [
+      "Legendary Motorsport"
+    ],
+    "_note": "Repriced during Los Santos Drug Wars update (was $2,995,000 / trade $2,246,250 at launch)."
   },
   "Jubilee": {
     "price": 1650000,
     "trade_price": 1237500,
     "use_case": [
       "combat"
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,237,500) unlocks after completing 20 Security Contracts as leader.",
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Previon": {
@@ -981,13 +1008,19 @@
     "use_case": [
       "racing",
       "combat"
-    ]
+    ],
+    "unlock_condition_note": "Purchase unrestricted. Trade price ($1,331,250) requires LS Car Meet Reputation points."
   },
   "Cypher": {
     "price": 1550000,
     "trade_price": 1162500,
     "use_case": [
       "racing"
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency.",
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Growler": {
@@ -1002,6 +1035,11 @@
     "trade_price": 1338750,
     "use_case": [
       "racing"
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,338,750) unlocks via LS Car Meet reputation. Trade price ($1,338,750) requires LS Car Meet Reputation.",
+    "stores": [
+      "Legendary Motorsport"
     ]
   },
   "Comet S2": {
@@ -1089,7 +1127,9 @@
     "trade_price": 1496250,
     "use_case": [
       "racing"
-    ]
+    ],
+    "unlock_methods": [],
+    "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades (remote control, jammer, EMP) require owning an Agency ($2,010,000–$2,830,000 from Dynasty 8 Executive)."
   },
   "Manchez Scout": {
     "price": 225000,
@@ -1201,7 +1241,14 @@
     "use_case": [
       "combat",
       "grinding"
-    ]
+    ],
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "unlock_methods": [
+      "property-hangar"
+    ],
+    "unlock_condition_note": "Requires a Hangar for storage. Trade price ($2,902,500) unlocks after completing The Cayo Perico Heist as leader using this vehicle as the approach."
   },
   "RO-86 Alkonost": {
     "price": 4350000,
@@ -1973,7 +2020,14 @@
     "trade_price": 1125000,
     "use_case": [
       "combat"
-    ]
+    ],
+    "stores": [
+      "Warstock Cache & Carry"
+    ],
+    "unlock_methods": [
+      "property-facility"
+    ],
+    "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($1,125,000) unlocks after completing \"Escort ULP\" setup as heist leader."
   },
   "Barrage": {
     "price": 2121350,
@@ -1995,7 +2049,12 @@
     "use_case": [
       "grinding",
       "combat"
-    ]
+    ],
+    "unlock_methods": [
+      "property-facility",
+      "property-hangar"
+    ],
+    "unlock_condition_note": "Requires both a Facility AND a Hangar to purchase and store. Trade price ($3,375,000) unlocks after completing the \"Setup: Server Farm\" mission as Doomsday Heist leader."
   },
   "SC1": {
     "price": 1603000,
@@ -2045,7 +2104,11 @@
     "use_case": [
       "grinding",
       "combat"
-    ]
+    ],
+    "unlock_methods": [
+      "property-hangar"
+    ],
+    "unlock_condition_note": "Requires owning a Hangar before Warstock listing appears. Trade price ($3,100,000) unlocks after completing 42 Air Freight Cargo source missions as MC President."
   },
   "Cyclone": {
     "price": 1890000,
@@ -4773,7 +4836,13 @@
     "use_case": [
       "transport",
       "grinding"
-    ]
+    ],
+    "price": 0,
+    "unlock_methods": [
+      "property-nightclub"
+    ],
+    "unlock_condition_note": "Bundled free with any Nightclub purchase (After Hours 2018). Not sold separately.",
+    "_note": "Price is $0 — free with Nightclub property."
   },
   "Mobile Operations Center": {
     "use_case": [
@@ -4793,7 +4862,13 @@
   "TM-02 Khanjali": {
     "use_case": [
       "combat"
-    ]
+    ],
+    "price": 3850350,
+    "trade_price": 2895000,
+    "unlock_methods": [
+      "property-facility"
+    ],
+    "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($2,895,000) unlocks after completing the \"Khanjali\" setup mission as heist leader."
   },
   "APC": {
     "use_case": [
@@ -4870,7 +4945,8 @@
     "use_case": [
       "racing",
       "collector"
-    ]
+    ],
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/LSCMJesterRR-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251229175440"
   },
   "Dinghy": {
     "use_case": [
@@ -5032,7 +5108,13 @@
   "Thruster": {
     "use_case": [
       "combat"
-    ]
+    ],
+    "price": 2500000,
+    "trade_price": 1875000,
+    "unlock_methods": [
+      "property-facility"
+    ],
+    "unlock_condition_note": "Requires owning a Facility. Trade price ($1,875,000) unlocks after completing The Doomsday Scenario as Heist Leader (final act of Doomsday Heist)."
   },
   "Apocalypse Deathbike": {
     "use_case": [
@@ -5492,7 +5574,13 @@
     "use_case": [
       "combat",
       "fun"
-    ]
+    ],
+    "price": 0,
+    "unlock_methods": [
+      "property-bail-office"
+    ],
+    "unlock_condition_note": "Bundled free with any Bail Office purchase (Maze Bank Foreclosures). Not sold separately.",
+    "_note": "Price is $0 — free with Bail Office property."
   },
   "FIB": {
     "use_case": [
