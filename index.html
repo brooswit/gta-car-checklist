@@ -437,7 +437,7 @@ function render() {
         const imgUrl = 'https://gtav-vehicle-database.vercel.app/vehicle-images/' + v.Name.toLowerCase() + '.png';
         return '<div class="car-item' + (isOwned ? ' owned' : '') + '" data-hash="' + v.Hash + '">' +
           '<div class="check">' + (isOwned ? '&#10003;' : '') + '</div>' +
-          '<div class="car-img-wrap"><img src="' + imgUrl + '" alt="' + v.DisplayName.English + '" loading="lazy" onerror="this.parentElement.innerHTML=\'<span class=no-img>No image</span>\'"></div>' +
+          '<div class="car-img-wrap"><img src="' + imgUrl + '" alt="' + v.DisplayName.English + '" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML=\'<span class=no-img>No image</span>\'"></div>' +
           '<div class="car-info">' +
             '<div class="car-name">' + v.DisplayName.English + '</div>' +
             '<div class="car-mfg">' + (v.ManufacturerDisplayName?.English || '') + '</div>' +
@@ -539,7 +539,7 @@ function openModal(hash) {
   }).join('');
 
   document.getElementById('modalContent').innerHTML =
-    '<img class="modal-img" src="' + imgUrl + '" alt="' + v.DisplayName.English + '" onerror="this.style.display=\'none\'">' +
+    '<img class="modal-img" src="' + imgUrl + '" alt="' + v.DisplayName.English + '" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' +
     '<div class="modal-body">' +
       '<div class="modal-name">' + v.DisplayName.English + '</div>' +
       '<div class="modal-mfg">' + (v.ManufacturerDisplayName?.English || '') + '</div>' +
