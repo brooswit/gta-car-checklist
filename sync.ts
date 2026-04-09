@@ -644,7 +644,8 @@ async function sync() {
   });
 
   const outPath = import.meta.dir + "/vehicles.json";
-  await Bun.write(outPath, JSON.stringify(vehicles, null, 2));
+  const output = { generated_at: new Date().toISOString(), vehicles };
+  await Bun.write(outPath, JSON.stringify(output, null, 2));
 
   const withStores = vehicles.filter(v => v.stores.length > 0).length;
   const withFeatures = vehicles.filter(v => v.features.length > 0).length;

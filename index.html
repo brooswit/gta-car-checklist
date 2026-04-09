@@ -232,6 +232,7 @@
     <input type="search" id="search" placeholder="Search cars..." autocomplete="off">
     <select id="classFilter"><option value="">All Classes</option></select>
     <select id="storeFilter"><option value="">All Stores</option></select>
+    <select id="mfgFilter"><option value="">All Manufacturers</option></select>
     <button class="filter-btn" id="showAll">All</button>
     <button class="filter-btn" id="showOwned">Owned</button>
     <button class="filter-btn" id="showMissing">Missing</button>
@@ -294,6 +295,7 @@ let useCaseFilter = null;
 let sortOrder = 'class';
 let minPrice = null;
 let maxPrice = null;
+let mfgFilter = '';
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -321,13 +323,14 @@ function render() {
     const matchSearch = !search || name.includes(search) || mfg.includes(search) || storeText.includes(search);
     const matchClass = !classVal || v.Class === classVal;
     const matchStore = !storeVal || (v.stores && v.stores.includes(storeVal));
+    const matchMfg = !mfgFilter || (v.ManufacturerDisplayName?.English || '') === mfgFilter;
     const isOwned = owned.has(v.Hash);
     const matchFilter = !filter || (filter === 'owned' && isOwned) || (filter === 'missing' && !isOwned);
     const matchUseCase = !useCaseFilter || (v.use_case || []).includes(useCaseFilter);
     const price = v.price ?? null;
     const priceActive = minPrice !== null || maxPrice !== null;
     const matchPrice = !priceActive || (price !== null && (minPrice === null || price >= minPrice) && (maxPrice === null || price <= maxPrice));
-    return matchSearch && matchClass && matchStore && matchFilter && matchUseCase && matchPrice;
+    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice;
   });
 
   const groups = {};
@@ -532,6 +535,11 @@ document.getElementById('storeFilter').addEventListener('change', e => {
   render();
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'store', value: e.target.value }));
 });
+document.getElementById('mfgFilter').addEventListener('change', e => {
+  mfgFilter = e.target.value;
+  render();
+  ldReady.then(() => ldClient.track('filter-changed', { filterType: 'manufacturer', value: e.target.value }));
+});
 
 ['minPrice', 'maxPrice'].forEach(id => {
   document.getElementById(id).addEventListener('input', () => {
@@ -550,6 +558,7 @@ document.getElementById('resetFilters').addEventListener('click', () => {
   document.getElementById('search').value = '';
   document.getElementById('classFilter').value = '';
   document.getElementById('storeFilter').value = '';
+  document.getElementById('mfgFilter').value = ''; mfgFilter = '';
   document.getElementById('minPrice').value = '';
   document.getElementById('maxPrice').value = '';
   minPrice = null; maxPrice = null;
@@ -559,6 +568,10 @@ document.getElementById('resetFilters').addEventListener('click', () => {
   document.getElementById('sortOrder').value = 'class';
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active', 'uc-active'));
   document.getElementById('showAll').classList.add('active');
+  if (generated_at) {
+    const footer = document.getElementById('footer');
+    if (footer) footer.textContent = 'Data last updated: ' + new Date(generated_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
   render();
 });
 
@@ -593,9 +606,9 @@ const excludedClasses = new Set(['RAIL']);
 
 Promise.all([
   fetch(DURTYFREE_URL).then(r => r.json()),
-  fetch('vehicles.json').then(r => r.json()),
+  fetch('vehicles.json').then(r => r.json()).then(d => ({ data: Array.isArray(d) ? d : d.vehicles, generated_at: d.generated_at || null })),
   ldReady
-]).then(([dfData, patchData]) => {
+]).then(([dfData, { data: patchData, generated_at }]) => {
   // Build patch lookup by normalized name
   const patchByName = {};
   for (const p of patchData) {
@@ -668,6 +681,9 @@ Promise.all([
   const allStores = [...new Set(vehicles.flatMap(v => v.stores || []))].sort();
   const storeSel = document.getElementById('storeFilter');
   allStores.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; storeSel.appendChild(o); });
+  const allMfgs = [...new Set(vehicles.map(v => v.ManufacturerDisplayName?.English).filter(Boolean))].sort();
+  const mfgSel = document.getElementById('mfgFilter');
+  allMfgs.forEach(m => { const o = document.createElement('option'); o.value = m; o.textContent = m; mfgSel.appendChild(o); });
   document.getElementById('showAll').classList.add('active');
   render();
   ldReady.then(() => ldClient.track('vehicles-rendered', { count: vehicles.length }));
@@ -677,5 +693,6 @@ Promise.all([
   console.error('Failed to fetch vehicles:', err);
 });
 </script>
+<footer id="footer" style="text-align:center;padding:12px;color:#666;font-size:0.8em;border-top:1px solid #222;margin-top:16px;"></footer>
 </body>
 </html>
