@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T06:11:55.597Z",
+  "generated_at": "2026-04-09T06:40:09.169Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -47,6 +47,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "The basic Dinghy inflatable — special acquisition, unarmed, the foundation for the Weaponized variant.",
       "storage_type": "pegasus"
     },
     {
@@ -73,6 +74,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Jetmax speedboat at $299K — fast, sleek, and purely recreational; outgunned by every combat boat.",
       "storage_type": "pegasus"
     },
     {
@@ -221,6 +223,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "The Marquis sailboat — GTA Online's most peaceful purchase; bring snacks, go nowhere fast.",
       "storage_type": "pegasus"
     },
     {
@@ -275,6 +278,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Seashark jet ski at $16.9K — the cheapest fun you can have on GTA Online water.",
       "storage_type": "pegasus"
     },
     {
@@ -301,6 +305,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Speeder racing boat at $325K — fast enough for water races, outclassed by the Longfin.",
       "storage_type": "pegasus"
     },
     {
@@ -327,6 +332,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Squalo speedboat at $196.6K — competent water racer at a fair price, below the top tier.",
       "storage_type": "pegasus"
     },
     {
@@ -350,6 +356,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "The Submersible submarine — special acquisition for underwater exploration; peaceful, slow, fully submerged.",
       "storage_type": "pegasus"
     },
     {
@@ -376,6 +383,7 @@
         "collector",
         "fun"
       ],
+      "meta_verdict": "Suntrap sailboat at $25K — the budget marina purchase; slower than the Marquis, cheaper than everything.",
       "storage_type": "pegasus"
     },
     {
@@ -402,6 +410,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "Armed Toro speedboat at $1.75M — fast and capable in water combat, fragile under real fire.",
       "storage_type": "pegasus"
     },
     {
@@ -428,6 +437,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "Tropic leisure boat at $22K — the standard cabin cruiser; transport and vibes, no combat role.",
       "storage_type": "pegasus"
     },
     {
@@ -454,6 +464,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "Harbor Tug at $1.25M — a working tugboat that GTA Online somehow lets you personally own.",
       "storage_type": "pegasus"
     },
     {
@@ -507,7 +518,8 @@
       "stat_handling": 23,
       "use_case": [
         "combat"
-      ]
+      ],
+      "meta_verdict": "Arena-only Cerberus truck with post-apoc weaponry — the heaviest Arena vehicle, locked behind Arena Points."
     },
     {
       "name": "Benson",
@@ -528,7 +540,8 @@
       "stat_handling": 20,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The standard Benson box truck — unarmed, unarmored, the entry-level large delivery vehicle."
     },
     {
       "name": "Benson (Cluckin' Bell)",
@@ -554,6 +567,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Cluckin' Bell-branded Benson at $685K — the most expensive chicken delivery truck in gaming history.",
       "storage_type": "garage"
     },
     {
@@ -575,7 +589,8 @@
       "stat_handling": 15,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Biff heavy truck — unarmed commercial hauler with special acquisition and zero competitive use."
     },
     {
       "name": "Bobcat Security Stockade",
@@ -601,6 +616,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Armored security truck at $2.44M — bulletproof cash transport that you can actually buy for yourself.",
       "storage_type": "garage"
     },
     {
@@ -627,6 +643,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Futuristic Arena Cerberus — sci-fi heavy truck with weaponry, locked behind the Arena ecosystem.",
       "storage_type": "garage"
     },
     {
@@ -648,7 +665,8 @@
       "stat_handling": 20,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The base Hauler semi — the stepping stone to the Custom; buy the Custom instead."
     },
     {
       "name": "Hauler Custom",
@@ -704,6 +722,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Mule box truck at $27K — GTA Online's most budget-friendly hauler, priced exactly right.",
       "storage_type": "garage"
     },
     {
@@ -763,6 +782,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Nightmare Arena Cerberus — bone-clad heavy truck that never leaves the Arena War circuit.",
       "storage_type": "garage"
     },
     {
@@ -784,7 +804,8 @@
       "stat_handling": 26,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Packer car transporter — special acquisition, used in stunt setups and vehicle transport missions."
     },
     {
       "name": "Phantom",
@@ -805,7 +826,8 @@
       "stat_handling": 26,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The base Phantom semi — the stepping stone to the Custom and Wedge; buy those instead."
     },
     {
       "name": "Phantom Custom",
@@ -863,6 +885,7 @@
         "combat",
         "grinding"
       ],
+      "meta_verdict": "The Phantom Wedge at $2.554M — a plow-equipped semi built to destroy other vehicles on contact.",
       "storage_type": "garage"
     },
     {
@@ -884,7 +907,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Base Pounder heavy truck — special acquisition for the Custom upgrade path."
     },
     {
       "name": "Pounder Custom",
@@ -943,6 +967,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Armored Stockade at $2.24M — bulletproof commercial truck that absorbs more punishment than most military vehicles.",
       "storage_type": "garage"
     },
     {
@@ -2017,6 +2042,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Street-culture staple; the original GTA bicycle, cheap tricks and cheaper price.",
       "storage_type": "garage"
     },
     {
@@ -2042,6 +2068,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Laid-back beach cruiser; the most relaxed vehicle in Los Santos.",
       "storage_type": "garage"
     },
     {
@@ -2069,6 +2096,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Road racing bicycle for players who insist on the authentic cycling experience.",
       "storage_type": "garage"
     },
     {
@@ -2090,7 +2118,8 @@
       "stat_handling": 16,
       "use_case": [
         "fun"
-      ]
+      ],
+      "meta_verdict": "Fixed-gear hipster bike; style-forward, gear-backward."
     },
     {
       "name": "Inductor",
@@ -2115,6 +2144,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Mountain bike built for off-road; the only CYCLE that pretends to have terrain ambitions.",
       "storage_type": "garage"
     },
     {
@@ -2140,6 +2170,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Branded Inductor with energy drink livery; same mountain bike, corporate sponsorship included.",
       "storage_type": "garage"
     },
     {
@@ -2165,6 +2196,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "BMX-style trick bike; lighter and more nimble than the standard BMX.",
       "storage_type": "garage"
     },
     {
@@ -2192,6 +2224,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Racing bicycle in full kit; for the GTA player who takes the Tour de Los Santos seriously.",
       "storage_type": "garage"
     },
     {
@@ -2220,6 +2253,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "The fastest bicycle in GTA Online — which is not a compliment in a world full of supercars.",
       "storage_type": "garage"
     },
     {
@@ -2242,7 +2276,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "Paramedic flex; saves lives more than it costs money, usually."
     },
     {
       "name": "Buffalo Cruiser",
@@ -2270,6 +2305,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Armored police variant of the Buffalo; protection over firepower.",
       "storage_type": "garage"
     },
     {
@@ -2299,6 +2335,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "S-tier performance locked behind a $5.37M cop livery — buy the base STX for racing, this for roleplay.",
       "storage_type": "garage"
     },
     {
@@ -2329,6 +2366,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "Bail enforcement van; niche roleplay for bounty hunters.",
       "storage_type": "property"
     },
     {
@@ -2360,6 +2398,7 @@
         "combat",
         "off-road"
       ],
+      "meta_verdict": "Caracara in cop paint at $5.335M — performance-identical to the base at triple the price.",
       "storage_type": "garage"
     },
     {
@@ -2388,6 +2427,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "E-tier pursuit at $5.62M — GTA Online's most expensive flex for performance that doesn't warrant it.",
       "storage_type": "garage"
     },
     {
@@ -2417,6 +2457,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Dominator FX in interceptor livery at $4.95M — S-tier muscle in cop paint for players who need both.",
       "storage_type": "garage"
     },
     {
@@ -2446,6 +2487,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "D-tier Dorado in patrol livery at $5M — the least justifiable pursuit purchase in the class.",
       "storage_type": "garage"
     },
     {
@@ -2465,7 +2507,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "The FIB federal vehicle — special acquisition only, government aesthetic without the government clearance."
     },
     {
       "name": "Fire Truck",
@@ -2493,6 +2536,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Big red truck for roleplayers and firefighting enthusiasts; zero combat utility.",
       "storage_type": "garage"
     },
     {
@@ -2522,6 +2566,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Gauntlet Hellfire-spec in interceptor livery at $5.42M — C-tier muscle, top-tier cop aesthetic.",
       "storage_type": "garage"
     },
     {
@@ -2551,6 +2596,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Imani Tech Greenwood in cruiser livery — the gadgets survive the cop paint job at $4.91M.",
       "storage_type": "garage"
     },
     {
@@ -2580,6 +2626,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "C-tier Impaler LX in cruiser livery at $4.8M — lowrider muscle dressed as law enforcement.",
       "storage_type": "garage"
     },
     {
@@ -2609,6 +2656,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "B-tier Impaler SZ in cruiser livery at $4.72M — the best-performing pursuit variant in the class.",
       "storage_type": "garage"
     },
     {
@@ -2632,6 +2680,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "Beach patrol truck; pure novelty and summer vibes.",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
       "removal_date": "2023-06-13"
@@ -2663,6 +2712,7 @@
         "fun",
         "collector"
       ],
+      "meta_verdict": "Outreach Faction at $4.15M — community services livery on a lowrider; niche collector purchase.",
       "storage_type": "garage"
     },
     {
@@ -2690,6 +2740,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "Park Ranger at $2.98M — Blaine County Parks livery for players who take their roleplay seriously.",
       "storage_type": "garage"
     },
     {
@@ -2719,6 +2770,7 @@
         "fun",
         "racing"
       ],
+      "meta_verdict": "Two-wheeled patrol vehicle; fragile but fun for cop roleplay.",
       "storage_type": "garage"
     },
     {
@@ -2738,7 +2790,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "The classic LSPD cruiser — acquirable through specific methods, collector and roleplay value only."
     },
     {
       "name": "Police Prison Bus",
@@ -2764,6 +2817,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Transport for criminals; more roleplay than actual function.",
       "storage_type": "garage"
     },
     {
@@ -2786,7 +2840,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "Police Rancher SUV — law enforcement throwback with special acquisition only."
     },
     {
       "name": "Police Riot",
@@ -2813,6 +2868,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "Armored riot control vehicle; slow, heavy, intimidating.",
       "storage_type": "garage"
     },
     {
@@ -2835,7 +2891,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "Police Roadcruiser — the marked police sedan with no direct purchase path; special acquisition only."
     },
     {
       "name": "Police Transporter",
@@ -2857,7 +2914,8 @@
       "use_case": [
         "utility",
         "fun"
-      ]
+      ],
+      "meta_verdict": "Police Transporter — prisoner transport van with no direct purchase; roleplay and content creation territory."
     },
     {
       "name": "RCV",
@@ -2885,6 +2943,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Riot control vehicle; defensive rather than offensive firepower.",
       "storage_type": "garage"
     },
     {
@@ -2907,7 +2966,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "Sheriff's Department cruiser — special acquisition, zero competitive use, full roleplay value."
     },
     {
       "name": "Sheriff SUV",
@@ -2929,7 +2989,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "meta_verdict": "Sheriff SUV — law enforcement off-road vehicle with special acquisition only."
     },
     {
       "name": "Stanier LE Cruiser",
@@ -2957,6 +3018,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "E-tier Stanier LE in cruiser livery — a SAM-removed sedan's only surviving purchase option, at $4.69M.",
       "storage_type": "garage"
     },
     {
@@ -2987,6 +3049,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "A-tier Terminus in patrol livery at $5.125M — best-performing pursuit vehicle, still purely collector territory.",
       "storage_type": "garage"
     },
     {
@@ -3017,6 +3080,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "Unmarked Cruiser — the undercover cop car of GTA Online; special acquisition, real collector appeal.",
       "storage_type": "garage"
     },
     {
@@ -3082,6 +3146,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "The base Annihilator at $1.825M — unarmed heavy helicopter completely obsoleted by the Stealth variant.",
       "storage_type": "pegasus"
     },
     {
@@ -3243,6 +3308,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "Military reconnaissance helicopter at $2.45M — light scout heli with limited but real combat capability.",
       "storage_type": "pegasus"
     },
     {
@@ -3273,6 +3339,7 @@
         "combat",
         "transport"
       ],
+      "meta_verdict": "Heavy transport helicopter at $2.345M — cargo-capable lifter, though the Cargobob remains the standard for lifting.",
       "storage_type": "pegasus"
     },
     {
@@ -3338,6 +3405,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "The Frogger civilian helicopter at $1.3M — basic unarmed transport; gets the job done quietly.",
       "storage_type": "pegasus"
     },
     {
@@ -3367,6 +3435,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "Havok light attack heli at $2.3M — nimble and capable, but outgunned by every heavy combat helicopter.",
       "storage_type": "pegasus"
     },
     {
@@ -3392,6 +3461,7 @@
         "transport",
         "fun"
       ],
+      "meta_verdict": "Helitours tour helicopter — special acquisition with a sightseeing livery; unarmed, civilian, charming.",
       "storage_type": "pegasus"
     },
     {
@@ -3420,6 +3490,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "The Maverick at $780K — the original GTA helicopter; simple, reliable, and evergreen for basic transport.",
       "storage_type": "pegasus"
     },
     {
@@ -3445,6 +3516,7 @@
         "fun",
         "utility"
       ],
+      "meta_verdict": "Police-liveried Maverick with special acquisition — same performance as the base, cop aesthetic only.",
       "storage_type": "pegasus"
     },
     {
@@ -3529,6 +3601,7 @@
         "transport",
         "utility"
       ],
+      "meta_verdict": "The Skylift heavy-lift helicopter — special acquisition only; oversized vehicle transport when the Cargobob won't do.",
       "storage_type": "pegasus"
     },
     {
@@ -3592,6 +3665,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "SuperVolito luxury helicopter at $2.113M — civilian executive transport with zero combat utility.",
       "storage_type": "pegasus"
     },
     {
@@ -3622,6 +3696,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "SuperVolito Carbon — the most expensive way to transport yourself without weapons or practical upgrades.",
       "storage_type": "pegasus"
     },
     {
@@ -3652,6 +3727,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Swift executive helicopter at $1.5M — luxury transport with a comfortable price and zero combat use.",
       "storage_type": "pegasus"
     },
     {
@@ -3682,6 +3758,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Swift Deluxe at $5.15M — the ultimate luxury helicopter flex; the price is the entire point.",
       "storage_type": "pegasus"
     },
     {
@@ -3738,6 +3815,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Valkyrie MOD.0 — the modified Valkyrie variant with special acquisition and enhanced weaponry over the base.",
       "storage_type": "pegasus"
     },
     {
@@ -3768,6 +3846,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Volatus luxury helicopter at $2.295M — executive transport slotting between the Swift and SuperVolito.",
       "storage_type": "pegasus"
     },
     {
@@ -3795,6 +3874,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Weaponized Conada at $3.385M — the armed Conada variant with proper military firepower added.",
       "storage_type": "property:hangar"
     },
     {
@@ -3816,7 +3896,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Custom Flatbed — industrial hauler for missions and content creation; no competitive use."
     },
     {
       "name": "Cutter",
@@ -3837,7 +3918,8 @@
       "stat_handling": 20,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Cutter road-paving machine — exists for completionists and content creators only."
     },
     {
       "name": "Dock Handler",
@@ -3858,7 +3940,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Dock Handler port vehicle — special acquisition, zero competitive or grinding relevance."
     },
     {
       "name": "Dozer",
@@ -3879,7 +3962,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Dozer bulldozer — a GTA Online tradition since the original game; still just a bulldozer."
     },
     {
       "name": "Dump",
@@ -3905,6 +3989,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Dump mining truck at $1M — GTA Online's most massive road vehicle, impossible to ignore.",
       "storage_type": "garage"
     },
     {
@@ -3926,7 +4011,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Flatbed truck — heavy transport for missions and heist setups; special acquisition."
     },
     {
       "name": "Guardian",
@@ -3951,6 +4037,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Guardian armored truck at $375K — security vehicle for the completionist; no combat or racing application.",
       "storage_type": "garage"
     },
     {
@@ -3972,7 +4059,8 @@
       "stat_handling": 13,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Mixer cement truck — construction vehicle for content creators and mission runners."
     },
     {
       "name": "Rubble",
@@ -3993,7 +4081,8 @@
       "stat_handling": 17,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Rubble garbage truck — industrial class entry for collectors who want every vehicle ticked."
     },
     {
       "name": "Tipper",
@@ -4014,7 +4103,8 @@
       "stat_handling": 13,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "The Tipper dump truck — heavy industrial hauler with zero practical GTA Online application beyond owning it."
     },
     {
       "name": "Anti-Aircraft Trailer",
@@ -4042,6 +4132,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Towed AA missile battery at $1.862M — effective anti-air when parked, helpless without a tow vehicle.",
       "storage_type": "garage"
     },
     {
@@ -4101,6 +4192,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Arena-only Scarab with post-apoc armaments — compact tracked Arena vehicle locked behind Arena Points.",
       "storage_type": "garage"
     },
     {
@@ -4126,6 +4218,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Military troop transport at $450K — unarmed personnel carrier with zero combat or racing relevance.",
       "storage_type": "garage"
     },
     {
@@ -4147,7 +4240,8 @@
       "stat_handling": 28,
       "use_case": [
         "combat"
-      ]
+      ],
+      "meta_verdict": "Semi-truck variant of the Barracks — larger, slower, equally unarmed and equally niche."
     },
     {
       "name": "Barrage",
@@ -4236,6 +4330,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Military open-top jeep at $225K — unarmed and basic; the cheapest purpose-built military vehicle available.",
       "storage_type": "garage"
     },
     {
@@ -4262,6 +4357,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Futuristic Arena Scarab — sci-fi tracked combat vehicle locked entirely in the Arena ecosystem.",
       "storage_type": "garage"
     },
     {
@@ -4352,6 +4448,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Nightmare Arena Scarab — bone-decorated tracked Arena vehicle for players deep in the Arena lifestyle.",
       "storage_type": "garage"
     },
     {
@@ -4481,6 +4578,7 @@
         "transport",
         "off-road"
       ],
+      "meta_verdict": "Vetir armored personnel carrier at $1.63M — heavily armored transport that sacrifices everything for protection.",
       "storage_type": "garage"
     },
     {
@@ -10912,6 +11010,7 @@
       "use_case": [
         "collector"
       ],
+      "meta_verdict": "Alpha-Z1 at $2.121M — sleek unarmed civilian jet; executive transport for the airborne crowd.",
       "storage_type": "pegasus"
     },
     {
@@ -10935,6 +11034,7 @@
         "fun",
         "collector"
       ],
+      "meta_verdict": "Atomic Blimp at $1.19M — giant, slow, impossible to miss; GTA Online's most visible aircraft.",
       "storage_type": "pegasus"
     },
     {
@@ -10999,6 +11099,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "B-11 Strikeforce at $3.8M — heavily armed attack jet that trades top speed for devastating firepower.",
       "storage_type": "property:hangar"
     },
     {
@@ -11030,6 +11131,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "Besra at $1.15M — jet trainer turned light fighter; fast, lightly armed, great for stunt pilots.",
       "storage_type": "pegasus"
     },
     {
@@ -11057,6 +11159,7 @@
         "fun",
         "transport"
       ],
+      "meta_verdict": "No-price Atomic Blimp — special acquisition, equally impractical as the purchasable version.",
       "storage_type": "pegasus"
     },
     {
@@ -11076,6 +11179,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "The Cargo Plane — mission-only aircraft of legendary size; not personally owned, never forgotten.",
       "storage_type": "pegasus"
     },
     {
@@ -11101,6 +11205,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Cuban 800 at $240K — the cheapest plane available; surprisingly fun to fly for the price.",
       "storage_type": "pegasus"
     },
     {
@@ -11129,6 +11234,7 @@
         "fun",
         "transport"
       ],
+      "meta_verdict": "Dodo seaplane at $500K — GTA's iconic amphibious aircraft; lands on water, runways, and imagination.",
       "storage_type": "pegasus"
     },
     {
@@ -11155,6 +11261,7 @@
         "fun",
         "collector"
       ],
+      "meta_verdict": "Duster crop duster at $275K — GTA Online's slowest fixed-wing aircraft; pure charm, zero practicality.",
       "storage_type": "pegasus"
     },
     {
@@ -11183,6 +11290,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Duster 300-H at $1.02M — the upgraded crop duster; still slow, now armed, somehow worth considering.",
       "storage_type": "pegasus"
     },
     {
@@ -11212,6 +11320,7 @@
         "combat",
         "racing"
       ],
+      "meta_verdict": "F-160 Raiju at $6.855M — GTA Online's current fastest and most capable combat jet, period.",
       "storage_type": "property:hangar"
     },
     {
@@ -11242,6 +11351,7 @@
         "collector",
         "racing"
       ],
+      "meta_verdict": "Howard NX-25 at $1.297M — twin-engine prop with bombing capability; a gentleman pilot's aircraft.",
       "storage_type": "pegasus"
     },
     {
@@ -11298,6 +11408,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "The basic Jet — special acquisition large civilian airliner with no direct purchase path.",
       "storage_type": "pegasus"
     },
     {
@@ -11326,6 +11437,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "LF-22 Starling at $3.657M — VTOL jet with JATO boost ability; unconventional and capable in the right hands.",
       "storage_type": "property:hangar"
     },
     {
@@ -11357,6 +11469,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Luxor private jet at $1.625M — executive transport that the Deluxe version completely outclasses in prestige.",
       "storage_type": "pegasus"
     },
     {
@@ -11415,6 +11528,7 @@
         "fun",
         "racing"
       ],
+      "meta_verdict": "Mallard at $250K — the go-to stunt plane; nimble, cheap, and loved by aerial performers.",
       "storage_type": "pegasus"
     },
     {
@@ -11440,6 +11554,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "The Mammatus prop plane at $300K — basic twin-engine utility aircraft; no weapons, no frills.",
       "storage_type": "pegasus"
     },
     {
@@ -11468,6 +11583,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Miljet private jet at $1.7M — executive transport with more seats than the Luxor; practical luxury.",
       "storage_type": "pegasus"
     },
     {
@@ -11497,6 +11613,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "The Mogul at $3.125M — twin-engine WWII-style bomber with real combat bite at a fair price.",
       "storage_type": "property:hangar"
     },
     {
@@ -11522,6 +11639,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "The Nimbus at $1.9M — large cargo plane with serious payload; the civilian freight option.",
       "storage_type": "pegasus"
     },
     {
@@ -11551,6 +11669,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "P-45 Nokota at $2.653M — WWII fighter aesthetics with real dogfighting capability; a pilot's plane.",
       "storage_type": "property:hangar"
     },
     {
@@ -11578,6 +11697,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "LAZER — the classic elite combat jet, stealable from Fort Zancudo, surpassed only by the Raiju.",
       "storage_type": "pegasus"
     },
     {
@@ -11607,6 +11727,7 @@
         "combat",
         "racing"
       ],
+      "meta_verdict": "Pyro at $4.455M — among GTA's fastest jets; agile, lethal, and genuinely fun in a dogfight.",
       "storage_type": "property:hangar"
     },
     {
@@ -11636,6 +11757,7 @@
         "transport",
         "combat"
       ],
+      "meta_verdict": "Bombushka at $4.75M — massive twin-engine bomber with real payload; the heavy-handed air assault option.",
       "storage_type": "property:hangar"
     },
     {
@@ -11664,6 +11786,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "The Alkonost at $4.35M — stealth bomber with devastating ground-attack capability; the air force's heavy hitter.",
       "storage_type": "property:hangar"
     },
     {
@@ -11693,6 +11816,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "The Rogue at $1.596M — WWII fighter with missiles and bombs; excellent value for its combat capability.",
       "storage_type": "property:hangar"
     },
     {
@@ -11722,6 +11846,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "The Seabreeze biplane at $1.13M — vintage seaplane aesthetic with actual water landing ability.",
       "storage_type": "pegasus"
     },
     {
@@ -11748,6 +11873,7 @@
         "transport",
         "collector"
       ],
+      "meta_verdict": "Shamal private jet at $1.15M — fast civilian jet for cross-map transit without combat ambitions.",
       "storage_type": "pegasus"
     },
     {
@@ -11776,6 +11902,7 @@
         "fun",
         "racing"
       ],
+      "meta_verdict": "The Streamer216 at $2.238M — large civilian airliner you can personally own; impractical and magnificent.",
       "storage_type": "property:hangar"
     },
     {
@@ -11801,6 +11928,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Titan at $2M — massive military transport; the largest plane you can personally own in GTA Online.",
       "storage_type": "pegasus"
     },
     {
@@ -11830,6 +11958,7 @@
         "combat",
         "transport"
       ],
+      "meta_verdict": "Titan 250 D at $4.87M — the armed Titan variant; massive transport with actual defensive capability.",
       "storage_type": "property:hangar"
     },
     {
@@ -11859,6 +11988,7 @@
         "combat",
         "fun"
       ],
+      "meta_verdict": "The Tula at $4.1M — VTOL transport with mounted weapons; versatile but outgunned by dedicated combat jets.",
       "storage_type": "property:hangar"
     },
     {
@@ -11887,6 +12017,7 @@
       "use_case": [
         "fun"
       ],
+      "meta_verdict": "Ultralight at $665K — open cockpit, maximum exposure, surprising range; the most vulnerable aircraft in GTA.",
       "storage_type": "pegasus"
     },
     {
@@ -11915,6 +12046,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "The Molotok at $4.788M — WWII-era prop-jet fighter with surprising speed and nostalgia-heavy design.",
       "storage_type": "property:hangar"
     },
     {
@@ -11941,6 +12073,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Velum prop plane at $450K — basic five-seater for budget civilian transport.",
       "storage_type": "pegasus"
     },
     {
@@ -11967,6 +12100,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Velum 5-Seater at $1.323M — the same five-seat prop plane at nearly triple the base price.",
       "storage_type": "pegasus"
     },
     {
@@ -11995,6 +12129,7 @@
         "fun",
         "transport"
       ],
+      "meta_verdict": "The Vestra at $950K — sleek twin-engine prop with light weapons; solid starter combat aircraft.",
       "storage_type": "pegasus"
     },
     {
@@ -12023,6 +12158,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Volatol strategic bomber at $3.724M — hangar-required heavy bomber with serious ground-attack capability.",
       "storage_type": "property:hangar"
     },
     {
@@ -12046,6 +12182,7 @@
         "fun",
         "collector"
       ],
+      "meta_verdict": "Xero Blimp with no listed price — the advertising blimp's rival; equally impractical, equally iconic.",
       "storage_type": "pegasus"
     },
     {
@@ -13270,6 +13407,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Shuttle service for the impatient; roleplay essential, gameplay optional.",
       "storage_type": "garage"
     },
     {
@@ -13296,6 +13434,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Armored bus for protection; only combat-useful vehicle in the class.",
       "storage_type": "garage"
     },
     {
@@ -13328,7 +13467,7 @@
         "combat"
       ],
       "grinding_tier": "S",
-      "meta_verdict": "The best passive income vehicle added since Cayo Perico.",
+      "meta_verdict": "Six-wheel armored transport; heavy protection without speed.",
       "meta_note": "Required for Acid Lab business, one of the best passive income sources. Essential for that grind path.",
       "storage_type": "property"
     },
@@ -13355,6 +13494,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "City transit for the masses; mission-essential and roleplay staple.",
       "storage_type": "garage"
     },
     {
@@ -13381,6 +13521,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "The Greyhound-style coach bus at $525K — GTA Online's most impractical personal vehicle, somehow purchasable.",
       "storage_type": "garage"
     },
     {
@@ -13406,6 +13547,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Military personnel transport at $1.3M — pure utility and roleplay; no racing relevance whatsoever.",
       "storage_type": "garage"
     },
     {
@@ -13432,6 +13574,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Party bus without the party; pure roleplay novelty.",
       "storage_type": "garage"
     },
     {
@@ -13458,6 +13601,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Tourist transport; niche roleplay appeal.",
       "storage_type": "garage"
     },
     {
@@ -13484,6 +13628,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Yellow cab for hire; classic roleplay, functional for missions.",
       "storage_type": "garage"
     },
     {
@@ -13505,7 +13650,8 @@
       "stat_handling": 15,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Sightseeing bus for GTA tourists; roleplay and content creation."
     },
     {
       "name": "Trashmaster",
@@ -13523,7 +13669,8 @@
       "stat_handling": 16,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Garbage truck; waste management roleplay and occasional mission use."
     },
     {
       "name": "Wastelander",
@@ -13549,6 +13696,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Post-apocalyptic dune buggy in police livery; oddball collector's item.",
       "storage_type": "garage"
     },
     {
@@ -13894,6 +14042,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "O-tier Blista Compact — ancient by GTA Online standards, priced generously at $42K.",
       "storage_type": "garage"
     },
     {
@@ -14167,6 +14316,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "I-tier Comet Safari at $710K — the Porsche SUV crossover of GTA Online; charming but off-pace.",
       "storage_type": "garage"
     },
     {
@@ -14680,6 +14830,7 @@
         "racing",
         "fun"
       ],
+      "meta_verdict": "N-tier Futo GTX at $1.59M — the drift culture icon that races better sideways than forward.",
       "storage_type": "garage"
     },
     {
@@ -19652,6 +19803,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "F-tier Turismo R — GTA Online's original prestige supercar, now thoroughly outpaced by the modern meta.",
       "storage_type": "garage"
     },
     {
@@ -21425,7 +21577,8 @@
       "stat_handling": 7,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "D-tier airport tug — surreally fast for what it is; a workers-only vehicle hiding legitimate racing stats."
     },
     {
       "name": "Army Trailer",
@@ -21443,7 +21596,8 @@
       "stat_handling": 0,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Army Trailer — towed equipment carrier for military logistics; not a vehicle in any meaningful sense."
     },
     {
       "name": "Baletrailer",
@@ -21464,7 +21618,8 @@
       "stat_handling": 0,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Baletrailer — hay transport attachment that completes the agricultural vehicle collection."
     },
     {
       "name": "Boat Trailer",
@@ -21482,7 +21637,8 @@
       "stat_handling": 0,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Boat Trailer — towed marine transport; pairs with the Docktug for complete marina roleplay."
     },
     {
       "name": "Caddy",
@@ -21500,7 +21656,8 @@
       "stat_handling": 37,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Caddy golf cart — for Vinewood Hills leisure and absolutely nothing competitive."
     },
     {
       "name": "Docktug",
@@ -21521,7 +21678,8 @@
       "stat_handling": 24,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Docktug port tractor — specialized towing vehicle for the marina and airport crowd."
     },
     {
       "name": "Fieldmaster",
@@ -21542,7 +21700,8 @@
       "stat_handling": 18,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "C-tier tractor — the Fieldmaster is inexplicably competitive for a farm vehicle; only in GTA Online."
     },
     {
       "name": "Forklift",
@@ -21563,7 +21722,8 @@
       "stat_handling": 22,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Forklift — exists for warehouse missions and completionists; occasionally used to annoy other players."
     },
     {
       "name": "Graintrailer",
@@ -21584,7 +21744,8 @@
       "stat_handling": 0,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Graintrailer — agricultural trailer that pairs with the tractor; roleplay and completionist territory only."
     },
     {
       "name": "Keitora",
@@ -21612,6 +21773,7 @@
       "use_case": [
         "utility"
       ],
+      "meta_verdict": "Keitora Japanese mini-truck at $810K — niche novelty purchase for players who appreciate the very specific joke.",
       "storage_type": "garage"
     },
     {
@@ -21633,7 +21795,8 @@
       "stat_handling": 6,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "E-tier Lawn Mower — GTA Online's most absurd racing vehicle classification; mows grass and somehow races."
     },
     {
       "name": "Mobile Operations Center",
@@ -21666,7 +21829,7 @@
         "utility"
       ],
       "grinding_tier": "C",
-      "meta_verdict": "The Bunker's command trailer — essential Gunrunning infrastructure, not a combat tool.",
+      "meta_verdict": "MOC at $1.225M — Gunrunning's mobile command center; research, storage, and weapon customization in one massive truck.",
       "meta_note": "Research and weapon customization hub. Required for some vehicle upgrades but very slow.",
       "storage_type": "property"
     },
@@ -21689,7 +21852,8 @@
       "stat_handling": 20,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Ripley aircraft tow vehicle — airport ground crew special; tows planes, impresses nobody."
     },
     {
       "name": "Sadler",
@@ -21714,6 +21878,7 @@
       "use_case": [
         "utility"
       ],
+      "meta_verdict": "S-tier at $35K — the Sadler farm pickup is GTA Online's most absurd racing classification.",
       "storage_type": "garage"
     },
     {
@@ -21735,7 +21900,8 @@
       "stat_handling": 16,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Scrap Truck — junkyard collector vehicle for the dedicated completionist; no other use case."
     },
     {
       "name": "Slamtruck",
@@ -21760,6 +21926,7 @@
       "use_case": [
         "utility"
       ],
+      "meta_verdict": "A-tier Slamtruck at $1.31M — the vehicle-launching ramp truck that also happens to race at A-tier.",
       "storage_type": "garage"
     },
     {
@@ -21778,7 +21945,8 @@
       "stat_handling": 18,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Tow Truck — roadside recovery vehicle for missions and roleplay; occasionally weaponized to grief other players."
     },
     {
       "name": "Tractor",
@@ -21799,7 +21967,8 @@
       "stat_handling": 10,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "The Tractor — agricultural vehicle for farm roleplay and the truly committed completionist."
     },
     {
       "name": "Trailer",
@@ -21817,7 +21986,8 @@
       "stat_handling": 0,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Trailer — a box you tow behind things; utility gaming at its most literal."
     },
     {
       "name": "Utility Truck",
@@ -21835,7 +22005,8 @@
       "stat_handling": 15,
       "use_case": [
         "utility"
-      ]
+      ],
+      "meta_verdict": "Utility Truck — maintenance vehicle for GTA Online's infrastructure; no personal use case beyond owning it."
     },
     {
       "name": "Armored Boxville",
@@ -21863,6 +22034,7 @@
       "use_case": [
         "grinding"
       ],
+      "meta_verdict": "Armored Boxville at $1.3M — bulletproof delivery van that's more fortress than vehicle.",
       "storage_type": "garage"
     },
     {
@@ -21888,6 +22060,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Slow civilian delivery van with zero performance; pure roleplay appeal.",
       "storage_type": "garage"
     },
     {
@@ -21913,6 +22086,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "E-tier work truck filed under Vans — buy it for the $23K price tag, nothing else.",
       "storage_type": "garage"
     },
     {
@@ -21934,7 +22108,8 @@
       "stat_handling": 13,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Mail truck too massive for practicality; iconic collectible."
     },
     {
       "name": "Boxville (LSDS)",
@@ -21960,6 +22135,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "K-tier LSDS-liveried Boxville at $475K — branded delivery van that races exactly like it looks.",
       "storage_type": "garage"
     },
     {
@@ -21986,6 +22162,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "C-tier Bugstars Burrito — pest control livery on a surprisingly fast van.",
       "storage_type": "garage"
     },
     {
@@ -22007,7 +22184,8 @@
       "stat_handling": 20,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Cheapest van in the game and slowest too, but beloved by roleplayers."
     },
     {
       "name": "Camper",
@@ -22028,7 +22206,8 @@
       "stat_handling": 15,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "I-tier Camper with no listed price — the mobile home of GTA Online, special acquisition only."
     },
     {
       "name": "Clown Van",
@@ -22049,7 +22228,8 @@
       "stat_handling": 22,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "F-tier Clown Van with no listed price — the racing stats are not funny."
     },
     {
       "name": "Gang Burrito",
@@ -22072,6 +22252,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Gang Burrito at $86.45K — faction-liveried van with no benchmarked racing tier; a niche acquisition.",
       "storage_type": "garage"
     },
     {
@@ -22098,6 +22279,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "J-tier Journey RV at $15K — the slowest motorhome in Los Santos, priced accordingly.",
       "storage_type": "garage"
     },
     {
@@ -22124,6 +22306,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "H-tier Journey II at $790K — significantly pricier than the original, marginally faster.",
       "storage_type": "garage"
     },
     {
@@ -22150,6 +22333,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Family vehicle without the family missions; pure roleplay novelty.",
       "storage_type": "garage"
     },
     {
@@ -22177,6 +22361,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "A-tier Minivan Custom at $330K — GTA's greatest joke: a racing minivan that actually wins races.",
       "storage_type": "garage"
     },
     {
@@ -22202,6 +22387,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "D-tier Paradise camper van — the road trip fantasy at a price that makes no excuses.",
       "storage_type": "garage"
     },
     {
@@ -22223,7 +22409,8 @@
       "stat_handling": 20,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "Utility truck masquerading as a van; better than it looks."
     },
     {
       "name": "Rumpo",
@@ -22248,6 +22435,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Smallest van option; marginally more maneuverable than the rest.",
       "storage_type": "garage"
     },
     {
@@ -22275,6 +22463,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "S-tier at $130K — the Rumpo Custom is the Van class's open secret; buy it immediately.",
       "storage_type": "garage"
     },
     {
@@ -22300,6 +22489,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Delivery van built for speed it will never achieve; pure utility.",
       "storage_type": "garage"
     },
     {
@@ -22359,6 +22549,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "K-tier Surfer van at $11K — the beach bum van of GTA Online; slow, cheap, charming.",
       "storage_type": "garage"
     },
     {
@@ -22385,6 +22576,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "J-tier Surfer Custom at $590K — beach van with expensive custom work and an unchanged tier.",
       "storage_type": "garage"
     },
     {
@@ -22411,6 +22603,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "K-tier Taco Van — the food truck of GTA Online; slow, beloved, and somehow $345K.",
       "storage_type": "garage"
     },
     {
@@ -22437,6 +22630,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Hipster lifestyle van; style over substance, naturally.",
       "storage_type": "garage"
     },
     {
@@ -22463,6 +22657,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "Vintage Youga without the practicality; nostalgia is the feature.",
       "storage_type": "garage"
     },
     {
@@ -22490,6 +22685,7 @@
       "use_case": [
         "transport"
       ],
+      "meta_verdict": "B-tier 4x4 Youga that races better than any lifted van has any right to.",
       "storage_type": "garage"
     },
     {
@@ -22511,7 +22707,8 @@
       "stat_handling": 19,
       "use_case": [
         "transport"
-      ]
+      ],
+      "meta_verdict": "G-tier Youga Custom with no listed price — special acquisition, modest gains over the base."
     }
   ]
 }

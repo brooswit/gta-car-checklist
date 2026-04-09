@@ -140,3 +140,4 @@ vite.config.ts.timestamp-*
 
 # GTABase cache (re-fetched by sync script)
 gtabase_raw.json
+.unguibus
