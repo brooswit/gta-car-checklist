@@ -197,6 +197,28 @@
   .stat-label { font-size:0.45rem; color:#555; width:18px; text-align:right; flex-shrink:0; text-transform:uppercase; letter-spacing:0.3px; }
   .stat-bar-bg { flex:1; height:3px; background:#1a1a2e; border-radius:2px; overflow:hidden; }
   .stat-bar { height:100%; border-radius:2px; }
+  /* Modal */
+  .modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.75); z-index:1000; align-items:center; justify-content:center; }
+  .modal-overlay.open { display:flex; }
+  .modal { background:#1a1a1a; border:1px solid #333; border-radius:8px; max-width:580px; width:90%; max-height:90vh; overflow-y:auto; position:relative; }
+  .modal-close { position:absolute; top:10px; right:14px; background:none; border:none; color:#888; font-size:1.4rem; cursor:pointer; line-height:1; }
+  .modal-close:hover { color:#fff; }
+  .modal-img { width:100%; max-height:220px; object-fit:cover; border-radius:7px 7px 0 0; background:#111; }
+  .modal-img-placeholder { width:100%; height:120px; background:#111; border-radius:7px 7px 0 0; display:flex; align-items:center; justify-content:center; color:#444; font-size:0.8rem; }
+  .modal-body { padding:1rem 1.2rem 1.2rem; }
+  .modal-name { font-size:1.2rem; font-weight:700; color:#eee; margin-bottom:2px; }
+  .modal-mfg { font-size:0.8rem; color:#666; margin-bottom:0.5rem; }
+  .modal-class { display:inline-block; font-size:0.6rem; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; background:#1a1a2e; border:1px solid #333; border-radius:3px; padding:1px 6px; color:#88c; margin-bottom:0.6rem; }
+  .modal-section { margin-top:0.7rem; }
+  .modal-label { font-size:0.6rem; text-transform:uppercase; letter-spacing:0.5px; color:#555; margin-bottom:4px; }
+  .modal-price { font-size:0.9rem; color:#ccc; }
+  .modal-trade { font-size:0.75rem; color:#6a9; }
+  .modal-stat-row { display:flex; align-items:center; gap:8px; margin-bottom:5px; }
+  .modal-stat-label { font-size:0.65rem; color:#888; width:90px; flex-shrink:0; }
+  .modal-stat-bg { flex:1; height:6px; background:#111; border-radius:3px; overflow:hidden; }
+  .modal-stat-bar { height:100%; border-radius:3px; }
+  .modal-racing { display:flex; gap:12px; font-size:0.75rem; color:#aaa; flex-wrap:wrap; }
+  .modal-racing span { color:#ccc; }
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
@@ -241,6 +263,12 @@
   </div>
 </header>
 <div class="stats" id="stats"></div>
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modalClose">&#10005;</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
 <main id="main"><div class="loading">Loading vehicles...</div></main>
 
 <script>
@@ -406,12 +434,75 @@ function render() {
   }
 }
 
+function openModal(hash) {
+  const v = vehicles.find(v => v.Hash === hash);
+  if (!v) return;
+  const imgUrl = v.image || ('https://gtav-vehicle-database.vercel.app/vehicle-images/' + (v.Name || '').toLowerCase() + '.png');
+  const statLabels = ['Acceleration','Braking','Traction','Handling'];
+  const statVals = [v.stat_acceleration, v.stat_braking, v.stat_traction, v.stat_handling];
+  const statBars = statLabels.map(function(lbl, i) {
+    var val = statVals[i];
+    if (val == null) return '';
+    var hue = Math.round(val * 1.2);
+    return '<div class="modal-stat-row"><div class="modal-stat-label">' + lbl + '</div>'
+      + '<div class="modal-stat-bg"><div class="modal-stat-bar" style="width:' + val + '%;background:hsl(' + hue + ',70%,40%)"></div></div>'
+      + '<span style="font-size:0.65rem;color:#666;width:28px;text-align:right">' + val + '</span></div>';
+  }).join('');
+
+  const racingParts = [];
+  if (v.racing_tier) racingParts.push('Tier <span>' + v.racing_tier + '</span>');
+  if (v.racing_lap_time) racingParts.push('Lap <span>' + v.racing_lap_time.toFixed(3) + 's</span>');
+  if (v.top_speed_mph) racingParts.push('Top Speed <span>' + Math.round(v.top_speed_mph) + ' mph</span>');
+
+  const ucChips = (v.use_case || []).map(function(u) {
+    return '<span class="uc-chip uc-' + u + '">' + u + '</span>';
+  }).join('');
+
+  const featBadges = (v.features || []).map(function(f) {
+    var cls = f.includes('HSW') ? 'feat-hsw' : f.includes('Drift') ? 'feat-drift' : f.includes('Jammer') ? 'feat-jammer'
+      : f.includes('Weaponized') ? 'feat-weapon' : f.includes('Custom') ? 'feat-bennys' : f.includes('Imani') ? 'feat-imani'
+      : f.includes('Service') ? 'feat-service' : '';
+    return '<span class="feat-badge ' + cls + '">' + f + '</span>';
+  }).join('');
+
+  document.getElementById('modalContent').innerHTML =
+    '<img class="modal-img" src="' + imgUrl + '" alt="' + v.DisplayName.English + '" onerror="this.style.display=\'none\'">' +
+    '<div class="modal-body">' +
+      '<div class="modal-name">' + v.DisplayName.English + '</div>' +
+      '<div class="modal-mfg">' + (v.ManufacturerDisplayName?.English || '') + '</div>' +
+      '<div class="modal-class">' + (v.Class || '') + '</div>' +
+      (v.price ? '<div class="modal-section"><div class="modal-label">Price</div><div class="modal-price">$' + v.price.toLocaleString() + '</div>' + (v.trade_price ? '<div class="modal-trade">Trade: $' + v.trade_price.toLocaleString() + '</div>' : '') + '</div>' : '') +
+      (v.stores && v.stores.length ? '<div class="modal-section"><div class="modal-label">Available at</div><div class="car-store">' + v.stores.map(function(s){ return '<span class="store-tag">' + s + '</span>'; }).join('') + '</div></div>' : '') +
+      (featBadges ? '<div class="modal-section"><div class="modal-label">Features</div><div class="car-features">' + featBadges + '</div></div>' : '') +
+      (ucChips ? '<div class="modal-section"><div class="modal-label">Use Case</div><div class="use-case-chips">' + ucChips + '</div></div>' : '') +
+      (racingParts.length ? '<div class="modal-section"><div class="modal-label">Racing</div><div class="modal-racing">' + racingParts.join(' &nbsp;·&nbsp; ') + '</div></div>' : '') +
+      (statBars ? '<div class="modal-section"><div class="modal-label">Stats</div>' + statBars + '</div>' : '') +
+    '</div>';
+
+  document.getElementById('modalOverlay').classList.add('open');
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+}
+
+document.getElementById('modalClose').addEventListener('click', closeModal);
+document.getElementById('modalOverlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+});
 document.addEventListener('click', e => {
+  const check = e.target.closest('.check');
+  if (check) {
+    const item = check.closest('.car-item');
+    if (item) { e.stopPropagation(); toggleOwned(Number(item.dataset.hash)); }
+    return;
+  }
   const item = e.target.closest('.car-item');
-  if (item) toggleOwned(Number(item.dataset.hash));
+  if (item) openModal(Number(item.dataset.hash));
 });
 
 document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { closeModal(); return; }
   const t = e.target;
   if (t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA') return;
   if (e.ctrlKey || e.metaKey || e.altKey) return;
