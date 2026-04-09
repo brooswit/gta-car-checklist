@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:15:36.521Z",
+  "generated_at": "2026-04-09T05:23:50.491Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -24,7 +24,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Dinghy",
@@ -44,7 +45,8 @@
       "stat_handling": 100,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Jetmax",
@@ -69,7 +71,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Kosatka",
@@ -100,7 +103,10 @@
       "use_case": [
         "utility",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "S",
+      "meta_note": "Enables Cayo Perico Heist, the best solo money-maker at $1.5M+/hour; the single most important grinding purchase in the game.",
+      "storage_type": "property"
     },
     {
       "name": "Kraken",
@@ -127,7 +133,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Kurtz 31 Patrol Boat",
@@ -154,7 +161,8 @@
       "trade_price": 2216250,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Longfin",
@@ -180,7 +188,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Marquis",
@@ -206,7 +215,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Police Predator",
@@ -232,7 +242,8 @@
       "price": 3780000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Seashark",
@@ -257,7 +268,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Speeder",
@@ -282,7 +294,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Squalo",
@@ -307,7 +320,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Submersible",
@@ -329,7 +343,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Suntrap",
@@ -354,7 +369,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Toro",
@@ -379,7 +395,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Tropic",
@@ -404,7 +421,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Tug",
@@ -429,7 +447,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Weaponized Dinghy",
@@ -455,7 +474,10 @@
       "price": 1850000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Armed boat. Very situational — only useful for specific water-based missions.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Apocalypse Cerberus",
@@ -524,7 +546,8 @@
       "trade_price": 513750,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Biff",
@@ -570,7 +593,8 @@
       "trade_price": 1830375,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Cerberus",
@@ -595,7 +619,8 @@
       "stat_handling": 23,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hauler",
@@ -643,7 +668,10 @@
       "price": 1400000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Used in certain Gunrunning sell missions. Situationally useful.",
+      "storage_type": "garage"
     },
     {
       "name": "Mule",
@@ -667,7 +695,8 @@
       "price": 27000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Mule Custom",
@@ -696,7 +725,10 @@
       "use_case": [
         "transport",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Used in MC and Bunker sell missions. If you run those businesses, you'll use this.",
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Cerberus",
@@ -721,7 +753,8 @@
       "stat_handling": 23,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Packer",
@@ -790,7 +823,10 @@
       "price": 1225000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Required for Phantom Wedge sell missions. Situationally essential.",
+      "storage_type": "garage"
     },
     {
       "name": "Phantom Wedge",
@@ -816,7 +852,8 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pounder",
@@ -866,7 +903,10 @@
       "use_case": [
         "transport",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Used in MC sell missions. Situationally useful for large-stock sales.",
+      "storage_type": "garage"
     },
     {
       "name": "Stockade",
@@ -891,7 +931,8 @@
       "trade_price": 1680000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Terrorbyte",
@@ -924,7 +965,10 @@
       "use_case": [
         "utility",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "S",
+      "meta_note": "Enables Client Jobs and Oppressor Mk II weapons/boost upgrade. Central hub for efficient grinding operations.",
+      "storage_type": "property"
     },
     {
       "name": "Apocalypse Issi",
@@ -949,7 +993,8 @@
       "stat_handling": 41,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Asbo",
@@ -974,7 +1019,8 @@
       "trade_price": 306000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blista",
@@ -1020,7 +1066,8 @@
       "trade_price": 435000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brioso 300",
@@ -1046,7 +1093,8 @@
       "trade_price": 457500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brioso 300 Widebody",
@@ -1072,7 +1120,8 @@
       "price": 585000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brioso R/A",
@@ -1098,7 +1147,8 @@
       "price": 155000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Club",
@@ -1123,7 +1173,8 @@
       "price": 1280000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dilettante",
@@ -1147,7 +1198,8 @@
       "price": 25000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Issi",
@@ -1172,7 +1224,8 @@
       "stat_handling": 41,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Issi",
@@ -1199,7 +1252,8 @@
       "price": 18000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Issi Classic",
@@ -1226,7 +1280,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Issi",
@@ -1251,7 +1306,8 @@
       "stat_handling": 41,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Panto",
@@ -1276,7 +1332,8 @@
       "price": 85000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Prairie",
@@ -1300,7 +1357,8 @@
       "price": 25000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rhapsody",
@@ -1326,7 +1384,8 @@
       "price": 140000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Weevil",
@@ -1351,7 +1410,8 @@
       "trade_price": 652500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cognoscenti Cabrio",
@@ -1375,7 +1435,8 @@
       "price": 185000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Euros X32",
@@ -1401,7 +1462,8 @@
       "price": 1499000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Exemplar",
@@ -1426,7 +1488,8 @@
       "price": 205000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "F620",
@@ -1450,7 +1513,8 @@
       "price": 80000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Felon",
@@ -1474,7 +1538,8 @@
       "price": 90000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Felon GT",
@@ -1498,7 +1563,8 @@
       "price": 95000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FR36",
@@ -1524,7 +1590,8 @@
       "price": 1610000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jackal",
@@ -1548,7 +1615,8 @@
       "price": 60000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Kanjo SJ",
@@ -1573,7 +1641,8 @@
       "trade_price": 1027500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Oracle",
@@ -1597,7 +1666,8 @@
       "price": 80000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Oracle XS",
@@ -1621,7 +1691,8 @@
       "price": 82000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Postlude",
@@ -1646,7 +1717,8 @@
       "trade_price": 982500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Previon",
@@ -1671,7 +1743,8 @@
       "trade_price": 1117500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sentinel",
@@ -1699,7 +1772,8 @@
       "price": 95000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sentinel XS",
@@ -1726,7 +1800,8 @@
       "price": 60000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Windsor",
@@ -1751,7 +1826,8 @@
       "price": 845000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Windsor Drop",
@@ -1775,7 +1851,8 @@
       "price": 900000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zion",
@@ -1799,7 +1876,8 @@
       "price": 60000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zion Cabrio",
@@ -1823,7 +1901,8 @@
       "price": 65000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "BMX",
@@ -1847,7 +1926,8 @@
       "price": 800,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cruiser",
@@ -1871,7 +1951,8 @@
       "price": 800,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Endurex Race Bike",
@@ -1897,7 +1978,8 @@
       "price": 10000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Fixter",
@@ -1942,7 +2024,8 @@
       "price": 50000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Junk Energy Inductor",
@@ -1966,7 +2049,8 @@
       "price": 50000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Scorcher",
@@ -1990,7 +2074,8 @@
       "price": 2000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tri-Cycles Race Bike",
@@ -2016,7 +2101,8 @@
       "price": 10000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Whippet Race Bike",
@@ -2043,7 +2129,8 @@
       "price": 10000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ambulance",
@@ -2092,7 +2179,8 @@
       "trade_price": 3326250,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buffalo STX Pursuit",
@@ -2120,7 +2208,8 @@
       "trade_price": 4027500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Burrito (Bail Enforcement)",
@@ -2149,7 +2238,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "property"
     },
     {
       "name": "Caracara Pursuit",
@@ -2179,7 +2269,8 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette D10 Pursuit",
@@ -2206,7 +2297,8 @@
       "trade_price": 4125000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator FX Interceptor",
@@ -2234,7 +2326,8 @@
       "trade_price": 3712500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dorado Cruiser",
@@ -2262,7 +2355,8 @@
       "trade_price": 3753750,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FIB",
@@ -2308,7 +2402,8 @@
       "trade_price": 2471250,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gauntlet Interceptor",
@@ -2336,7 +2431,8 @@
       "trade_price": 4065000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Greenwood Cruiser",
@@ -2364,7 +2460,8 @@
       "trade_price": 3682500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Impaler LX Cruiser",
@@ -2392,7 +2489,8 @@
       "trade_price": 3600000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Impaler SZ Cruiser",
@@ -2420,7 +2518,8 @@
       "trade_price": 3540000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Lifeguard",
@@ -2442,7 +2541,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "removed_from_stores": true
     },
     {
       "name": "Outreach Faction",
@@ -2470,7 +2570,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Park Ranger",
@@ -2496,7 +2597,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Police Bike",
@@ -2524,7 +2626,8 @@
       "use_case": [
         "fun",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Police Cruiser",
@@ -2568,7 +2671,8 @@
       "trade_price": 550000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Police Rancher",
@@ -2616,7 +2720,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Police Roadcruiser",
@@ -2687,7 +2792,8 @@
       "trade_price": 2350000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sheriff Cruiser",
@@ -2758,7 +2864,8 @@
       "trade_price": 3517500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Terminus Patrol",
@@ -2787,7 +2894,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Unmarked Cruiser",
@@ -2816,7 +2924,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Akula",
@@ -2849,7 +2958,10 @@
       "use_case": [
         "grinding",
         "combat"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Off-radar capability makes it excellent for avoiding griefers during sell missions. Strong utility.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Annihilator",
@@ -2876,7 +2988,8 @@
       "price": 1825000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Annihilator Stealth",
@@ -2908,7 +3021,10 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Off-radar helicopter. Decent but outclassed by Akula for stealth operations.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Buzzard",
@@ -2936,7 +3052,10 @@
         "grinding",
         "combat",
         "utility"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Useful attack helicopter but no personal spawn perk without CEO. Step down from Buzzard Attack Chopper.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Buzzard Attack Chopper",
@@ -2964,7 +3083,10 @@
         "grinding",
         "combat",
         "utility"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Best budget grind vehicle before Oppressor Mk II. Fast, weaponized, spawns near you as CEO. Excellent early-game.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Cargobob",
@@ -2991,7 +3113,10 @@
       "use_case": [
         "transport",
         "utility"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Required for certain sell missions (vehicle cargo). Invaluable when needed.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Conada",
@@ -3020,7 +3145,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "DH-7 Iron Mule",
@@ -3049,7 +3175,8 @@
       "use_case": [
         "combat",
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "FH-1 Hunter",
@@ -3081,7 +3208,10 @@
       "use_case": [
         "grinding",
         "combat"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Military attack helicopter. Powerful but high skill ceiling and expensive.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Frogger",
@@ -3109,7 +3239,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Havok",
@@ -3137,7 +3268,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Higgins Helitours Maverick",
@@ -3161,7 +3293,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Maverick",
@@ -3188,7 +3321,8 @@
       "price": 780000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Police Maverick",
@@ -3212,7 +3346,8 @@
       "use_case": [
         "fun",
         "utility"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Savage",
@@ -3240,7 +3375,10 @@
       "use_case": [
         "grinding",
         "combat"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Powerful attack helicopter but too expensive for what it offers. Better options exist at lower cost.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Sea Sparrow",
@@ -3267,7 +3405,8 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Skylift",
@@ -3289,7 +3428,8 @@
       "use_case": [
         "transport",
         "utility"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Sparrow",
@@ -3318,7 +3458,10 @@
         "grinding",
         "combat",
         "utility"
-      ]
+      ],
+      "grinding_tier": "S",
+      "meta_note": "Required for Cayo Perico scope-out and fast travel within the Kosatka. Unlocks as part of the Kosatka package.",
+      "storage_type": "pegasus"
     },
     {
       "name": "SuperVolito",
@@ -3347,7 +3490,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "SuperVolito Carbon",
@@ -3376,7 +3520,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Swift",
@@ -3405,7 +3550,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Swift Deluxe",
@@ -3434,7 +3580,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Valkyrie",
@@ -3462,7 +3609,10 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Attack helicopter with side gunners. Good for co-op but outclassed by Akula solo.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Valkyrie MOD.0",
@@ -3485,7 +3635,8 @@
       "stat_handling": 100,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Volatus",
@@ -3514,7 +3665,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Weaponized Conada",
@@ -3540,7 +3692,8 @@
       "price": 3385000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Custom Flatbed",
@@ -3649,7 +3802,8 @@
       "price": 1000000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Flatbed",
@@ -3694,7 +3848,8 @@
       "price": 375000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Mixer",
@@ -3784,7 +3939,8 @@
       "trade_price": 1400000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "APC",
@@ -3813,7 +3969,10 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Armored personnel carrier. Useful but slow and expensive for what it offers.",
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Scarab",
@@ -3838,7 +3997,8 @@
       "stat_handling": 12,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Barracks",
@@ -3862,7 +4022,8 @@
       "price": 450000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Barracks Semi",
@@ -3910,7 +4071,8 @@
       "trade_price": 1595000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Chernobog",
@@ -3941,7 +4103,10 @@
       "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($1,125,000) unlocks after completing \"Escort ULP\" setup as heist leader.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Massive missile launcher. Fun but impractical; too slow and unwieldy for real grind use.",
+      "storage_type": "garage"
     },
     {
       "name": "Crusader",
@@ -3965,7 +4130,8 @@
       "price": 225000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Scarab",
@@ -3990,7 +4156,8 @@
       "stat_handling": 12,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Half-track",
@@ -4017,7 +4184,10 @@
       "trade_price": 1695000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Heavily armored with turret. Good for sell missions with a crew.",
+      "storage_type": "garage"
     },
     {
       "name": "Invade and Persuade Tank",
@@ -4046,7 +4216,10 @@
       "unlock_condition_note": "Requires owning an Arcade property.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "RC toy tank. No practical grinding value whatsoever.",
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Scarab",
@@ -4071,7 +4244,8 @@
       "stat_handling": 12,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rhino Tank",
@@ -4098,7 +4272,10 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Classic tank. Great for chaos, poor for efficiency. Fun but not a grind staple.",
+      "storage_type": "garage"
     },
     {
       "name": "Thruster",
@@ -4130,7 +4307,10 @@
       "unlock_condition_note": "Requires owning a Facility. Trade price ($1,875,000) unlocks after completing The Doomsday Scenario as Heist Leader (final act of Doomsday Heist).",
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Jetpack with weapons. Niche utility, expensive to unlock, outclassed by Oppressor Mk II.",
+      "storage_type": "garage"
     },
     {
       "name": "TM-02 Khanjali",
@@ -4161,7 +4341,10 @@
       "unlock_condition_note": "Requires owning a Facility before Warstock listing appears. Trade price ($2,895,000) unlocks after completing the \"Khanjali\" setup mission as heist leader.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Futuristic tank. Slow and cumbersome. Outclassed for grinding; mainly a fun/novelty vehicle.",
+      "storage_type": "garage"
     },
     {
       "name": "Vetir",
@@ -4187,7 +4370,8 @@
       "use_case": [
         "transport",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Akuma",
@@ -4215,7 +4399,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Deathbike",
@@ -4240,7 +4425,8 @@
       "stat_handling": 38,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Avarus",
@@ -4265,7 +4451,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bagger",
@@ -4293,7 +4480,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bati 801",
@@ -4319,7 +4507,10 @@
       "price": 15000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Fast budget motorcycle for missions. Good early-game option.",
+      "storage_type": "garage"
     },
     {
       "name": "Bati 801RR",
@@ -4346,7 +4537,10 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Fast motorcycle for contact missions. Good early-game option before Oppressor Mk II.",
+      "storage_type": "garage"
     },
     {
       "name": "BF400",
@@ -4373,7 +4567,8 @@
       "use_case": [
         "racing",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Carbon RS",
@@ -4399,7 +4594,8 @@
       "price": 40000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Chimera",
@@ -4424,7 +4620,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cliffhanger",
@@ -4449,7 +4646,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Daemon",
@@ -4520,7 +4718,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Diabolus",
@@ -4545,7 +4744,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Diabolus Custom",
@@ -4572,7 +4772,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Double-T",
@@ -4599,7 +4800,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Enduro",
@@ -4624,7 +4826,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Esskey",
@@ -4648,7 +4851,8 @@
       "price": 264000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Faggio",
@@ -4696,7 +4900,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Faggio Sport",
@@ -4720,7 +4925,8 @@
       "price": 47500,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FCR 1000",
@@ -4746,7 +4952,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FCR 1000 Custom",
@@ -4773,7 +4980,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Deathbike",
@@ -4798,7 +5006,8 @@
       "stat_handling": 38,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gargoyle",
@@ -4825,7 +5034,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hakuchou",
@@ -4852,7 +5062,8 @@
       "price": 82000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hakuchou Drag",
@@ -4876,7 +5087,8 @@
       "price": 976000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hexer",
@@ -4905,7 +5117,8 @@
         "fun",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Innovation",
@@ -4930,7 +5143,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Lectro",
@@ -4956,7 +5170,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Manchez",
@@ -4986,7 +5201,8 @@
         "off-road",
         "grinding",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Manchez Scout",
@@ -5014,7 +5230,10 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Basic off-road bike. Cheap option for wilderness missions.",
+      "storage_type": "garage"
     },
     {
       "name": "Manchez Scout C",
@@ -5044,7 +5263,10 @@
       "use_case": [
         "off-road",
         "utility"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Used in MC sell missions. Cheap and functional for that specific use case.",
+      "storage_type": "property"
     },
     {
       "name": "Nemesis",
@@ -5069,7 +5291,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightblade",
@@ -5094,7 +5317,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Deathbike",
@@ -5119,7 +5343,8 @@
       "stat_handling": 38,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Oppressor",
@@ -5147,7 +5372,10 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Mk I rocket bike; useful but requires Mk II for full potential. Decent mid-tier grind option.",
+      "storage_type": "garage"
     },
     {
       "name": "Oppressor Mk II",
@@ -5177,7 +5405,10 @@
       "use_case": [
         "grinding",
         "combat"
-      ]
+      ],
+      "grinding_tier": "S",
+      "meta_note": "Best all-around grind vehicle: fast travel, weaponized, griefing defense. Essential for efficient CEO/MC work.",
+      "storage_type": "garage"
     },
     {
       "name": "PCJ 600",
@@ -5203,7 +5434,8 @@
         "racing",
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pizza Boy",
@@ -5231,7 +5463,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Powersurge",
@@ -5256,7 +5489,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rampant Rocket",
@@ -5281,7 +5515,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rat Bike",
@@ -5306,7 +5541,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Reever",
@@ -5334,7 +5570,8 @@
       "use_case": [
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ruffian",
@@ -5359,7 +5596,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sanchez",
@@ -5390,7 +5628,8 @@
       "use_case": [
         "racing",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sanchez (livery)",
@@ -5419,7 +5658,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sanctus",
@@ -5444,7 +5684,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Shinobi",
@@ -5472,7 +5713,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Shotaro",
@@ -5499,7 +5741,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sovereign",
@@ -5524,7 +5767,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stryder",
@@ -5550,7 +5794,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Thrust",
@@ -5575,7 +5820,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vader",
@@ -5600,7 +5846,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vindicator",
@@ -5625,7 +5872,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vortex",
@@ -5653,7 +5901,8 @@
         "fun",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Wolfsbane",
@@ -5678,7 +5927,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zombie Bobber",
@@ -5703,7 +5953,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zombie Chopper",
@@ -5731,7 +5982,8 @@
         "fun",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Dominator",
@@ -5756,7 +6008,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Impaler",
@@ -5781,7 +6034,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Imperator",
@@ -5806,7 +6060,8 @@
       "stat_handling": 45,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Slamvan",
@@ -5831,7 +6086,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Arbiter GT",
@@ -5857,7 +6113,8 @@
       "price": 1580000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Beater Dukes",
@@ -5882,7 +6139,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blade",
@@ -5908,7 +6166,8 @@
       "price": 160000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brigham",
@@ -5932,7 +6191,8 @@
       "price": 1499000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Broadway",
@@ -5961,7 +6221,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buccaneer",
@@ -5986,7 +6247,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buccaneer Custom",
@@ -6013,7 +6275,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buffalo EVX",
@@ -6041,7 +6304,8 @@
       "price": 2140000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buffalo STX",
@@ -6072,7 +6336,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades AND trade price ($1,612,500) both require owning an Agency — doubly Agency-dependent.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Burger Shot Stallion",
@@ -6098,7 +6363,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Chino",
@@ -6124,7 +6390,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Chino Custom",
@@ -6151,7 +6418,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Clique",
@@ -6175,7 +6443,8 @@
       "price": 909000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Clique Wagon",
@@ -6200,7 +6469,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette BlackFin",
@@ -6225,7 +6495,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Deviant",
@@ -6252,7 +6523,8 @@
       "price": 512000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator",
@@ -6282,7 +6554,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator ASP",
@@ -6312,7 +6585,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator FX",
@@ -6339,7 +6613,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator GT",
@@ -6366,7 +6641,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator GTT",
@@ -6395,7 +6671,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dominator GTX",
@@ -6419,7 +6696,8 @@
       "price": 725000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Drift Yosemite",
@@ -6447,7 +6725,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Duke O'Death",
@@ -6476,7 +6755,10 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Free for returning players. Bulletproof cabin, great for early grinding. Best free armored car.",
+      "storage_type": "garage"
     },
     {
       "name": "Dukes",
@@ -6501,7 +6783,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ellie",
@@ -6527,7 +6810,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Eudora",
@@ -6555,7 +6839,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Faction",
@@ -6580,7 +6865,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Faction Custom 1",
@@ -6604,7 +6890,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Faction Custom Donk",
@@ -6631,7 +6918,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Dominator",
@@ -6656,7 +6944,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Impaler",
@@ -6681,7 +6970,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Imperator",
@@ -6706,7 +6996,8 @@
       "stat_handling": 45,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Slamvan",
@@ -6731,7 +7022,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gauntlet",
@@ -6760,7 +7052,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gauntlet Classic",
@@ -6787,7 +7080,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gauntlet Classic Custom",
@@ -6814,7 +7108,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gauntlet Hellfire",
@@ -6844,7 +7139,8 @@
         "racing",
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Greenwood",
@@ -6876,7 +7172,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hermes",
@@ -6905,7 +7202,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hotknife",
@@ -6933,7 +7231,8 @@
         "racing",
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hustler",
@@ -6959,7 +7258,8 @@
         "racing",
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Impaler",
@@ -6985,7 +7285,8 @@
       "trade_price": 249500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Impaler LX",
@@ -7013,7 +7314,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Impaler SZ",
@@ -7037,7 +7339,8 @@
       "price": 1280000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Lost Slamvan",
@@ -7084,7 +7387,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Manana Custom",
@@ -7111,7 +7415,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Moonbeam",
@@ -7136,7 +7441,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Moonbeam Custom",
@@ -7163,7 +7469,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Dominator",
@@ -7188,7 +7495,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Impaler",
@@ -7213,7 +7521,8 @@
       "stat_handling": 46,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Imperator",
@@ -7238,7 +7547,8 @@
       "stat_handling": 45,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Slamvan",
@@ -7263,7 +7573,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightshade",
@@ -7287,7 +7598,8 @@
       "price": 585000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Peyote Gasser",
@@ -7316,7 +7628,8 @@
         "fun",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Phoenix",
@@ -7363,7 +7676,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pisswasser Dominator",
@@ -7387,7 +7701,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rat-Loader",
@@ -7412,7 +7727,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rat-Truck",
@@ -7439,7 +7755,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Redwood Gauntlet",
@@ -7465,7 +7782,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ruiner",
@@ -7490,7 +7808,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ruiner 2000",
@@ -7519,7 +7838,10 @@
         "combat",
         "fun",
         "collector"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Cool concept but impractical for grinding. Outclassed by Oppressor Mk II in every measurable way.",
+      "storage_type": "garage"
     },
     {
       "name": "Ruiner ZZ-8",
@@ -7543,7 +7865,8 @@
       "price": 1320000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sabre Turbo",
@@ -7568,7 +7891,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sabre Turbo Custom",
@@ -7595,7 +7919,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Slamvan",
@@ -7623,7 +7948,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Slamvan Custom",
@@ -7650,7 +7976,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stallion",
@@ -7676,7 +8003,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tahoma Coupe",
@@ -7701,7 +8029,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tampa",
@@ -7725,7 +8054,8 @@
       "price": 375000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tampa GT",
@@ -7755,7 +8085,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tulip",
@@ -7780,7 +8111,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tulip M-100",
@@ -7805,7 +8137,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vamos",
@@ -7830,7 +8163,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vigero",
@@ -7855,7 +8189,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vigero ZX",
@@ -7885,7 +8220,8 @@
         "racing",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vigero ZX Convertible",
@@ -7912,7 +8248,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Virgo",
@@ -7937,7 +8274,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Virgo Classic",
@@ -7962,7 +8300,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Virgo Classic Custom",
@@ -7989,7 +8328,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Voodoo",
@@ -8014,7 +8354,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Voodoo Custom",
@@ -8041,7 +8382,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Weaponized Tampa",
@@ -8068,7 +8410,10 @@
       "trade_price": 1585000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Multiple weapon hardpoints. Good support vehicle for missions.",
+      "storage_type": "garage"
     },
     {
       "name": "Weevil Custom",
@@ -8096,7 +8441,8 @@
       "use_case": [
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Yosemite",
@@ -8122,7 +8468,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Bruiser",
@@ -8147,7 +8494,8 @@
       "stat_handling": 32,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Brutus",
@@ -8172,7 +8520,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Apocalypse Sasquatch",
@@ -8197,7 +8546,8 @@
       "stat_handling": 50,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bifta",
@@ -8222,7 +8572,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blazer",
@@ -8251,7 +8602,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blazer Aqua",
@@ -8278,7 +8630,8 @@
       "trade_price": 1320000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blazer Lifeguard",
@@ -8303,7 +8656,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bodhi",
@@ -8332,7 +8686,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Boor",
@@ -8356,7 +8711,8 @@
       "price": 1280000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brawler",
@@ -8385,7 +8741,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Caracara",
@@ -8411,7 +8768,8 @@
       "price": 1775000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Caracara 4x4",
@@ -8439,7 +8797,10 @@
       "use_case": [
         "off-road",
         "combat"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Decent off-road vehicle for wilderness missions. Situationally useful.",
+      "storage_type": "garage"
     },
     {
       "name": "Desert Raid",
@@ -8464,7 +8825,8 @@
       "use_case": [
         "off-road",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Draugur",
@@ -8489,7 +8851,8 @@
       "trade_price": 1402500,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Drift Walton L35",
@@ -8519,7 +8882,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dubsta 6x6",
@@ -8547,7 +8911,8 @@
       "use_case": [
         "off-road",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dune Buggy",
@@ -8572,7 +8937,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dune FAV",
@@ -8600,7 +8966,8 @@
       "use_case": [
         "off-road",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Duneloader",
@@ -8647,7 +9014,8 @@
       "trade_price": 1106250,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Firebolt ASP",
@@ -8677,7 +9045,8 @@
         "off-road",
         "racing",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Freecrawler",
@@ -8701,7 +9070,8 @@
       "price": 597000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Bruiser",
@@ -8726,7 +9096,8 @@
       "stat_handling": 32,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Brutus",
@@ -8751,7 +9122,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock Sasquatch",
@@ -8776,7 +9148,8 @@
       "stat_handling": 50,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hellion",
@@ -8805,7 +9178,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hot Rod Blazer",
@@ -8830,7 +9204,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Injection",
@@ -8855,7 +9230,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Insurgent",
@@ -8883,7 +9259,8 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Insurgent Pick-Up",
@@ -8911,7 +9288,8 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Insurgent Pick-Up Custom",
@@ -8939,7 +9317,10 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Weaponized, heavily armored, team-friendly. Excellent for co-op sell missions.",
+      "storage_type": "garage"
     },
     {
       "name": "Kalahari",
@@ -8963,7 +9344,8 @@
       "price": 40000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Kamacho",
@@ -8987,7 +9369,8 @@
       "price": 345000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Marshall",
@@ -9012,7 +9395,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Menacer",
@@ -9038,7 +9422,8 @@
       "price": 1775000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Monster",
@@ -9090,7 +9475,8 @@
         "off-road",
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Bruiser",
@@ -9115,7 +9501,8 @@
       "stat_handling": 32,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Brutus",
@@ -9140,7 +9527,8 @@
       "stat_handling": 33,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare Sasquatch",
@@ -9165,7 +9553,8 @@
       "stat_handling": 50,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightshark",
@@ -9192,7 +9581,10 @@
       "price": 1245000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Near-invincible armored SUV with missile resistance. Top defensive vehicle for missions and sales.",
+      "storage_type": "garage"
     },
     {
       "name": "Outlaw",
@@ -9217,7 +9609,8 @@
       "trade_price": 951000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Patriot Mil-Spec",
@@ -9246,7 +9639,8 @@
       "trade_price": 1282500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ramp Buggy",
@@ -9272,7 +9666,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rancher XL",
@@ -9297,7 +9692,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ratel",
@@ -9322,7 +9718,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "RC Bandito",
@@ -9353,7 +9750,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rebel",
@@ -9378,7 +9776,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Riata",
@@ -9403,7 +9802,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rusty Rebel",
@@ -9429,7 +9829,8 @@
         "off-road",
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sandking SWB",
@@ -9454,7 +9855,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sandking XL",
@@ -9479,7 +9881,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Space Docker",
@@ -9527,7 +9930,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Technical",
@@ -9555,7 +9959,8 @@
       "trade_price": 950000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Technical Aqua",
@@ -9582,7 +9987,8 @@
       "trade_price": 1120000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Technical Custom",
@@ -9610,7 +10016,8 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Terminus",
@@ -9638,7 +10045,8 @@
       "use_case": [
         "off-road",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Trophy Truck",
@@ -9663,7 +10071,8 @@
       "use_case": [
         "off-road",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vagrant",
@@ -9689,7 +10098,8 @@
       "use_case": [
         "racing",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Verus",
@@ -9713,7 +10123,8 @@
       "price": 192000,
       "use_case": [
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Walton L35",
@@ -9738,7 +10149,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Walton L35 Stock",
@@ -9765,7 +10177,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Winky",
@@ -9791,7 +10204,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Yosemite 1500",
@@ -9816,7 +10230,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Yosemite Rancher",
@@ -9844,7 +10259,8 @@
         "off-road",
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zhaba",
@@ -9870,7 +10286,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "BR8",
@@ -9894,7 +10311,8 @@
       "price": 3400000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "DR1",
@@ -9918,7 +10336,8 @@
       "price": 2997000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "PR4",
@@ -9942,7 +10361,8 @@
       "price": 3515000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "R88",
@@ -9966,7 +10386,8 @@
       "price": 3115000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Alpha-Z1",
@@ -9994,7 +10415,8 @@
       "trade_price": 1595000,
       "use_case": [
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Atomic Blimp",
@@ -10016,7 +10438,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Avenger",
@@ -10049,7 +10472,10 @@
       "use_case": [
         "utility",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Flying base with weapon workshop. Expensive but versatile. Niche but useful for certain operations.",
+      "storage_type": "property"
     },
     {
       "name": "B-11 Strikeforce",
@@ -10075,7 +10501,8 @@
       "price": 3800000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Besra",
@@ -10105,7 +10532,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Blimp",
@@ -10131,7 +10559,8 @@
       "use_case": [
         "fun",
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Cargo Plane",
@@ -10149,7 +10578,8 @@
       "stat_handling": 100,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Cuban 800",
@@ -10173,7 +10603,8 @@
       "price": 240000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Dodo",
@@ -10200,7 +10631,8 @@
       "use_case": [
         "fun",
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Duster",
@@ -10225,7 +10657,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Duster 300-H",
@@ -10252,7 +10685,8 @@
       "trade_price": 765000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "F-160 Raiju",
@@ -10280,7 +10714,8 @@
       "use_case": [
         "combat",
         "racing"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Howard NX-25",
@@ -10309,7 +10744,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Hydra",
@@ -10338,7 +10774,10 @@
         "combat",
         "transport",
         "fun"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Outclassed by other aircraft for every grind purpose. High cost, low return for grinding.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Jet",
@@ -10360,7 +10799,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "LF-22 Starling",
@@ -10387,7 +10827,8 @@
       "trade_price": 2750000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Luxor",
@@ -10417,7 +10858,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Luxor Deluxe",
@@ -10445,7 +10887,10 @@
       "use_case": [
         "collector",
         "transport"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Gold-plated status symbol. Zero grinding utility. Pure flex.",
+      "storage_type": "pegasus"
     },
     {
       "name": "Mallard",
@@ -10470,7 +10915,8 @@
       "use_case": [
         "fun",
         "racing"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Mammatus",
@@ -10494,7 +10940,8 @@
       "price": 300000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Miljet",
@@ -10521,7 +10968,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Mogul",
@@ -10549,7 +10997,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Nimbus",
@@ -10573,7 +11022,8 @@
       "price": 1900000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "P-45 Nokota",
@@ -10601,7 +11051,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "P-996 LAZER",
@@ -10627,7 +11078,8 @@
       "price": 6500000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Pyro",
@@ -10655,7 +11107,8 @@
       "use_case": [
         "combat",
         "racing"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "RM-10 Bombushka",
@@ -10683,7 +11136,8 @@
       "use_case": [
         "transport",
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "RO-86 Alkonost",
@@ -10710,7 +11164,8 @@
       "trade_price": 3262500,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Rogue",
@@ -10738,7 +11193,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Seabreeze",
@@ -10766,7 +11222,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Shamal",
@@ -10791,7 +11248,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Streamer216",
@@ -10818,7 +11276,8 @@
       "use_case": [
         "fun",
         "racing"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Titan",
@@ -10842,7 +11301,8 @@
       "price": 2000000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Titan 250 D",
@@ -10870,7 +11330,8 @@
       "use_case": [
         "combat",
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Tula",
@@ -10898,7 +11359,8 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Ultralight",
@@ -10925,7 +11387,8 @@
       "trade_price": 500000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "V-65 Molotok",
@@ -10952,7 +11415,8 @@
       "trade_price": 3600000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Velum",
@@ -10977,7 +11441,8 @@
       "price": 450000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Velum 5-Seater",
@@ -11002,7 +11467,8 @@
       "trade_price": 995000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Vestra",
@@ -11029,7 +11495,8 @@
       "use_case": [
         "fun",
         "transport"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Volatol",
@@ -11056,7 +11523,8 @@
       "trade_price": 2800000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Xero Blimp",
@@ -11078,7 +11546,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "pegasus"
     },
     {
       "name": "Asea",
@@ -11102,7 +11571,8 @@
       "price": 12000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Asterope",
@@ -11126,7 +11596,8 @@
       "price": 26000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Asterope GZ",
@@ -11150,7 +11621,8 @@
       "price": 459000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Chavos V6",
@@ -11178,7 +11650,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cinquemila",
@@ -11203,7 +11676,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cognoscenti",
@@ -11233,7 +11707,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cognoscenti (Armored)",
@@ -11261,7 +11736,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cognoscenti 55",
@@ -11290,7 +11766,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cognoscenti 55 (Armored)",
@@ -11318,7 +11795,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Deity",
@@ -11347,7 +11825,8 @@
       "trade_price": 1383750,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Emperor",
@@ -11392,7 +11871,8 @@
       "price": 24000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Glendale",
@@ -11420,7 +11900,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Glendale Custom",
@@ -11447,7 +11928,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hardy",
@@ -11476,7 +11958,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ingot",
@@ -11500,7 +11983,8 @@
       "price": 9000,
       "use_case": [
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Intruder",
@@ -11549,7 +12033,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Premier",
@@ -11573,7 +12058,8 @@
       "price": 10000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Primo",
@@ -11598,7 +12084,8 @@
       "price": 9000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Primo Custom",
@@ -11625,7 +12112,8 @@
       "use_case": [
         "collector",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Regina",
@@ -11650,7 +12138,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rhinehart",
@@ -11675,7 +12164,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Romero Hearse",
@@ -11748,7 +12238,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Schafter V12 (Armored)",
@@ -11776,7 +12267,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sentinel XS4",
@@ -11804,7 +12296,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stafford",
@@ -11830,7 +12323,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stanier",
@@ -11858,7 +12352,8 @@
       "use_case": [
         "fun",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stratum",
@@ -11907,7 +12402,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Super Diamond",
@@ -11933,7 +12429,8 @@
       "use_case": [
         "collector",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Surge",
@@ -11958,7 +12455,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tailgater",
@@ -11982,7 +12480,8 @@
       "price": 55000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tailgater S",
@@ -12008,7 +12507,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Turreted Limo",
@@ -12034,7 +12534,8 @@
       "price": 1650000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vorschlaghammer",
@@ -12058,7 +12559,8 @@
       "use_case": [
         "fun",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Warrener",
@@ -12083,7 +12585,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Warrener HKR",
@@ -12109,7 +12612,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Washington",
@@ -12134,7 +12638,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Airport Bus",
@@ -12158,7 +12663,8 @@
       "price": 550000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brickade",
@@ -12183,7 +12689,8 @@
       "price": 555000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Brickade 6x6",
@@ -12213,7 +12720,10 @@
       "use_case": [
         "off-road",
         "combat"
-      ]
+      ],
+      "grinding_tier": "S",
+      "meta_note": "Required for Acid Lab business, one of the best passive income sources. Essential for that grind path.",
+      "storage_type": "property"
     },
     {
       "name": "Bus",
@@ -12237,7 +12747,8 @@
       "price": 500000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dashound",
@@ -12262,7 +12773,8 @@
       "price": 525000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dune",
@@ -12286,7 +12798,8 @@
       "price": 1300000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Festival Bus",
@@ -12311,7 +12824,8 @@
       "trade_price": 1385000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rental Shuttle Bus",
@@ -12336,7 +12850,8 @@
       "price": 30000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Taxi",
@@ -12361,7 +12876,8 @@
       "trade_price": 487500,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tour Bus",
@@ -12425,7 +12941,8 @@
       "trade_price": 495000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "10F",
@@ -12453,7 +12970,8 @@
       "price": 1675000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "10F Widebody",
@@ -12481,7 +12999,8 @@
       "price": 575000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "300R",
@@ -12508,7 +13027,8 @@
       "price": 2075000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "8F Drafter",
@@ -12532,7 +13052,8 @@
       "price": 718000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "9F",
@@ -12560,7 +13081,8 @@
       "price": 120000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "9F Cabrio",
@@ -12588,7 +13110,8 @@
       "price": 130000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Alpha",
@@ -12635,7 +13158,8 @@
       "stat_handling": 43,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Banshee",
@@ -12663,7 +13187,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Banshee GTS",
@@ -12691,7 +13216,8 @@
       "price": 1989500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bestia GTS",
@@ -12715,7 +13241,8 @@
       "price": 610000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Blista Compact",
@@ -12739,7 +13266,8 @@
       "price": 42000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Buffalo",
@@ -12788,7 +13316,8 @@
       "price": 96000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Calico GTF",
@@ -12818,7 +13347,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades (remote control, jammer, EMP) require owning an Agency ($2,010,000–$2,830,000 from Dynasty 8 Executive).",
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Carbonizzare",
@@ -12842,7 +13372,8 @@
       "price": 195000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet",
@@ -12874,7 +13405,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet Retro Custom",
@@ -12900,7 +13432,8 @@
       "price": 645000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet S2",
@@ -12928,7 +13461,8 @@
       "trade_price": 1408500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet S2 Cabrio",
@@ -12955,7 +13489,8 @@
       "price": 1797000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet Safari",
@@ -12981,7 +13516,8 @@
       "price": 710000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Comet SR",
@@ -13008,7 +13544,8 @@
       "price": 1145000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette",
@@ -13032,7 +13569,8 @@
       "price": 138000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette D10",
@@ -13056,7 +13594,8 @@
       "price": 1510000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette D5",
@@ -13082,7 +13621,8 @@
       "price": 1730000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Corsita",
@@ -13106,7 +13646,8 @@
       "price": 1795000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cypher",
@@ -13135,7 +13676,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency.",
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Drift Tampa",
@@ -13162,7 +13704,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Elegy Retro Custom",
@@ -13188,7 +13731,8 @@
       "price": 904000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Elegy RH8",
@@ -13220,7 +13764,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Envisage",
@@ -13247,7 +13792,8 @@
       "price": 2472000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Euros",
@@ -13277,7 +13823,8 @@
       "trade_price": 1350000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Feltzer",
@@ -13303,7 +13850,8 @@
       "price": 145000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Flash GT",
@@ -13337,7 +13885,8 @@
       "price": 1675000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Furore GT",
@@ -13361,7 +13910,8 @@
       "price": 448000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Fusilade",
@@ -13385,7 +13935,8 @@
       "price": 36000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Futo",
@@ -13414,7 +13965,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Futo GTX",
@@ -13443,7 +13995,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Future Shock ZR380",
@@ -13468,7 +14021,8 @@
       "stat_handling": 43,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "GB200",
@@ -13492,7 +14046,8 @@
       "price": 940000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Go Go Monkey Blista",
@@ -13519,7 +14074,8 @@
       "unlock_condition_note": "Free at SSASA after reaching Arena War Skill rank 20 (separate progression track from regular RP).",
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Growler",
@@ -13544,7 +14100,8 @@
       "trade_price": 1220050,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hotring Everon",
@@ -13570,7 +14127,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hotring Hellfire",
@@ -13595,7 +14153,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Hotring Sabre",
@@ -13621,7 +14180,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Imorgon",
@@ -13648,7 +14208,8 @@
       "price": 2165000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Issi Sport",
@@ -13675,7 +14236,10 @@
       "price": 897000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Small, fast, good for contact missions and racing. Budget-friendly grind support vehicle.",
+      "storage_type": "garage"
     },
     {
       "name": "Itali GTO",
@@ -13699,7 +14263,8 @@
       "price": 1965000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Itali GTO Stinger TT",
@@ -13724,7 +14289,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Itali RSX",
@@ -13749,7 +14315,8 @@
       "trade_price": 2598750,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jester",
@@ -13774,7 +14341,8 @@
       "price": 240000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jester (Racecar)",
@@ -13798,7 +14366,8 @@
       "price": 350000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jester RR",
@@ -13826,7 +14395,8 @@
       "trade_price": 1477500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jester RR Widebody",
@@ -13850,7 +14420,8 @@
       "price": 2290000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jugular",
@@ -13877,7 +14448,8 @@
       "trade_price": 918750,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Khamelion",
@@ -13903,7 +14475,8 @@
       "price": 100000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Komoda",
@@ -13931,7 +14504,8 @@
       "trade_price": 1275000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Kuruma",
@@ -13958,7 +14532,8 @@
       "trade_price": 95000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Kuruma (Armored)",
@@ -13985,7 +14560,10 @@
       "use_case": [
         "combat",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Best early-game grind vehicle for contact missions; near-invincible against bullets. Essential before Nightshark.",
+      "storage_type": "garage"
     },
     {
       "name": "La Coureuse",
@@ -14013,7 +14591,8 @@
       "price": 1990000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Locust",
@@ -14039,7 +14618,8 @@
       "price": 1625000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "LSCM Jester RR",
@@ -14057,6 +14637,7 @@
         "racing",
         "collector"
       ],
+      "storage_type": "garage",
       "source": "supplement"
     },
     {
@@ -14081,7 +14662,8 @@
       "price": 1735000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Massacro",
@@ -14108,7 +14690,8 @@
       "price": 275000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Massacro (Racecar)",
@@ -14135,7 +14718,8 @@
       "price": 385000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Neo",
@@ -14162,7 +14746,8 @@
       "price": 1875000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Neon",
@@ -14186,7 +14771,8 @@
       "price": 1500000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nightmare ZR380",
@@ -14211,7 +14797,8 @@
       "stat_handling": 43,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Niobe",
@@ -14239,7 +14826,8 @@
       "price": 1880000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Omnis",
@@ -14264,7 +14852,8 @@
       "use_case": [
         "racing",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Omnis e-GT",
@@ -14291,7 +14880,8 @@
       "price": 1795000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Panthere",
@@ -14315,7 +14905,8 @@
       "price": 2170000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Paragon R",
@@ -14342,7 +14933,8 @@
       "price": 905000,
       "use_case": [
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Paragon R (Armored)",
@@ -14398,7 +14990,8 @@
       "price": 2010000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pariah",
@@ -14452,7 +15045,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Penumbra",
@@ -14476,7 +15070,8 @@
       "price": 24000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Penumbra FF",
@@ -14500,7 +15095,8 @@
       "price": 1380000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Raiden",
@@ -14527,7 +15123,8 @@
       "price": 1375000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rapid GT",
@@ -14551,7 +15148,8 @@
       "price": 132000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rapid GT X",
@@ -14578,7 +15176,8 @@
       "price": 2705500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Raptor",
@@ -14605,7 +15204,8 @@
       "price": 648000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Remus",
@@ -14634,7 +15234,8 @@
       "trade_price": 1027500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Revolter",
@@ -14662,7 +15263,8 @@
       "price": 1610000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "RT3000",
@@ -14689,7 +15291,8 @@
       "trade_price": 1286250,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ruston",
@@ -14713,7 +15316,8 @@
       "price": 430000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "S95",
@@ -14739,7 +15343,8 @@
       "price": 1995000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Schafter LWB",
@@ -14767,7 +15372,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Schafter V12",
@@ -14795,7 +15401,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Schlagen GT",
@@ -14819,7 +15426,8 @@
       "price": 1300000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Schwartzer",
@@ -14843,7 +15451,8 @@
       "price": 80000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sentinel Classic Widebody",
@@ -14870,7 +15479,8 @@
       "price": 700000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sentinel GTS",
@@ -14898,7 +15508,8 @@
       "trade_price": 1629000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Seven-70",
@@ -14922,7 +15533,8 @@
       "price": 695000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "SM722",
@@ -14946,7 +15558,8 @@
       "price": 2115000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Specter",
@@ -14970,7 +15583,8 @@
       "price": 599000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Specter Custom",
@@ -14996,7 +15610,10 @@
       "price": 252000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "grinding_tier": "B",
+      "meta_note": "Fast sports car with weapons. Decent for missions requiring speed and light firepower.",
+      "storage_type": "garage"
     },
     {
       "name": "Sprunk Buffalo",
@@ -15022,7 +15639,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Streiter",
@@ -15046,7 +15664,8 @@
       "price": 500000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sugoi",
@@ -15071,7 +15690,8 @@
       "trade_price": 918000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sultan",
@@ -15095,7 +15715,8 @@
       "price": 12000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sultan Classic",
@@ -15120,7 +15741,8 @@
       "trade_price": 1288500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Sultan RS Classic",
@@ -15145,7 +15767,8 @@
       "trade_price": 1341750,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Surano",
@@ -15170,7 +15793,8 @@
       "price": 110000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tropos Rallye",
@@ -15194,7 +15818,8 @@
       "price": 816000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "V-STR",
@@ -15221,7 +15846,8 @@
       "price": 1285000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vectre",
@@ -15248,7 +15874,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,338,750) unlocks via LS Car Meet reputation. Trade price ($1,338,750) requires LS Car Meet Reputation.",
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Verlierer",
@@ -15272,7 +15899,8 @@
       "price": 695000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Veto Classic",
@@ -15297,7 +15925,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Veto Modern",
@@ -15321,7 +15950,8 @@
       "price": 995000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "ZR350",
@@ -15348,7 +15978,8 @@
       "trade_price": 1211250,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "190z",
@@ -15372,7 +16003,8 @@
       "price": 900000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ardent",
@@ -15400,7 +16032,8 @@
       "price": 1150000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Astrale",
@@ -15429,7 +16062,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Casco",
@@ -15454,7 +16088,8 @@
       "trade_price": 680000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cheburek",
@@ -15482,7 +16117,8 @@
       "price": 145000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cheetah Classic",
@@ -15506,7 +16142,8 @@
       "price": 865000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette Classic",
@@ -15532,7 +16169,8 @@
       "price": 665000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Coquette D1",
@@ -15556,7 +16194,8 @@
       "price": 1500000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Deluxo",
@@ -15585,7 +16224,10 @@
         "combat",
         "collector",
         "fun"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Flying car with homing missiles. Expensive and outclassed by Oppressor Mk II, but fun and functional.",
+      "storage_type": "garage"
     },
     {
       "name": "Dynasty",
@@ -15609,7 +16251,8 @@
       "price": 450000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Fagaloa",
@@ -15633,7 +16276,8 @@
       "price": 335000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Feltzer Classic",
@@ -15658,7 +16302,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Fränken Stange",
@@ -15682,7 +16327,8 @@
       "price": 550000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "GT500",
@@ -15706,7 +16352,8 @@
       "price": 785000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "GT750",
@@ -15734,7 +16381,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Infernus Classic",
@@ -15758,7 +16406,8 @@
       "price": 915000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Itali Classic",
@@ -15786,7 +16435,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "JB 700",
@@ -15810,7 +16460,8 @@
       "price": 350000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "JB 700W",
@@ -15840,7 +16491,8 @@
         "fun",
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jester Classic",
@@ -15866,7 +16518,8 @@
       "price": 790000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "LSCM Cheetah Classic",
@@ -15893,7 +16546,8 @@
       "price": 1950500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Mamba",
@@ -15917,7 +16571,8 @@
       "price": 995000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Manana",
@@ -15941,7 +16596,8 @@
       "price": 10000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Michelli GT",
@@ -15965,7 +16621,8 @@
       "price": 1225000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Monroe",
@@ -15989,7 +16646,8 @@
       "price": 490000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nebula Turbo",
@@ -16015,7 +16673,8 @@
       "price": 797000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Peyote",
@@ -16040,7 +16699,8 @@
       "price": 38000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Peyote Custom",
@@ -16066,7 +16726,8 @@
       "price": 620000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pigalle",
@@ -16090,7 +16751,8 @@
       "price": 400000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rapid GT Classic",
@@ -16114,7 +16776,8 @@
       "price": 885000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Retinue",
@@ -16138,7 +16801,8 @@
       "price": 615000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Retinue Mk II",
@@ -16163,7 +16827,8 @@
       "trade_price": 1215000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Roosevelt",
@@ -16189,7 +16854,8 @@
       "price": 750000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Roosevelt Valor",
@@ -16215,7 +16881,8 @@
       "price": 982000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Savestra",
@@ -16243,7 +16910,8 @@
       "price": 990000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stinger",
@@ -16267,7 +16935,8 @@
       "price": 850000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stinger GT",
@@ -16294,7 +16963,8 @@
       "price": 875000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Stromberg",
@@ -16322,7 +16992,10 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Submarine car. Outclassed by Toreador but cheaper. Situational utility.",
+      "storage_type": "garage"
     },
     {
       "name": "Swinger",
@@ -16349,7 +17022,8 @@
       "price": 909000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Toreador",
@@ -16377,7 +17051,10 @@
         "combat",
         "grinding",
         "fun"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Submarine car with homing missiles and unlimited boost. Excellent all-rounder for grinding and defense.",
+      "storage_type": "garage"
     },
     {
       "name": "Torero",
@@ -16404,7 +17081,8 @@
       "price": 998000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tornado",
@@ -16428,7 +17106,8 @@
       "price": 30000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tornado Custom",
@@ -16454,7 +17133,8 @@
       "price": 375000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tornado Rat Rod",
@@ -16478,7 +17158,8 @@
       "price": 378000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Turismo Classic",
@@ -16505,7 +17186,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Uranus LozSpeed",
@@ -16531,7 +17213,8 @@
       "price": 1140000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Viseris",
@@ -16559,7 +17242,8 @@
       "price": 875000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Z-Type",
@@ -16586,7 +17270,8 @@
       "price": 950000,
       "use_case": [
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zion Classic",
@@ -16613,7 +17298,8 @@
       "price": 812000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "811",
@@ -16641,7 +17327,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Adder",
@@ -16666,7 +17353,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Autarch",
@@ -16690,7 +17378,8 @@
       "price": 1955000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Banshee 900R",
@@ -16716,7 +17405,8 @@
       "price": 565000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bullet",
@@ -16744,7 +17434,8 @@
       "price": 155000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Champion",
@@ -16775,7 +17466,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cheetah",
@@ -16801,7 +17493,8 @@
       "price": 650000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cyclone",
@@ -16828,7 +17521,8 @@
       "price": 1890000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cyclone II",
@@ -16854,7 +17548,8 @@
       "price": 2250000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Deveste Eight",
@@ -16898,7 +17593,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Emerus",
@@ -16923,7 +17619,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Entity MT",
@@ -16952,7 +17649,8 @@
       "use_case": [
         "racing",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Entity XF",
@@ -16976,7 +17674,8 @@
       "price": 795000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Entity XXR",
@@ -17000,7 +17699,8 @@
       "price": 2305000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "ETR1",
@@ -17027,7 +17727,8 @@
       "price": 1995000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FMJ",
@@ -17055,7 +17756,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FMJ MK V",
@@ -17084,7 +17786,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Furia",
@@ -17109,7 +17812,8 @@
       "trade_price": 2055000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "GP1",
@@ -17137,7 +17841,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Ignus",
@@ -17164,7 +17869,8 @@
       "price": 2765000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Infernus",
@@ -17193,7 +17899,8 @@
       "price": 440000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Itali GTB",
@@ -17217,7 +17924,8 @@
       "price": 1189000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Itali GTB Custom",
@@ -17243,7 +17951,8 @@
       "price": 495000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Krieger",
@@ -17270,7 +17979,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "LM87",
@@ -17294,7 +18004,8 @@
       "price": 2915000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Luiva",
@@ -17322,7 +18033,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nero",
@@ -17346,7 +18058,8 @@
       "price": 1440000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Nero Custom",
@@ -17373,7 +18086,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Osiris",
@@ -17398,7 +18112,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Penetrator",
@@ -17423,7 +18138,8 @@
       "price": 880000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pipistrello",
@@ -17450,7 +18166,8 @@
       "price": 2950000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "RE-7B",
@@ -17477,7 +18194,8 @@
       "price": 2475000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Reaper",
@@ -17501,7 +18219,8 @@
       "price": 1595000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rocket Voltic",
@@ -17527,7 +18246,8 @@
       "use_case": [
         "fun",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "S80RR",
@@ -17554,7 +18274,8 @@
       "price": 2575000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "SC1",
@@ -17581,7 +18302,8 @@
       "price": 1603000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Scramjet",
@@ -17608,7 +18330,10 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Excellent mobility with boost and jump. Good griefing defense and fast travel on land.",
+      "storage_type": "garage"
     },
     {
       "name": "Sultan RS",
@@ -17634,7 +18359,8 @@
       "price": 795000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Suzume",
@@ -17660,7 +18386,8 @@
       "price": 3074500,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "T20",
@@ -17685,7 +18412,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Taipan",
@@ -17709,7 +18437,8 @@
       "price": 1980000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tempesta",
@@ -17733,7 +18462,8 @@
       "price": 1329000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tezeract",
@@ -17757,7 +18487,8 @@
       "price": 2825000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Thrax",
@@ -17781,7 +18512,8 @@
       "price": 2325000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tigon",
@@ -17808,7 +18540,8 @@
       "price": 2310000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Torero XO",
@@ -17835,7 +18568,8 @@
       "price": 2890000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Turismo Omaggio",
@@ -17862,7 +18596,8 @@
       "price": 2845000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Turismo R",
@@ -17886,7 +18621,8 @@
       "price": 500000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tyrant",
@@ -17910,7 +18646,8 @@
       "price": 2515000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tyrus",
@@ -17937,7 +18674,8 @@
       "price": 2550000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vacca",
@@ -17965,7 +18703,8 @@
       "price": 240000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vagner",
@@ -17989,7 +18728,8 @@
       "price": 1535000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vigilante",
@@ -18016,7 +18756,10 @@
       "use_case": [
         "combat",
         "fun"
-      ]
+      ],
+      "grinding_tier": "skip",
+      "meta_note": "Fast jet-powered car with missiles but no grind utility. Pure fun vehicle.",
+      "storage_type": "garage"
     },
     {
       "name": "Virtue",
@@ -18044,7 +18787,8 @@
       "trade_price": 2235000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Visione",
@@ -18068,7 +18812,8 @@
       "price": 2250000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Voltic",
@@ -18092,7 +18837,8 @@
       "price": 150000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Weaponized Ignus",
@@ -18120,7 +18866,8 @@
       "price": 4500000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "X-treme",
@@ -18148,7 +18895,8 @@
       "use_case": [
         "racing",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "X80 Proto",
@@ -18173,7 +18921,8 @@
       "use_case": [
         "collector",
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "XA-21",
@@ -18200,7 +18949,8 @@
       "price": 2375000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zeno",
@@ -18224,7 +18974,8 @@
       "price": 2820000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zentorno",
@@ -18251,7 +19002,8 @@
       "price": 725000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Zorrusso",
@@ -18278,7 +19030,8 @@
       "price": 1925000,
       "use_case": [
         "racing"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Aleutian",
@@ -18307,7 +19060,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Astron",
@@ -18331,7 +19085,8 @@
       "price": 1580000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Astron Custom",
@@ -18358,7 +19113,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller",
@@ -18380,7 +19136,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "removed_from_stores": true
     },
     {
       "name": "Baller LE",
@@ -18408,7 +19165,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller LE (Armored)",
@@ -18436,7 +19194,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller LE LWB",
@@ -18465,7 +19224,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller LE LWB (Armored)",
@@ -18493,7 +19253,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller ST",
@@ -18518,7 +19279,8 @@
       "trade_price": 667500,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Baller ST-D",
@@ -18547,7 +19309,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "BeeJay XL",
@@ -18572,7 +19335,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Castigator",
@@ -18597,7 +19361,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cavalcade",
@@ -18621,7 +19386,8 @@
       "price": 60000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Cavalcade XL",
@@ -18649,7 +19415,8 @@
       "use_case": [
         "transport",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Contender",
@@ -18677,7 +19444,8 @@
       "use_case": [
         "transport",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dorado",
@@ -18702,7 +19470,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Dubsta",
@@ -18752,7 +19521,8 @@
       "use_case": [
         "transport",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "FQ 2",
@@ -18776,7 +19546,8 @@
       "price": 50000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Granger",
@@ -18801,7 +19572,8 @@
       "use_case": [
         "transport",
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Granger 3600LX",
@@ -18830,7 +19602,8 @@
       "trade_price": 1500000,
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Gresley",
@@ -18854,7 +19627,8 @@
       "price": 29000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Habanero",
@@ -18878,7 +19652,8 @@
       "price": 42000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Huntley S",
@@ -18903,7 +19678,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "I-Wagen",
@@ -18927,7 +19703,8 @@
       "price": 1729000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Issi Rally",
@@ -18954,7 +19731,8 @@
       "use_case": [
         "racing",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Jubilee",
@@ -18985,7 +19763,8 @@
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,237,500) unlocks after completing 20 Security Contracts as leader.",
       "use_case": [
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Landstalker",
@@ -19010,7 +19789,8 @@
       "use_case": [
         "transport",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Landstalker XL",
@@ -19034,7 +19814,8 @@
       "price": 1220000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Mesa",
@@ -19077,7 +19858,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Patriot",
@@ -19107,7 +19889,8 @@
       "use_case": [
         "off-road",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Patriot Stretch",
@@ -19133,7 +19916,8 @@
       "use_case": [
         "fun",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Radius",
@@ -19157,7 +19941,8 @@
       "price": 32000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rebla GTS",
@@ -19182,7 +19967,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rocoto",
@@ -19206,7 +19992,8 @@
       "price": 85000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Seminole",
@@ -19230,7 +20017,8 @@
       "price": 30000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Seminole Frontier",
@@ -19255,7 +20043,8 @@
       "use_case": [
         "off-road",
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Serrano",
@@ -19279,7 +20068,8 @@
       "price": 60000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Squaddie",
@@ -19305,7 +20095,8 @@
       "use_case": [
         "off-road",
         "fun"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Toros",
@@ -19330,7 +20121,8 @@
       "use_case": [
         "combat",
         "off-road"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Vivanite",
@@ -19357,7 +20149,8 @@
       "use_case": [
         "transport",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Woodlander",
@@ -19387,7 +20180,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "XLS",
@@ -19416,7 +20210,8 @@
         "transport",
         "collector",
         "combat"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "XLS (Armored)",
@@ -19444,7 +20239,8 @@
       "use_case": [
         "combat",
         "collector"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Airtug",
@@ -19651,7 +20447,8 @@
       "price": 810000,
       "use_case": [
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Lawn Mower",
@@ -19703,7 +20500,10 @@
       "unlock_condition_note": "Requires owning a Bunker. Also serves as the upgrade bay for Mk II weapons.",
       "use_case": [
         "utility"
-      ]
+      ],
+      "grinding_tier": "C",
+      "meta_note": "Research and weapon customization hub. Required for some vehicle upgrades but very slow.",
+      "storage_type": "property"
     },
     {
       "name": "Ripley",
@@ -19748,7 +20548,8 @@
       "price": 35000,
       "use_case": [
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Scrap Truck",
@@ -19793,7 +20594,8 @@
       "price": 1310000,
       "use_case": [
         "utility"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Tow Truck",
@@ -19895,7 +20697,8 @@
       "trade_price": 975000,
       "use_case": [
         "grinding"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bison",
@@ -19919,7 +20722,8 @@
       "price": 30000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bobcat XL",
@@ -19943,7 +20747,8 @@
       "price": 23000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Boxville",
@@ -19989,7 +20794,8 @@
       "trade_price": 356250,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Bugstars Burrito",
@@ -20014,7 +20820,8 @@
       "trade_price": 450000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Burrito",
@@ -20099,7 +20906,8 @@
       "trade_price": 65000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Journey",
@@ -20124,7 +20932,8 @@
       "price": 15000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Journey II",
@@ -20149,7 +20958,8 @@
       "trade_price": 592500,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Minivan",
@@ -20174,7 +20984,8 @@
       "price": 30000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Minivan Custom",
@@ -20200,7 +21011,8 @@
       "price": 330000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Paradise",
@@ -20224,7 +21036,8 @@
       "price": 25000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Pony",
@@ -20269,7 +21082,8 @@
       "price": 13000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Rumpo Custom",
@@ -20295,7 +21109,8 @@
       "price": 130000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Speedo",
@@ -20319,7 +21134,8 @@
       "price": 15000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Speedo Custom",
@@ -20348,7 +21164,10 @@
       "use_case": [
         "transport",
         "grinding"
-      ]
+      ],
+      "grinding_tier": "A",
+      "meta_note": "Required for MC Cocaine/Meth/Cash sell missions. If you run MC businesses, you'll use this.",
+      "storage_type": "property"
     },
     {
       "name": "Surfer",
@@ -20373,7 +21192,8 @@
       "price": 11000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Surfer Custom",
@@ -20398,7 +21218,8 @@
       "trade_price": 442500,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Taco Van",
@@ -20423,7 +21244,8 @@
       "trade_price": 258750,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Youga",
@@ -20448,7 +21270,8 @@
       "price": 16000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Youga Classic",
@@ -20473,7 +21296,8 @@
       "price": 195000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Youga Classic 4x4",
@@ -20499,7 +21323,8 @@
       "price": 1288000,
       "use_case": [
         "transport"
-      ]
+      ],
+      "storage_type": "garage"
     },
     {
       "name": "Youga Custom",
