@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:02:46.652Z",
+  "generated_at": "2026-04-09T07:15:21.575Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -536,7 +536,8 @@
         "combat"
       ],
       "grinding_tier": "C",
-      "meta_verdict": "Arena-only Cerberus truck with post-apoc weaponry — the heaviest Arena vehicle, locked behind Arena Points."
+      "meta_verdict": "Arena-only Cerberus truck with post-apoc weaponry — the heaviest Arena vehicle, locked behind Arena Points.",
+      "storage_type": "none"
     },
     {
       "name": "Benson",
@@ -610,7 +611,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Biff heavy truck — unarmed commercial hauler with special acquisition and zero competitive use."
+      "meta_verdict": "The Biff heavy truck — unarmed commercial hauler with special acquisition and zero competitive use.",
+      "storage_type": "none"
     },
     {
       "name": "Bobcat Security Stockade",
@@ -831,7 +833,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Packer car transporter — special acquisition, used in stunt setups and vehicle transport missions."
+      "meta_verdict": "The Packer car transporter — special acquisition, used in stunt setups and vehicle transport missions.",
+      "storage_type": "none"
     },
     {
       "name": "Phantom",
@@ -2189,7 +2192,8 @@
         "fun"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Fixed-gear hipster bike; style-forward, gear-backward."
+      "meta_verdict": "Fixed-gear hipster bike; style-forward, gear-backward.",
+      "storage_type": "none"
     },
     {
       "name": "Inductor",
@@ -2353,7 +2357,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Paramedic flex; saves lives more than it costs money, usually."
+      "meta_verdict": "Paramedic flex; saves lives more than it costs money, usually.",
+      "storage_type": "none"
     },
     {
       "name": "Buffalo Cruiser",
@@ -2592,7 +2597,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The FIB federal vehicle — special acquisition only, government aesthetic without the government clearance."
+      "meta_verdict": "The FIB federal vehicle — special acquisition only, government aesthetic without the government clearance.",
+      "storage_type": "none"
     },
     {
       "name": "Fire Truck",
@@ -2771,6 +2777,7 @@
       ],
       "grinding_tier": "skip",
       "meta_verdict": "Beach patrol truck; pure novelty and summer vibes.",
+      "storage_type": "none",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
       "removal_date": "2023-06-13"
@@ -2885,7 +2892,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The classic LSPD cruiser — acquirable through specific methods, collector and roleplay value only."
+      "meta_verdict": "The classic LSPD cruiser — acquirable through specific methods, collector and roleplay value only.",
+      "storage_type": "none"
     },
     {
       "name": "Police Prison Bus",
@@ -2937,7 +2945,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Police Rancher SUV — law enforcement throwback with special acquisition only."
+      "meta_verdict": "Police Rancher SUV — law enforcement throwback with special acquisition only.",
+      "storage_type": "none"
     },
     {
       "name": "Police Riot",
@@ -2990,7 +2999,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Police Roadcruiser — the marked police sedan with no direct purchase path; special acquisition only."
+      "meta_verdict": "Police Roadcruiser — the marked police sedan with no direct purchase path; special acquisition only.",
+      "storage_type": "none"
     },
     {
       "name": "Police Transporter",
@@ -3014,7 +3024,8 @@
         "fun"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Police Transporter — prisoner transport van with no direct purchase; roleplay and content creation territory."
+      "meta_verdict": "Police Transporter — prisoner transport van with no direct purchase; roleplay and content creation territory.",
+      "storage_type": "none"
     },
     {
       "name": "RCV",
@@ -3068,7 +3079,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Sheriff's Department cruiser — special acquisition, zero competitive use, full roleplay value."
+      "meta_verdict": "Sheriff's Department cruiser — special acquisition, zero competitive use, full roleplay value.",
+      "storage_type": "none"
     },
     {
       "name": "Sheriff SUV",
@@ -3092,7 +3104,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Sheriff SUV — law enforcement off-road vehicle with special acquisition only."
+      "meta_verdict": "Sheriff SUV — law enforcement off-road vehicle with special acquisition only.",
+      "storage_type": "none"
     },
     {
       "name": "Stanier LE Cruiser",
@@ -4020,7 +4033,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Custom Flatbed — industrial hauler for missions and content creation; no competitive use."
+      "meta_verdict": "Custom Flatbed — industrial hauler for missions and content creation; no competitive use.",
+      "storage_type": "none"
     },
     {
       "name": "Cutter",
@@ -4043,7 +4057,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Cutter road-paving machine — exists for completionists and content creators only."
+      "meta_verdict": "The Cutter road-paving machine — exists for completionists and content creators only.",
+      "storage_type": "none"
     },
     {
       "name": "Dock Handler",
@@ -4066,7 +4081,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Dock Handler port vehicle — special acquisition, zero competitive or grinding relevance."
+      "meta_verdict": "Dock Handler port vehicle — special acquisition, zero competitive or grinding relevance.",
+      "storage_type": "none"
     },
     {
       "name": "Dozer",
@@ -4089,7 +4105,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Dozer bulldozer — a GTA Online tradition since the original game; still just a bulldozer."
+      "meta_verdict": "The Dozer bulldozer — a GTA Online tradition since the original game; still just a bulldozer.",
+      "storage_type": "none"
     },
     {
       "name": "Dump",
@@ -4140,7 +4157,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Flatbed truck — heavy transport for missions and heist setups; special acquisition."
+      "meta_verdict": "The Flatbed truck — heavy transport for missions and heist setups; special acquisition.",
+      "storage_type": "none"
     },
     {
       "name": "Guardian",
@@ -4190,7 +4208,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Mixer cement truck — construction vehicle for content creators and mission runners."
+      "meta_verdict": "The Mixer cement truck — construction vehicle for content creators and mission runners.",
+      "storage_type": "none"
     },
     {
       "name": "Rubble",
@@ -4213,7 +4232,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Rubble garbage truck — industrial class entry for collectors who want every vehicle ticked."
+      "meta_verdict": "The Rubble garbage truck — industrial class entry for collectors who want every vehicle ticked.",
+      "storage_type": "none"
     },
     {
       "name": "Tipper",
@@ -4236,7 +4256,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Tipper dump truck — heavy industrial hauler with zero practical GTA Online application beyond owning it."
+      "meta_verdict": "The Tipper dump truck — heavy industrial hauler with zero practical GTA Online application beyond owning it.",
+      "storage_type": "none"
     },
     {
       "name": "Anti-Aircraft Trailer",
@@ -4377,7 +4398,8 @@
         "combat"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Semi-truck variant of the Barracks — larger, slower, equally unarmed and equally niche."
+      "meta_verdict": "Semi-truck variant of the Barracks — larger, slower, equally unarmed and equally niche.",
+      "storage_type": "none"
     },
     {
       "name": "Barrage",
@@ -14104,7 +14126,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Sightseeing bus for GTA tourists; roleplay and content creation."
+      "meta_verdict": "Sightseeing bus for GTA tourists; roleplay and content creation.",
+      "storage_type": "none"
     },
     {
       "name": "Trashmaster",
@@ -14124,7 +14147,8 @@
         "transport"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Garbage truck; waste management roleplay and occasional mission use."
+      "meta_verdict": "Garbage truck; waste management roleplay and occasional mission use.",
+      "storage_type": "none"
     },
     {
       "name": "Wastelander",
@@ -22304,7 +22328,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "D-tier airport tug — surreally fast for what it is; a workers-only vehicle hiding legitimate racing stats."
+      "meta_verdict": "D-tier airport tug — surreally fast for what it is; a workers-only vehicle hiding legitimate racing stats.",
+      "storage_type": "none"
     },
     {
       "name": "Army Trailer",
@@ -22324,7 +22349,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Army Trailer — towed equipment carrier for military logistics; not a vehicle in any meaningful sense."
+      "meta_verdict": "Army Trailer — towed equipment carrier for military logistics; not a vehicle in any meaningful sense.",
+      "storage_type": "none"
     },
     {
       "name": "Baletrailer",
@@ -22347,7 +22373,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Baletrailer — hay transport attachment that completes the agricultural vehicle collection."
+      "meta_verdict": "Baletrailer — hay transport attachment that completes the agricultural vehicle collection.",
+      "storage_type": "none"
     },
     {
       "name": "Boat Trailer",
@@ -22367,7 +22394,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Boat Trailer — towed marine transport; pairs with the Docktug for complete marina roleplay."
+      "meta_verdict": "Boat Trailer — towed marine transport; pairs with the Docktug for complete marina roleplay.",
+      "storage_type": "none"
     },
     {
       "name": "Caddy",
@@ -22387,7 +22415,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Caddy golf cart — for Vinewood Hills leisure and absolutely nothing competitive."
+      "meta_verdict": "The Caddy golf cart — for Vinewood Hills leisure and absolutely nothing competitive.",
+      "storage_type": "none"
     },
     {
       "name": "Docktug",
@@ -22410,7 +22439,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Docktug port tractor — specialized towing vehicle for the marina and airport crowd."
+      "meta_verdict": "The Docktug port tractor — specialized towing vehicle for the marina and airport crowd.",
+      "storage_type": "none"
     },
     {
       "name": "Fieldmaster",
@@ -22433,7 +22463,8 @@
         "utility"
       ],
       "grinding_tier": "C",
-      "meta_verdict": "C-tier tractor — the Fieldmaster is inexplicably competitive for a farm vehicle; only in GTA Online."
+      "meta_verdict": "C-tier tractor — the Fieldmaster is inexplicably competitive for a farm vehicle; only in GTA Online.",
+      "storage_type": "none"
     },
     {
       "name": "Forklift",
@@ -22456,7 +22487,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Forklift — exists for warehouse missions and completionists; occasionally used to annoy other players."
+      "meta_verdict": "The Forklift — exists for warehouse missions and completionists; occasionally used to annoy other players.",
+      "storage_type": "none"
     },
     {
       "name": "Graintrailer",
@@ -22479,7 +22511,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Graintrailer — agricultural trailer that pairs with the tractor; roleplay and completionist territory only."
+      "meta_verdict": "Graintrailer — agricultural trailer that pairs with the tractor; roleplay and completionist territory only.",
+      "storage_type": "none"
     },
     {
       "name": "Keitora",
@@ -22532,7 +22565,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "E-tier Lawn Mower — GTA Online's most absurd racing vehicle classification; mows grass and somehow races."
+      "meta_verdict": "E-tier Lawn Mower — GTA Online's most absurd racing vehicle classification; mows grass and somehow races.",
+      "storage_type": "none"
     },
     {
       "name": "Mobile Operations Center",
@@ -22590,7 +22624,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Ripley aircraft tow vehicle — airport ground crew special; tows planes, impresses nobody."
+      "meta_verdict": "The Ripley aircraft tow vehicle — airport ground crew special; tows planes, impresses nobody.",
+      "storage_type": "none"
     },
     {
       "name": "Sadler",
@@ -22640,7 +22675,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Scrap Truck — junkyard collector vehicle for the dedicated completionist; no other use case."
+      "meta_verdict": "The Scrap Truck — junkyard collector vehicle for the dedicated completionist; no other use case.",
+      "storage_type": "none"
     },
     {
       "name": "Slamtruck",
@@ -22687,7 +22723,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Tow Truck — roadside recovery vehicle for missions and roleplay; occasionally weaponized to grief other players."
+      "meta_verdict": "Tow Truck — roadside recovery vehicle for missions and roleplay; occasionally weaponized to grief other players.",
+      "storage_type": "none"
     },
     {
       "name": "Tractor",
@@ -22710,7 +22747,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "The Tractor — agricultural vehicle for farm roleplay and the truly committed completionist."
+      "meta_verdict": "The Tractor — agricultural vehicle for farm roleplay and the truly committed completionist.",
+      "storage_type": "none"
     },
     {
       "name": "Trailer",
@@ -22730,7 +22768,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Trailer — a box you tow behind things; utility gaming at its most literal."
+      "meta_verdict": "Trailer — a box you tow behind things; utility gaming at its most literal.",
+      "storage_type": "none"
     },
     {
       "name": "Utility Truck",
@@ -22750,7 +22789,8 @@
         "utility"
       ],
       "grinding_tier": "skip",
-      "meta_verdict": "Utility Truck — maintenance vehicle for GTA Online's infrastructure; no personal use case beyond owning it."
+      "meta_verdict": "Utility Truck — maintenance vehicle for GTA Online's infrastructure; no personal use case beyond owning it.",
+      "storage_type": "none"
     },
     {
       "name": "Armored Boxville",
