@@ -250,7 +250,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Woodlander \u2014 capable mid-range SUV that sits comfortably in the competitive middle of the class."
   },
   "Everon RS": {
     "price": 1665000,
@@ -258,7 +259,8 @@
       "transport",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Everon RS \u2014 top-flight SUV racer with the performance to match its premium position."
   },
   "Outreach Faction": {
     "price": 4150000,
@@ -420,7 +422,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Castigator joins the SUV elite \u2014 competitive from the moment it launched."
   },
   "Impaler SZ Cruiser": {
     "price": 4720000,
@@ -524,7 +527,8 @@
       "transport",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Cavalcade XL \u2014 the large Escalade-style SUV that trades size for racing relevance."
   },
   "Baller ST-D": {
     "price": 1715000,
@@ -533,7 +537,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Baller that dominates SUV racing \u2014 the class benchmark and the obvious first purchase."
   },
   "Terminus": {
     "price": 1877500,
@@ -550,7 +555,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Dorado at $1.375M \u2014 mid-pack SUV that doesn't justify the premium price tag."
   },
   "Impaler SZ": {
     "price": 1280000,
@@ -608,7 +614,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Vivanite \u2014 competitive upper-mid SUV with a solid racing pedigree and a fair price."
   },
   "Asterope GZ": {
     "price": 459000,
@@ -624,7 +631,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Aleutian at $1.835M \u2014 expensive for an E-tier finish; handsome styling can't disguise the tier."
   },
   "Turismo Omaggio": {
     "price": 2845000,
@@ -766,7 +774,8 @@
       "racing",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Issi Rally \u2014 the rally-spec Issi classified as SUV, surprisingly competitive for its size."
   },
   "Virtue": {
     "price": 2980000,
@@ -1041,7 +1050,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Astron Custom \u2014 the upgraded variant with better performance and an appropriately higher price tag."
   },
   "Arbiter GT": {
     "price": 1580000,
@@ -1066,14 +1076,16 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier armored Granger 3600LX at $2M \u2014 protection over performance; the Escalade of combat SUVs."
   },
   "I-Wagen": {
     "price": 1729000,
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier I-Wagen at $1.729M \u2014 electric SUV with actual racing credentials, just not quite A-tier ones."
   },
   "Patriot Mil-Spec": {
     "price": 1710000,
@@ -1090,7 +1102,8 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Baller ST \u2014 strong competitive SUV, one step below the ST-D but still elite class."
   },
   "Reever": {
     "price": 1900000,
@@ -1169,7 +1182,8 @@
     "use_case": [
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Astron at $1.58M \u2014 strong upper-class SUV racer, worth the investment for competitive play."
   },
   "Champion": {
     "price": 3750000,
@@ -1197,7 +1211,8 @@
     "stores": [
       "Legendary Motorsport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Jubilee \u2014 Imani Tech SUV where the gadgets justify what the tier position doesn't."
   },
   "Previon": {
     "price": 1490000,
@@ -1454,7 +1469,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Squaddie at $1.13M \u2014 military-style SUV that looks tough and races accordingly."
   },
   "Toreador": {
     "price": 4250000,
@@ -1620,7 +1636,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Seminole Frontier \u2014 lifted SUV variant removed before it built a fanbase."
   },
   "Landstalker XL": {
     "price": 1220000,
@@ -1630,7 +1647,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Landstalker XL \u2014 large family SUV taken with the SAM cull."
   },
   "Penumbra FF": {
     "price": 1380000,
@@ -1783,7 +1801,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Rebla GTS at $1.175M \u2014 AMG GLE-style SUV that earns its racing credentials honestly."
   },
   "Komoda": {
     "price": 1700000,
@@ -1894,7 +1913,8 @@
       "transport",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Novak at $608K \u2014 well-priced competitive SUV that punches at the top of its class."
   },
   "Zorrusso": {
     "price": 1925000,
@@ -2141,7 +2161,8 @@
       "combat",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The Toros delivers S-tier SUV racing at $498K \u2014 the best value proposition in the class."
   },
   "Impaler": {
     "price": 331835,
@@ -2250,7 +2271,8 @@
       "fun",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "M-tier Patriot Stretch at $611K \u2014 the stretched limo Hummer; equally slow, considerably longer."
   },
   "Pounder Custom": {
     "price": 320530,
@@ -2951,7 +2973,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. D-tier XLS Armored \u2014 bullet-resistant SUV taken by the cull, no replacement offered."
   },
   "XLS": {
     "price": 253000,
@@ -2963,7 +2986,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier XLS \u2014 the unarmored base version, outclassed before and after removal."
   },
   "Serrano": {
     "price": 60000,
@@ -2973,7 +2997,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Serrano \u2014 compact SUV that came and went without leaving a mark."
   },
   "Seminole": {
     "price": 30000,
@@ -2983,7 +3008,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. L-tier Seminole \u2014 the base before the Frontier, gone with both SAM and relevance."
   },
   "Rocoto": {
     "price": 85000,
@@ -2993,7 +3019,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Rocoto \u2014 the Toyota RAV4 tribute that left without fanfare."
   },
   "Radius": {
     "price": 32000,
@@ -3003,7 +3030,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Radius \u2014 budget civilian SUV gone with the SAM cull, barely noticed."
   },
   "Patriot": {
     "price": 50000,
@@ -3014,7 +3042,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. M-tier Patriot \u2014 GTA Online's original Hummer tribute, retired after a long run."
   },
   "Landstalker": {
     "price": 58000,
@@ -3025,7 +3054,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Landstalker \u2014 GTA's original large SUV, retired by its own XL successor."
   },
   "Huntley S": {
     "price": 195000,
@@ -3033,7 +3063,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Huntley S \u2014 aged community favorite, still a bargain at $195K for what you get."
   },
   "Habanero": {
     "price": 42000,
@@ -3043,7 +3074,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Habanero \u2014 spicy name, plain SUV, gone with the update."
   },
   "Gresley": {
     "price": 29000,
@@ -3053,7 +3085,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier Gresley \u2014 mid-size SUV that left no legacy behind."
   },
   "Granger": {
     "price": 35000,
@@ -3064,7 +3097,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier base Granger \u2014 the iconic police SUV, gone from stores after SAM."
   },
   "FQ 2": {
     "price": 50000,
@@ -3074,7 +3108,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. J-tier FQ 2 \u2014 budget SUV from GTA Online's early era, correctly forgotten."
   },
   "Contender": {
     "price": 250000,
@@ -3082,7 +3117,8 @@
       "transport",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Contender at $250K \u2014 budget-priced SUV that over-delivers for its price point."
   },
   "Cavalcade": {
     "price": 60000,
@@ -3092,7 +3128,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier original Cavalcade \u2014 the Escalade OG, retired after years of loyal service."
   },
   "BeeJay XL": {
     "price": 27000,
@@ -3103,7 +3140,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier BeeJay XL \u2014 oversized luxury SUV parody that raced like it looked."
   },
   "Baller LE LWB (Armored)": {
     "price": 513000,
@@ -3111,7 +3149,8 @@
       "combat",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Baller LWB Armored \u2014 bulletproof at the cost of any remaining racing relevance."
   },
   "Baller LE LWB": {
     "price": 247000,
@@ -3120,7 +3159,8 @@
       "collector",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Baller LWB \u2014 long-wheelbase SUV that added length and subtracted lap time."
   },
   "Baller LE (Armored)": {
     "price": 374000,
@@ -3131,7 +3171,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Baller LE Armored \u2014 the armored variant taken alongside the base LE."
   },
   "Baller LE": {
     "price": 149000,
@@ -3143,7 +3184,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Baller LE \u2014 the Luxury Edition that couldn't hold its tier before removal."
   },
   "Zentorno": {
     "price": 725000,
@@ -6646,7 +6688,8 @@
     ],
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed military Mesa with no price or tier \u2014 gone from stores, barely in the records."
   },
   "Stanier LE Cruiser": {
     "stores": [
@@ -7575,13 +7618,15 @@
     "removed_from_stores": true,
     "_removal_note": "Removed from Southern SA Super Autos in San Andreas Mercenaries update (June 2023).",
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier base Baller \u2014 the original luxury SUV that launched an entire lineage."
   },
   "Dubsta": {
     "use_case": [
       "off-road",
       "collector"
     ],
-    "_note": "Event-only: briefly available at PDM during Junk Energy Skydives Week. Not in standard rotation."
+    "_note": "Event-only: briefly available at PDM during Junk Energy Skydives Week. Not in standard rotation.",
+    "meta_verdict": "H-tier Dubsta with no listed price \u2014 G-Wagon-style SUV with special acquisition and H-tier results."
   }
 }
