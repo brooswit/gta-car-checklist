@@ -175,6 +175,13 @@
   .tier-F { background:#3a1a0a; color:#ff9800; border:1px solid #ff9800; }
   .tier-G { background:#3a0a0a; color:#ff5722; border:1px solid #ff5722; }
   .tier-low { background:#2a0a0a; color:#888; border:1px solid #444; }
+  /* Grinding tier badge */
+  .grind-badge { display:inline-block; padding:1px 6px; border-radius:3px; font-size:0.6rem; font-weight:700; letter-spacing:0.5px; margin:1px 2px 1px 0; }
+  .grind-S    { background:#2a1500; color:#f80;  border:1px solid #f80; }
+  .grind-A    { background:#1a2a00; color:#9d4;  border:1px solid #9d4; }
+  .grind-B    { background:#002a3a; color:#6af;  border:1px solid #6af; }
+  .grind-C    { background:#222;    color:#888;  border:1px solid #555; }
+  .grind-skip { background:#2a0a0a; color:#744;  border:1px solid #522; text-decoration:line-through; }
   /* Use case chips */
   .use-case-chips { display:flex; flex-wrap:wrap; gap:3px; padding:0 0.6rem 0.4rem; }
   .uc-chip { display:inline-block; padding:1px 5px; border-radius:10px; font-size:0.5rem; font-weight:600; text-transform:uppercase; letter-spacing:0.3px; }
@@ -233,6 +240,14 @@
     <select id="classFilter"><option value="">All Classes</option></select>
     <select id="storeFilter"><option value="">All Stores</option></select>
     <select id="mfgFilter"><option value="">All Manufacturers</option></select>
+    <select id="grindFilter">
+      <option value="">All Grind Tiers</option>
+      <option value="S">S — Must-grind</option>
+      <option value="A">A — Very good</option>
+      <option value="B">B — Solid</option>
+      <option value="C">C — Situational</option>
+      <option value="skip">Skip</option>
+    </select>
     <button class="filter-btn" id="showAll">All</button>
     <button class="filter-btn" id="showOwned">Owned</button>
     <button class="filter-btn" id="showMissing">Missing</button>
@@ -296,6 +311,7 @@ let sortOrder = 'class';
 let minPrice = null;
 let maxPrice = null;
 let mfgFilter = '';
+let grindFilter = '';
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -323,6 +339,7 @@ function pushHash() {
   if (useCaseFilter) params.set('uc', useCaseFilter);
   if (filter) params.set('own', filter);
   if (sortOrder && sortOrder !== 'class') params.set('sort', sortOrder);
+  if (grindFilter) params.set('grind', grindFilter);
   if (minPrice !== null) params.set('minp', minPrice);
   if (maxPrice !== null) params.set('maxp', maxPrice);
   const str = params.toString();
@@ -348,7 +365,8 @@ function restoreFromHash() {
     document.getElementById(btnId).classList.add('active');
   }
   if (params.has('sort')) { sortOrder = params.get('sort'); document.getElementById('sortOrder').value = sortOrder; }
-  if (params.has('minp')) { minPrice = Number(params.get('minp')); document.getElementById('minPrice').value = minPrice; }
+  if (params.has('grind')) { grindFilter = params.get('grind'); document.getElementById('grindFilter').value = grindFilter; }
+    if (params.has('minp')) { minPrice = Number(params.get('minp')); document.getElementById('minPrice').value = minPrice; }
   if (params.has('maxp')) { maxPrice = Number(params.get('maxp')); document.getElementById('maxPrice').value = maxPrice; }
 }
 
@@ -365,13 +383,14 @@ function render() {
     const matchClass = !classVal || v.Class === classVal;
     const matchStore = !storeVal || (v.stores && v.stores.includes(storeVal));
     const matchMfg = !mfgFilter || (v.ManufacturerDisplayName?.English || '') === mfgFilter;
+    const matchGrind = !grindFilter || v.grinding_tier === grindFilter;
     const isOwned = owned.has(v.Hash);
     const matchFilter = !filter || (filter === 'owned' && isOwned) || (filter === 'missing' && !isOwned);
     const matchUseCase = !useCaseFilter || (v.use_case || []).includes(useCaseFilter);
     const price = v.price ?? null;
     const priceActive = minPrice !== null || maxPrice !== null;
     const matchPrice = !priceActive || (price !== null && (minPrice === null || price >= minPrice) && (maxPrice === null || price <= maxPrice));
-    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice;
+    return matchSearch && matchClass && matchStore && matchMfg && matchFilter && matchUseCase && matchPrice && matchGrind;
   });
 
   const groups = {};
@@ -435,18 +454,21 @@ function render() {
             if (f.includes('Service Vehicle')) badges.push('<span class="feat-badge feat-service">Service</span>');
             return badges.length ? '<div class="car-features">' + badges.join('') + '</div>' : '';
           })(v.features || []) +
-          (function(tier, topSpeed, uc) {
+          (function(tier, topSpeed, uc, gt) {
             var out = '';
+            var badges = '';
             if (tier) {
               var tierCls = tier === 'S' ? 'tier-S' : (tier >= 'A' && tier <= 'G') ? 'tier-' + tier : 'tier-low';
               var label = tier + (topSpeed ? ' · ' + Math.round(topSpeed) + 'mph' : '');
-              out += '<div class="car-features"><span class="tier-badge ' + tierCls + '">' + label + '</span></div>';
+              badges += '<span class="tier-badge ' + tierCls + '">' + label + '</span>';
             }
+            if (gt) badges += '<span class="grind-badge grind-' + gt + '">Grind ' + gt + '</span>';
+            if (badges) out += '<div class="car-features">' + badges + '</div>';
             if (uc && uc.length) {
               out += '<div class="use-case-chips">' + uc.map(function(u) { return '<span class="uc-chip uc-' + u + '">' + u + '</span>'; }).join('') + '</div>';
             }
             return out;
-          })(v.racing_tier, v.top_speed_mph, v.use_case) +
+          })(v.racing_tier, v.top_speed_mph, v.use_case, v.grinding_tier) +
           (function(stats) {
             if (!stats || stats.every(function(s) { return s == null; })) return '';
             var labels = ['Acc','Brk','Trc','Hdl'];
@@ -524,6 +546,7 @@ function openModal(hash) {
       (featBadges ? '<div class="modal-section"><div class="modal-label">Features</div><div class="car-features">' + featBadges + '</div></div>' : '') +
       (ucChips ? '<div class="modal-section"><div class="modal-label">Use Case</div><div class="use-case-chips">' + ucChips + '</div></div>' : '') +
       (racingParts.length ? '<div class="modal-section"><div class="modal-label">Racing</div><div class="modal-racing">' + racingParts.join(' &nbsp;·&nbsp; ') + '</div></div>' : '') +
+      (v.grinding_tier ? '<div class="modal-section"><div class="modal-label">Grinding</div><div class="modal-racing"><span class="grind-badge grind-' + v.grinding_tier + '">Tier ' + v.grinding_tier + '</span>' + (v.meta_note ? '<div style="font-size:0.78rem;color:#aaa;margin-top:6px">' + v.meta_note + '</div>' : '') + '</div></div>' : '') +
       (statBars ? '<div class="modal-section"><div class="modal-label">Stats</div>' + statBars + '</div>' : '') +
     '</div>';
 
@@ -582,6 +605,11 @@ document.getElementById('mfgFilter').addEventListener('change', e => {
   render();
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'manufacturer', value: e.target.value }));
 });
+document.getElementById('grindFilter').addEventListener('change', e => {
+  grindFilter = e.target.value;
+  render();
+  ldReady.then(() => ldClient.track('filter-changed', { filterType: 'grind', value: e.target.value }));
+});
 
 ['minPrice', 'maxPrice'].forEach(id => {
   document.getElementById(id).addEventListener('input', () => {
@@ -601,6 +629,7 @@ document.getElementById('resetFilters').addEventListener('click', () => {
   document.getElementById('classFilter').value = '';
   document.getElementById('storeFilter').value = '';
   document.getElementById('mfgFilter').value = ''; mfgFilter = '';
+  document.getElementById('grindFilter').value = ''; grindFilter = '';
   document.getElementById('minPrice').value = '';
   document.getElementById('maxPrice').value = '';
   minPrice = null; maxPrice = null;
