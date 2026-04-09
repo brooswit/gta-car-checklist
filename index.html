@@ -187,6 +187,11 @@
   .uc-collector{ background:#2a0a2a; color:#c6c; border:1px solid #5a2a5a; }
   .uc-fun      { background:#2a2a0a; color:#fc6; border:1px solid #5a5a2a; }
   .filter-btn.uc-active { outline:2px solid #f5c518; }
+  .price-filter { display:inline-flex; align-items:center; gap:4px; }
+  .price-filter input { background:#1a1a2e; border:1px solid #333; border-radius:4px; color:#ccc; font-size:0.75rem; padding:3px 6px; width:90px; }
+  .price-filter input::placeholder { color:#555; }
+  .price-filter span { color:#666; font-size:0.75rem; }
+  .car-price { font-size:0.65rem; color:#888; padding:0 0.6rem 0.3rem; }
   .hidden { display: none; }
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
@@ -203,6 +208,12 @@
     <button class="filter-btn" id="showAll">All</button>
     <button class="filter-btn" id="showOwned">Owned</button>
     <button class="filter-btn" id="showMissing">Missing</button>
+    <div class="price-filter">
+      <span>$</span>
+      <input type="number" id="minPrice" placeholder="Min" min="0" step="1000">
+      <span>–</span>
+      <input type="number" id="maxPrice" placeholder="Max" min="0" step="1000">
+    </div>
     <select id="sortOrder">
       <option value="class">Sort: Class</option>
       <option value="laptime">Sort: Fastest (lap time)</option>
@@ -242,6 +253,8 @@ let owned = new Set(JSON.parse(localStorage.getItem('gtaOwnedCars') || '[]'));
 let filter = '';
 let useCaseFilter = null;
 let sortOrder = 'class';
+let minPrice = null;
+let maxPrice = null;
 
 function saveOwned() {
   localStorage.setItem('gtaOwnedCars', JSON.stringify([...owned]));
@@ -272,7 +285,10 @@ function render() {
     const isOwned = owned.has(v.Hash);
     const matchFilter = !filter || (filter === 'owned' && isOwned) || (filter === 'missing' && !isOwned);
     const matchUseCase = !useCaseFilter || (v.use_case || []).includes(useCaseFilter);
-    return matchSearch && matchClass && matchStore && matchFilter && matchUseCase;
+    const price = v.price ?? null;
+    const priceActive = minPrice !== null || maxPrice !== null;
+    const matchPrice = !priceActive || (price !== null && (minPrice === null || price >= minPrice) && (maxPrice === null || price <= maxPrice));
+    return matchSearch && matchClass && matchStore && matchFilter && matchUseCase && matchPrice;
   });
 
   const groups = {};
@@ -337,6 +353,7 @@ function render() {
           '<div class="car-info">' +
             '<div class="car-name">' + v.DisplayName.English + '</div>' +
             '<div class="car-mfg">' + (v.ManufacturerDisplayName?.English || '') + '</div>' +
+            (v.price ? '<div class="car-price">$' + v.price.toLocaleString() + '</div>' : '') +
             (v.stores && v.stores.length ? '<div class="car-store">' + v.stores.map(s => '<span class="store-tag' + (s === 'Premium Deluxe Motorsport' ? ' pdm' : '') + '">' + s + '</span>').join('') + '</div>' : '') +
           '</div>' +
           (function(f) {
@@ -400,6 +417,19 @@ document.getElementById('storeFilter').addEventListener('change', e => {
   ldReady.then(() => ldClient.track('filter-changed', { filterType: 'store', value: e.target.value }));
 });
 
+['minPrice', 'maxPrice'].forEach(id => {
+  document.getElementById(id).addEventListener('input', () => {
+    const minEl = document.getElementById('minPrice');
+    const maxEl = document.getElementById('maxPrice');
+    minPrice = minEl.value ? Number(minEl.value) : null;
+    maxPrice = maxEl.value ? Number(maxEl.value) : null;
+    render();
+    if (minPrice !== null || maxPrice !== null) {
+      ldReady.then(() => ldClient.track('filter-changed', { filterType: 'price', min: minPrice, max: maxPrice }));
+    }
+  });
+});
+
 document.getElementById('sortOrder').addEventListener('change', e => {
   sortOrder = e.target.value;
   render();
@@ -453,6 +483,7 @@ Promise.all([
         ...v,
         stores: patch?.stores || [],
         features: patch?.features || [],
+        price: patch?.price ?? null,
         racing_tier: patch?.racing_tier ?? null,
         racing_lap_time: patch?.racing_lap_time ?? null,
         top_speed_mph: patch?.top_speed_mph ?? null,
@@ -473,6 +504,7 @@ Promise.all([
       stores: p.stores,
       features: p.features,
       image: p.image,
+      price: p.price ?? null,
       racing_tier: p.racing_tier ?? null,
       racing_lap_time: p.racing_lap_time ?? null,
       top_speed_mph: p.top_speed_mph ?? null,

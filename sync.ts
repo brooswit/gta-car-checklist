@@ -16,6 +16,10 @@ interface DurtyFreeVehicle {
   ManufacturerDisplayName: Record<string, string> | null;
   Class: string;
   DlcName?: string;
+  Acceleration?: number;
+  MaxBraking?: number;
+  MaxTraction?: number;
+  Agility?: number;
   [key: string]: unknown;
 }
 
@@ -37,6 +41,10 @@ interface OutputVehicle {
   racing_tier?: string | null;
   racing_lap_time?: number | null;
   top_speed_mph?: number | null;
+  stat_acceleration?: number | null;
+  stat_braking?: number | null;
+  stat_traction?: number | null;
+  stat_handling?: number | null;
   source: string;
 }
 
@@ -287,6 +295,10 @@ interface Supplement {
   racing_tier?: string | null;
   racing_lap_time?: number | null;
   top_speed_mph?: number | null;
+  stat_acceleration?: number | null;
+  stat_braking?: number | null;
+  stat_traction?: number | null;
+  stat_handling?: number | null;
   image?: string;
   // For vehicles missing from DurtyFree:
   _missing_from_pipeline?: boolean;
@@ -299,6 +311,41 @@ interface Supplement {
   vehicleClass?: string;
   manufacturer?: string;
   features?: string[];  // complete list when _missing_from_pipeline
+}
+
+// ── Handling stat normalization ───────────────────────────────────────────────
+
+const STAT_FIELDS = ["Acceleration", "MaxBraking", "MaxTraction", "Agility"] as const;
+type StatField = typeof STAT_FIELDS[number];
+type StatRanges = Record<StatField, { min: number; max: number }>;
+
+// Classes excluded from normalization range calculation — aircraft and watercraft
+// use completely different physics scales (e.g. Raiju Acceleration=21.56 vs ground max=0.82)
+// and would compress all ground vehicle stats to near-zero.
+const STAT_RANGE_EXCLUDE_CLASSES = new Set(["PLANE", "HELICOPTER", "BOAT"]);
+
+function buildStatRanges(dfVehicles: DurtyFreeVehicle[]): StatRanges {
+  const ranges = {} as StatRanges;
+  for (const field of STAT_FIELDS) {
+    const values = dfVehicles
+      .filter(v => {
+        // Exclude aircraft and watercraft — they use different physics scales
+        if (STAT_RANGE_EXCLUDE_CLASSES.has(v.Class)) return false;
+        // Exclude Thruster (jetpack) — extreme outlier even among MILITARY class
+        if (v.Class === "MILITARY" && v.Name?.toLowerCase() === "thruster") return false;
+        const val = v[field] as number | undefined;
+        return typeof val === "number" && val > 0;
+      })
+      .map(v => v[field] as number);
+    ranges[field] = { min: Math.min(...values), max: Math.max(...values) };
+  }
+  return ranges;
+}
+
+function normalizeStatValue(value: number | undefined, range: { min: number; max: number }): number | null {
+  if (value === undefined || value === null || value <= 0) return null;
+  const normalized = (value - range.min) / (range.max - range.min);
+  return Math.round(Math.max(0, Math.min(1, normalized)) * 100);
 }
 
 // ── Main sync ─────────────────────────────────────────────────────────────────
@@ -477,6 +524,28 @@ async function sync() {
     console.log("No broughy-data.json found — skipping Broughy merge");
   }
 
+  // ── Apply DurtyFree handling stats ────────────────────────────────────────
+  console.log("Computing handling stats...");
+  const statRanges = buildStatRanges(dfVehicles);
+  const dfByHash = new Map(dfVehicles.map(v => [v.Hash, v]));
+  let statsApplied = 0;
+  for (const vehicle of vehicles) {
+    const df = dfByHash.get(vehicle.hash);
+    if (!df) {
+      vehicle.stat_acceleration = null;
+      vehicle.stat_braking = null;
+      vehicle.stat_traction = null;
+      vehicle.stat_handling = null;
+      continue;
+    }
+    vehicle.stat_acceleration = normalizeStatValue(df.Acceleration, statRanges["Acceleration"]);
+    vehicle.stat_braking      = normalizeStatValue(df.MaxBraking,   statRanges["MaxBraking"]);
+    vehicle.stat_traction     = normalizeStatValue(df.MaxTraction,  statRanges["MaxTraction"]);
+    vehicle.stat_handling     = normalizeStatValue(df.Agility,      statRanges["Agility"]);
+    if (vehicle.stat_acceleration !== null) statsApplied++;
+  }
+  console.log(`  Stats applied: ${statsApplied} vehicles`);
+
   // ── Apply supplements ─────────────────────────────────────────────────────
   const supplementsPath = import.meta.dir + "/supplements.json";
   const supplementsFile = Bun.file(supplementsPath);
@@ -513,6 +582,10 @@ async function sync() {
             racing_tier: sup.racing_tier,
             racing_lap_time: sup.racing_lap_time,
             top_speed_mph: sup.top_speed_mph,
+            stat_acceleration: sup.stat_acceleration,
+            stat_braking: sup.stat_braking,
+            stat_traction: sup.stat_traction,
+            stat_handling: sup.stat_handling,
             source: "supplement",
           };
           vehicles.push(newVehicle);
@@ -548,6 +621,10 @@ async function sync() {
         if (sup.racing_tier !== undefined) existing.racing_tier = sup.racing_tier;
         if (sup.racing_lap_time !== undefined) existing.racing_lap_time = sup.racing_lap_time;
         if (sup.top_speed_mph !== undefined) existing.top_speed_mph = sup.top_speed_mph;
+        if (sup.stat_acceleration !== undefined) existing.stat_acceleration = sup.stat_acceleration;
+        if (sup.stat_braking !== undefined) existing.stat_braking = sup.stat_braking;
+        if (sup.stat_traction !== undefined) existing.stat_traction = sup.stat_traction;
+        if (sup.stat_handling !== undefined) existing.stat_handling = sup.stat_handling;
         supplementsApplied++;
       } else {
         console.log(`  Warning: supplement "${name}" not found in pipeline output`);
