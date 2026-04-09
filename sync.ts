@@ -30,6 +30,12 @@ interface OutputVehicle {
   features: string[];
   price?: number;
   trade_price?: number;
+  trade_price_condition?: string;
+  unlock_methods?: string[];
+  unlock_condition_note?: string;
+  use_case?: string[];
+  racing_tier?: string | null;
+  racing_lap_time?: number | null;
   source: string;
 }
 
@@ -269,12 +275,25 @@ interface Supplement {
   features_add?: string[];
   features_remove?: string[];
   stores?: string[];
+  stores_add?: string[];
+  stores_remove?: string[];
   price?: number;
   trade_price?: number;
+  trade_price_condition?: string;
+  unlock_methods?: string[];
+  unlock_condition_note?: string;
+  use_case?: string[];
+  racing_tier?: string | null;
+  racing_lap_time?: number | null;
   image?: string;
   // For vehicles missing from DurtyFree:
   _missing_from_pipeline?: boolean;
   _note?: string;
+  _added?: string;
+  _reason?: string;
+  _source_issue?: string;
+  _missing_from_durtyfree?: boolean;
+  _review_after?: string;
   vehicleClass?: string;
   manufacturer?: string;
   features?: string[];  // complete list when _missing_from_pipeline
@@ -446,6 +465,12 @@ async function sync() {
             features: sup.features ?? [],
             price: sup.price,
             trade_price: sup.trade_price,
+            trade_price_condition: sup.trade_price_condition,
+            unlock_methods: sup.unlock_methods,
+            unlock_condition_note: sup.unlock_condition_note,
+            use_case: sup.use_case,
+            racing_tier: sup.racing_tier,
+            racing_lap_time: sup.racing_lap_time,
             source: "supplement",
           };
           vehicles.push(newVehicle);
@@ -455,6 +480,14 @@ async function sync() {
       } else if (existing) {
         // Patch existing pipeline vehicle
         if (sup.stores !== undefined) existing.stores = sup.stores;
+        if (sup.stores_add) {
+          for (const s of sup.stores_add) {
+            if (!existing.stores.includes(s)) existing.stores.push(s);
+          }
+        }
+        if (sup.stores_remove) {
+          existing.stores = existing.stores.filter(s => !sup.stores_remove!.includes(s));
+        }
         if (sup.image !== undefined) existing.image = sup.image;
         if (sup.features_add) {
           for (const f of sup.features_add) {
@@ -466,6 +499,12 @@ async function sync() {
         }
         if (sup.price !== undefined) existing.price = sup.price;
         if (sup.trade_price !== undefined) existing.trade_price = sup.trade_price;
+        if (sup.trade_price_condition !== undefined) existing.trade_price_condition = sup.trade_price_condition;
+        if (sup.unlock_methods !== undefined) existing.unlock_methods = sup.unlock_methods;
+        if (sup.unlock_condition_note !== undefined) existing.unlock_condition_note = sup.unlock_condition_note;
+        if (sup.use_case !== undefined) existing.use_case = sup.use_case;
+        if (sup.racing_tier !== undefined) existing.racing_tier = sup.racing_tier;
+        if (sup.racing_lap_time !== undefined) existing.racing_lap_time = sup.racing_lap_time;
         supplementsApplied++;
       } else {
         console.log(`  Warning: supplement "${name}" not found in pipeline output`);
