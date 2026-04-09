@@ -311,6 +311,47 @@ function toggleOwned(hash) {
   render();
 }
 
+function pushHash() {
+  const params = new URLSearchParams();
+  const q = document.getElementById('search').value;
+  if (q) params.set('q', q);
+  const cls = document.getElementById('classFilter').value;
+  if (cls) params.set('class', cls);
+  const store = document.getElementById('storeFilter').value;
+  if (store) params.set('store', store);
+  if (mfgFilter) params.set('mfg', mfgFilter);
+  if (useCaseFilter) params.set('uc', useCaseFilter);
+  if (filter) params.set('own', filter);
+  if (sortOrder && sortOrder !== 'class') params.set('sort', sortOrder);
+  if (minPrice !== null) params.set('minp', minPrice);
+  if (maxPrice !== null) params.set('maxp', maxPrice);
+  const str = params.toString();
+  history.replaceState(null, '', str ? '#' + str : location.pathname + location.search);
+}
+
+function restoreFromHash() {
+  const hash = location.hash.slice(1);
+  if (!hash) return;
+  const params = new URLSearchParams(hash);
+  if (params.has('q')) document.getElementById('search').value = params.get('q');
+  if (params.has('class')) document.getElementById('classFilter').value = params.get('class');
+  if (params.has('store')) document.getElementById('storeFilter').value = params.get('store');
+  if (params.has('mfg')) { mfgFilter = params.get('mfg'); document.getElementById('mfgFilter').value = mfgFilter; }
+  if (params.has('uc')) {
+    useCaseFilter = params.get('uc');
+    document.querySelectorAll('[data-uc]').forEach(b => b.classList.toggle('uc-active', b.dataset.uc === useCaseFilter));
+  }
+  if (params.has('own')) {
+    filter = params.get('own');
+    const btnId = filter === 'owned' ? 'showOwned' : 'showMissing';
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(btnId).classList.add('active');
+  }
+  if (params.has('sort')) { sortOrder = params.get('sort'); document.getElementById('sortOrder').value = sortOrder; }
+  if (params.has('minp')) { minPrice = Number(params.get('minp')); document.getElementById('minPrice').value = minPrice; }
+  if (params.has('maxp')) { maxPrice = Number(params.get('maxp')); document.getElementById('maxPrice').value = maxPrice; }
+}
+
 function render() {
   const search = document.getElementById('search').value.toLowerCase();
   const classVal = document.getElementById('classFilter').value;
@@ -491,6 +532,7 @@ function openModal(hash) {
 
 function closeModal() {
   document.getElementById('modalOverlay').classList.remove('open');
+  pushHash();
 }
 
 document.getElementById('modalClose').addEventListener('click', closeModal);
@@ -572,6 +614,8 @@ document.getElementById('resetFilters').addEventListener('click', () => {
     const footer = document.getElementById('footer');
     if (footer) footer.textContent = 'Data last updated: ' + new Date(generated_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   }
+  restoreFromHash();
+  window.addEventListener('hashchange', () => { restoreFromHash(); render(); });
   render();
 });
 
