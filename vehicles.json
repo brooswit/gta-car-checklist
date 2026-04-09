@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T06:07:57.339Z",
+  "generated_at": "2026-04-09T06:09:04.341Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -1006,6 +1006,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Arena-only Issi with post-apoc weaponry — the world's deadliest Mini, locked behind Arena Points.",
       "storage_type": "garage"
     },
     {
@@ -1032,6 +1033,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier Asbo — British chav car aesthetic transplanted to GTA; fun character, limited ceiling.",
       "storage_type": "garage"
     },
     {
@@ -1053,7 +1055,8 @@
       "stat_handling": 28,
       "use_case": [
         "racing"
-      ]
+      ],
+      "meta_verdict": "D-tier base Blista with no listed price — the Kanjo's lesser ancestor, acquirable but outclassed."
     },
     {
       "name": "Blista Kanjo",
@@ -1079,6 +1082,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "B-tier Blista Kanjo — Honda Civic-style hatchback that competes seriously near the top of the class.",
       "storage_type": "garage"
     },
     {
@@ -1106,6 +1110,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "G-tier Brioso 300 — buy the R/A at $155K instead; it's A-tier and costs less.",
       "storage_type": "garage"
     },
     {
@@ -1133,6 +1138,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "E-tier Brioso 300 with the wide kit — same result as the base, more visual attitude.",
       "storage_type": "garage"
     },
     {
@@ -1160,6 +1166,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "A-tier Brioso R/A at $155K — best value compact racer in the game, full stop.",
       "storage_type": "garage"
     },
     {
@@ -1186,6 +1193,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "S-tier Club at $1.28M — the undisputed king of Compacts; nothing in the class touches it.",
       "storage_type": "garage"
     },
     {
@@ -1211,6 +1219,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. G-tier Dilettante — GTA Online's hybrid car joke, taken by the SAM cull.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -1240,6 +1249,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Futuristic Arena Issi — sci-fi compact with weaponry, entirely gated behind the Arena ecosystem.",
       "storage_type": "garage"
     },
     {
@@ -1268,6 +1278,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier Issi — the Mini Cooper tribute taken by the SAM cull.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -1299,6 +1310,7 @@
         "racing",
         "collector"
       ],
+      "meta_verdict": "F-tier Issi Classic — retro Mini tribute that looks the part and races near the bottom.",
       "storage_type": "garage"
     },
     {
@@ -1325,6 +1337,7 @@
       "use_case": [
         "combat"
       ],
+      "meta_verdict": "Nightmare Arena Issi — bone-decorated Mini that murders things exclusively inside Arena War.",
       "storage_type": "garage"
     },
     {
@@ -1351,6 +1364,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "C-tier Panto at $85K — GTA's tiniest car; chaotic, endearing, and surprisingly competitive.",
       "storage_type": "garage"
     },
     {
@@ -1376,6 +1390,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "Removed SAM 2023. E-tier Prairie — compact people-mover that left no impression before or after removal.",
       "storage_type": "garage",
       "removed_from_stores": true,
       "removal_update": "San Andreas Mercenaries",
@@ -1406,6 +1421,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "C-tier Rhapsody — retro compact with genuine racing credentials and a fair price.",
       "storage_type": "garage"
     },
     {
@@ -1432,6 +1448,7 @@
       "use_case": [
         "racing"
       ],
+      "meta_verdict": "D-tier base Weevil — the VW Bug tribute whose Custom variant in Muscle class is far superior.",
       "storage_type": "garage"
     },
     {

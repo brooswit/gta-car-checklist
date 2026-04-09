@@ -894,7 +894,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Brioso 300 with the wide kit \u2014 same result as the base, more visual attitude."
   },
   "Vigero ZX": {
     "price": 1947000,
@@ -1417,7 +1418,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Brioso 300 \u2014 buy the R/A at $155K instead; it's A-tier and costs less."
   },
   "Vetir": {
     "price": 1630000,
@@ -1434,7 +1436,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier base Weevil \u2014 the VW Bug tribute whose Custom variant in Muscle class is far superior."
   },
   "Slamtruck": {
     "price": 1310000,
@@ -1663,7 +1666,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "S-tier Club at $1.28M \u2014 the undisputed king of Compacts; nothing in the class touches it."
   },
   "Coquette D10": {
     "price": 1510000,
@@ -1710,7 +1714,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Blista Kanjo \u2014 Honda Civic-style hatchback that competes seriously near the top of the class."
   },
   "Sugoi": {
     "price": 1224000,
@@ -1819,7 +1824,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "E-tier Asbo \u2014 British chav car aesthetic transplanted to GTA; fun character, limited ceiling."
   },
   "Retinue Mk II": {
     "price": 1620000,
@@ -2374,7 +2380,8 @@
       "racing",
       "collector"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier Issi Classic \u2014 retro Mini tribute that looks the part and races near the bottom."
   },
   "Flash GT": {
     "price": 1675000,
@@ -6322,7 +6329,8 @@
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Rhapsody \u2014 retro compact with genuine racing credentials and a fair price."
   },
   "Prairie": {
     "price": 25000,
@@ -6332,14 +6340,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Prairie \u2014 compact people-mover that left no impression before or after removal."
   },
   "Panto": {
     "price": 85000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Panto at $85K \u2014 GTA's tiniest car; chaotic, endearing, and surprisingly competitive."
   },
   "Issi": {
     "price": 18000,
@@ -6349,7 +6359,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Issi \u2014 the Mini Cooper tribute taken by the SAM cull."
   },
   "Dilettante": {
     "price": 25000,
@@ -6359,14 +6370,16 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Dilettante \u2014 GTA Online's hybrid car joke, taken by the SAM cull."
   },
   "Brioso R/A": {
     "price": 155000,
     "use_case": [
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Brioso R/A at $155K \u2014 best value compact racer in the game, full stop."
   },
   "Stockade": {
     "stores": [
@@ -6802,25 +6815,29 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Issi with post-apoc weaponry \u2014 the world's deadliest Mini, locked behind Arena Points."
   },
   "Blista": {
     "use_case": [
       "racing"
     ],
-    "_note": "Not for sale in GTA Online (sells for $1,600 at LSC only)."
+    "_note": "Not for sale in GTA Online (sells for $1,600 at LSC only).",
+    "meta_verdict": "D-tier base Blista with no listed price \u2014 the Kanjo's lesser ancestor, acquirable but outclassed."
   },
   "Future Shock Issi": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Issi \u2014 sci-fi compact with weaponry, entirely gated behind the Arena ecosystem."
   },
   "Nightmare Issi": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Issi \u2014 bone-decorated Mini that murders things exclusively inside Arena War."
   },
   "Fixter": {
     "use_case": [
