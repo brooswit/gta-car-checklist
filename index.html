@@ -412,7 +412,7 @@ function render() {
 
   const main = document.getElementById('main');
   if (filtered.length === 0) {
-    main.innerHTML = '<div class="empty-state">No vehicles found</div>';
+    main.innerHTML = '<div class="empty-state">No vehicles match your filters. Try broadening your search or removing some criteria.</div>';
     if (vehicles.length > 0) {
       ldReady.then(() => ldClient.track('no-results-shown', {
         searchQuery: document.getElementById('search').value,
@@ -465,7 +465,8 @@ function render() {
               var label = tier + (topSpeed ? ' · ' + Math.round(topSpeed) + 'mph' : '');
               badges += '<span class="tier-badge ' + tierCls + '">' + label + '</span>';
             }
-            if (gt) badges += '<span class="grind-badge grind-' + gt + '">Grind ' + gt + '</span>';
+            var grindTitles = {S:'Best vehicle for grinding missions, heists, and passive income. This is the meta choice.',A:'Very solid for grinding. Slightly behind S-tier, but genuinely good.',B:'Works for grinding, but you\'re giving up something. For specific jobs, not everyday use.',C:'Situational. Only optimal for certain grinding tasks.',skip:'Don\'t waste time grinding with this. Better options exist.'};
+            if (gt) badges += '<span class="grind-badge grind-' + gt + '" title="' + (grindTitles[gt]||'') + '">Grind ' + gt + '</span>';
             if (badges) out += '<div class="car-features">' + badges + '</div>';
             if (uc && uc.length) {
               out += '<div class="use-case-chips">' + uc.map(function(u) { return '<span class="uc-chip uc-' + u + '">' + u + '</span>'; }).join('') + '</div>';
