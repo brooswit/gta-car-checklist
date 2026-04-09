@@ -173,7 +173,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Drift-spec Walton L35 \u2014 off-road truck built to slide; fun niche toy with limited practical application."
   },
   "Bobcat Security Stockade": {
     "price": 2440500,
@@ -329,7 +330,8 @@
     ],
     "unlock_condition_note": "Purchasable at SSASA on all platforms. Free alternate unlock (E&E/PS5/Series X only): complete Tier 4 Agents of Sabotage Career Progress challenges.",
     "_note": "E&E-exclusive free path exists alongside standard purchase.",
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier Firebolt ASP \u2014 high price for a mid-pack off-road result; the ASP suffix overpromises."
   },
   "Terminus Patrol": {
     "price": 5125000,
@@ -450,7 +452,8 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier lifted Yosemite 1500 at $1.205M \u2014 the truck aesthetic doesn't justify the price."
   },
   "Envisage": {
     "price": 2472000,
@@ -538,7 +541,8 @@
       "off-road",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier performance at a premium price \u2014 the Terminus competes at the very top of Off-Road racing."
   },
   "Dorado": {
     "price": 1375000,
@@ -698,7 +702,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier armored buggy with combat potential \u2014 solid mid-range pick for mixed off-road use."
   },
   "MonstroCiti": {
     "price": 1485000,
@@ -707,7 +712,8 @@
       "fun",
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "C-tier lifted truck that delivers genuine off-road capability without breaking into the top tier."
   },
   "Clique Wagon": {
     "price": 1205000,
@@ -732,7 +738,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Boor at $1.28M \u2014 military jeep aesthetic with G-tier off-road credentials to match."
   },
   "Eudora": {
     "price": 1250000,
@@ -960,7 +967,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier off-roader that earns its ranking \u2014 one of the class's best competitive picks."
   },
   "Conada": {
     "price": 2450000,
@@ -1073,7 +1081,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "K-tier military Hummer tribute at $1.71M \u2014 expensive aesthetic purchase with no competitive merit."
   },
   "Baller ST": {
     "price": 890000,
@@ -1384,7 +1393,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. N-tier Verus \u2014 off-road utility vehicle with minimal legacy before removal."
   },
   "Brioso 300": {
     "price": 610000,
@@ -1538,7 +1548,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "O-tier WW2 jeep tribute at $1.1M \u2014 wildly overpriced for O-tier; a pure collector's purchase."
   },
   "Gauntlet Classic Custom": {
     "price": 815000,
@@ -1556,7 +1567,8 @@
       "transport",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Yosemite Rancher \u2014 lifted ranch truck with H-tier capability and genuine aesthetic charm."
   },
   "Youga Classic 4x4": {
     "price": 1288000,
@@ -1661,7 +1673,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "O-tier amphibious vehicle at $2.4M \u2014 crosses land and water equally slowly; pure novelty."
   },
   "JB 700W": {
     "price": 1470000,
@@ -1706,7 +1719,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "G-tier Outlaw buggy \u2014 decent off-road bones without the performance to compete at the top."
   },
   "Sultan Classic": {
     "price": 1718000,
@@ -1813,7 +1827,8 @@
       "racing",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "A-tier Vagrant at $2.214M \u2014 expensive but genuinely the fastest off-road racer in its tier."
   },
   "Peyote Gasser": {
     "price": 805000,
@@ -1849,7 +1864,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. G-tier Hellion dune buggy \u2014 capable off-roader taken before it found its niche."
   },
   "Zion Classic": {
     "price": 812000,
@@ -2141,7 +2157,8 @@
     "use_case": [
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Freecrawler at $597K \u2014 solid rock crawler aesthetic, H-tier off-road reality."
   },
   "Menacer": {
     "price": 1775000,
@@ -2702,7 +2719,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. H-tier Riata \u2014 off-road pickup taken by the SAM cull without ceremony."
   },
   "FH-1 Hunter": {
     "stores": [
@@ -4648,7 +4666,8 @@
       "off-road",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Trophy Truck at $550K \u2014 the name suggests Baja racing; the tier suggests otherwise."
   },
   "Technical Custom": {
     "price": 142500,
@@ -4659,7 +4678,8 @@
       "combat",
       "grinding"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The Technical Custom at $142.5K is the best bang-for-buck armed transport in the game."
   },
   "Technical Aqua": {
     "price": 1489600,
@@ -4667,7 +4687,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Amphibious Technical with mounted gun \u2014 crosses water and fights; surprisingly practical for its price."
   },
   "Technical": {
     "price": 1263500,
@@ -4675,7 +4696,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Armed Technical pickup at $1.263M \u2014 basic mounted gun transport, outclassed by its own Custom version."
   },
   "Street Blazer": {
     "price": 81000,
@@ -4683,7 +4705,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "B-tier Street Blazer ATV at $81K \u2014 the best value off-road racer in the entire class."
   },
   "Sandking XL": {
     "price": 45000,
@@ -4703,7 +4726,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. L-tier Sandking SWB \u2014 the shorter, lesser Sandking taken alongside the XL."
   },
   "Rusty Rebel": {
     "price": 3000,
@@ -4715,7 +4739,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier Rusty Rebel at $3K \u2014 GTA Online's cheapest off-roader, correctly priced, now gone."
   },
   "Rebel": {
     "price": 22000,
@@ -4726,7 +4751,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. K-tier Rebel pickup \u2014 basic off-road truck gone quietly with the SAM cull."
   },
   "Rancher XL": {
     "price": 9000,
@@ -4737,7 +4763,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. N-tier Rancher XL \u2014 old pickup truck the SAM cull caught on its way out."
   },
   "Ramp Buggy": {
     "price": 3192000,
@@ -4746,7 +4773,8 @@
       "off-road",
       "fun"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Ramp Buggy at $3.192M \u2014 exists solely to flip other vehicles; GTA's greatest trolling investment."
   },
   "Nightshark": {
     "price": 1245000,
@@ -4778,7 +4806,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. M-tier Kalahari \u2014 basic rally buggy that never distinguished itself before removal."
   },
   "Insurgent Pick-up Custom": {
     "price": 202500
@@ -4794,7 +4823,8 @@
       "combat",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The base Insurgent is I-tier and unseated \u2014 the Pick-Up Custom is always the right call."
   },
   "Injection": {
     "price": 16000,
@@ -4805,7 +4835,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Injection buggy \u2014 the starter off-roader that barely made it to retirement."
   },
   "Hot Rod Blazer": {
     "price": 69000,
@@ -4816,7 +4847,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Hot Rod Blazer ATV \u2014 the custom Blazer variant taken with the cull."
   },
   "Dune FAV": {
     "price": 1130500,
@@ -4837,7 +4869,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Dune Buggy at $20K \u2014 the OG off-road classic, quietly removed."
   },
   "Dubsta 6x6": {
     "price": 249000,
@@ -4854,7 +4887,8 @@
       "off-road",
       "racing"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "D-tier Desert Raid at $695K \u2014 capable enough off-road, not competitive at the top."
   },
   "Brawler": {
     "price": 715000,
@@ -4866,7 +4900,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. F-tier Brawler \u2014 rugged off-roader with genuine capability, taken by the SAM cull."
   },
   "Bodhi": {
     "price": 25000,
@@ -4878,7 +4913,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. I-tier Bodhi \u2014 GTA Online's classic jeep, old and beloved before its removal."
   },
   "Blazer Lifeguard": {
     "price": 62000,
@@ -4889,7 +4925,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. N-tier Blazer Lifeguard \u2014 lifeguard-liveried ATV that served no competitive purpose."
   },
   "Blazer Aqua": {
     "price": 1755600,
@@ -4897,7 +4934,8 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Amphibious ATV at $1.755M \u2014 crosses water where others can't; overpriced for what it actually does."
   },
   "Blazer": {
     "price": 8000,
@@ -4909,7 +4947,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier base Blazer ATV \u2014 the cheapest off-roader that ever existed in GTA Online."
   },
   "Bifta": {
     "price": 75000,
@@ -4920,7 +4959,8 @@
     "storage_type": "garage",
     "removed_from_stores": true,
     "removal_update": "San Andreas Mercenaries",
-    "removal_date": "2023-06-13"
+    "removal_date": "2023-06-13",
+    "meta_verdict": "Removed SAM 2023. E-tier Bifta dune buggy \u2014 light, nimble, gone with the update."
   },
   "Voodoo Custom": {
     "price": 420000,
@@ -6444,7 +6484,8 @@
       "off-road",
       "transport"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "H-tier Stock Walton \u2014 unmodified version of the L35, slower and somehow pricier."
   },
   "Daemon Custom": {
     "_note": "GTABase lists as \"Daemon (Custom)\" \u2014 name normalized to match DurtyFree",
@@ -6543,7 +6584,8 @@
       "combat",
       "off-road"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "The base Insurgent Pick-Up is functional armed transport \u2014 upgrade to the Custom for real capability."
   },
   "TM-02 Khanjali": {
     "use_case": [
@@ -6994,74 +7036,86 @@
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Bruiser with post-apoc weaponry \u2014 gated behind Arena Points and the Workshop."
   },
   "Apocalypse Brutus": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Brutus with destruction-spec armaments \u2014 fully locked in the Arena ecosystem."
   },
   "Apocalypse Sasquatch": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Arena-only Sasquatch monster truck \u2014 the most chaotic Arena vehicle, appropriately gated."
   },
   "Duneloader": {
     "use_case": [
       "off-road",
       "transport"
-    ]
+    ],
+    "meta_verdict": "O-tier Duneloader farm truck with no listed price \u2014 bottom of Off-Road and proud of it."
   },
   "Future Shock Bruiser": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Bruiser \u2014 sci-fi off-road monster locked behind Arena buy-in."
   },
   "Future Shock Brutus": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Brutus \u2014 armored Arena beast with a science fiction makeover."
   },
   "Future Shock Sasquatch": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Futuristic Arena Sasquatch \u2014 monster truck with tech upgrades, Arena ecosystem only."
   },
   "Monster": {
     "use_case": [
       "off-road",
       "fun"
-    ]
+    ],
+    "meta_verdict": "L-tier Monster truck with no listed price \u2014 special acquisition that wins at spectacle and nothing else."
   },
   "Nightmare Bruiser": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Bruiser \u2014 bone-covered off-road monster that never leaves the Arena circuit."
   },
   "Nightmare Brutus": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Brutus \u2014 horror-themed Arena armored vehicle locked behind Points."
   },
   "Nightmare Sasquatch": {
     "use_case": [
       "combat"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "Nightmare Arena Sasquatch \u2014 the spookiest monster truck in GTA, appropriately Arena-gated."
   },
   "Space Docker": {
     "use_case": [
       "off-road",
       "fun",
       "collector"
-    ]
+    ],
+    "meta_verdict": "Alien-themed Space Docker with no listed price \u2014 a collectible curiosity from GTA's stranger missions."
   },
   "Walton L35": {
     "use_case": [
@@ -7072,7 +7126,8 @@
     "stores": [
       "Southern SA Super Autos"
     ],
-    "storage_type": "garage"
+    "storage_type": "garage",
+    "meta_verdict": "F-tier lifted Walton at $1.67M \u2014 heavily overpriced for F-tier off-road performance."
   },
   "BR8": {
     "use_case": [
