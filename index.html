@@ -447,7 +447,7 @@ function render() {
   const missingPart = showMissingCount ? ' — <span>' + (vehicles.length - totalOwned) + '</span> missing' : '';
   document.getElementById('stats').innerHTML =
     'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles' + pctPart + missingPart + ' — Showing <span>' + filtered.length + '</span>';
-  document.getElementById('resultCount').textContent = filtered.length + ' vehicle' + (filtered.length === 1 ? '' : 's');
+  document.getElementById('resultCount').textContent = totalOwned + ' owned · ' + filtered.length + ' of ' + vehicles.length + ' showing';
 
   const main = document.getElementById('main');
   if (filtered.length === 0) {
