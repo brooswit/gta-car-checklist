@@ -168,6 +168,7 @@
   .empty-state { text-align: center; color: #555; padding: 3rem; font-size: 1.1rem; }
   .loading { text-align: center; color: #888; padding: 3rem; font-size: 1.1rem; }
 </style>
+<script src="https://unpkg.com/launchdarkly-js-client-sdk@3/dist/ldclient.min.js"></script>
 </head>
 <body>
 <header>
@@ -185,6 +186,16 @@
 <main id="main"><div class="loading">Loading vehicles...</div></main>
 
 <script>
+// --- LaunchDarkly setup ---
+(function() {
+  let key = localStorage.getItem('ld_context_key');
+  if (!key) { key = crypto.randomUUID(); localStorage.setItem('ld_context_key', key); }
+  window._ldContext = { kind: 'user', key: key, anonymous: true };
+})();
+const ldClient = LDClient.initialize('69d6ee4fff89900a93b15def', window._ldContext);
+const ldReady = ldClient.waitForInitialization().catch(() => {}); // graceful degradation — app works even if LD fails
+ldReady.then(() => ldClient.track('app-loaded'));
+
 // --- App state ---
 let vehicles = [];
 let owned = new Set(JSON.parse(localStorage.getItem('gtaOwnedCars') || '[]'));
@@ -195,9 +206,12 @@ function saveOwned() {
 }
 
 function toggleOwned(hash) {
-  if (owned.has(hash)) owned.delete(hash);
+  const wasOwned = owned.has(hash);
+  if (wasOwned) owned.delete(hash);
   else owned.add(hash);
   saveOwned();
+  const v = vehicles.find(v => v.Hash === hash);
+  ldReady.then(() => ldClient.track('vehicle-toggled', { direction: wasOwned ? 'unowned' : 'owned', vehicleClass: v?.Class || 'unknown' }));
   render();
 }
 
@@ -225,9 +239,10 @@ function render() {
   });
 
   const totalOwned = vehicles.filter(v => owned.has(v.Hash)).length;
+  const showPct = ldClient.variation('show-completion-percentage', false);
+  const pctPart = showPct ? ' (' + Math.round(totalOwned / vehicles.length * 100) + '%)' : '';
   document.getElementById('stats').innerHTML =
-    'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles (' +
-    Math.round(totalOwned / vehicles.length * 100) + '%) — Showing <span>' + filtered.length + '</span>';
+    'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles' + pctPart + ' — Showing <span>' + filtered.length + '</span>';
 
   const main = document.getElementById('main');
   if (filtered.length === 0) {
@@ -281,15 +296,30 @@ document.addEventListener('keydown', e => {
   if (e.ctrlKey || e.metaKey || e.altKey) return;
   if (e.key.length === 1) { const s = document.getElementById('search'); s.value = ''; s.focus(); }
 });
-document.getElementById('search').addEventListener('input', render);
-document.getElementById('classFilter').addEventListener('change', render);
-document.getElementById('storeFilter').addEventListener('change', render);
+let _searchDebounce;
+document.getElementById('search').addEventListener('input', () => {
+  render();
+  clearTimeout(_searchDebounce);
+  _searchDebounce = setTimeout(() => {
+    const q = document.getElementById('search').value;
+    if (q) ldReady.then(() => ldClient.track('search-performed', { query: q }));
+  }, 500);
+});
+document.getElementById('classFilter').addEventListener('change', e => {
+  render();
+  ldReady.then(() => ldClient.track('filter-changed', { filterType: 'class', value: e.target.value }));
+});
+document.getElementById('storeFilter').addEventListener('change', e => {
+  render();
+  ldReady.then(() => ldClient.track('filter-changed', { filterType: 'store', value: e.target.value }));
+});
 
 ['showAll', 'showOwned', 'showMissing'].forEach(id => {
   document.getElementById(id).addEventListener('click', () => {
     filter = id === 'showAll' ? '' : id === 'showOwned' ? 'owned' : 'missing';
     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
     document.getElementById(id).classList.add('active');
+    ldReady.then(() => ldClient.track('filter-changed', { filterType: 'ownership', value: filter || 'all' }));
     render();
   });
 });
@@ -300,7 +330,8 @@ const excludedClasses = new Set(['RAIL']);
 
 Promise.all([
   fetch(DURTYFREE_URL).then(r => r.json()),
-  fetch('vehicles.json').then(r => r.json())
+  fetch('vehicles.json').then(r => r.json()),
+  ldReady
 ]).then(([dfData, patchData]) => {
   // Build patch lookup by normalized name
   const patchByName = {};
@@ -354,8 +385,10 @@ Promise.all([
   allStores.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; storeSel.appendChild(o); });
   document.getElementById('showAll').classList.add('active');
   render();
+  ldReady.then(() => ldClient.track('vehicles-rendered', { count: vehicles.length }));
 }).catch(err => {
   document.getElementById('main').innerHTML = '<div class="empty-state">Failed to load vehicle data. Please try again later.</div>';
+  ldReady.then(() => ldClient.track('load-failed', { message: err?.message || String(err), type: err?.name || 'Error' }));
   console.error('Failed to fetch vehicles:', err);
 });
 </script>
