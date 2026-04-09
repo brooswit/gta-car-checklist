@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:15:21.575Z",
+  "generated_at": "2026-04-09T07:54:40.833Z",
   "vehicles": [
     {
       "name": "Avisa",
@@ -4769,7 +4769,7 @@
       "price": 9000,
       "use_case": [
         "racing",
-        "combat"
+        "fun"
       ],
       "grinding_tier": "skip",
       "meta_verdict": "Removed SAM 2023. Fast sport bike in its era — outpaced by every modern motorcycle before removal.",
@@ -4927,7 +4927,7 @@
       "price": 15000,
       "use_case": [
         "racing",
-        "combat"
+        "fun"
       ],
       "grinding_tier": "A",
       "meta_verdict": "Removed from stores June 2023 — if you have it, it's still elite for setups.",
@@ -4958,7 +4958,8 @@
       "price": 95000,
       "use_case": [
         "racing",
-        "off-road"
+        "off-road",
+        "fun"
       ],
       "grinding_tier": "B",
       "meta_verdict": "The BF400 at $95K is the go-to off-road motorcycle — cheap, capable, and universally used.",
@@ -4988,7 +4989,8 @@
       "price": 40000,
       "use_case": [
         "racing",
-        "collector"
+        "collector",
+        "fun"
       ],
       "grinding_tier": "B",
       "meta_verdict": "The fastest non-drag motorcycle available — if you're racing on two wheels, this is it.",
@@ -5216,7 +5218,7 @@
       "price": 12000,
       "use_case": [
         "racing",
-        "combat"
+        "fun"
       ],
       "grinding_tier": "skip",
       "meta_verdict": "Removed SAM 2023. Low-tier sport bike from GTA Online's early era — long forgotten.",
@@ -16038,19 +16040,12 @@
       "vehicleClass": "SPORT",
       "hash": 1174224392,
       "internalName": "lscmjesterrr",
-      "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/LSCMJesterRR-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/300?cb=20251229175440",
+      "image": "",
       "stores": [
         "Legendary Motorsport"
       ],
       "features": [],
       "price": 2290000,
-      "use_case": [
-        "racing",
-        "collector"
-      ],
-      "grinding_tier": "skip",
-      "meta_verdict": "Car Meet-exclusive prize vehicle — a flex for lucky winners, no grind value.",
-      "storage_type": "garage",
       "source": "supplement"
     },
     {
@@ -21752,7 +21747,8 @@
       "unlock_methods": [],
       "unlock_condition_note": "Purchase unrestricted, but Imani Tech upgrades require owning an Agency. Trade price ($1,237,500) unlocks after completing 20 Security Contracts as leader.",
       "use_case": [
-        "combat"
+        "combat",
+        "collector"
       ],
       "grinding_tier": "B",
       "meta_verdict": "B-tier Jubilee — Imani Tech SUV where the gadgets justify what the tier position doesn't.",
