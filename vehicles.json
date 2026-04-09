@@ -13,6 +13,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 362.543,
+    "top_speed_mph": 16.75,
     "price": 1545000,
     "use_case": [
       "combat",
@@ -49,6 +50,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 93.025,
+    "top_speed_mph": 70,
     "price": 299000,
     "use_case": [
       "racing",
@@ -71,6 +73,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 247.805,
+    "top_speed_mph": 41.5,
     "use_case": [
       "utility",
       "grinding"
@@ -92,6 +95,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 260.349,
+    "top_speed_mph": 20.75,
     "price": 1325000,
     "use_case": [
       "fun",
@@ -114,6 +118,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 177.336,
+    "top_speed_mph": 36.75,
     "price": 2955000,
     "trade_price": 2216250,
     "use_case": [
@@ -134,6 +139,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 82.55,
+    "top_speed_mph": 122,
     "price": 2125000,
     "trade_price": 1593750,
     "use_case": [
@@ -156,6 +162,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 242.232,
+    "top_speed_mph": 26.25,
     "price": 413990,
     "use_case": [
       "transport",
@@ -178,6 +185,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 123.214,
+    "top_speed_mph": 48.5,
     "price": 3780000,
     "use_case": [
       "combat"
@@ -197,6 +205,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 102.134,
+    "top_speed_mph": 67,
     "price": 16899,
     "use_case": [
       "racing",
@@ -217,6 +226,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 92.761,
+    "top_speed_mph": 68.25,
     "price": 325000,
     "use_case": [
       "racing",
@@ -237,6 +247,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 99.933,
+    "top_speed_mph": 65.75,
     "price": 196621,
     "use_case": [
       "racing",
@@ -255,6 +266,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 293.135,
+    "top_speed_mph": 19.75,
     "use_case": [
       "fun",
       "utility"
@@ -274,6 +286,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 124.557,
+    "top_speed_mph": 51,
     "price": 25160,
     "use_case": [
       "collector",
@@ -294,6 +307,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 114.847,
+    "top_speed_mph": 50.25,
     "price": 1750000,
     "use_case": [
       "combat",
@@ -314,6 +328,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 100.966,
+    "top_speed_mph": 63.25,
     "price": 22000,
     "use_case": [
       "transport",
@@ -334,6 +349,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 397.952,
+    "top_speed_mph": 18.5,
     "price": 1250000,
     "use_case": [
       "transport",
@@ -356,6 +372,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 95.004,
+    "top_speed_mph": 71.5,
     "price": 1850000,
     "use_case": [
       "combat"
@@ -375,6 +392,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.602,
+    "top_speed_mph": 106.25,
     "use_case": [
       "combat"
     ]
@@ -391,6 +409,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 92.309,
+    "top_speed_mph": 91.75,
     "use_case": [
       "transport"
     ]
@@ -409,6 +428,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 92.309,
+    "top_speed_mph": 91.75,
     "price": 685000,
     "trade_price": 513750,
     "use_case": [
@@ -427,6 +447,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 101.835,
+    "top_speed_mph": 85.25,
     "use_case": [
       "transport"
     ]
@@ -445,6 +466,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 97.814,
+    "top_speed_mph": 85.75,
     "price": 2440500,
     "trade_price": 1830375,
     "use_case": [
@@ -467,6 +489,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.602,
+    "top_speed_mph": 106.25,
     "use_case": [
       "combat"
     ]
@@ -483,6 +506,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.188,
+    "top_speed_mph": 74.5,
     "use_case": [
       "transport"
     ]
@@ -504,6 +528,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.434,
+    "top_speed_mph": 101.25,
     "price": 1400000,
     "use_case": [
       "transport"
@@ -523,6 +548,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 110.294,
+    "top_speed_mph": 71,
     "price": 27000,
     "use_case": [
       "transport"
@@ -545,6 +571,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 100.017,
+    "top_speed_mph": 76.5,
     "price": 95760,
     "trade_price": 72000,
     "use_case": [
@@ -568,6 +595,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.602,
+    "top_speed_mph": 106.25,
     "use_case": [
       "combat"
     ]
@@ -584,6 +612,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 98.031,
+    "top_speed_mph": 85.75,
     "use_case": [
       "transport"
     ]
@@ -600,6 +629,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 94.595,
+    "top_speed_mph": 83.25,
     "use_case": [
       "transport"
     ]
@@ -621,6 +651,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.283,
+    "top_speed_mph": 103.5,
     "price": 1225000,
     "use_case": [
       "transport"
@@ -640,6 +671,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 80.08,
+    "top_speed_mph": 98.25,
     "price": 2553600,
     "trade_price": 1920000,
     "use_case": [
@@ -659,6 +691,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 106.94,
+    "top_speed_mph": 86.75,
     "use_case": [
       "transport"
     ]
@@ -680,6 +713,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 92.826,
+    "top_speed_mph": 95.25,
     "price": 320530,
     "trade_price": 241000,
     "use_case": [
@@ -701,6 +735,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 97.814,
+    "top_speed_mph": 85.75,
     "price": 2240000,
     "trade_price": 1680000,
     "use_case": [
@@ -725,6 +760,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 88.841,
+    "top_speed_mph": 87.5,
     "price": 1375000,
     "use_case": [
       "utility",
@@ -747,6 +783,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.368,
+    "top_speed_mph": 124.25,
     "use_case": [
       "combat"
     ]
@@ -765,6 +802,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 77.01,
+    "top_speed_mph": 96.5,
     "price": 408000,
     "trade_price": 306000,
     "use_case": [
@@ -783,6 +821,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 75.993,
+    "top_speed_mph": 105,
     "use_case": [
       "racing"
     ]
@@ -801,6 +840,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 73.473,
+    "top_speed_mph": 108.75,
     "price": 580000,
     "trade_price": 435000,
     "use_case": [
@@ -822,6 +862,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 83.95,
+    "top_speed_mph": 86,
     "price": 610000,
     "trade_price": 457500,
     "use_case": [
@@ -844,6 +885,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.442,
+    "top_speed_mph": 96,
     "price": 585000,
     "use_case": [
       "racing"
@@ -865,6 +907,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 70.436,
+    "top_speed_mph": 103.75,
     "price": 155000,
     "use_case": [
       "racing"
@@ -885,6 +928,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 66.6,
+    "top_speed_mph": 112.5,
     "price": 1280000,
     "use_case": [
       "racing"
@@ -904,6 +948,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 82.165,
+    "top_speed_mph": 88.5,
     "price": 25000,
     "use_case": [
       "racing"
@@ -925,6 +970,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.368,
+    "top_speed_mph": 124.25,
     "use_case": [
       "combat"
     ]
@@ -946,6 +992,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.542,
+    "top_speed_mph": 105.5,
     "price": 18000,
     "use_case": [
       "racing"
@@ -966,6 +1013,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 78.695,
+    "top_speed_mph": 94.75,
     "price": 360000,
     "trade_price": 270000,
     "use_case": [
@@ -989,6 +1037,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.368,
+    "top_speed_mph": 124.25,
     "use_case": [
       "combat"
     ]
@@ -1008,6 +1057,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 74.057,
+    "top_speed_mph": 100.75,
     "price": 85000,
     "use_case": [
       "racing"
@@ -1027,6 +1077,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 76.476,
+    "top_speed_mph": 104,
     "price": 25000,
     "use_case": [
       "racing"
@@ -1048,6 +1099,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 74.056,
+    "top_speed_mph": 103,
     "price": 140000,
     "use_case": [
       "racing"
@@ -1067,6 +1119,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 75.642,
+    "top_speed_mph": 102.5,
     "price": 870000,
     "trade_price": 652500,
     "use_case": [
@@ -1087,6 +1140,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.12,
+    "top_speed_mph": 112.75,
     "price": 185000,
     "use_case": [
       "racing"
@@ -1108,6 +1162,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.4,
+    "top_speed_mph": 113,
     "price": 1499000,
     "use_case": [
       "racing"
@@ -1128,6 +1183,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.552,
+    "top_speed_mph": 117.5,
     "price": 205000,
     "use_case": [
       "racing"
@@ -1147,6 +1203,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.27,
+    "top_speed_mph": 118.25,
     "price": 80000,
     "use_case": [
       "racing"
@@ -1166,6 +1223,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.788,
+    "top_speed_mph": 114.75,
     "price": 90000,
     "use_case": [
       "racing"
@@ -1185,6 +1243,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.654,
+    "top_speed_mph": 111,
     "price": 95000,
     "use_case": [
       "racing"
@@ -1206,6 +1265,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.214,
+    "top_speed_mph": 121.5,
     "price": 1610000,
     "use_case": [
       "racing"
@@ -1225,6 +1285,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.632,
+    "top_speed_mph": 114.5,
     "price": 60000,
     "use_case": [
       "racing"
@@ -1244,6 +1305,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 72.322,
+    "top_speed_mph": 107.25,
     "price": 1370000,
     "trade_price": 1027500,
     "use_case": [
@@ -1264,6 +1326,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 71.021,
+    "top_speed_mph": 115.5,
     "price": 80000,
     "use_case": [
       "racing"
@@ -1283,6 +1346,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.822,
+    "top_speed_mph": 114.75,
     "price": 82000,
     "use_case": [
       "racing"
@@ -1302,6 +1366,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 74.541,
+    "top_speed_mph": 103,
     "price": 1310000,
     "trade_price": 982500,
     "use_case": [
@@ -1322,6 +1387,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.731,
+    "top_speed_mph": 115.25,
     "price": 1490000,
     "trade_price": 1117500,
     "use_case": [
@@ -1346,6 +1412,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.787,
+    "top_speed_mph": 112.5,
     "price": 95000,
     "use_case": [
       "racing"
@@ -1368,6 +1435,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.787,
+    "top_speed_mph": 112.5,
     "price": 60000,
     "use_case": [
       "racing"
@@ -1388,6 +1456,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.938,
+    "top_speed_mph": 118.5,
     "price": 845000,
     "use_case": [
       "racing"
@@ -1407,6 +1476,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 72.359,
+    "top_speed_mph": 118.25,
     "price": 900000,
     "use_case": [
       "racing"
@@ -1426,6 +1496,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.512,
+    "top_speed_mph": 118,
     "price": 60000,
     "use_case": [
       "racing"
@@ -1445,6 +1516,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.528,
+    "top_speed_mph": 118,
     "price": 65000,
     "use_case": [
       "racing"
@@ -1464,6 +1536,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 164.864,
+    "top_speed_mph": 35.25,
     "price": 800,
     "use_case": [
       "fun"
@@ -1483,6 +1556,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 175.173,
+    "top_speed_mph": 33.5,
     "price": 800,
     "use_case": [
       "fun"
@@ -1504,6 +1578,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
+    "top_speed_mph": 47,
     "price": 10000,
     "use_case": [
       "fun"
@@ -1521,6 +1596,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 134.434,
+    "top_speed_mph": 44.25,
     "use_case": [
       "fun"
     ]
@@ -1539,6 +1615,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 131.365,
+    "top_speed_mph": 45.5,
     "price": 50000,
     "use_case": [
       "fun"
@@ -1558,6 +1635,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 131.365,
+    "top_speed_mph": 45.5,
     "price": 50000,
     "use_case": [
       "fun"
@@ -1577,6 +1655,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 152.618,
+    "top_speed_mph": 38,
     "price": 2000,
     "use_case": [
       "fun"
@@ -1598,6 +1677,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
+    "top_speed_mph": 47,
     "price": 10000,
     "use_case": [
       "fun"
@@ -1620,6 +1700,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 128.393,
+    "top_speed_mph": 47,
     "price": 10000,
     "use_case": [
       "fun"
@@ -1637,6 +1718,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 83.483,
+    "top_speed_mph": 98,
     "use_case": [
       "fun",
       "utility"
@@ -1658,6 +1740,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 4435000,
     "trade_price": 3326250,
     "use_case": [
@@ -1681,6 +1764,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 5370000,
     "trade_price": 4027500,
     "use_case": [
@@ -1701,6 +1785,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 82.876,
+    "top_speed_mph": 102,
     "use_case": [
       "combat",
       "fun"
@@ -1723,6 +1808,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.07,
+    "top_speed_mph": 104.75,
     "price": 5335000,
     "trade_price": 4001250,
     "use_case": [
@@ -1746,6 +1832,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.796,
+    "top_speed_mph": 133.75,
     "price": 5620000,
     "trade_price": 4125000,
     "use_case": [
@@ -1769,6 +1856,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.664,
+    "top_speed_mph": 124,
     "price": 4950000,
     "trade_price": 3712500,
     "use_case": [
@@ -1792,6 +1880,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 70.269,
+    "top_speed_mph": 112.75,
     "price": 5005000,
     "trade_price": 3753750,
     "use_case": [
@@ -1829,6 +1918,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 89.34,
+    "top_speed_mph": 96,
     "price": 3295000,
     "trade_price": 2471250,
     "use_case": [
@@ -1852,6 +1942,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.814,
+    "top_speed_mph": 122,
     "price": 5420000,
     "trade_price": 4065000,
     "use_case": [
@@ -1875,6 +1966,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.669,
+    "top_speed_mph": 121.5,
     "price": 4910000,
     "trade_price": 3682500,
     "use_case": [
@@ -1898,6 +1990,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.351,
+    "top_speed_mph": 117,
     "price": 4800000,
     "trade_price": 3600000,
     "use_case": [
@@ -1921,6 +2014,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.383,
+    "top_speed_mph": 118.25,
     "price": 4720000,
     "trade_price": 3540000,
     "use_case": [
@@ -1941,6 +2035,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.238,
+    "top_speed_mph": 103,
     "use_case": [
       "fun",
       "utility"
@@ -1962,6 +2057,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.753,
+    "top_speed_mph": 114.75,
     "price": 4150000,
     "trade_price": 3112500,
     "use_case": [
@@ -1983,6 +2079,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 76.293,
+    "top_speed_mph": 102,
     "price": 2980000,
     "trade_price": 2235000,
     "use_case": [
@@ -2006,6 +2103,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.553,
+    "top_speed_mph": 100.5,
     "price": 4960000,
     "trade_price": 3720000,
     "use_case": [
@@ -2042,6 +2140,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 116.617,
+    "top_speed_mph": 65.25,
     "price": 731500,
     "trade_price": 550000,
     "use_case": [
@@ -2060,6 +2159,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.337,
+    "top_speed_mph": 89.5,
     "use_case": [
       "fun",
       "utility"
@@ -2079,6 +2179,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 99.132,
+    "top_speed_mph": 86.25,
     "price": 4800000,
     "trade_price": 3600000,
     "use_case": [
@@ -2098,6 +2199,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.867,
+    "top_speed_mph": 101.5,
     "use_case": [
       "fun",
       "utility"
@@ -2115,6 +2217,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 88.472,
+    "top_speed_mph": 91,
     "use_case": [
       "utility",
       "fun"
@@ -2136,6 +2239,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 90.007,
+    "top_speed_mph": 96.75,
     "price": 3125500,
     "trade_price": 2350000,
     "use_case": [
@@ -2154,6 +2258,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 76.343,
+    "top_speed_mph": 102.25,
     "use_case": [
       "fun",
       "utility"
@@ -2171,6 +2276,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.345,
+    "top_speed_mph": 96.5,
     "use_case": [
       "fun",
       "utility"
@@ -2192,6 +2298,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.82,
+    "top_speed_mph": 114.25,
     "price": 4690000,
     "trade_price": 3517500,
     "use_case": [
@@ -2214,6 +2321,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.964,
+    "top_speed_mph": 119.5,
     "price": 5125000,
     "trade_price": 3843750,
     "use_case": [
@@ -2238,6 +2346,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 71.572,
+    "top_speed_mph": 111,
     "price": 3950000,
     "trade_price": 2962500,
     "use_case": [
@@ -2261,6 +2370,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.368,
+    "top_speed_mph": 157.25,
     "price": 4500000,
     "trade_price": 3375000,
     "use_case": [
@@ -2285,6 +2395,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.902,
+    "top_speed_mph": 115,
     "price": 1825000,
     "use_case": [
       "combat"
@@ -2306,6 +2417,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 60.238,
+    "top_speed_mph": 149,
     "price": 3870000,
     "trade_price": 2902500,
     "use_case": [
@@ -2329,6 +2441,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.523,
+    "top_speed_mph": 145,
     "price": 1750000,
     "use_case": [
       "grinding",
@@ -2352,6 +2465,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.523,
+    "top_speed_mph": 145,
     "price": 1750000,
     "use_case": [
       "grinding",
@@ -2375,6 +2489,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.64,
+    "top_speed_mph": 99.5,
     "price": 1790000,
     "use_case": [
       "transport",
@@ -2398,6 +2513,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 51.961,
+    "top_speed_mph": 158.75,
     "price": 2450000,
     "trade_price": 1837500,
     "use_case": [
@@ -2422,6 +2538,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 2345000,
     "trade_price": 1758750,
     "use_case": [
@@ -2445,6 +2562,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.902,
+    "top_speed_mph": 154.25,
     "price": 4123000,
     "trade_price": 3100000,
     "use_case": [
@@ -2469,6 +2587,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 56.757,
+    "top_speed_mph": 141.5,
     "price": 1300000,
     "use_case": [
       "transport",
@@ -2491,6 +2610,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.234,
+    "top_speed_mph": 148.5,
     "price": 2300900,
     "trade_price": 1730000,
     "use_case": [
@@ -2512,6 +2632,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.058,
+    "top_speed_mph": 140.25,
     "use_case": [
       "transport",
       "fun"
@@ -2534,6 +2655,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.058,
+    "top_speed_mph": 140.25,
     "price": 780000,
     "use_case": [
       "transport"
@@ -2553,6 +2675,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 58.325,
+    "top_speed_mph": 144,
     "use_case": [
       "fun",
       "utility"
@@ -2574,6 +2697,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.497,
+    "top_speed_mph": 144.5,
     "price": 2593500,
     "trade_price": 1950000,
     "use_case": [
@@ -2597,6 +2721,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.535,
+    "top_speed_mph": 153.75,
     "price": 1815000,
     "use_case": [
       "combat",
@@ -2615,6 +2740,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.736,
+    "top_speed_mph": 115,
     "use_case": [
       "transport",
       "utility"
@@ -2637,6 +2763,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.997,
+    "top_speed_mph": 168.75,
     "price": 1815000,
     "use_case": [
       "grinding",
@@ -2662,6 +2789,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.489,
+    "top_speed_mph": 148.75,
     "price": 2113000,
     "use_case": [
       "transport",
@@ -2686,6 +2814,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.489,
+    "top_speed_mph": 148.75,
     "price": 3330000,
     "use_case": [
       "transport",
@@ -2710,6 +2839,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.953,
+    "top_speed_mph": 156.5,
     "price": 1500000,
     "use_case": [
       "transport",
@@ -2734,6 +2864,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.484,
+    "top_speed_mph": 157.75,
     "price": 5150000,
     "use_case": [
       "transport",
@@ -2756,6 +2887,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 61.796,
+    "top_speed_mph": 145,
     "price": 3790500,
     "trade_price": 2850000,
     "use_case": [
@@ -2779,6 +2911,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 61.796,
+    "top_speed_mph": 145,
     "use_case": [
       "combat"
     ]
@@ -2801,6 +2934,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.388,
+    "top_speed_mph": 161.25,
     "price": 2295000,
     "use_case": [
       "transport",
@@ -2823,6 +2957,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.762,
+    "top_speed_mph": 151,
     "price": 3385000,
     "use_case": [
       "combat"
@@ -2840,6 +2975,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 96.129,
+    "top_speed_mph": 77,
     "use_case": [
       "transport"
     ]
@@ -2856,6 +2992,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 188.049,
+    "top_speed_mph": 31.25,
     "use_case": [
       "transport"
     ]
@@ -2872,6 +3009,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 185.852,
+    "top_speed_mph": 32,
     "use_case": [
       "transport"
     ]
@@ -2888,6 +3026,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 518.251,
+    "top_speed_mph": 11,
     "use_case": [
       "transport"
     ]
@@ -2907,6 +3046,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 183.133,
+    "top_speed_mph": 32.25,
     "price": 1000000,
     "use_case": [
       "transport"
@@ -2924,6 +3064,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 96.096,
+    "top_speed_mph": 77,
     "use_case": [
       "transport"
     ]
@@ -2942,6 +3083,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 77.044,
+    "top_speed_mph": 100.75,
     "price": 375000,
     "use_case": [
       "transport"
@@ -2959,6 +3101,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 102.669,
+    "top_speed_mph": 85.25,
     "use_case": [
       "transport"
     ]
@@ -2975,6 +3118,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 102.953,
+    "top_speed_mph": 78,
     "use_case": [
       "transport"
     ]
@@ -2991,6 +3135,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.237,
+    "top_speed_mph": 71,
     "use_case": [
       "transport"
     ]
@@ -3011,6 +3156,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1862000,
     "trade_price": 1400000,
     "use_case": [
@@ -3033,6 +3179,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 88.872,
+    "top_speed_mph": 63,
     "use_case": [
       "combat",
       "off-road"
@@ -3054,6 +3201,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.15,
+    "top_speed_mph": 74.25,
     "use_case": [
       "combat"
     ]
@@ -3072,6 +3220,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 101.101,
+    "top_speed_mph": 84.25,
     "price": 450000,
     "use_case": [
       "combat"
@@ -3089,6 +3238,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 97.163,
+    "top_speed_mph": 83.25,
     "use_case": [
       "combat"
     ]
@@ -3109,6 +3259,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 72.339,
+    "top_speed_mph": 108.5,
     "price": 2121350,
     "trade_price": 1595000,
     "use_case": [
@@ -3131,6 +3282,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 108.491,
+    "top_speed_mph": 70.75,
     "price": 1500000,
     "trade_price": 1125000,
     "use_case": [
@@ -3151,6 +3303,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.735,
+    "top_speed_mph": 90.5,
     "price": 225000,
     "use_case": [
       "combat"
@@ -3172,6 +3325,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.15,
+    "top_speed_mph": 74.25,
     "use_case": [
       "combat"
     ]
@@ -3192,6 +3346,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 111.061,
+    "top_speed_mph": 58,
     "price": 2254350,
     "trade_price": 1695000,
     "use_case": [
@@ -3214,6 +3369,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 218.443,
+    "top_speed_mph": 26.75,
     "use_case": [
       "combat"
     ]
@@ -3234,6 +3390,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.15,
+    "top_speed_mph": 74.25,
     "use_case": [
       "combat"
     ]
@@ -3254,6 +3411,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 143.91,
+    "top_speed_mph": 40.75,
     "price": 1500000,
     "use_case": [
       "combat",
@@ -3277,6 +3435,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 99.55,
+    "top_speed_mph": 127,
     "use_case": [
       "combat"
     ]
@@ -3297,6 +3456,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 139.189,
+    "top_speed_mph": 42.25,
     "use_case": [
       "combat"
     ]
@@ -3315,6 +3475,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 111.178,
+    "top_speed_mph": 63,
     "price": 1630000,
     "trade_price": 1222500,
     "use_case": [
@@ -3339,6 +3500,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 58.892,
+    "top_speed_mph": 121.25,
     "price": 9000,
     "use_case": [
       "racing",
@@ -3361,6 +3523,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.017,
+    "top_speed_mph": 150,
     "use_case": [
       "combat"
     ]
@@ -3379,6 +3542,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.168,
+    "top_speed_mph": 107.5,
     "price": 116000,
     "use_case": [
       "collector",
@@ -3402,6 +3566,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 73.907,
+    "top_speed_mph": 98,
     "price": 16000,
     "use_case": [
       "collector",
@@ -3424,6 +3589,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 58.625,
+    "top_speed_mph": 135,
     "price": 15000,
     "use_case": [
       "racing"
@@ -3445,6 +3611,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 58.625,
+    "top_speed_mph": 135,
     "price": 15000,
     "use_case": [
       "racing",
@@ -3467,6 +3634,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.296,
+    "top_speed_mph": 135.75,
     "price": 95000,
     "use_case": [
       "racing",
@@ -3489,6 +3657,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 60.96,
+    "top_speed_mph": 124.25,
     "price": 40000,
     "use_case": [
       "racing"
@@ -3508,6 +3677,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.935,
+    "top_speed_mph": 103,
     "price": 210000,
     "use_case": [
       "off-road",
@@ -3528,6 +3698,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.595,
+    "top_speed_mph": 124.75,
     "price": 225000,
     "use_case": [
       "off-road",
@@ -3546,6 +3717,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.834,
+    "top_speed_mph": 107,
     "use_case": [
       "fun",
       "collector"
@@ -3563,6 +3735,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.635,
+    "top_speed_mph": 106.5,
     "price": 145000,
     "use_case": [
       "collector",
@@ -3583,6 +3756,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 60.326,
+    "top_speed_mph": 117,
     "price": 412000,
     "trade_price": 309000,
     "use_case": [
@@ -3604,6 +3778,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.297,
+    "top_speed_mph": 114.25,
     "price": 169000,
     "use_case": [
       "fun",
@@ -3626,6 +3801,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.896,
+    "top_speed_mph": 115.25,
     "price": 245000,
     "use_case": [
       "collector",
@@ -3648,6 +3824,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 60.261,
+    "top_speed_mph": 118,
     "price": 12000,
     "use_case": [
       "racing",
@@ -3668,6 +3845,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.137,
+    "top_speed_mph": 107.25,
     "price": 48000,
     "use_case": [
       "off-road",
@@ -3688,6 +3866,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.399,
+    "top_speed_mph": 112.75,
     "price": 264000,
     "use_case": [
       "racing"
@@ -3705,6 +3884,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 87.421,
+    "top_speed_mph": 103.25,
     "price": 5000,
     "use_case": [
       "fun",
@@ -3725,6 +3905,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 87.154,
+    "top_speed_mph": 74.25,
     "price": 55000,
     "use_case": [
       "fun",
@@ -3745,6 +3926,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.318,
+    "top_speed_mph": 76.75,
     "price": 47500,
     "use_case": [
       "fun"
@@ -3765,6 +3947,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.23,
+    "top_speed_mph": 112,
     "price": 135000,
     "use_case": [
       "racing",
@@ -3787,6 +3970,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.396,
+    "top_speed_mph": 112.5,
     "price": 196000,
     "use_case": [
       "racing",
@@ -3809,6 +3993,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.017,
+    "top_speed_mph": 150,
     "use_case": [
       "combat"
     ]
@@ -3828,6 +4013,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.628,
+    "top_speed_mph": 125,
     "price": 120000,
     "trade_price": 90000,
     "use_case": [
@@ -3852,6 +4038,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 60.76,
+    "top_speed_mph": 134,
     "price": 82000,
     "use_case": [
       "racing"
@@ -3869,6 +4056,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.44,
+    "top_speed_mph": 126.5,
     "use_case": [
       "racing"
     ]
@@ -3890,6 +4078,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.167,
+    "top_speed_mph": 104.75,
     "price": 15000,
     "use_case": [
       "fun",
@@ -3911,6 +4100,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.999,
+    "top_speed_mph": 110,
     "price": 92500,
     "use_case": [
       "fun",
@@ -3931,6 +4121,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.729,
+    "top_speed_mph": 109.25,
     "price": 997500,
     "trade_price": 750000,
     "use_case": [
@@ -3955,6 +4146,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.465,
+    "top_speed_mph": 113.5,
     "price": 67000,
     "trade_price": 50250,
     "use_case": [
@@ -3979,6 +4171,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.968,
+    "top_speed_mph": 139.75,
     "price": 225000,
     "trade_price": 168750,
     "use_case": [
@@ -4002,6 +4195,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.133,
+    "top_speed_mph": 137.75,
     "use_case": [
       "off-road",
       "utility"
@@ -4021,6 +4215,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.598,
+    "top_speed_mph": 111.25,
     "price": 12000,
     "use_case": [
       "fun",
@@ -4041,6 +4236,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.496,
+    "top_speed_mph": 114.25,
     "price": 100000,
     "use_case": [
       "fun",
@@ -4063,6 +4259,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.017,
+    "top_speed_mph": 150,
     "use_case": [
       "combat"
     ]
@@ -4083,6 +4280,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 51.953,
+    "top_speed_mph": 140,
     "price": 2750000,
     "trade_price": 2067669,
     "use_case": [
@@ -4106,6 +4304,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.387,
+    "top_speed_mph": 127.75,
     "price": 8000000,
     "trade_price": 6000000,
     "use_case": [
@@ -4127,6 +4326,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.734,
+    "top_speed_mph": 106.75,
     "price": 9000,
     "use_case": [
       "racing",
@@ -4150,6 +4350,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 84.667,
+    "top_speed_mph": 81.5,
     "price": 195000,
     "trade_price": 146250,
     "use_case": [
@@ -4171,6 +4372,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.371,
+    "top_speed_mph": 130,
     "price": 1605000,
     "use_case": [
       "racing",
@@ -4191,6 +4393,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.367,
+    "top_speed_mph": 106,
     "use_case": [
       "fun",
       "combat"
@@ -4210,6 +4413,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 77.632,
+    "top_speed_mph": 123.5,
     "price": 48000,
     "use_case": [
       "fun",
@@ -4233,6 +4437,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.459,
+    "top_speed_mph": 163,
     "price": 1900000,
     "use_case": [
       "collector",
@@ -4253,6 +4458,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.461,
+    "top_speed_mph": 127,
     "price": 10000,
     "use_case": [
       "fun",
@@ -4279,6 +4485,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.665,
+    "top_speed_mph": 119.5,
     "price": 8000,
     "use_case": [
       "racing",
@@ -4302,6 +4509,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.665,
+    "top_speed_mph": 119.5,
     "price": 7000,
     "use_case": [
       "off-road",
@@ -4323,6 +4531,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 63.329,
+    "top_speed_mph": 112,
     "price": 1995000,
     "use_case": [
       "fun",
@@ -4346,6 +4555,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 58.592,
+    "top_speed_mph": 125.25,
     "price": 2480500,
     "use_case": [
       "racing",
@@ -4368,6 +4578,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.49,
+    "top_speed_mph": 123.75,
     "price": 2225000,
     "use_case": [
       "racing",
@@ -4388,6 +4599,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.4,
+    "top_speed_mph": 106.25,
     "price": 90000,
     "use_case": [
       "fun",
@@ -4408,6 +4620,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.334,
+    "top_speed_mph": 101.5,
     "price": 670000,
     "trade_price": 502500,
     "use_case": [
@@ -4429,6 +4642,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.267,
+    "top_speed_mph": 118.25,
     "price": 75000,
     "use_case": [
       "racing",
@@ -4449,6 +4663,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.299,
+    "top_speed_mph": 107.75,
     "price": 9000,
     "use_case": [
       "racing",
@@ -4469,6 +4684,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.466,
+    "top_speed_mph": 121.25,
     "price": 630000,
     "use_case": [
       "fun",
@@ -4491,6 +4707,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 61.028,
+    "top_speed_mph": 115.75,
     "price": 356000,
     "use_case": [
       "fun",
@@ -4512,6 +4729,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 77.444,
+    "top_speed_mph": 101.5,
     "price": 95000,
     "use_case": [
       "fun",
@@ -4532,6 +4750,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.311,
+    "top_speed_mph": 113.75,
     "price": 99000,
     "use_case": [
       "fun",
@@ -4554,6 +4773,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.201,
+    "top_speed_mph": 113.75,
     "price": 122000,
     "use_case": [
       "fun",
@@ -4577,6 +4797,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.882,
+    "top_speed_mph": 134,
     "use_case": [
       "combat"
     ]
@@ -4597,6 +4818,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.398,
+    "top_speed_mph": 129,
     "use_case": [
       "combat"
     ]
@@ -4617,6 +4839,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.916,
+    "top_speed_mph": 135,
     "use_case": [
       "combat"
     ]
@@ -4637,6 +4860,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.758,
+    "top_speed_mph": 120,
     "use_case": [
       "combat"
     ]
@@ -4657,6 +4881,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.054,
+    "top_speed_mph": 111.5,
     "price": 1580000,
     "use_case": [
       "racing"
@@ -4676,9 +4901,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.153,
+    "top_speed_mph": 112.5,
     "price": 378000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -4697,6 +4924,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 68.634,
+    "top_speed_mph": 110.5,
     "price": 160000,
     "use_case": [
       "racing"
@@ -4716,6 +4944,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.559,
+    "top_speed_mph": 105.5,
     "price": 1499000,
     "use_case": [
       "racing"
@@ -4738,9 +4967,12 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 77.978,
+    "top_speed_mph": 100,
     "price": 925000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -4757,9 +4989,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.055,
+    "top_speed_mph": 113.25,
     "price": 29000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -4778,9 +5012,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.105,
+    "top_speed_mph": 113.25,
     "price": 390000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -4801,6 +5037,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 66.132,
+    "top_speed_mph": 119,
     "price": 2140000,
     "use_case": [
       "racing"
@@ -4824,6 +5061,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 63.147,
+    "top_speed_mph": 126,
     "price": 2150000,
     "trade_price": 1612500,
     "use_case": [
@@ -4845,9 +5083,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.754,
+    "top_speed_mph": 113.75,
     "price": 277000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -4865,9 +5105,11 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.028,
+    "top_speed_mph": 94,
     "price": 225000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -4886,9 +5128,11 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.545,
+    "top_speed_mph": 95.25,
     "price": 180000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -4905,6 +5149,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.399,
+    "top_speed_mph": 116.25,
     "price": 909000,
     "use_case": [
       "racing"
@@ -4924,9 +5169,11 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 79.296,
+    "top_speed_mph": 91,
     "price": 1205000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -4943,9 +5190,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.135,
+    "top_speed_mph": 115,
     "price": 695000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -4965,6 +5214,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.904,
+    "top_speed_mph": 108,
     "price": 512000,
     "use_case": [
       "racing"
@@ -4988,10 +5238,12 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 68.118,
+    "top_speed_mph": 120.75,
     "price": 35000,
     "trade_price": 26250,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -5011,10 +5263,12 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.182,
+    "top_speed_mph": 118.75,
     "price": 1775000,
     "trade_price": 1331250,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -5033,9 +5287,11 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 63.88,
+    "top_speed_mph": 122,
     "price": 1550000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   {
@@ -5054,9 +5310,11 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 62.88,
+    "top_speed_mph": 123,
     "price": 2195000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   {
@@ -5076,10 +5334,12 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.306,
+    "top_speed_mph": 115,
     "price": 1220000,
     "trade_price": 915000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -5096,6 +5356,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.951,
+    "top_speed_mph": 108.5,
     "price": 725000,
     "use_case": [
       "racing"
@@ -5117,10 +5378,12 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.532,
+    "top_speed_mph": 115,
     "price": 1308000,
     "trade_price": 981000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   {
@@ -5141,6 +5404,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.519,
+    "top_speed_mph": 114.5,
     "price": 665000,
     "use_case": [
       "combat",
@@ -5161,9 +5425,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 68.619,
+    "top_speed_mph": 112.75,
     "price": 62000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5180,10 +5446,12 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 73.172,
+    "top_speed_mph": 105.5,
     "price": 565000,
     "trade_price": 423750,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5203,9 +5471,11 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 76.776,
+    "top_speed_mph": 109,
     "price": 1250000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -5222,9 +5492,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.908,
+    "top_speed_mph": 111.25,
     "price": 36000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -5241,8 +5513,10 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.989,
+    "top_speed_mph": 111.25,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -5261,9 +5535,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.608,
+    "top_speed_mph": 98.25,
     "price": 695000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -5282,6 +5558,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.882,
+    "top_speed_mph": 134,
     "use_case": [
       "combat"
     ]
@@ -5302,6 +5579,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.398,
+    "top_speed_mph": 129,
     "use_case": [
       "combat"
     ]
@@ -5322,6 +5600,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.916,
+    "top_speed_mph": 135,
     "use_case": [
       "combat"
     ]
@@ -5342,6 +5621,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.758,
+    "top_speed_mph": 120,
     "use_case": [
       "combat"
     ]
@@ -5363,9 +5643,12 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.505,
+    "top_speed_mph": 114,
     "price": 32000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -5383,10 +5666,12 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.589,
+    "top_speed_mph": 109.5,
     "price": 615000,
     "trade_price": 461250,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5405,9 +5690,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.537,
+    "top_speed_mph": 125.25,
     "price": 815000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5428,9 +5715,12 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.019,
+    "top_speed_mph": 125,
     "price": 745000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat",
+      "fun"
     ]
   },
   {
@@ -5450,10 +5740,13 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.434,
+    "top_speed_mph": 119.5,
     "price": 1465000,
     "trade_price": 1098750,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -5473,9 +5766,12 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.27,
+    "top_speed_mph": 115.5,
     "price": 535000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -5494,9 +5790,12 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.362,
+    "top_speed_mph": 109.5,
     "price": 90000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5513,9 +5812,12 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.454,
+    "top_speed_mph": 120.5,
     "price": 625000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5533,6 +5835,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.902,
+    "top_speed_mph": 115.75,
     "price": 331835,
     "trade_price": 249500,
     "use_case": [
@@ -5556,9 +5859,11 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 67.969,
+    "top_speed_mph": 115.5,
     "price": 1465000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -5575,6 +5880,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 67.101,
+    "top_speed_mph": 117,
     "price": 1280000,
     "use_case": [
       "racing"
@@ -5592,8 +5898,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.462,
+    "top_speed_mph": 109.5,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5610,9 +5918,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 73.757,
+    "top_speed_mph": 114.5,
     "price": 650000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5631,9 +5941,11 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.726,
+    "top_speed_mph": 109,
     "price": 925000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -5650,9 +5962,11 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 79.729,
+    "top_speed_mph": 102.25,
     "price": 32500,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   {
@@ -5671,9 +5985,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 75.458,
+    "top_speed_mph": 102.25,
     "price": 370000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -5692,6 +6008,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.882,
+    "top_speed_mph": 134,
     "use_case": [
       "combat"
     ]
@@ -5712,6 +6029,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.398,
+    "top_speed_mph": 129,
     "use_case": [
       "combat"
     ]
@@ -5732,6 +6050,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.916,
+    "top_speed_mph": 135,
     "use_case": [
       "combat"
     ]
@@ -5752,6 +6071,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.758,
+    "top_speed_mph": 120,
     "use_case": [
       "combat"
     ]
@@ -5770,6 +6090,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.489,
+    "top_speed_mph": 105.25,
     "price": 585000,
     "use_case": [
       "racing"
@@ -5792,9 +6113,12 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.991,
+    "top_speed_mph": 118.5,
     "price": 805000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -5809,8 +6133,10 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.104,
+    "top_speed_mph": 114,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5827,9 +6153,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 75.059,
+    "top_speed_mph": 102.25,
     "price": 9000,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   {
@@ -5844,8 +6172,10 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.767,
+    "top_speed_mph": 125,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5862,9 +6192,11 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 83.734,
+    "top_speed_mph": 103,
     "price": 6000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5882,10 +6214,12 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 82.649,
+    "top_speed_mph": 106,
     "price": 37500,
     "trade_price": 28125,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5903,9 +6237,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.854,
+    "top_speed_mph": 116.25,
     "price": 230000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -5922,9 +6258,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.136,
+    "top_speed_mph": 119.5,
     "price": 10000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -5943,6 +6281,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 71.371,
+    "top_speed_mph": 119,
     "price": 3750000,
     "trade_price": 2812500,
     "use_case": [
@@ -5965,6 +6304,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.817,
+    "top_speed_mph": 116.25,
     "price": 1320000,
     "use_case": [
       "racing"
@@ -5984,9 +6324,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.452,
+    "top_speed_mph": 111.25,
     "price": 15000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6005,9 +6347,11 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 66.75,
+    "top_speed_mph": 121.25,
     "price": 490000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6026,10 +6370,12 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 83.8,
+    "top_speed_mph": 109,
     "price": 49500,
     "trade_price": 37125,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   {
@@ -6048,9 +6394,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.354,
+    "top_speed_mph": 118,
     "price": 415000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -6068,9 +6416,11 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 71.055,
+    "top_speed_mph": 110.75,
     "price": 71000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6087,9 +6437,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.738,
+    "top_speed_mph": 112.25,
     "price": 1500000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -6106,6 +6458,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.688,
+    "top_speed_mph": 105.75,
     "price": 375000,
     "use_case": [
       "racing"
@@ -6129,9 +6482,12 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 70.303,
+    "top_speed_mph": 130.5,
     "price": 1311000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -6148,9 +6504,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 69.904,
+    "top_speed_mph": 112.25,
     "price": 718000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6167,9 +6525,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.938,
+    "top_speed_mph": 116.75,
     "price": 1658000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6186,9 +6546,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 69.753,
+    "top_speed_mph": 110.75,
     "price": 596000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -6205,9 +6567,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 72.155,
+    "top_speed_mph": 112.5,
     "price": 21000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6228,9 +6592,12 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.208,
+    "top_speed_mph": 125,
     "price": 1947000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   {
@@ -6249,9 +6616,11 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.299,
+    "top_speed_mph": 125,
     "price": 2295000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6268,9 +6637,11 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 77.624,
+    "top_speed_mph": 97.5,
     "price": 195000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6287,9 +6658,11 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.264,
+    "top_speed_mph": 97,
     "price": 165000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6308,9 +6681,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 74.808,
+    "top_speed_mph": 104.5,
     "price": 240000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   {
@@ -6327,9 +6702,11 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 81.882,
+    "top_speed_mph": 99.5,
     "price": 5500,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -6348,9 +6725,11 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.748,
+    "top_speed_mph": 101,
     "price": 420000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   {
@@ -6369,6 +6748,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 69.986,
+    "top_speed_mph": 112,
     "price": 2108050,
     "trade_price": 1585000,
     "use_case": [
@@ -6392,9 +6772,11 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.365,
+    "top_speed_mph": 137.5,
     "price": 980000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   {
@@ -6412,9 +6794,11 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.532,
+    "top_speed_mph": 115,
     "price": 485000,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   {
@@ -6433,6 +6817,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.762,
+    "top_speed_mph": 109,
     "use_case": [
       "combat"
     ]
@@ -6453,6 +6838,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.601,
+    "top_speed_mph": 120.25,
     "use_case": [
       "combat"
     ]
@@ -6473,6 +6859,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.366,
+    "top_speed_mph": 116.5,
     "use_case": [
       "combat"
     ]
@@ -6491,9 +6878,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.885,
+    "top_speed_mph": 107.75,
     "price": 75000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -6513,9 +6902,12 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.734,
+    "top_speed_mph": 99.25,
     "price": 8000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -6534,6 +6926,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.283,
+    "top_speed_mph": 99,
     "price": 1755600,
     "trade_price": 1320000,
     "use_case": [
@@ -6554,9 +6947,11 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 82.288,
+    "top_speed_mph": 83.75,
     "price": 62000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -6576,9 +6971,12 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.956,
+    "top_speed_mph": 99.5,
     "price": 25000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -6595,6 +6993,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.754,
+    "top_speed_mph": 112.5,
     "price": 1280000,
     "use_case": [
       "off-road"
@@ -6617,9 +7016,12 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.252,
+    "top_speed_mph": 119.25,
     "price": 715000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -6638,6 +7040,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 72.703,
+    "top_speed_mph": 100.75,
     "price": 1775000,
     "use_case": [
       "combat"
@@ -6660,9 +7063,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.57,
+    "top_speed_mph": 103.25,
     "price": 875000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "combat"
     ]
   },
   {
@@ -6679,9 +7084,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 66.549,
+    "top_speed_mph": 106.75,
     "price": 695000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing"
     ]
   },
   {
@@ -6698,6 +7105,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 62.095,
+    "top_speed_mph": 111.75,
     "price": 1870000,
     "trade_price": 1402500,
     "use_case": [
@@ -6722,9 +7130,12 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1403750,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -6744,6 +7155,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.125,
+    "top_speed_mph": 104.25,
     "price": 249000,
     "use_case": [
       "off-road",
@@ -6764,9 +7176,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.002,
+    "top_speed_mph": 101,
     "price": 20000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -6785,6 +7199,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 73.74,
+    "top_speed_mph": 99.5,
     "price": 1130500,
     "trade_price": 850000,
     "use_case": [
@@ -6804,8 +7219,10 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 90.874,
+    "top_speed_mph": 79.5,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -6822,6 +7239,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.637,
+    "top_speed_mph": 107,
     "price": 1475000,
     "trade_price": 1106250,
     "use_case": [
@@ -6845,9 +7263,12 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 65.515,
+    "top_speed_mph": 113.5,
     "price": 1894500,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing",
+      "combat"
     ]
   },
   {
@@ -6864,6 +7285,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.695,
+    "top_speed_mph": 99,
     "price": 597000,
     "use_case": [
       "off-road"
@@ -6885,6 +7307,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.762,
+    "top_speed_mph": 109,
     "use_case": [
       "combat"
     ]
@@ -6905,6 +7328,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.601,
+    "top_speed_mph": 120.25,
     "use_case": [
       "combat"
     ]
@@ -6925,6 +7349,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.366,
+    "top_speed_mph": 116.5,
     "use_case": [
       "combat"
     ]
@@ -6946,9 +7371,12 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.22,
+    "top_speed_mph": 104,
     "price": 835000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -6965,9 +7393,11 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 67.744,
+    "top_speed_mph": 99.25,
     "price": 69000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -6984,9 +7414,11 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 73.156,
+    "top_speed_mph": 107,
     "price": 16000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7005,6 +7437,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.607,
+    "top_speed_mph": 98.75,
     "price": 897750,
     "trade_price": 675000,
     "use_case": [
@@ -7028,6 +7461,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 76.993,
+    "top_speed_mph": 92.5,
     "price": 1795500,
     "trade_price": 1350000,
     "use_case": [
@@ -7052,6 +7486,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 71.906,
+    "top_speed_mph": 98.5,
     "price": 202500,
     "use_case": [
       "combat",
@@ -7072,6 +7507,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 78.363,
+    "top_speed_mph": 90.75,
     "price": 40000,
     "use_case": [
       "off-road"
@@ -7091,6 +7527,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 64.864,
+    "top_speed_mph": 116.5,
     "price": 345000,
     "use_case": [
       "off-road"
@@ -7110,6 +7547,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 76.559,
+    "top_speed_mph": 81.25,
     "price": 500000,
     "use_case": [
       "off-road",
@@ -7132,6 +7570,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 73.44,
+    "top_speed_mph": 94,
     "price": 1775000,
     "use_case": [
       "combat"
@@ -7149,8 +7588,10 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 76.594,
+    "top_speed_mph": 81.25,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7171,9 +7612,12 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.183,
+    "top_speed_mph": 109.75,
     "price": 1485000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   {
@@ -7192,6 +7636,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.762,
+    "top_speed_mph": 109,
     "use_case": [
       "combat"
     ]
@@ -7212,6 +7657,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 68.601,
+    "top_speed_mph": 120.25,
     "use_case": [
       "combat"
     ]
@@ -7232,6 +7678,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 65.366,
+    "top_speed_mph": 116.5,
     "use_case": [
       "combat"
     ]
@@ -7253,6 +7700,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 66.75,
+    "top_speed_mph": 105.25,
     "price": 1245000,
     "use_case": [
       "combat"
@@ -7272,6 +7720,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.036,
+    "top_speed_mph": 91,
     "price": 1268000,
     "trade_price": 951000,
     "use_case": [
@@ -7296,6 +7745,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.043,
+    "top_speed_mph": 96,
     "price": 1710000,
     "trade_price": 1282500,
     "use_case": [
@@ -7316,10 +7766,12 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 70.317,
+    "top_speed_mph": 106,
     "price": 3192000,
     "trade_price": 2400000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7336,9 +7788,11 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 81.198,
+    "top_speed_mph": 96.75,
     "price": 9000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7355,9 +7809,11 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 65.984,
+    "top_speed_mph": 113,
     "price": 1873000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7376,6 +7832,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 99.616,
+    "top_speed_mph": 59.5,
     "price": 1590000,
     "use_case": [
       "fun",
@@ -7396,9 +7853,11 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.142,
+    "top_speed_mph": 101,
     "price": 22000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7415,9 +7874,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.488,
+    "top_speed_mph": 104.25,
     "price": 380000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7434,9 +7895,12 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.076,
+    "top_speed_mph": 101,
     "price": 3000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "collector"
     ]
   },
   {
@@ -7453,9 +7917,11 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 77.06,
+    "top_speed_mph": 99.75,
     "price": 38000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7472,9 +7938,11 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 77.994,
+    "top_speed_mph": 99.75,
     "price": 45000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7489,8 +7957,11 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 83.139,
+    "top_speed_mph": 87.75,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "collector"
     ]
   },
   {
@@ -7507,9 +7978,11 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 64.914,
+    "top_speed_mph": 100,
     "price": 81000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7529,6 +8002,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 78.028,
+    "top_speed_mph": 94.5,
     "price": 1263500,
     "trade_price": 950000,
     "use_case": [
@@ -7551,6 +8025,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.341,
+    "top_speed_mph": 93.25,
     "price": 1489600,
     "trade_price": 1120000,
     "use_case": [
@@ -7574,6 +8049,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.39,
+    "top_speed_mph": 101.5,
     "price": 142500,
     "use_case": [
       "combat",
@@ -7597,9 +8073,11 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.197,
+    "top_speed_mph": 119,
     "price": 1877500,
     "use_case": [
-      "off-road"
+      "off-road",
+      "combat"
     ]
   },
   {
@@ -7616,9 +8094,11 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 66.561,
+    "top_speed_mph": 106.75,
     "price": 550000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing"
     ]
   },
   {
@@ -7635,6 +8115,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.596,
+    "top_speed_mph": 120.75,
     "price": 2214000,
     "trade_price": 1660500,
     "use_case": [
@@ -7656,6 +8137,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 80.597,
+    "top_speed_mph": 84,
     "price": 192000,
     "use_case": [
       "off-road"
@@ -7675,8 +8157,10 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.337,
+    "top_speed_mph": 105.25,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7695,9 +8179,11 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.204,
+    "top_speed_mph": 108.25,
     "price": 1303700,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7714,10 +8200,12 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 92.158,
+    "top_speed_mph": 72,
     "price": 1100000,
     "trade_price": 825000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7734,9 +8222,11 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.586,
+    "top_speed_mph": 106.25,
     "price": 1205000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   {
@@ -7755,9 +8245,12 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.138,
+    "top_speed_mph": 105,
     "price": 700000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport",
+      "fun"
     ]
   },
   {
@@ -7774,10 +8267,12 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 97.998,
+    "top_speed_mph": 62.25,
     "price": 2400000,
     "trade_price": 1800000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   {
@@ -7794,6 +8289,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 54.555,
+    "top_speed_mph": 121,
     "use_case": [
       "racing"
     ]
@@ -7812,6 +8308,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 56.473,
+    "top_speed_mph": 118.5,
     "use_case": [
       "racing"
     ]
@@ -7830,6 +8327,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 56.356,
+    "top_speed_mph": 116.5,
     "use_case": [
       "racing"
     ]
@@ -7848,6 +8346,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 56.54,
+    "top_speed_mph": 117.5,
     "use_case": [
       "racing"
     ]
@@ -7869,6 +8368,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 33.567,
+    "top_speed_mph": 201.5,
     "price": 2121350,
     "trade_price": 1595000,
     "use_case": [
@@ -7887,6 +8387,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 103.27,
+    "top_speed_mph": 105,
     "use_case": [
       "fun",
       "collector"
@@ -7910,6 +8411,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 39.421,
+    "top_speed_mph": 178.5,
     "price": 3450000,
     "use_case": [
       "utility",
@@ -7932,6 +8434,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 46.034,
+    "top_speed_mph": 163.75,
     "price": 3800000,
     "use_case": [
       "combat"
@@ -7956,6 +8459,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 38.334,
+    "top_speed_mph": 189.25,
     "price": 1150000,
     "use_case": [
       "racing",
@@ -7976,6 +8480,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 103.342,
+    "top_speed_mph": 105,
     "price": 1190350,
     "trade_price": 895000,
     "use_case": [
@@ -8011,6 +8516,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 49.85,
+    "top_speed_mph": 142,
     "price": 240000,
     "use_case": [
       "transport"
@@ -8032,6 +8538,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.335,
+    "top_speed_mph": 134.25,
     "price": 500000,
     "use_case": [
       "fun",
@@ -8052,6 +8559,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 54.522,
+    "top_speed_mph": 144,
     "price": 275000,
     "use_case": [
       "fun",
@@ -8074,6 +8582,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1020000,
     "trade_price": 765000,
     "use_case": [
@@ -8096,6 +8605,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 30.822,
+    "top_speed_mph": 232.5,
     "price": 6855000,
     "trade_price": 5141250,
     "use_case": [
@@ -8120,6 +8630,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 33.868,
+    "top_speed_mph": 203.75,
     "price": 1296750,
     "trade_price": 975000,
     "use_case": [
@@ -8143,6 +8654,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 34.135,
+    "top_speed_mph": 209.25,
     "price": 3990000,
     "trade_price": 3000000,
     "use_case": [
@@ -8163,6 +8675,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 64.056,
+    "top_speed_mph": 142,
     "use_case": [
       "transport",
       "collector"
@@ -8184,6 +8697,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 44.468,
+    "top_speed_mph": 187.75,
     "price": 3657500,
     "trade_price": 2750000,
     "use_case": [
@@ -8209,6 +8723,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 48.314,
+    "top_speed_mph": 159,
     "price": 1625000,
     "use_case": [
       "transport",
@@ -8232,6 +8747,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 47.315,
+    "top_speed_mph": 159.5,
     "price": 10000000,
     "use_case": [
       "collector",
@@ -8252,6 +8768,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 48.649,
+    "top_speed_mph": 140.25,
     "price": 250000,
     "use_case": [
       "fun",
@@ -8272,6 +8789,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 56.721,
+    "top_speed_mph": 132.25,
     "price": 300000,
     "use_case": [
       "transport"
@@ -8293,6 +8811,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 49.616,
+    "top_speed_mph": 161.25,
     "price": 1700000,
     "use_case": [
       "transport",
@@ -8315,6 +8834,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 45.301,
+    "top_speed_mph": 155.75,
     "price": 3125500,
     "trade_price": 2350000,
     "use_case": [
@@ -8336,6 +8856,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 47.045,
+    "top_speed_mph": 165,
     "price": 1900000,
     "use_case": [
       "transport"
@@ -8357,6 +8878,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 37.068,
+    "top_speed_mph": 201,
     "price": 2653350,
     "trade_price": 1995000,
     "use_case": [
@@ -8380,6 +8902,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 37.645,
+    "top_speed_mph": 195,
     "use_case": [
       "combat"
     ]
@@ -8400,6 +8923,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 34.034,
+    "top_speed_mph": 222.75,
     "price": 4455500,
     "trade_price": 3350000,
     "use_case": [
@@ -8423,6 +8947,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 100.403,
+    "top_speed_mph": 84.5,
     "price": 4750000,
     "trade_price": 3562500,
     "use_case": [
@@ -8446,6 +8971,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.981,
+    "top_speed_mph": 167.5,
     "price": 4350000,
     "trade_price": 3262500,
     "use_case": [
@@ -8468,6 +8994,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 35.201,
+    "top_speed_mph": 219.5,
     "price": 1596000,
     "trade_price": 1200000,
     "use_case": [
@@ -8491,6 +9018,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 38.568,
+    "top_speed_mph": 191.75,
     "price": 1130500,
     "trade_price": 850000,
     "use_case": [
@@ -8512,6 +9040,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 49.417,
+    "top_speed_mph": 159,
     "price": 1150000,
     "use_case": [
       "transport",
@@ -8534,6 +9063,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 48.319,
+    "top_speed_mph": 143,
     "price": 2238000,
     "use_case": [
       "fun",
@@ -8554,6 +9084,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 56.602,
+    "top_speed_mph": 133.25,
     "price": 2000000,
     "use_case": [
       "transport"
@@ -8575,6 +9106,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 4870000,
     "trade_price": 3652500,
     "use_case": [
@@ -8598,6 +9130,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 49.302,
+    "top_speed_mph": 150,
     "price": 4100000,
     "trade_price": 3075000,
     "use_case": [
@@ -8621,6 +9154,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 99.168,
+    "top_speed_mph": 73.25,
     "price": 665000,
     "trade_price": 500000,
     "use_case": [
@@ -8643,6 +9177,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 36.367,
+    "top_speed_mph": 207.75,
     "price": 4788000,
     "trade_price": 3600000,
     "use_case": [
@@ -8664,6 +9199,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.05,
+    "top_speed_mph": 139.75,
     "price": 450000,
     "use_case": [
       "transport"
@@ -8683,6 +9219,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.05,
+    "top_speed_mph": 139.75,
     "price": 1323350,
     "trade_price": 995000,
     "use_case": [
@@ -8705,6 +9242,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 40.307,
+    "top_speed_mph": 163.75,
     "price": 950000,
     "use_case": [
       "fun",
@@ -8727,6 +9265,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 53.501,
+    "top_speed_mph": 165.5,
     "price": 3724000,
     "trade_price": 2800000,
     "use_case": [
@@ -8745,6 +9284,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 101.934,
+    "top_speed_mph": 107,
     "use_case": [
       "fun",
       "collector"
@@ -8764,6 +9304,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 74.708,
+    "top_speed_mph": 106.5,
     "price": 12000,
     "use_case": [
       "fun"
@@ -8783,6 +9324,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.873,
+    "top_speed_mph": 105.25,
     "price": 26000,
     "use_case": [
       "transport"
@@ -8802,6 +9344,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 67.234,
+    "top_speed_mph": 113.25,
     "price": 459000,
     "use_case": [
       "transport"
@@ -8824,6 +9367,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.564,
+    "top_speed_mph": 115.5,
     "price": 1420000,
     "use_case": [
       "fun",
@@ -8844,6 +9388,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.581,
+    "top_speed_mph": 120.5,
     "price": 1740000,
     "use_case": [
       "transport",
@@ -8868,6 +9413,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 75.959,
+    "top_speed_mph": 110.5,
     "price": 254000,
     "use_case": [
       "transport",
@@ -8892,6 +9438,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 76.057,
+    "top_speed_mph": 110.25,
     "price": 558000,
     "use_case": [
       "combat",
@@ -8915,6 +9462,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.957,
+    "top_speed_mph": 113.25,
     "price": 154000,
     "use_case": [
       "transport",
@@ -8939,6 +9487,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 73.223,
+    "top_speed_mph": 113,
     "price": 396000,
     "use_case": [
       "combat",
@@ -8963,6 +9512,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 69.236,
+    "top_speed_mph": 115,
     "price": 1845000,
     "trade_price": 1383750,
     "use_case": [
@@ -8981,6 +9531,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 85.251,
+    "top_speed_mph": 90.75,
     "use_case": [
       "fun"
     ]
@@ -8999,6 +9550,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 71.655,
+    "top_speed_mph": 108.25,
     "price": 24000,
     "use_case": [
       "transport"
@@ -9020,6 +9572,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 74.074,
+    "top_speed_mph": 107.5,
     "price": 200000,
     "trade_price": 150000,
     "use_case": [
@@ -9043,6 +9596,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 68.685,
+    "top_speed_mph": 111.25,
     "price": 520000,
     "use_case": [
       "collector",
@@ -9067,6 +9621,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 67.498,
+    "top_speed_mph": 128.25,
     "price": 1380000,
     "use_case": [
       "fun",
@@ -9087,6 +9642,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 83.667,
+    "top_speed_mph": 90.25,
     "price": 9000,
     "use_case": [
       "fun"
@@ -9104,6 +9660,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 72.256,
+    "top_speed_mph": 107.25,
     "price": 16000,
     "use_case": [
       "fun"
@@ -9125,6 +9682,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.998,
+    "top_speed_mph": 115,
     "price": 1417000,
     "use_case": [
       "fun",
@@ -9145,6 +9703,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 74.391,
+    "top_speed_mph": 104.75,
     "price": 10000,
     "use_case": [
       "transport"
@@ -9165,6 +9724,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 71.972,
+    "top_speed_mph": 103.5,
     "price": 9000,
     "use_case": [
       "transport"
@@ -9186,6 +9746,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 71.705,
+    "top_speed_mph": 103.5,
     "price": 400000,
     "use_case": [
       "collector",
@@ -9206,6 +9767,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 91.274,
+    "top_speed_mph": 86.25,
     "price": 8000,
     "use_case": [
       "transport",
@@ -9226,6 +9788,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.748,
+    "top_speed_mph": 123,
     "price": 1598000,
     "use_case": [
       "transport",
@@ -9244,6 +9807,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 84.318,
+    "top_speed_mph": 89.75,
     "price": 45000,
     "use_case": [
       "fun",
@@ -9262,6 +9826,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 68.669,
+    "top_speed_mph": 111.5,
     "price": 65000,
     "use_case": [
       "transport"
@@ -9284,6 +9849,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 69.035,
+    "top_speed_mph": 108,
     "price": 438000,
     "use_case": [
       "combat",
@@ -9307,6 +9873,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.749,
+    "top_speed_mph": 125,
     "price": 325000,
     "use_case": [
       "combat",
@@ -9330,6 +9897,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1429000,
     "use_case": [
       "fun",
@@ -9351,6 +9919,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 81.348,
+    "top_speed_mph": 93.5,
     "price": 1272000,
     "use_case": [
       "transport",
@@ -9374,6 +9943,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 73.54,
+    "top_speed_mph": 109,
     "price": 10000,
     "use_case": [
       "fun",
@@ -9392,6 +9962,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 74.191,
+    "top_speed_mph": 105.5,
     "price": 10000,
     "use_case": [
       "transport"
@@ -9413,6 +9984,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 86.268,
+    "top_speed_mph": 95,
     "price": 30000,
     "use_case": [
       "transport",
@@ -9434,6 +10006,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 74.908,
+    "top_speed_mph": 113.75,
     "price": 250000,
     "use_case": [
       "collector",
@@ -9454,6 +10027,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 74.643,
+    "top_speed_mph": 94,
     "price": 38000,
     "use_case": [
       "transport",
@@ -9474,6 +10048,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 70.872,
+    "top_speed_mph": 105,
     "price": 55000,
     "use_case": [
       "transport"
@@ -9493,6 +10068,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.732,
+    "top_speed_mph": 116,
     "price": 1495000,
     "trade_price": 1121250,
     "use_case": [
@@ -9516,6 +10092,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 79.429,
+    "top_speed_mph": 90,
     "price": 1650000,
     "use_case": [
       "combat"
@@ -9555,6 +10132,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.306,
+    "top_speed_mph": 104,
     "price": 120000,
     "use_case": [
       "fun",
@@ -9575,6 +10153,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.823,
+    "top_speed_mph": 107,
     "price": 1260000,
     "trade_price": 945000,
     "use_case": [
@@ -9596,6 +10175,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.439,
+    "top_speed_mph": 108.5,
     "price": 15000,
     "use_case": [
       "fun",
@@ -9616,6 +10196,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 112.511,
+    "top_speed_mph": 66,
     "price": 550000,
     "use_case": [
       "transport"
@@ -9636,6 +10217,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 87.57,
+    "top_speed_mph": 83.75,
     "price": 555000,
     "use_case": [
       "transport"
@@ -9657,6 +10239,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 85.783,
+    "top_speed_mph": 90.5,
     "use_case": [
       "off-road",
       "combat"
@@ -9676,6 +10259,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 112.564,
+    "top_speed_mph": 66,
     "price": 500000,
     "use_case": [
       "transport"
@@ -9696,6 +10280,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 116.199,
+    "top_speed_mph": 71.75,
     "price": 525000,
     "use_case": [
       "transport"
@@ -9715,6 +10300,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.992,
+    "top_speed_mph": 91.5,
     "price": 1300000,
     "use_case": [
       "transport"
@@ -9734,6 +10320,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 126.477,
+    "top_speed_mph": 59.5,
     "price": 1842050,
     "trade_price": 1385000,
     "use_case": [
@@ -9755,6 +10342,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.688,
+    "top_speed_mph": 66,
     "price": 30000,
     "use_case": [
       "transport"
@@ -9774,6 +10362,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 75.776,
+    "top_speed_mph": 102.5,
     "price": 650000,
     "trade_price": 487500,
     "use_case": [
@@ -9792,6 +10381,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.653,
+    "top_speed_mph": 66,
     "use_case": [
       "transport"
     ]
@@ -9824,6 +10414,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 76.143,
+    "top_speed_mph": 91,
     "price": 658350,
     "trade_price": 495000,
     "use_case": [
@@ -9848,6 +10439,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.18,
+    "top_speed_mph": 126,
     "price": 1675000,
     "use_case": [
       "racing"
@@ -9871,6 +10463,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.546,
+    "top_speed_mph": 128,
     "price": 575000,
     "use_case": [
       "racing"
@@ -9893,6 +10486,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.847,
+    "top_speed_mph": 120,
     "price": 2075000,
     "use_case": [
       "racing"
@@ -9912,6 +10506,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.096,
+    "top_speed_mph": 117.75,
     "price": 718000,
     "use_case": [
       "racing"
@@ -9935,6 +10530,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.056,
+    "top_speed_mph": 121.25,
     "price": 120000,
     "use_case": [
       "racing"
@@ -9958,6 +10554,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.002,
+    "top_speed_mph": 121.25,
     "price": 130000,
     "use_case": [
       "racing"
@@ -9975,6 +10572,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.315,
+    "top_speed_mph": 118.5,
     "price": 150000,
     "use_case": [
       "racing"
@@ -9996,6 +10594,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.112,
+    "top_speed_mph": 142,
     "use_case": [
       "combat"
     ]
@@ -10017,6 +10616,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.131,
+    "top_speed_mph": 118.5,
     "price": 105000,
     "use_case": [
       "racing",
@@ -10041,6 +10641,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.621,
+    "top_speed_mph": 138,
     "price": 1989500,
     "use_case": [
       "racing"
@@ -10060,6 +10661,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.035,
+    "top_speed_mph": 119,
     "price": 610000,
     "use_case": [
       "racing"
@@ -10079,6 +10681,7 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 74.208,
+    "top_speed_mph": 103.75,
     "price": 42000,
     "use_case": [
       "racing"
@@ -10096,6 +10699,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 68.135,
+    "top_speed_mph": 112.75,
     "price": 35000,
     "use_case": [
       "racing"
@@ -10118,6 +10722,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.601,
+    "top_speed_mph": 113,
     "price": 96000,
     "use_case": [
       "racing"
@@ -10140,6 +10745,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.963,
+    "top_speed_mph": 121,
     "price": 1995000,
     "trade_price": 1496250,
     "use_case": [
@@ -10160,6 +10766,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.282,
+    "top_speed_mph": 120,
     "price": 195000,
     "use_case": [
       "racing"
@@ -10186,6 +10793,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.846,
+    "top_speed_mph": 119.75,
     "price": 100000,
     "use_case": [
       "racing",
@@ -10208,6 +10816,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.615,
+    "top_speed_mph": 121.5,
     "price": 645000,
     "use_case": [
       "racing"
@@ -10230,6 +10839,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.715,
+    "top_speed_mph": 122.5,
     "price": 1878000,
     "trade_price": 1408500,
     "use_case": [
@@ -10253,6 +10863,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.298,
+    "top_speed_mph": 129.25,
     "price": 1797000,
     "use_case": [
       "racing"
@@ -10274,6 +10885,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.149,
+    "top_speed_mph": 119,
     "price": 710000,
     "use_case": [
       "combat"
@@ -10296,6 +10908,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.778,
+    "top_speed_mph": 122,
     "price": 1145000,
     "use_case": [
       "racing"
@@ -10315,6 +10928,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.416,
+    "top_speed_mph": 120,
     "price": 138000,
     "use_case": [
       "racing"
@@ -10334,6 +10948,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.797,
+    "top_speed_mph": 130.5,
     "price": 1510000,
     "use_case": [
       "racing"
@@ -10355,6 +10970,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.861,
+    "top_speed_mph": 130.75,
     "price": 1730000,
     "use_case": [
       "racing"
@@ -10374,6 +10990,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.812,
+    "top_speed_mph": 131.25,
     "price": 1795000,
     "use_case": [
       "racing"
@@ -10395,6 +11012,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.231,
+    "top_speed_mph": 113.5,
     "price": 1550000,
     "trade_price": 1162500,
     "use_case": [
@@ -10417,6 +11035,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 70.688,
+    "top_speed_mph": 105.75,
     "price": 995000,
     "use_case": [
       "racing",
@@ -10439,6 +11058,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.212,
+    "top_speed_mph": 115.5,
     "price": 904000,
     "use_case": [
       "racing"
@@ -10465,6 +11085,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.279,
+    "top_speed_mph": 118.75,
     "price": 95000,
     "use_case": [
       "racing",
@@ -10488,6 +11109,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.86,
+    "top_speed_mph": 122,
     "price": 2472000,
     "use_case": [
       "racing"
@@ -10512,6 +11134,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.04,
+    "top_speed_mph": 117.25,
     "price": 1800000,
     "trade_price": 1350000,
     "use_case": [
@@ -10534,6 +11157,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.913,
+    "top_speed_mph": 120.25,
     "price": 145000,
     "use_case": [
       "racing"
@@ -10563,6 +11187,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.097,
+    "top_speed_mph": 116,
     "price": 1675000,
     "use_case": [
       "racing"
@@ -10582,6 +11207,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.735,
+    "top_speed_mph": 120.75,
     "price": 448000,
     "use_case": [
       "racing"
@@ -10601,6 +11227,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.902,
+    "top_speed_mph": 117,
     "price": 36000,
     "use_case": [
       "racing"
@@ -10624,6 +11251,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 70.02,
+    "top_speed_mph": 112.5,
     "price": 9000,
     "use_case": [
       "racing",
@@ -10647,6 +11275,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.322,
+    "top_speed_mph": 119.5,
     "price": 1590000,
     "trade_price": 1192500,
     "use_case": [
@@ -10670,6 +11299,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.112,
+    "top_speed_mph": 142,
     "use_case": [
       "combat"
     ]
@@ -10688,6 +11318,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.443,
+    "top_speed_mph": 114.25,
     "price": 940000,
     "use_case": [
       "racing"
@@ -10707,6 +11338,7 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 74.217,
+    "top_speed_mph": 103.75,
     "use_case": [
       "racing"
     ]
@@ -10725,6 +11357,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.996,
+    "top_speed_mph": 122,
     "price": 1627000,
     "trade_price": 1220050,
     "use_case": [
@@ -10745,6 +11378,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.487,
+    "top_speed_mph": 125.75,
     "price": 1790000,
     "trade_price": 1342500,
     "use_case": [
@@ -10766,6 +11400,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.266,
+    "top_speed_mph": 124.25,
     "price": 1810000,
     "use_case": [
       "racing",
@@ -10786,6 +11421,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.3,
+    "top_speed_mph": 122.5,
     "price": 830000,
     "trade_price": 622500,
     "use_case": [
@@ -10810,6 +11446,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.06,
+    "top_speed_mph": 106.75,
     "price": 2165000,
     "use_case": [
       "racing"
@@ -10832,6 +11469,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.961,
+    "top_speed_mph": 112.5,
     "price": 897000,
     "use_case": [
       "racing"
@@ -10851,6 +11489,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 59.359,
+    "top_speed_mph": 128,
     "price": 1965000,
     "use_case": [
       "racing"
@@ -10868,6 +11507,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.829,
+    "top_speed_mph": 132,
     "use_case": [
       "racing",
       "collector"
@@ -10887,6 +11527,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.844,
+    "top_speed_mph": 134.5,
     "price": 3465000,
     "trade_price": 2598750,
     "use_case": [
@@ -10908,6 +11549,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.98,
+    "top_speed_mph": 119.5,
     "price": 240000,
     "use_case": [
       "racing"
@@ -10927,6 +11569,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.396,
+    "top_speed_mph": 120.25,
     "price": 350000,
     "use_case": [
       "racing"
@@ -10949,6 +11592,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.98,
+    "top_speed_mph": 119.5,
     "price": 1970000,
     "trade_price": 1477500,
     "use_case": [
@@ -10967,6 +11611,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.379,
+    "top_speed_mph": 118.25,
     "use_case": [
       "racing"
     ]
@@ -10987,6 +11632,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.371,
+    "top_speed_mph": 125,
     "price": 1225000,
     "trade_price": 918750,
     "use_case": [
@@ -11009,6 +11655,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.668,
+    "top_speed_mph": 102,
     "price": 100000,
     "use_case": [
       "racing"
@@ -11031,6 +11678,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.165,
+    "top_speed_mph": 123.5,
     "price": 1700000,
     "trade_price": 1275000,
     "use_case": [
@@ -11053,6 +11701,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.15,
+    "top_speed_mph": 113,
     "price": 126350,
     "trade_price": 95000,
     "use_case": [
@@ -11074,6 +11723,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.701,
+    "top_speed_mph": 109.75,
     "price": 698250,
     "trade_price": 525000,
     "use_case": [
@@ -11099,6 +11749,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.811,
+    "top_speed_mph": 114.5,
     "price": 1990000,
     "use_case": [
       "racing"
@@ -11120,6 +11771,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 64.981,
+    "top_speed_mph": 119.5,
     "price": 1625000,
     "use_case": [
       "racing"
@@ -11157,6 +11809,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.082,
+    "top_speed_mph": 121.5,
     "price": 1735000,
     "use_case": [
       "racing"
@@ -11179,6 +11832,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.364,
+    "top_speed_mph": 122.75,
     "price": 275000,
     "use_case": [
       "racing"
@@ -11201,6 +11855,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.213,
+    "top_speed_mph": 122.75,
     "price": 385000,
     "use_case": [
       "racing"
@@ -11223,6 +11878,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 60.977,
+    "top_speed_mph": 125.25,
     "price": 1875000,
     "use_case": [
       "racing"
@@ -11242,6 +11898,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.196,
+    "top_speed_mph": 114,
     "price": 1500000,
     "use_case": [
       "racing"
@@ -11263,6 +11920,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 62.112,
+    "top_speed_mph": 142,
     "use_case": [
       "combat"
     ]
@@ -11285,6 +11943,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 59.726,
+    "top_speed_mph": 127.25,
     "price": 1880000,
     "use_case": [
       "racing"
@@ -11304,6 +11963,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.399,
+    "top_speed_mph": 113.25,
     "price": 701000,
     "use_case": [
       "racing",
@@ -11327,6 +11987,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.431,
+    "top_speed_mph": 111.5,
     "price": 1795000,
     "use_case": [
       "racing"
@@ -11346,6 +12007,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.133,
+    "top_speed_mph": 122.5,
     "price": 2170000,
     "use_case": [
       "racing"
@@ -11368,6 +12030,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.361,
+    "top_speed_mph": 123,
     "price": 905000,
     "use_case": [
       "collector"
@@ -11387,6 +12050,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 61.426,
+    "top_speed_mph": 122.5,
     "use_case": [
       "combat",
       "collector"
@@ -11409,6 +12073,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.443,
+    "top_speed_mph": 127.5,
     "price": 2010000,
     "use_case": [
       "racing"
@@ -11457,6 +12122,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 60.644,
+    "top_speed_mph": 136,
     "price": 1420000,
     "use_case": [
       "racing",
@@ -11477,6 +12143,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.823,
+    "top_speed_mph": 105.25,
     "price": 24000,
     "use_case": [
       "racing"
@@ -11496,6 +12163,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.798,
+    "top_speed_mph": 113,
     "price": 1380000,
     "use_case": [
       "racing"
@@ -11518,6 +12186,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.697,
+    "top_speed_mph": 113.25,
     "price": 1375000,
     "use_case": [
       "racing"
@@ -11537,6 +12206,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.475,
+    "top_speed_mph": 120.5,
     "price": 132000,
     "use_case": [
       "racing"
@@ -11559,6 +12229,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 61.395,
+    "top_speed_mph": 132.25,
     "price": 2705500,
     "use_case": [
       "racing"
@@ -11581,6 +12252,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.271,
+    "top_speed_mph": 103.75,
     "price": 648000,
     "use_case": [
       "racing"
@@ -11604,6 +12276,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 65.699,
+    "top_speed_mph": 115.5,
     "price": 1370000,
     "trade_price": 1027500,
     "use_case": [
@@ -11628,6 +12301,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.115,
+    "top_speed_mph": 116.75,
     "price": 1610000,
     "use_case": [
       "combat"
@@ -11649,6 +12323,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 66.033,
+    "top_speed_mph": 119.25,
     "price": 1715000,
     "trade_price": 1286250,
     "use_case": [
@@ -11669,6 +12344,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.784,
+    "top_speed_mph": 116.5,
     "price": 430000,
     "use_case": [
       "racing"
@@ -11690,6 +12366,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 65.265,
+    "top_speed_mph": 116.25,
     "price": 1995000,
     "use_case": [
       "racing"
@@ -11712,6 +12389,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 68.869,
+    "top_speed_mph": 109.25,
     "price": 208000,
     "use_case": [
       "transport",
@@ -11735,6 +12413,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.598,
+    "top_speed_mph": 126,
     "price": 116000,
     "use_case": [
       "racing",
@@ -11755,6 +12434,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 63.462,
+    "top_speed_mph": 125.5,
     "price": 1300000,
     "use_case": [
       "racing"
@@ -11774,6 +12454,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 70.671,
+    "top_speed_mph": 117,
     "price": 80000,
     "use_case": [
       "racing"
@@ -11796,6 +12477,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 69.119,
+    "top_speed_mph": 116,
     "price": 700000,
     "use_case": [
       "racing"
@@ -11818,6 +12500,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 62.045,
+    "top_speed_mph": 132.25,
     "price": 2172000,
     "trade_price": 1629000,
     "use_case": [
@@ -11838,6 +12521,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 63.881,
+    "top_speed_mph": 124,
     "price": 695000,
     "use_case": [
       "racing"
@@ -11857,6 +12541,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.481,
+    "top_speed_mph": 123.75,
     "price": 2115000,
     "use_case": [
       "racing"
@@ -11876,6 +12561,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.082,
+    "top_speed_mph": 121,
     "price": 599000,
     "use_case": [
       "racing"
@@ -11897,6 +12583,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.047,
+    "top_speed_mph": 121,
     "price": 252000,
     "use_case": [
       "racing"
@@ -11917,6 +12604,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.8,
+    "top_speed_mph": 115,
     "price": 535000,
     "use_case": [
       "fun",
@@ -11937,6 +12625,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 71.872,
+    "top_speed_mph": 110.5,
     "price": 500000,
     "use_case": [
       "racing"
@@ -11956,6 +12645,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 68.786,
+    "top_speed_mph": 118,
     "price": 1224000,
     "trade_price": 918000,
     "use_case": [
@@ -11976,6 +12666,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 64.982,
+    "top_speed_mph": 116.25,
     "price": 12000,
     "use_case": [
       "racing"
@@ -11995,6 +12686,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 62.145,
+    "top_speed_mph": 117,
     "price": 1718000,
     "trade_price": 1288500,
     "use_case": [
@@ -12015,6 +12707,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.747,
+    "top_speed_mph": 117.5,
     "price": 1789000,
     "trade_price": 1341750,
     "use_case": [
@@ -12036,6 +12729,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.38,
+    "top_speed_mph": 121,
     "price": 110000,
     "use_case": [
       "racing"
@@ -12055,6 +12749,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 65.766,
+    "top_speed_mph": 119.5,
     "price": 816000,
     "use_case": [
       "racing"
@@ -12077,6 +12772,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 64.114,
+    "top_speed_mph": 125.25,
     "price": 1285000,
     "use_case": [
       "racing"
@@ -12096,6 +12792,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 62.762,
+    "top_speed_mph": 116,
     "price": 1785000,
     "trade_price": 1338750,
     "use_case": [
@@ -12116,6 +12813,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 64.582,
+    "top_speed_mph": 122.25,
     "price": 695000,
     "use_case": [
       "racing"
@@ -12135,6 +12833,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 74.925,
+    "top_speed_mph": 79,
     "use_case": [
       "racing",
       "fun"
@@ -12154,6 +12853,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 71.204,
+    "top_speed_mph": 83.5,
     "use_case": [
       "racing"
     ]
@@ -12174,6 +12874,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 66.967,
+    "top_speed_mph": 116.75,
     "price": 1615000,
     "trade_price": 1211250,
     "use_case": [
@@ -12194,6 +12895,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.887,
+    "top_speed_mph": 110,
     "price": 900000,
     "use_case": [
       "racing"
@@ -12217,6 +12919,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.265,
+    "top_speed_mph": 118.75,
     "price": 1150000,
     "use_case": [
       "combat"
@@ -12240,6 +12943,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1475500,
     "use_case": [
       "racing",
@@ -12260,6 +12964,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 69.903,
+    "top_speed_mph": 121.5,
     "price": 904400,
     "trade_price": 680000,
     "use_case": [
@@ -12284,6 +12989,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.339,
+    "top_speed_mph": 108.5,
     "price": 145000,
     "use_case": [
       "racing"
@@ -12303,6 +13009,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 64.082,
+    "top_speed_mph": 120,
     "price": 865000,
     "use_case": [
       "racing"
@@ -12324,6 +13031,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.671,
+    "top_speed_mph": 118.25,
     "price": 665000,
     "use_case": [
       "racing"
@@ -12343,6 +13051,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.05,
+    "top_speed_mph": 123.75,
     "price": 1500000,
     "use_case": [
       "racing"
@@ -12364,6 +13073,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 66.5,
+    "top_speed_mph": 127.25,
     "price": 5750000,
     "trade_price": 4312500,
     "use_case": [
@@ -12386,6 +13096,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.301,
+    "top_speed_mph": 93.25,
     "price": 450000,
     "use_case": [
       "racing"
@@ -12405,6 +13116,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 78.395,
+    "top_speed_mph": 87,
     "price": 335000,
     "use_case": [
       "racing"
@@ -12422,6 +13134,7 @@
     "source": "durtyfree",
     "racing_tier": "C",
     "racing_lap_time": 65.715,
+    "top_speed_mph": 113,
     "use_case": [
       "racing"
     ]
@@ -12440,6 +13153,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.126,
+    "top_speed_mph": 107,
     "price": 550000,
     "use_case": [
       "racing"
@@ -12459,6 +13173,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.139,
+    "top_speed_mph": 111.5,
     "price": 785000,
     "use_case": [
       "racing"
@@ -12481,6 +13196,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 1247000,
     "use_case": [
       "racing",
@@ -12501,6 +13217,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.049,
+    "top_speed_mph": 118.75,
     "price": 915000,
     "use_case": [
       "racing"
@@ -12523,6 +13240,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 2025000,
     "use_case": [
       "racing",
@@ -12543,6 +13261,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.571,
+    "top_speed_mph": 120,
     "price": 350000,
     "use_case": [
       "racing"
@@ -12566,6 +13285,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 71.554,
+    "top_speed_mph": 120,
     "price": 1470000,
     "use_case": [
       "fun",
@@ -12589,6 +13309,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 65.749,
+    "top_speed_mph": 119.75,
     "price": 790000,
     "use_case": [
       "racing"
@@ -12611,6 +13332,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.413,
+    "top_speed_mph": 119,
     "price": 1950500,
     "use_case": [
       "racing"
@@ -12630,6 +13352,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 71.454,
+    "top_speed_mph": 118,
     "price": 995000,
     "use_case": [
       "racing"
@@ -12649,6 +13372,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 82.432,
+    "top_speed_mph": 98.5,
     "price": 10000,
     "use_case": [
       "racing"
@@ -12668,6 +13392,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.138,
+    "top_speed_mph": 106,
     "price": 1225000,
     "use_case": [
       "racing"
@@ -12687,6 +13412,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 70.587,
+    "top_speed_mph": 123.25,
     "price": 490000,
     "use_case": [
       "racing"
@@ -12708,6 +13434,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.26,
+    "top_speed_mph": 102.5,
     "price": 797000,
     "use_case": [
       "racing"
@@ -12728,6 +13455,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.517,
+    "top_speed_mph": 98.5,
     "price": 38000,
     "use_case": [
       "racing"
@@ -12749,6 +13477,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 75.61,
+    "top_speed_mph": 111,
     "price": 620000,
     "use_case": [
       "racing"
@@ -12768,6 +13497,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 68.969,
+    "top_speed_mph": 121.75,
     "price": 400000,
     "use_case": [
       "racing"
@@ -12787,6 +13517,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 65.148,
+    "top_speed_mph": 119.75,
     "price": 885000,
     "use_case": [
       "racing"
@@ -12806,6 +13537,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.935,
+    "top_speed_mph": 116,
     "price": 615000,
     "use_case": [
       "racing"
@@ -12825,6 +13557,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 65.165,
+    "top_speed_mph": 120.25,
     "price": 1620000,
     "trade_price": 1215000,
     "use_case": [
@@ -12847,6 +13580,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 76.497,
+    "top_speed_mph": 98.75,
     "price": 750000,
     "use_case": [
       "racing"
@@ -12868,6 +13602,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 74.925,
+    "top_speed_mph": 98.75,
     "price": 982000,
     "use_case": [
       "racing"
@@ -12891,6 +13626,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.167,
+    "top_speed_mph": 118,
     "price": 990000,
     "use_case": [
       "combat"
@@ -12910,6 +13646,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.622,
+    "top_speed_mph": 112.25,
     "price": 850000,
     "use_case": [
       "racing"
@@ -12932,6 +13669,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 72.289,
+    "top_speed_mph": 112.25,
     "price": 875000,
     "use_case": [
       "racing"
@@ -12953,6 +13691,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 67.351,
+    "top_speed_mph": 112.75,
     "price": 2500000,
     "trade_price": 1875000,
     "use_case": [
@@ -12977,6 +13716,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.183,
+    "top_speed_mph": 117,
     "price": 909000,
     "use_case": [
       "racing"
@@ -12998,6 +13738,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 56.624,
+    "top_speed_mph": 135.25,
     "price": 4250000,
     "use_case": [
       "combat",
@@ -13022,6 +13763,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 65.182,
+    "top_speed_mph": 116.5,
     "price": 998000,
     "use_case": [
       "racing"
@@ -13041,6 +13783,7 @@
     "source": "wiki",
     "racing_tier": "O",
     "racing_lap_time": 85.084,
+    "top_speed_mph": 98.5,
     "price": 30000,
     "use_case": [
       "racing"
@@ -13062,6 +13805,7 @@
     "source": "wiki",
     "racing_tier": "N",
     "racing_lap_time": 83.166,
+    "top_speed_mph": 98.5,
     "price": 375000,
     "use_case": [
       "racing"
@@ -13081,6 +13825,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 77.51,
+    "top_speed_mph": 99.5,
     "price": 378000,
     "use_case": [
       "racing"
@@ -13102,6 +13847,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.847,
+    "top_speed_mph": 121,
     "price": 705000,
     "use_case": [
       "racing",
@@ -13124,6 +13870,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 63.23,
+    "top_speed_mph": 118.25,
     "price": 1140000,
     "use_case": [
       "racing"
@@ -13147,6 +13894,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 66.533,
+    "top_speed_mph": 124,
     "price": 875000,
     "use_case": [
       "combat"
@@ -13169,6 +13917,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 68.936,
+    "top_speed_mph": 127,
     "price": 950000,
     "use_case": [
       "collector"
@@ -13191,6 +13940,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 67.501,
+    "top_speed_mph": 112.75,
     "price": 812000,
     "use_case": [
       "racing"
@@ -13213,6 +13963,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 62.946,
+    "top_speed_mph": 130.75,
     "price": 1135000,
     "use_case": [
       "racing",
@@ -13233,6 +13984,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.365,
+    "top_speed_mph": 126.25,
     "price": 1000000,
     "use_case": [
       "racing",
@@ -13253,6 +14005,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.776,
+    "top_speed_mph": 126,
     "price": 1955000,
     "use_case": [
       "racing"
@@ -13274,6 +14027,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 63.93,
+    "top_speed_mph": 130.25,
     "price": 565000,
     "use_case": [
       "racing"
@@ -13297,6 +14051,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 67.45,
+    "top_speed_mph": 119.75,
     "price": 155000,
     "use_case": [
       "racing"
@@ -13320,6 +14075,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.532,
+    "top_speed_mph": 125,
     "price": 3750000,
     "trade_price": 2812500,
     "use_case": [
@@ -13342,6 +14098,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.396,
+    "top_speed_mph": 120.75,
     "price": 650000,
     "use_case": [
       "racing"
@@ -13364,6 +14121,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.312,
+    "top_speed_mph": 116,
     "price": 1890000,
     "use_case": [
       "racing"
@@ -13385,6 +14143,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.66,
+    "top_speed_mph": 119.25,
     "price": 2250000,
     "use_case": [
       "racing"
@@ -13423,6 +14182,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.01,
+    "top_speed_mph": 131.25,
     "price": 1795000,
     "use_case": [
       "racing",
@@ -13443,6 +14203,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.624,
+    "top_speed_mph": 126.75,
     "price": 2750000,
     "use_case": [
       "racing",
@@ -13467,6 +14228,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 63.196,
+    "top_speed_mph": 131.25,
     "price": 2355000,
     "use_case": [
       "racing",
@@ -13487,6 +14249,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.678,
+    "top_speed_mph": 122.25,
     "price": 795000,
     "use_case": [
       "racing"
@@ -13506,6 +14269,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.081,
+    "top_speed_mph": 127.5,
     "price": 2305000,
     "use_case": [
       "racing"
@@ -13528,6 +14292,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.593,
+    "top_speed_mph": 121.25,
     "price": 1995000,
     "use_case": [
       "racing"
@@ -13550,6 +14315,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.428,
+    "top_speed_mph": 125.5,
     "price": 1750000,
     "use_case": [
       "collector",
@@ -13574,6 +14340,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 2965000,
     "use_case": [
       "racing",
@@ -13594,6 +14361,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.594,
+    "top_speed_mph": 121.75,
     "price": 2740000,
     "trade_price": 2055000,
     "use_case": [
@@ -13617,6 +14385,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 63.097,
+    "top_speed_mph": 123.75,
     "price": 1260000,
     "use_case": [
       "racing",
@@ -13640,6 +14409,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.742,
+    "top_speed_mph": 125,
     "price": 2765000,
     "use_case": [
       "racing"
@@ -13664,6 +14434,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.462,
+    "top_speed_mph": 118,
     "price": 440000,
     "use_case": [
       "racing"
@@ -13683,6 +14454,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.311,
+    "top_speed_mph": 125.25,
     "price": 1189000,
     "use_case": [
       "racing"
@@ -13704,6 +14476,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.145,
+    "top_speed_mph": 127.5,
     "price": 495000,
     "use_case": [
       "racing"
@@ -13725,6 +14498,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.924,
+    "top_speed_mph": 128,
     "price": 2875000,
     "use_case": [
       "racing",
@@ -13745,6 +14519,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.658,
+    "top_speed_mph": 127.5,
     "price": 2915000,
     "use_case": [
       "racing"
@@ -13767,6 +14542,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 2697500,
     "use_case": [
       "racing",
@@ -13787,6 +14563,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.394,
+    "top_speed_mph": 126.25,
     "price": 1440000,
     "use_case": [
       "racing"
@@ -13808,6 +14585,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.827,
+    "top_speed_mph": 127,
     "price": 605000,
     "use_case": [
       "collector",
@@ -13828,6 +14606,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.794,
+    "top_speed_mph": 122,
     "price": 1950000,
     "use_case": [
       "collector",
@@ -13849,6 +14628,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 61.862,
+    "top_speed_mph": 123.25,
     "price": 880000,
     "use_case": [
       "racing"
@@ -13871,6 +14651,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.541,
+    "top_speed_mph": 117.75,
     "price": 2950000,
     "use_case": [
       "racing"
@@ -13893,6 +14674,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 59.076,
+    "top_speed_mph": 123.5,
     "price": 2475000,
     "use_case": [
       "racing"
@@ -13912,6 +14694,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 62.112,
+    "top_speed_mph": 122,
     "price": 1595000,
     "use_case": [
       "racing"
@@ -13931,6 +14714,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 59.209,
+    "top_speed_mph": 124.75,
     "price": 3830400,
     "trade_price": 2880000,
     "use_case": [
@@ -13955,6 +14739,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.959,
+    "top_speed_mph": 123,
     "price": 2575000,
     "use_case": [
       "racing"
@@ -13977,6 +14762,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 63.03,
+    "top_speed_mph": 121.75,
     "price": 1603000,
     "use_case": [
       "racing"
@@ -13998,6 +14784,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 57.775,
+    "top_speed_mph": 130.75,
     "price": 4000000,
     "use_case": [
       "combat",
@@ -14020,6 +14807,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 64.03,
+    "top_speed_mph": 118.25,
     "price": 795000,
     "use_case": [
       "racing"
@@ -14041,6 +14829,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.543,
+    "top_speed_mph": 126.5,
     "price": 3074500,
     "use_case": [
       "racing"
@@ -14060,6 +14849,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.778,
+    "top_speed_mph": 122.5,
     "price": 2200000,
     "use_case": [
       "collector",
@@ -14080,6 +14870,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 65.699,
+    "top_speed_mph": 126.25,
     "price": 1980000,
     "use_case": [
       "racing"
@@ -14099,6 +14890,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.243,
+    "top_speed_mph": 121.5,
     "price": 1329000,
     "use_case": [
       "racing"
@@ -14118,6 +14910,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.678,
+    "top_speed_mph": 125.75,
     "price": 2825000,
     "use_case": [
       "racing"
@@ -14137,6 +14930,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.893,
+    "top_speed_mph": 123.75,
     "price": 2325000,
     "use_case": [
       "racing"
@@ -14159,6 +14953,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.643,
+    "top_speed_mph": 125.5,
     "price": 2310000,
     "use_case": [
       "racing"
@@ -14181,6 +14976,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.577,
+    "top_speed_mph": 131.5,
     "price": 2890000,
     "use_case": [
       "racing"
@@ -14203,6 +14999,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.775,
+    "top_speed_mph": 122.5,
     "price": 2845000,
     "use_case": [
       "racing"
@@ -14222,6 +15019,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.578,
+    "top_speed_mph": 122.5,
     "price": 500000,
     "use_case": [
       "racing"
@@ -14241,6 +15039,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.86,
+    "top_speed_mph": 126.5,
     "price": 2515000,
     "use_case": [
       "racing"
@@ -14263,6 +15062,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 61.21,
+    "top_speed_mph": 123.25,
     "price": 2550000,
     "use_case": [
       "racing"
@@ -14286,6 +15086,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 63.864,
+    "top_speed_mph": 120.5,
     "price": 240000,
     "use_case": [
       "racing"
@@ -14305,6 +15106,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 58.892,
+    "top_speed_mph": 126.75,
     "price": 1535000,
     "use_case": [
       "racing"
@@ -14326,6 +15128,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 55.872,
+    "top_speed_mph": 146.75,
     "price": 3750000,
     "use_case": [
       "combat",
@@ -14349,6 +15152,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 59.293,
+    "top_speed_mph": 119.5,
     "price": 2980000,
     "trade_price": 2235000,
     "use_case": [
@@ -14369,6 +15173,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 60.411,
+    "top_speed_mph": 124.75,
     "price": 2250000,
     "use_case": [
       "racing"
@@ -14388,6 +15193,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 65.315,
+    "top_speed_mph": 106.25,
     "price": 150000,
     "use_case": [
       "racing"
@@ -14411,6 +15217,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 57.824,
+    "top_speed_mph": 125,
     "price": 4500000,
     "use_case": [
       "combat"
@@ -14433,6 +15240,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 2885000,
     "use_case": [
       "racing",
@@ -14453,6 +15261,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.677,
+    "top_speed_mph": 128.25,
     "price": 2700000,
     "use_case": [
       "collector",
@@ -14476,6 +15285,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 59.459,
+    "top_speed_mph": 122.5,
     "price": 2375000,
     "use_case": [
       "racing"
@@ -14495,6 +15305,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 61.328,
+    "top_speed_mph": 128,
     "price": 2820000,
     "use_case": [
       "racing"
@@ -14517,6 +15328,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.878,
+    "top_speed_mph": 122.25,
     "price": 725000,
     "use_case": [
       "racing"
@@ -14539,6 +15351,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 60.815,
+    "top_speed_mph": 125,
     "price": 1925000,
     "use_case": [
       "racing"
@@ -14561,6 +15374,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.989,
+    "top_speed_mph": 113.25,
     "price": 1835000,
     "use_case": [
       "transport",
@@ -14582,6 +15396,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.999,
+    "top_speed_mph": 119.5,
     "price": 1580000,
     "use_case": [
       "transport"
@@ -14603,6 +15418,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 66.567,
+    "top_speed_mph": 119,
     "price": 1720000,
     "use_case": [
       "transport",
@@ -14621,6 +15437,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 78.863,
+    "top_speed_mph": 100,
     "use_case": [
       "transport",
       "collector"
@@ -14642,6 +15459,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 73.374,
+    "top_speed_mph": 109.25,
     "price": 149000,
     "use_case": [
       "transport",
@@ -14666,6 +15484,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 73.796,
+    "top_speed_mph": 108.5,
     "price": 374000,
     "use_case": [
       "combat",
@@ -14689,6 +15508,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 73.874,
+    "top_speed_mph": 108.5,
     "price": 247000,
     "use_case": [
       "transport",
@@ -14713,6 +15533,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 74.292,
+    "top_speed_mph": 108,
     "price": 513000,
     "use_case": [
       "combat",
@@ -14733,6 +15554,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 68.118,
+    "top_speed_mph": 112,
     "price": 890000,
     "trade_price": 667500,
     "use_case": [
@@ -14756,6 +15578,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.214,
+    "top_speed_mph": 118.25,
     "price": 1715000,
     "use_case": [
       "transport",
@@ -14777,6 +15600,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 79.012,
+    "top_speed_mph": 97.5,
     "price": 27000,
     "use_case": [
       "transport",
@@ -14797,6 +15621,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 63.864,
+    "top_speed_mph": 126,
     "price": 1650000,
     "use_case": [
       "transport",
@@ -14817,6 +15642,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 79.125,
+    "top_speed_mph": 98.5,
     "price": 60000,
     "use_case": [
       "transport"
@@ -14839,6 +15665,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.47,
+    "top_speed_mph": 104.25,
     "price": 1665000,
     "use_case": [
       "transport",
@@ -14862,6 +15689,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.27,
+    "top_speed_mph": 109,
     "price": 250000,
     "use_case": [
       "transport",
@@ -14882,6 +15710,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 71.188,
+    "top_speed_mph": 111,
     "price": 1375000,
     "use_case": [
       "transport",
@@ -14900,6 +15729,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 75.409,
+    "top_speed_mph": 102,
     "use_case": [
       "off-road",
       "collector"
@@ -14922,6 +15752,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.147,
+    "top_speed_mph": 125.75,
     "price": 1665000,
     "use_case": [
       "transport",
@@ -14942,6 +15773,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 77.411,
+    "top_speed_mph": 104,
     "price": 50000,
     "use_case": [
       "transport"
@@ -14961,6 +15793,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 75.643,
+    "top_speed_mph": 102.75,
     "price": 35000,
     "use_case": [
       "transport",
@@ -14985,6 +15818,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 74.124,
+    "top_speed_mph": 97.5,
     "price": 2000000,
     "trade_price": 1500000,
     "use_case": [
@@ -15005,6 +15839,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 78.094,
+    "top_speed_mph": 101.25,
     "price": 29000,
     "use_case": [
       "transport"
@@ -15024,6 +15859,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 77.711,
+    "top_speed_mph": 105.5,
     "price": 42000,
     "use_case": [
       "transport"
@@ -15043,6 +15879,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 72.239,
+    "top_speed_mph": 109,
     "price": 195000,
     "use_case": [
       "transport",
@@ -15063,6 +15900,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 68.985,
+    "top_speed_mph": 94,
     "price": 1729000,
     "use_case": [
       "transport"
@@ -15084,6 +15922,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.219,
+    "top_speed_mph": 117,
     "price": 1835000,
     "use_case": [
       "racing",
@@ -15108,6 +15947,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 68.101,
+    "top_speed_mph": 116.25,
     "price": 1650000,
     "trade_price": 1237500,
     "use_case": [
@@ -15128,6 +15968,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 77.16,
+    "top_speed_mph": 100,
     "price": 58000,
     "use_case": [
       "transport",
@@ -15148,6 +15989,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 76.526,
+    "top_speed_mph": 101,
     "price": 1220000,
     "use_case": [
       "transport"
@@ -15181,6 +16023,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 65.683,
+    "top_speed_mph": 123,
     "price": 608000,
     "use_case": [
       "transport",
@@ -15206,6 +16049,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 81.866,
+    "top_speed_mph": 98.75,
     "price": 50000,
     "use_case": [
       "off-road",
@@ -15226,6 +16070,7 @@
     "source": "wiki",
     "racing_tier": "M",
     "racing_lap_time": 84.05,
+    "top_speed_mph": 96.75,
     "price": 611800,
     "trade_price": 460000,
     "use_case": [
@@ -15247,6 +16092,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 74.601,
+    "top_speed_mph": 105.5,
     "price": 32000,
     "use_case": [
       "transport"
@@ -15266,6 +16112,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 66.565,
+    "top_speed_mph": 123,
     "price": 1175000,
     "use_case": [
       "transport",
@@ -15286,6 +16133,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 75.041,
+    "top_speed_mph": 107.75,
     "price": 85000,
     "use_case": [
       "transport"
@@ -15305,6 +16153,7 @@
     "source": "wiki",
     "racing_tier": "L",
     "racing_lap_time": 80.263,
+    "top_speed_mph": 97.75,
     "price": 30000,
     "use_case": [
       "transport"
@@ -15324,6 +16173,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 76.326,
+    "top_speed_mph": 100,
     "price": 678000,
     "use_case": [
       "off-road",
@@ -15344,6 +16194,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 75.375,
+    "top_speed_mph": 101.5,
     "price": 60000,
     "use_case": [
       "transport"
@@ -15363,6 +16214,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 75.743,
+    "top_speed_mph": 102.5,
     "price": 1130000,
     "trade_price": 847500,
     "use_case": [
@@ -15384,6 +16236,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 64.765,
+    "top_speed_mph": 128.25,
     "price": 498000,
     "use_case": [
       "combat",
@@ -15406,6 +16259,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 68.452,
+    "top_speed_mph": 105.5,
     "price": 1605000,
     "use_case": [
       "transport",
@@ -15430,6 +16284,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 69.035,
+    "top_speed_mph": 112.5,
     "price": 1611000,
     "use_case": [
       "transport",
@@ -15454,6 +16309,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 74.541,
+    "top_speed_mph": 106,
     "price": 253000,
     "use_case": [
       "transport",
@@ -15478,6 +16334,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 70.888,
+    "top_speed_mph": 108.5,
     "price": 522000,
     "use_case": [
       "combat",
@@ -15496,6 +16353,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 202.636,
+    "top_speed_mph": 29.25,
     "use_case": [
       "utility"
     ]
@@ -15526,6 +16384,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "use_case": [
       "utility"
     ]
@@ -15570,6 +16429,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 115.887,
+    "top_speed_mph": 56,
     "use_case": [
       "utility"
     ]
@@ -15586,6 +16446,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 171.472,
+    "top_speed_mph": 33,
     "use_case": [
       "utility"
     ]
@@ -15602,6 +16463,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 163.408,
+    "top_speed_mph": 35.75,
     "use_case": [
       "utility"
     ]
@@ -15618,6 +16480,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "use_case": [
       "utility"
     ]
@@ -15639,6 +16502,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "price": 810000,
     "use_case": [
       "utility"
@@ -15656,6 +16520,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 388.204,
+    "top_speed_mph": 14.75,
     "use_case": [
       "utility"
     ]
@@ -15677,6 +16542,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": null,
+    "top_speed_mph": null,
     "use_case": [
       "utility"
     ]
@@ -15693,6 +16559,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 114.014,
+    "top_speed_mph": 56.25,
     "use_case": [
       "utility"
     ]
@@ -15711,6 +16578,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 78.945,
+    "top_speed_mph": 99.5,
     "price": 35000,
     "use_case": [
       "utility"
@@ -15728,6 +16596,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 104.038,
+    "top_speed_mph": 79.75,
     "use_case": [
       "utility"
     ]
@@ -15746,6 +16615,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 88.956,
+    "top_speed_mph": 99.5,
     "price": 1310000,
     "use_case": [
       "utility"
@@ -15777,6 +16647,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 202.991,
+    "top_speed_mph": 28.75,
     "use_case": [
       "utility"
     ]
@@ -15825,6 +16696,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 80.764,
+    "top_speed_mph": 87.5,
     "price": 1300000,
     "trade_price": 975000,
     "use_case": [
@@ -15845,6 +16717,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 79.529,
+    "top_speed_mph": 99.5,
     "price": 30000,
     "use_case": [
       "transport"
@@ -15864,6 +16737,7 @@
     "source": "wiki",
     "racing_tier": "E",
     "racing_lap_time": 84.551,
+    "top_speed_mph": 95.5,
     "price": 23000,
     "use_case": [
       "transport"
@@ -15881,6 +16755,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 107.324,
+    "top_speed_mph": 71.5,
     "use_case": [
       "transport"
     ]
@@ -15899,6 +16774,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 107.324,
+    "top_speed_mph": 71.5,
     "price": 475000,
     "trade_price": 356250,
     "use_case": [
@@ -15919,6 +16795,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 81.848,
+    "top_speed_mph": 98.25,
     "price": 598500,
     "trade_price": 450000,
     "use_case": [
@@ -15937,6 +16814,7 @@
     "source": "wiki",
     "racing_tier": null,
     "racing_lap_time": 88.154,
+    "top_speed_mph": 90.75,
     "use_case": [
       "transport"
     ]
@@ -15953,6 +16831,7 @@
     "source": "wiki",
     "racing_tier": "I",
     "racing_lap_time": 103.887,
+    "top_speed_mph": 72.5,
     "use_case": [
       "transport"
     ]
@@ -15969,6 +16848,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 86.353,
+    "top_speed_mph": 94.25,
     "use_case": [
       "transport"
     ]
@@ -16006,6 +16886,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 105.839,
+    "top_speed_mph": 74.25,
     "price": 15000,
     "use_case": [
       "transport"
@@ -16025,6 +16906,7 @@
     "source": "wiki",
     "racing_tier": "H",
     "racing_lap_time": 100.184,
+    "top_speed_mph": 79.25,
     "price": 790000,
     "trade_price": 592500,
     "use_case": [
@@ -16046,6 +16928,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.632,
+    "top_speed_mph": 95.25,
     "price": 30000,
     "use_case": [
       "transport"
@@ -16067,6 +16950,7 @@
     "source": "wiki",
     "racing_tier": "A",
     "racing_lap_time": 79.263,
+    "top_speed_mph": 95.25,
     "price": 330000,
     "use_case": [
       "transport"
@@ -16086,6 +16970,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.799,
+    "top_speed_mph": 99.5,
     "price": 25000,
     "use_case": [
       "transport"
@@ -16103,6 +16988,7 @@
     "source": "wiki",
     "racing_tier": "F",
     "racing_lap_time": 86.603,
+    "top_speed_mph": 91.25,
     "use_case": [
       "transport"
     ]
@@ -16121,6 +17007,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.766,
+    "top_speed_mph": 99.5,
     "price": 13000,
     "use_case": [
       "transport"
@@ -16142,6 +17029,7 @@
     "source": "wiki",
     "racing_tier": "S",
     "racing_lap_time": 77.026,
+    "top_speed_mph": 98.75,
     "price": 130000,
     "use_case": [
       "transport"
@@ -16161,6 +17049,7 @@
     "source": "wiki",
     "racing_tier": "C",
     "racing_lap_time": 81.965,
+    "top_speed_mph": 101.25,
     "use_case": [
       "transport"
     ]
@@ -16200,6 +17089,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 108.676,
+    "top_speed_mph": 67.25,
     "price": 11000,
     "use_case": [
       "transport"
@@ -16219,6 +17109,7 @@
     "source": "wiki",
     "racing_tier": "J",
     "racing_lap_time": 105.438,
+    "top_speed_mph": 69.75,
     "price": 590000,
     "trade_price": 442500,
     "use_case": [
@@ -16239,6 +17130,7 @@
     "source": "wiki",
     "racing_tier": "K",
     "racing_lap_time": 106.607,
+    "top_speed_mph": 71,
     "price": 345000,
     "trade_price": 258750,
     "use_case": [
@@ -16260,6 +17152,7 @@
     "source": "wiki",
     "racing_tier": "D",
     "racing_lap_time": 82.516,
+    "top_speed_mph": 96.5,
     "price": 16000,
     "use_case": [
       "transport"
@@ -16280,6 +17173,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 89.289,
+    "top_speed_mph": 91,
     "price": 195000,
     "use_case": [
       "transport"
@@ -16301,6 +17195,7 @@
     "source": "wiki",
     "racing_tier": "B",
     "racing_lap_time": 80.796,
+    "top_speed_mph": 95.5,
     "price": 1288000,
     "use_case": [
       "transport"
@@ -16318,6 +17213,7 @@
     "source": "wiki",
     "racing_tier": "G",
     "racing_lap_time": 88.638,
+    "top_speed_mph": 97.25,
     "use_case": [
       "transport"
     ]

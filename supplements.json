@@ -146,7 +146,9 @@
       "Drift Tuning"
     ],
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Bobcat Security Stockade": {
@@ -198,7 +200,9 @@
   "Tampa GT": {
     "price": 1311000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "Woodlander": {
@@ -271,7 +275,9 @@
   "Firebolt ASP": {
     "price": 1894500,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing",
+      "combat"
     ]
   },
   "Terminus Patrol": {
@@ -318,7 +324,8 @@
   "Dominator FX": {
     "price": 1550000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   "Vorschlaghammer": {
@@ -370,7 +377,8 @@
   "Yosemite 1500": {
     "price": 1205000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "Envisage": {
@@ -441,7 +449,8 @@
   "Terminus": {
     "price": 1877500,
     "use_case": [
-      "off-road"
+      "off-road",
+      "combat"
     ]
   },
   "Dorado": {
@@ -473,19 +482,22 @@
   "Vigero ZX Convertible": {
     "price": 2295000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Impaler LX": {
     "price": 1465000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "Dominator GT": {
     "price": 2195000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   "Vivanite": {
@@ -568,19 +580,23 @@
   "Ratel": {
     "price": 1873000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "MonstroCiti": {
     "price": 1485000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Clique Wagon": {
     "price": 1205000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "F-160 Raiju": {
@@ -600,7 +616,8 @@
   "Eudora": {
     "price": 1250000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "Hotring Everon": {
@@ -634,7 +651,9 @@
   "Broadway": {
     "price": 925000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "Powersurge": {
@@ -667,7 +686,8 @@
   "Tulip M-100": {
     "price": 1658000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Surfer Custom": {
@@ -680,13 +700,15 @@
   "Tahoma Coupe": {
     "price": 1500000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Weevil Custom": {
     "price": 980000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "10F Widebody": {
@@ -710,7 +732,9 @@
   "Vigero ZX": {
     "price": 1947000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "SM722": {
@@ -789,7 +813,9 @@
       "Imani Tech"
     ],
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "10F": {
@@ -953,7 +979,8 @@
     "price": 1775000,
     "trade_price": 1331250,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "Cypher": {
@@ -1038,7 +1065,8 @@
     "price": 1220000,
     "trade_price": 915000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "Euros": {
@@ -1189,19 +1217,23 @@
     "price": 1100000,
     "trade_price": 825000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Gauntlet Classic Custom": {
     "price": 815000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Yosemite Rancher": {
     "price": 700000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport",
+      "fun"
     ]
   },
   "Youga Classic 4x4": {
@@ -1226,13 +1258,15 @@
   "Manana Custom": {
     "price": 925000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Beater Dukes": {
     "price": 378000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Seminole Frontier": {
@@ -1276,7 +1310,8 @@
     "price": 2400000,
     "trade_price": 1800000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "JB 700W": {
@@ -1305,7 +1340,8 @@
     "price": 1308000,
     "trade_price": 981000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun"
     ]
   },
   "Outlaw": {
@@ -1402,7 +1438,9 @@
   "Peyote Gasser": {
     "price": 805000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector",
+      "combat"
     ]
   },
   "Dynasty": {
@@ -1414,7 +1452,9 @@
   "Hellion": {
     "price": 835000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Zion Classic": {
@@ -1426,7 +1466,9 @@
   "Gauntlet Hellfire": {
     "price": 745000,
     "use_case": [
-      "racing"
+      "racing",
+      "combat",
+      "fun"
     ]
   },
   "Novak": {
@@ -1485,7 +1527,8 @@
     "price": 615000,
     "trade_price": 461250,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Neo": {
@@ -1497,7 +1540,8 @@
   "Caracara 4x4": {
     "price": 875000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "combat"
     ]
   },
   "Issi Sport": {
@@ -1540,7 +1584,8 @@
   "Vamos": {
     "price": 596000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Deviant": {
@@ -1568,7 +1613,8 @@
   "Tulip": {
     "price": 718000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Itali GTO": {
@@ -1762,7 +1808,8 @@
     "price": 565000,
     "trade_price": 423750,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "GB200": {
@@ -1812,7 +1859,9 @@
   "Hustler": {
     "price": 625000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun",
+      "collector"
     ]
   },
   "Kamacho": {
@@ -1860,7 +1909,9 @@
   "Hermes": {
     "price": 535000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "Streiter": {
@@ -1960,13 +2011,15 @@
   "Yosemite": {
     "price": 485000,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   "Riata": {
     "price": 380000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "FH-1 Hunter": {
@@ -3323,7 +3376,8 @@
   "Trophy Truck": {
     "price": 550000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing"
     ]
   },
   "Technical Custom": {
@@ -3353,44 +3407,52 @@
   "Street Blazer": {
     "price": 81000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Sandking XL": {
     "price": 45000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Sandking SWB": {
     "price": 38000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Rusty Rebel": {
     "price": 3000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "collector"
     ]
   },
   "Rebel": {
     "price": 22000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "Rancher XL": {
     "price": 9000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "Ramp Buggy": {
     "price": 3192000,
     "trade_price": 2400000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Nightshark": {
@@ -3433,13 +3495,15 @@
   "Injection": {
     "price": 16000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Hot Rod Blazer": {
     "price": 69000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Dune FAV": {
@@ -3453,7 +3517,8 @@
   "Dune Buggy": {
     "price": 20000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Dubsta 6x6": {
@@ -3466,25 +3531,31 @@
   "Desert Raid": {
     "price": 695000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "racing"
     ]
   },
   "Brawler": {
     "price": 715000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Bodhi": {
     "price": 25000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Blazer Lifeguard": {
     "price": 62000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Blazer Aqua": {
@@ -3497,19 +3568,23 @@
   "Blazer": {
     "price": 8000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "combat"
     ]
   },
   "Bifta": {
     "price": 75000,
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Voodoo Custom": {
     "price": 420000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Voodoo": {
@@ -3518,19 +3593,22 @@
     ],
     "price": 5500,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Virgo Classic Custom": {
     "price": 240000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Virgo Classic": {
     "price": 165000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Virgo": {
@@ -3539,13 +3617,15 @@
     ],
     "price": 195000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Vigero": {
     "price": 21000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Weaponized Tampa": {
@@ -3564,19 +3644,22 @@
   "Burger Shot Stallion": {
     "price": 277000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Stallion": {
     "price": 71000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Slamvan Custom": {
     "price": 415000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Slamvan": {
@@ -3588,13 +3671,15 @@
     "price": 49500,
     "trade_price": 37125,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Sabre Turbo Custom": {
     "price": 490000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Sabre Turbo": {
@@ -3603,7 +3688,8 @@
     ],
     "price": 15000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Ruiner 2000": {
@@ -3618,26 +3704,30 @@
   "Ruiner": {
     "price": 10000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Rat-Truck": {
     "price": 37500,
     "trade_price": 28125,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Rat-Loader": {
     "price": 6000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Picador": {
     "price": 9000,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   "Nightshade": {
@@ -3649,7 +3739,8 @@
   "Moonbeam Custom": {
     "price": 370000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Moonbeam": {
@@ -3658,43 +3749,52 @@
     ],
     "price": 32500,
     "use_case": [
-      "racing"
+      "transport",
+      "fun"
     ]
   },
   "Lurcher": {
     "price": 650000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Hotknife": {
     "price": 90000,
     "use_case": [
-      "racing"
+      "racing",
+      "fun",
+      "collector"
     ]
   },
   "Redwood Gauntlet": {
     "price": 230000,
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Gauntlet": {
     "price": 32000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector",
+      "combat"
     ]
   },
   "Faction Custom Donk": {
     "price": 695000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Faction": {
     "price": 36000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Dukes": {
@@ -3703,7 +3803,8 @@
     ],
     "price": 62000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Duke O'Death": {
@@ -3717,31 +3818,36 @@
     "price": 35000,
     "trade_price": 26250,
     "use_case": [
-      "racing"
+      "racing",
+      "combat"
     ]
   },
   "Coquette BlackFin": {
     "price": 695000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Chino Custom": {
     "price": 180000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Chino": {
     "price": 225000,
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Buccaneer Custom": {
     "price": 390000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Buccaneer": {
@@ -3750,7 +3856,8 @@
     ],
     "price": 29000,
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Blade": {
@@ -4590,7 +4697,8 @@
     ],
     "price": 1303700,
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "Daemon Custom": {
@@ -4927,7 +5035,8 @@
   },
   "Faction Custom 1": {
     "use_case": [
-      "racing"
+      "collector",
+      "fun"
     ]
   },
   "Future Shock Dominator": {
@@ -4952,7 +5061,8 @@
   },
   "Lost Slamvan": {
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Nightmare Dominator": {
@@ -4977,12 +5087,14 @@
   },
   "Phoenix": {
     "use_case": [
-      "racing"
+      "racing",
+      "collector"
     ]
   },
   "Pisswasser Dominator": {
     "use_case": [
-      "racing"
+      "fun",
+      "collector"
     ]
   },
   "Apocalypse Bruiser": {
@@ -5002,7 +5114,8 @@
   },
   "Duneloader": {
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "Future Shock Bruiser": {
@@ -5022,7 +5135,8 @@
   },
   "Monster": {
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun"
     ]
   },
   "Nightmare Bruiser": {
@@ -5042,12 +5156,15 @@
   },
   "Space Docker": {
     "use_case": [
-      "off-road"
+      "off-road",
+      "fun",
+      "collector"
     ]
   },
   "Walton L35": {
     "use_case": [
-      "off-road"
+      "off-road",
+      "transport"
     ]
   },
   "BR8": {

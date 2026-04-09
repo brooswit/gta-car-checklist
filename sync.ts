@@ -36,6 +36,7 @@ interface OutputVehicle {
   use_case?: string[];
   racing_tier?: string | null;
   racing_lap_time?: number | null;
+  top_speed_mph?: number | null;
   source: string;
 }
 
@@ -285,6 +286,7 @@ interface Supplement {
   use_case?: string[];
   racing_tier?: string | null;
   racing_lap_time?: number | null;
+  top_speed_mph?: number | null;
   image?: string;
   // For vehicles missing from DurtyFree:
   _missing_from_pipeline?: boolean;
@@ -466,6 +468,7 @@ async function sync() {
       if (b) {
         vehicle.racing_tier = b.tier;
         vehicle.racing_lap_time = b.lapTimeSeconds;
+        vehicle.top_speed_mph = b.topSpeedMph;
         broughyMatched++;
       }
     }
@@ -509,6 +512,7 @@ async function sync() {
             use_case: sup.use_case,
             racing_tier: sup.racing_tier,
             racing_lap_time: sup.racing_lap_time,
+            top_speed_mph: sup.top_speed_mph,
             source: "supplement",
           };
           vehicles.push(newVehicle);
@@ -543,6 +547,7 @@ async function sync() {
         if (sup.use_case !== undefined) existing.use_case = sup.use_case;
         if (sup.racing_tier !== undefined) existing.racing_tier = sup.racing_tier;
         if (sup.racing_lap_time !== undefined) existing.racing_lap_time = sup.racing_lap_time;
+        if (sup.top_speed_mph !== undefined) existing.top_speed_mph = sup.top_speed_mph;
         supplementsApplied++;
       } else {
         console.log(`  Warning: supplement "${name}" not found in pipeline output`);

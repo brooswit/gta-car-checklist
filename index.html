@@ -350,17 +350,18 @@ function render() {
             if (f.includes('Service Vehicle')) badges.push('<span class="feat-badge feat-service">Service</span>');
             return badges.length ? '<div class="car-features">' + badges.join('') + '</div>' : '';
           })(v.features || []) +
-          (function(tier, uc) {
+          (function(tier, topSpeed, uc) {
             var out = '';
             if (tier) {
               var tierCls = tier === 'S' ? 'tier-S' : (tier >= 'A' && tier <= 'G') ? 'tier-' + tier : 'tier-low';
-              out += '<div class="car-features"><span class="tier-badge ' + tierCls + '">' + tier + '</span></div>';
+              var label = tier + (topSpeed ? ' · ' + Math.round(topSpeed) + 'mph' : '');
+              out += '<div class="car-features"><span class="tier-badge ' + tierCls + '">' + label + '</span></div>';
             }
             if (uc && uc.length) {
               out += '<div class="use-case-chips">' + uc.map(function(u) { return '<span class="uc-chip uc-' + u + '">' + u + '</span>'; }).join('') + '</div>';
             }
             return out;
-          })(v.racing_tier, v.use_case) +
+          })(v.racing_tier, v.top_speed_mph, v.use_case) +
           '</div>';
       }).join('') +
       '</div></div>';
@@ -454,6 +455,7 @@ Promise.all([
         features: patch?.features || [],
         racing_tier: patch?.racing_tier ?? null,
         racing_lap_time: patch?.racing_lap_time ?? null,
+        top_speed_mph: patch?.top_speed_mph ?? null,
         use_case: patch?.use_case || [],
       };
     });
@@ -473,6 +475,7 @@ Promise.all([
       image: p.image,
       racing_tier: p.racing_tier ?? null,
       racing_lap_time: p.racing_lap_time ?? null,
+      top_speed_mph: p.top_speed_mph ?? null,
       use_case: p.use_case || [],
     });
   }
