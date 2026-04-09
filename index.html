@@ -187,14 +187,16 @@
 
 <script>
 // --- LaunchDarkly setup ---
-(function() {
-  let key = localStorage.getItem('ld_context_key');
-  if (!key) { key = crypto.randomUUID(); localStorage.setItem('ld_context_key', key); }
+const _isNewUser = (function() {
+  const existingKey = localStorage.getItem('ld_context_key');
+  const key = existingKey ?? crypto.randomUUID();
+  if (!existingKey) localStorage.setItem('ld_context_key', key);
   window._ldContext = { kind: 'user', key: key, anonymous: true };
+  return !existingKey;
 })();
 const ldClient = LDClient.initialize('69d6ee4fff89900a93b15def', window._ldContext);
 const ldReady = ldClient.waitForInitialization().catch(() => {}); // graceful degradation — app works even if LD fails
-ldReady.then(() => ldClient.track('app-loaded'));
+ldReady.then(() => ldClient.track('ld-initialized', { isNewUser: _isNewUser }));
 
 // --- App state ---
 let vehicles = [];
@@ -240,13 +242,23 @@ function render() {
 
   const totalOwned = vehicles.filter(v => owned.has(v.Hash)).length;
   const showPct = ldClient.variation('show-completion-percentage', false);
+  const showMissingCount = ldClient.variation('show-missing-count', false);
   const pctPart = showPct ? ' (' + Math.round(totalOwned / vehicles.length * 100) + '%)' : '';
+  const missingPart = showMissingCount ? ' — <span>' + (vehicles.length - totalOwned) + '</span> missing' : '';
   document.getElementById('stats').innerHTML =
-    'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles' + pctPart + ' — Showing <span>' + filtered.length + '</span>';
+    'You own <span>' + totalOwned + '</span> of <span>' + vehicles.length + '</span> vehicles' + pctPart + missingPart + ' — Showing <span>' + filtered.length + '</span>';
 
   const main = document.getElementById('main');
   if (filtered.length === 0) {
     main.innerHTML = '<div class="empty-state">No vehicles found</div>';
+    if (vehicles.length > 0) {
+      ldReady.then(() => ldClient.track('no-results-shown', {
+        searchQuery: document.getElementById('search').value,
+        classFilter: document.getElementById('classFilter').value,
+        storeFilter: document.getElementById('storeFilter').value,
+        ownershipFilter: filter || 'all',
+      }));
+    }
     return;
   }
 
@@ -302,7 +314,10 @@ document.getElementById('search').addEventListener('input', () => {
   clearTimeout(_searchDebounce);
   _searchDebounce = setTimeout(() => {
     const q = document.getElementById('search').value;
-    if (q) ldReady.then(() => ldClient.track('search-performed', { query: q }));
+    if (q) {
+      const resultCount = document.querySelectorAll('.car-item').length;
+      ldReady.then(() => ldClient.track('search-performed', { query: q, resultCount }));
+    }
   }, 500);
 });
 document.getElementById('classFilter').addEventListener('change', e => {
