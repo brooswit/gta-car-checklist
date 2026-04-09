@@ -4,14 +4,79 @@
   },
   "_comment": "Supplementary/corrective vehicle data. Auto-bootstrapped from GTABase cache + manually maintained. Applied on top of automated sync pipeline.",
   "_format": {
-    "features_add": "Add features to pipeline output",
-    "features_remove": "Remove features from pipeline output",
-    "stores": "Full replacement of pipeline store list",
-    "price": "Retail price in GTA$",
-    "trade_price": "Trade price in GTA$",
-    "image": "Override pipeline image URL",
-    "_missing_from_pipeline": "true = create new entry (not in DurtyFree)",
-    "_note": "Human-readable explanation for this supplement entry"
+    "_description": "Supplementary/corrective data layer for gta-car-checklist. Merges on top of the automated sync pipeline. Can correct wrong data from automated sources AND fill gaps with data no automated source has.",
+    "_key": "Vehicle display name (must match DurtyFree display name exactly). Use DurtyFree hash as _hash field for disambiguation if needed.",
+    "_merge_strategy": {
+      "scalars": "Replacement \u2014 field value overwrites automated source value",
+      "arrays_add": "Fields ending in _add are additive \u2014 values are merged with automated source array",
+      "arrays_remove": "Fields ending in _remove subtract from automated source array",
+      "arrays_replace": "Fields without _add/_remove suffix replace the automated source array entirely"
+    },
+    "_metadata_fields": {
+      "_added": "ISO date this entry was created (YYYY-MM-DD)",
+      "_reason": "Why this entry exists \u2014 what was wrong or missing in the automated source",
+      "_source_issue": "Which automated source had the problem (e.g. 'GTABase', 'DurtyFree')",
+      "_missing_from_durtyfree": "Boolean \u2014 true if this vehicle is absent from DurtyFree data",
+      "_review_after": "ISO date \u2014 flag this entry for review (e.g. after a game update that may have fixed upstream data)"
+    },
+    "_data_fields": {
+      "vehicleClass": "String \u2014 Rockstar vehicle class (e.g. 'Super', 'Sports', 'Muscle')",
+      "price": "Integer \u2014 standard buy price in GTA$",
+      "trade_price": "Integer \u2014 reduced trade price in GTA$ (if applicable)",
+      "trade_price_condition": "String \u2014 human-readable unlock condition for trade price",
+      "stores": "Array of store names \u2014 REPLACES automated source (use stores_add for additive)",
+      "stores_add": "Array of store names to ADD to automated source",
+      "stores_remove": "Array of store names to REMOVE from automated source",
+      "features": "Array of feature strings \u2014 REPLACES automated source (use features_add for additive)",
+      "features_add": "Array of features to ADD to automated source",
+      "features_remove": "Array of features to REMOVE from automated source",
+      "unlock_methods": "Array of unlock type strings. Valid values: 'purchase', 'trade_price', 'lucky_wheel', 'returning_player', 'prime_gaming', 'completion_reward', 'research_unlock', 'cannot_acquire', 'expired'",
+      "unlock_condition_note": "String \u2014 human-readable explanation of unlock condition for display",
+      "use_case": "Array of use case tags. Valid values: 'racing', 'combat', 'off-road', 'transport', 'utility', 'collector'. Vehicles can have multiple tags.",
+      "racing_tier": "String or null. Broughy1322's 8-tier system: 'S', 'A', 'B', 'C', 'D', 'E', 'F', 'G', or null. S=best in class/race-meta, descending through G=slowest, null=not a racing vehicle.",
+      "racing_lap_time": "Float or null \u2014 tested lap time in seconds (source: Broughy1322). null if not applicable."
+    },
+    "_example": {
+      "Nightshark": {
+        "_added": "2026-04-08",
+        "_reason": "GTABase missing Missile Lock-On Jammer feature",
+        "_source_issue": "GTABase",
+        "features_add": [
+          "Missile Lock-On Jammer"
+        ],
+        "use_case": [
+          "combat"
+        ],
+        "racing_tier": null,
+        "racing_lap_time": null
+      },
+      "Ocelot Pariah": {
+        "_added": "2026-04-08",
+        "_reason": "Adding use_case and racing data not present in automated sources",
+        "_source_issue": "DurtyFree",
+        "use_case": [
+          "racing"
+        ],
+        "racing_tier": "S",
+        "racing_lap_time": 59.234
+      },
+      "Oppressor Mk II": {
+        "_added": "2026-04-08",
+        "_reason": "Adding use_case and unlock method detail",
+        "_source_issue": "DurtyFree",
+        "use_case": [
+          "combat",
+          "utility"
+        ],
+        "unlock_methods": [
+          "purchase",
+          "trade_price"
+        ],
+        "unlock_condition_note": "Trade price unlocked via Nightclub Terrorbyte research",
+        "racing_tier": null,
+        "racing_lap_time": null
+      }
+    }
   },
   "Buffalo STX Pursuit": {
     "price": 5370000,
@@ -1291,7 +1356,7 @@
   "Infernus Classic": {
     "price": 915000
   },
-  "Fränken Stange": {
+  "Fr\u00e4nken Stange": {
     "price": 550000
   },
   "Coquette Classic": {
@@ -2325,14 +2390,14 @@
     "price": 299000
   },
   "Walton L35 Stock": {
-    "_note": "GTABase lists as \"Walton L35 (Stock)\" — name normalized to match DurtyFree",
+    "_note": "GTABase lists as \"Walton L35 (Stock)\" \u2014 name normalized to match DurtyFree",
     "stores": [
       "Southern San Andreas Super Autos"
     ],
     "price": 1303700
   },
   "Daemon Custom": {
-    "_note": "GTABase lists as \"Daemon (Custom)\" — name normalized to match DurtyFree",
+    "_note": "GTABase lists as \"Daemon (Custom)\" \u2014 name normalized to match DurtyFree",
     "price": 145000
   },
   "Buzzard": {
@@ -2340,7 +2405,7 @@
       "Warstock Cache & Carry"
     ],
     "price": 1750000,
-    "_note": "Buzzard Attack Chopper variant — base Buzzard is a CEO perk vehicle, not purchasable"
+    "_note": "Buzzard Attack Chopper variant \u2014 base Buzzard is a CEO perk vehicle, not purchasable"
   },
   "Valkyrie MOD.0": {
     "stores": [
