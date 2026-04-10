@@ -1,140 +1,99 @@
 /**
  * broughy-sync.ts
  *
- * Fetches Broughy1322 racing data from gtaboom.com/vehicles/racing-analytics
- * and writes broughy-data.json to the repo root.
+ * Fetches GTABoom racing analytics page, extracts Broughy1322 vehicle data
+ * from the embedded Next.js RSC payload, and writes broughy-data.json.
  *
- * The page is Next.js SSR — vehicle data is embedded in self.__next_f.push()
- * script tags as escaped JSON objects with fields:
- *   display_name, base_model_name, vehicle_class_label,
- *   tested_lap_time_seconds, tested_top_speed_mph,
- *   tested_race_tier, tested_class_rank, tested_overall_rank
+ * Usage: bun broughy-sync.ts
  */
 
+const URL = "https://www.gtaboom.com/vehicles/racing-analytics";
+const OUTPUT = import.meta.dir + "/broughy-data.json";
+
 interface BroughyVehicle {
-  name: string;           // display_name without manufacturer prefix
-  manufacturer: string;   // first word(s) before the model name
-  displayName: string;    // full display_name as on GTABoom
-  internalName: string;   // base_model_name
-  vehicleClass: string;   // vehicle_class_label
+  name: string;           // display name with manufacturer prefix (e.g. "Benefactor BR8")
+  manufacturer: string;   // extracted from display name
+  vehicleClass: string;   // e.g. "Open Wheel", "Super"
+  lapTime: string | null; // "M:SS.mmm" format, null if not tested
   lapTimeSeconds: number | null;
-  lapTime: string | null; // formatted "M:SS.mmm"
-  topSpeedMph: number | null;
-  tier: string | null;    // Broughy tier: S–G or null
+  topSpeed: number | null; // mph
+  tier: string | null;    // S/A/B/C/D/E/F/G or null
   classRank: number | null;
   overallRank: number | null;
 }
 
-// Known manufacturer prefixes (longest-match first)
-const MANUFACTURERS = [
-  "Albany", "Annis", "Benefactor", "BF", "Bollokan", "Bravado", "Brute",
-  "Buckingham", "Canis", "Chariot", "Cheval", "Classique", "Coil", "Declasse",
-  "Dewbauchee", "Dinka", "Dundreary", "Enus", "Fathom", "Gallivanter",
-  "Grotti", "HVY", "Hijak", "Imponte", "Invetero", "Jobuilt", "Karin",
-  "Lampadati", "LCC", "Mammoth", "Maibatsu", "MTL", "Nagasaki", "Obey",
-  "Ocelot", "Overflod", "Pegen", "Pegassi", "Pfister", "Principle",
-  "Progen", "Schyster", "Shitzu", "Speedophile", "Stanley", "Stelle",
-  "Truffade", "Ubermacht", "Übelharst", "Vapid", "Vulcar", "Weeny",
-  "Western", "Willard", "Zirconium",
-];
+// Known manufacturer prefixes — used to split "Manufacturer Model" display names.
+const KNOWN_MANUFACTURERS = new Set([
+  "Albany", "Annis", "Benefactor", "BF", "Bravado", "Brute", "Buckingham",
+  "Canis", "Chariot", "Cheval", "Declasse", "Dewbauchee", "Dinka", "Dundreary",
+  "Emperor", "Enus", "Fathom", "Gallivanter", "Grotti", "HVY", "Hijak",
+  "Imponte", "Invetero", "Jobuilt", "Karin", "Lampadati", "LCC", "Maibatsu",
+  "Mammoth", "Maxwell", "MTL", "Nagasaki", "Obey", "Ocelot", "Overflod",
+  "Pegassi", "Pfister", "Principe", "Rockstar", "Schyster",
+  "Shitzu", "Stanley", "Truffade", "Ubermacht", "Vapid",
+  "Vulcar", "Weeny", "Western", "Willard", "Zirconium",
+]);
 
-function splitManufacturer(displayName: string): { manufacturer: string; name: string } {
-  for (const mfr of MANUFACTURERS) {
-    if (displayName.startsWith(mfr + " ")) {
-      return { manufacturer: mfr, name: displayName.slice(mfr.length + 1) };
-    }
+function splitManufacturer(displayName: string): { manufacturer: string; model: string } {
+  const parts = displayName.split(" ");
+  if (parts.length > 1 && KNOWN_MANUFACTURERS.has(parts[0])) {
+    return { manufacturer: parts[0], model: parts.slice(1).join(" ") };
   }
-  return { manufacturer: "", name: displayName };
+  return { manufacturer: "", model: displayName };
 }
 
-function formatLapTime(seconds: number): string {
+function secondsToLapTime(seconds: number): string {
   const m = Math.floor(seconds / 60);
-  const s = seconds % 60;
-  return `${m}:${s.toFixed(3).padStart(6, "0")}`;
+  const s = (seconds % 60).toFixed(3).padStart(6, "0");
+  return `${m}:${s}`;
 }
 
-async function fetchBroughyData(): Promise<void> {
-  console.log("Fetching GTABoom racing analytics...");
-  const res = await fetch("https://www.gtaboom.com/vehicles/racing-analytics", {
+async function sync() {
+  console.log(`Fetching ${URL}...`);
+  const resp = await fetch(URL, {
     headers: { "User-Agent": "Mozilla/5.0 (compatible; gta-car-checklist/1.0)" },
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const html = await res.text();
-  console.log(`  Page size: ${(html.length / 1024).toFixed(0)}KB`);
+  if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+  const html = await resp.text();
+  console.log(`  Got ${Math.round(html.length / 1024)}KB`);
 
-  // Extract all self.__next_f.push([1,"..."]) payloads
-  const pushRe = /self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/g;
-  let match: RegExpExecArray | null;
-  const chunks: string[] = [];
-  while ((match = pushRe.exec(html)) !== null) {
-    // Unescape the JSON string value
-    try {
-      chunks.push(JSON.parse(`"${match[1]}"`));
-    } catch {
-      chunks.push(match[1]);
-    }
-  }
-  const payload = chunks.join("");
-  console.log(`  RSC chunks: ${chunks.length}, combined length: ${(payload.length / 1024).toFixed(0)}KB`);
+  // Vehicle data is embedded in self.__next_f.push() RSC chunks as double-escaped JSON.
+  // Each vehicle object matches: {\"point_id\":\"...\", ...}
+  const rawObjects = html.match(/\{\\"point_id\\":[^]*?\}/g) ?? [];
+  console.log(`  Found ${rawObjects.length} raw vehicle objects`);
 
-  // Extract vehicle point objects — match on "point_id" anchor
-  const vehicleRe = /\{"point_id":"[^"]+","base_model_name":"([^"]+)","state_type":"base"[^}]*"display_name":"([^"]+)"[^}]*"vehicle_class_label":"([^"]+)"[^}]*"tested_lap_time_seconds":([\d.]+|null)[^}]*"tested_race_tier":"?([^",}]*)"?[^}]*"tested_class_rank":([\d]+|null)[^}]*"tested_overall_rank":([\d]+|null)[^}]*"tested_top_speed_mph":([\d.]+|null)/g;
-
-  // Simpler approach: find all objects containing tested_lap_time_seconds
   const vehicles: BroughyVehicle[] = [];
-  const seen = new Set<string>();
+  let skipped = 0;
 
-  // Parse by finding point objects in the payload
-  const pointRe = /"point_id":"([^"]+)"/g;
-  let pm: RegExpExecArray | null;
-
-  while ((pm = pointRe.exec(payload)) !== null) {
-    // Only process base state entries
-    const pointId = pm[1];
-    if (!pointId.startsWith("base:")) continue;
-
-    // Extract the object slice starting at this point_id
-    const start = payload.lastIndexOf("{", pm.index);
-    if (start === -1) continue;
-
-    // Find matching closing brace
-    let depth = 0;
-    let end = start;
-    for (let i = start; i < Math.min(start + 2000, payload.length); i++) {
-      if (payload[i] === "{") depth++;
-      else if (payload[i] === "}") {
-        depth--;
-        if (depth === 0) { end = i + 1; break; }
-      }
-    }
-
-    const objStr = payload.slice(start, end);
+  for (const raw of rawObjects) {
     let obj: Record<string, unknown>;
     try {
-      obj = JSON.parse(objStr);
+      obj = JSON.parse(raw.replace(/\\"/g, '"'));
     } catch {
+      skipped++;
       continue;
     }
 
     const displayName = obj.display_name as string;
-    if (!displayName || seen.has(displayName)) continue;
-    seen.add(displayName);
+    if (!displayName) { skipped++; continue; }
 
-    const { manufacturer, name } = splitManufacturer(displayName);
-    const lapSec = obj.tested_lap_time_seconds != null ? Number(obj.tested_lap_time_seconds) : null;
+    // Only include "base" state entries to avoid duplicates (upgrades, variants)
+    if ((obj.state_type as string) !== "base") continue;
+
+    const { manufacturer } = splitManufacturer(displayName);
+    const lapSecs = (obj.tested_lap_time_seconds as number | null) ?? null;
+    const tier = (obj.tested_race_tier as string | null) ?? null;
 
     vehicles.push({
-      name,
+      name: displayName,
       manufacturer,
-      displayName,
-      internalName: obj.base_model_name as string,
       vehicleClass: (obj.vehicle_class_label as string) ?? "",
-      lapTimeSeconds: lapSec,
-      lapTime: lapSec != null ? formatLapTime(lapSec) : null,
-      topSpeedMph: obj.tested_top_speed_mph != null ? Number(obj.tested_top_speed_mph) : null,
-      tier: (obj.tested_race_tier as string | null) ?? null,
-      classRank: obj.tested_class_rank != null ? Number(obj.tested_class_rank) : null,
-      overallRank: obj.tested_overall_rank != null ? Number(obj.tested_overall_rank) : null,
+      lapTime: lapSecs != null ? secondsToLapTime(lapSecs) : null,
+      lapTimeSeconds: lapSecs,
+      topSpeed: (obj.tested_top_speed_mph as number | null) ?? null,
+      tier: tier === "—" ? null : tier,
+      classRank: (obj.tested_class_rank as number | null) ?? null,
+      overallRank: (obj.tested_overall_rank as number | null) ?? null,
     });
   }
 
@@ -146,19 +105,20 @@ async function fetchBroughyData(): Promise<void> {
     return a.overallRank - b.overallRank;
   });
 
-  console.log(`  Extracted: ${vehicles.length} vehicles`);
+  console.log(`\nBroughy data:`);
+  console.log(`  Total vehicles: ${vehicles.length}`);
+  console.log(`  With lap time: ${vehicles.filter(v => v.lapTimeSeconds != null).length}`);
+  console.log(`  With tier: ${vehicles.filter(v => v.tier != null).length}`);
+  console.log(`  Skipped (parse errors): ${skipped}`);
 
-  // Sample output
-  const tiered = vehicles.filter(v => v.tier && v.tier !== "—");
-  console.log(`  With tier: ${tiered.length}`);
-  console.log(`  Sample S-tier: ${tiered.filter(v => v.tier === "S").slice(0, 3).map(v => v.displayName).join(", ")}`);
+  const samples = vehicles.filter(v => v.lapTimeSeconds != null).slice(0, 3);
+  console.log(`\nSample (fastest 3 with lap times):`);
+  for (const v of samples) {
+    console.log(`  ${v.name}: ${v.lapTime} | ${v.topSpeed}mph | Tier ${v.tier} | Class rank #${v.classRank}`);
+  }
 
-  const outPath = import.meta.dir + "/broughy-data.json";
-  await Bun.write(outPath, JSON.stringify(vehicles, null, 2));
-  console.log(`  Written to: ${outPath}`);
+  await Bun.write(OUTPUT, JSON.stringify(vehicles, null, 2));
+  console.log(`\nWritten to: ${OUTPUT}`);
 }
 
-fetchBroughyData().catch(err => {
-  console.error("Error:", err);
-  process.exit(1);
-});
+sync().catch(console.error);
